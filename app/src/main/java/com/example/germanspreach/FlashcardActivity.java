@@ -1,22 +1,15 @@
 package com.example.germanspreach;
 
-import android.animation.AnimatorInflater;
-import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Handler;
 import android.speech.tts.TextToSpeech;
-import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
-import android.widget.LinearLayout;
 import android.widget.ProgressBar;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import com.example.germanspreach.data.PhraseProvider;
 import com.example.germanspreach.models.PhraseItem;
@@ -31,26 +24,25 @@ import java.util.Set;
 public class FlashcardActivity extends AppCompatActivity {
 
     public static final String EXTRA_TOPIC = "topic";
-    public static final String EXTRA_STUDY_MODE = "study_mode";
 
     private String topicName;
-    private boolean studyMode;
     private List<PhraseItem> cards;
     private int cardIndex = 0;
     private boolean isFlipped = false;
-    private boolean isSwiping = false;
+    private boolean isAnimating = false;
 
     private TextToSpeech tts;
+    private boolean ttsReady = false;
     private SharedPreferences prefs;
     private Set<String> learnedWords;
 
-    // Views - Card
+    // Card views
     private View cardFront, cardBack;
     private View cardContainer;
     private TextView tvWordDe, tvWordDeBack, tvWordUk;
     private TextView tvSoundIcon;
 
-    // Views - UI
+    // UI
     private TextView tvTopicTitle, tvCardCount;
     private ProgressBar pbFlashcard;
     private TextView overlayLeft, overlayRight;
@@ -62,13 +54,12 @@ public class FlashcardActivity extends AppCompatActivity {
     private TextView btnBackTopics, btnRepeatUnknown;
     private TextView btnBack;
 
-    private GestureDetector gestureDetector;
     private Handler handler = new Handler();
 
-    // Swipe tracking
-    private float startX, startY;
-    private static final int SWIPE_THRESHOLD = 120;
-    private static final int SWIPE_VELOCITY_THRESHOLD = 100;
+    // Swipe state
+    private float startX;
+    private boolean isSwiping = false;
+    private static final int SWIPE_THRESHOLD = 100;
     private int totalCardsInTopic = 0;
 
     @Override
@@ -77,8 +68,6 @@ public class FlashcardActivity extends AppCompatActivity {
         setContentView(R.layout.activity_flashcard);
 
         topicName = getIntent().getStringExtra(EXTRA_TOPIC);
-        studyMode = getIntent().getBooleanExtra(EXTRA_STUDY_MODE, false);
-
         prefs = getSharedPreferences("GermanLearen", MODE_PRIVATE);
         learnedWords = new HashSet<>(prefs.getStringSet("learned_words", new HashSet<>()));
 
@@ -90,7 +79,6 @@ public class FlashcardActivity extends AppCompatActivity {
     private void initViews() {
         flashcardContent = findViewById(R.id.flashcard_content);
         completionView = findViewById(R.id.completion_view);
-
         cardContainer = findViewById(R.id.card_container);
         cardFront = findViewById(R.id.card_front);
         cardBack = findViewById(R.id.card_back);
@@ -98,13 +86,11 @@ public class FlashcardActivity extends AppCompatActivity {
         tvWordDeBack = findViewById(R.id.tv_word_de_back);
         tvWordUk = findViewById(R.id.tv_word_uk);
         tvSoundIcon = findViewById(R.id.tv_sound_icon);
-
         tvTopicTitle = findViewById(R.id.tv_topic_title);
         tvCardCount = findViewById(R.id.tv_card_count);
         pbFlashcard = findViewById(R.id.pb_flashcard);
         overlayLeft = findViewById(R.id.overlay_left);
         overlayRight = findViewById(R.id.overlay_right);
-
         tvCompletionTopic = findViewById(R.id.tv_completion_topic);
         tvCompletionPct = findViewById(R.id.tv_completion_pct);
         tvCompletionCount = findViewById(R.id.tv_completion_count);
@@ -114,273 +100,265 @@ public class FlashcardActivity extends AppCompatActivity {
 
         tvTopicTitle.setText(topicName);
 
-        btnBack.setOnClickListener(v -> finish());
-        tvSoundIcon.setOnClickListener(v -> speakCurrentWord());
+        // Setup camera distance to prevent clipping during 3D flip
+        float distance = 8000 * getResources().getDisplayMetrics().density;
+        cardFront.setCameraDistance(distance);
+        cardBack.setCameraDistance(distance);
 
-        btnBackTopics.setOnClickListener(v -> finish());
-        btnRepeatUnknown.setOnClickListener(v -> {
-            // Restart with only unknown words
-            loadCardsFromStudyQueue();
-        });
-
-        setupSwipeGesture();
-        setupCardFlip();
-    }
-
-    private void setupCardFlip() {
-        // Enable hardware layer for smooth animation
+        // Hardware layer for smooth animation
         cardFront.setLayerType(View.LAYER_TYPE_HARDWARE, null);
         cardBack.setLayerType(View.LAYER_TYPE_HARDWARE, null);
 
-        cardContainer.setOnClickListener(v -> {
-            if (!isSwiping) {
-                flipCard();
-            }
-        });
+        // Start with back invisible (not GONE - that breaks FrameLayout sizing)
+        cardBack.setVisibility(View.INVISIBLE);
+
+        btnBack.setOnClickListener(v -> finish());
+        tvSoundIcon.setOnClickListener(v -> speakCurrentWord());
+        btnBackTopics.setOnClickListener(v -> finish());
+        btnRepeatUnknown.setOnClickListener(v -> restartWithUnknown());
+
+        setupTouchHandler();
     }
 
-    private void setupSwipeGesture() {
+    private void setupTouchHandler() {
         cardContainer.setOnTouchListener((v, event) -> {
+            if (isAnimating)
+                return true;
+
             switch (event.getAction()) {
                 case MotionEvent.ACTION_DOWN:
                     startX = event.getRawX();
-                    startY = event.getRawY();
                     isSwiping = false;
-                    break;
+                    return true;
 
                 case MotionEvent.ACTION_MOVE:
                     float dx = event.getRawX() - startX;
-                    float dy = event.getRawY() - startY;
-
-                    if (Math.abs(dx) > 10) {
+                    if (Math.abs(dx) > 8) {
                         isSwiping = true;
-                        // Move card
-                        cardContainer.setTranslationX(dx * 0.7f);
-                        cardContainer.setRotation(dx * 0.03f);
-
-                        // Show overlays
+                        cardContainer.setTranslationX(dx * 0.75f);
+                        cardContainer.setRotation(dx * 0.04f);
                         if (dx > 0) {
-                            overlayRight.setAlpha(Math.min(1f, dx / 300f));
+                            overlayRight.setAlpha(Math.min(1f, dx / 250f));
                             overlayLeft.setAlpha(0f);
                         } else {
-                            overlayLeft.setAlpha(Math.min(1f, -dx / 300f));
+                            overlayLeft.setAlpha(Math.min(1f, -dx / 250f));
                             overlayRight.setAlpha(0f);
                         }
                     }
-                    break;
+                    return true;
 
                 case MotionEvent.ACTION_UP:
                     float finalDx = event.getRawX() - startX;
-
-                    if (Math.abs(finalDx) > SWIPE_THRESHOLD && isSwiping) {
-                        if (finalDx > 0) {
-                            swipeRight(); // Know it
-                        } else {
-                            swipeLeft(); // Don't know
-                        }
+                    if (isSwiping && Math.abs(finalDx) > SWIPE_THRESHOLD) {
+                        // Swipe gesture
+                        if (finalDx > 0)
+                            swipeRight();
+                        else
+                            swipeLeft();
+                    } else if (!isSwiping) {
+                        // Tap: flip card
+                        snapBack();
+                        flipCard();
                     } else {
-                        // Snap back
-                        cardContainer.animate()
-                                .translationX(0)
-                                .rotation(0)
-                                .setDuration(200)
-                                .start();
-                        overlayLeft.setAlpha(0f);
-                        overlayRight.setAlpha(0f);
-
-                        if (!isSwiping) {
-                            // It was a click - flip card
-                            flipCard();
-                        }
+                        // Small swipe, snap back
+                        snapBack();
                     }
                     isSwiping = false;
-                    break;
+                    return true;
+
+                case MotionEvent.ACTION_CANCEL:
+                    snapBack();
+                    isSwiping = false;
+                    return true;
             }
-            return true;
+            return false;
         });
     }
 
-    private void loadCards() {
-        Map<String, List<PhraseItem>> allData = PhraseProvider.getPhrasesByTopic(this);
-        List<PhraseItem> allTopicCards = allData.get(topicName);
-        totalCardsInTopic = allTopicCards != null ? allTopicCards.size() : 0;
-
-        cards = new ArrayList<>();
-        if (allTopicCards != null) {
-            for (PhraseItem item : allTopicCards) {
-                if (!learnedWords.contains(item.getWordDe())) {
-                    cards.add(item);
-                }
-            }
-        }
-
-        if (cards.isEmpty()) {
-            showCompletionScreen();
-            return;
-        }
-
-        cardIndex = 0;
-        showCard(cardIndex);
-    }
-
-    private void loadCardsFromStudyQueue() {
-        // Reload only non-learned words
-        loadCards();
-        completionView.setVisibility(View.GONE);
-        flashcardContent.setVisibility(View.VISIBLE);
-    }
-
-    private void showCard(int index) {
-        if (index >= cards.size()) {
-            showCompletionScreen();
-            return;
-        }
-
-        PhraseItem item = cards.get(index);
-        isFlipped = false;
-
-        // Reset card to front
-        cardFront.setVisibility(View.VISIBLE);
-        cardBack.setVisibility(View.GONE);
-        cardFront.setAlpha(1f);
-        cardBack.setAlpha(0f);
-
-        // Reset position
-        cardContainer.setTranslationX(0);
-        cardContainer.setRotation(0);
+    private void snapBack() {
+        cardContainer.animate()
+                .translationX(0).rotation(0).setDuration(200).start();
         overlayLeft.setAlpha(0f);
         overlayRight.setAlpha(0f);
-
-        // Set content
-        tvWordDe.setText(item.getWordDe());
-        tvWordDeBack.setText(item.getWordDe());
-        tvWordUk.setText(item.getWordUk());
-
-        // Update progress
-        int shown = index + 1;
-        int total = cards.size();
-        tvCardCount.setText(shown + " / " + total);
-        pbFlashcard.setProgress((shown * 100) / Math.max(total, 1));
-
-        // Auto-speak when card appears
-        handler.postDelayed(this::speakCurrentWord, 400);
     }
 
-    private void speakCurrentWord() {
-        if (tts != null && cardIndex < cards.size()) {
-            tts.setLanguage(Locale.GERMANY);
-            tts.speak(cards.get(cardIndex).getWordDe(), TextToSpeech.QUEUE_FLUSH, null, "word");
-        }
-    }
-
+    // ──────────────────────────────────────────────
+    // FLIP ANIMATION
+    // ──────────────────────────────────────────────
     private void flipCard() {
-        if (isFlipped) {
-            // Flip back to front
-            animateFlip(cardBack, cardFront);
-            isFlipped = false;
+        if (isAnimating)
+            return;
+        if (!isFlipped) {
+            flipFrontToBack();
         } else {
-            // Flip to back
-            animateFlip(cardFront, cardBack);
-            isFlipped = true;
+            flipBackToFront();
         }
+        isFlipped = !isFlipped;
     }
 
-    private void animateFlip(View fromView, View toView) {
-        final float scaleX = getResources().getDisplayMetrics().widthPixels;
-
-        // Out anim
-        ObjectAnimator flipOut = ObjectAnimator.ofFloat(fromView, "rotationY", 0f, 90f);
-        flipOut.setDuration(180);
-        flipOut.setInterpolator(new AccelerateDecelerateInterpolator());
-
-        flipOut.addListener(new android.animation.AnimatorListenerAdapter() {
+    private void flipFrontToBack() {
+        isAnimating = true;
+        // Phase 1: rotate front OUT (0 → 90)
+        ObjectAnimator outAnim = ObjectAnimator.ofFloat(cardFront, "rotationY", 0f, 90f);
+        outAnim.setDuration(200);
+        outAnim.setInterpolator(new AccelerateDecelerateInterpolator());
+        outAnim.addListener(new android.animation.AnimatorListenerAdapter() {
             @Override
-            public void onAnimationEnd(android.animation.Animator animation) {
-                fromView.setVisibility(View.GONE);
-                toView.setVisibility(View.VISIBLE);
-                toView.setRotationY(-90f);
-
-                // In anim
-                ObjectAnimator flipIn = ObjectAnimator.ofFloat(toView, "rotationY", -90f, 0f);
-                flipIn.setDuration(180);
-                flipIn.setInterpolator(new AccelerateDecelerateInterpolator());
-                flipIn.start();
+            public void onAnimationEnd(android.animation.Animator anim) {
+                cardFront.setVisibility(View.INVISIBLE);
+                cardFront.setRotationY(0f);
+                cardBack.setVisibility(View.VISIBLE);
+                cardBack.setRotationY(-90f);
+                // Phase 2: rotate back IN (-90 → 0)
+                ObjectAnimator inAnim = ObjectAnimator.ofFloat(cardBack, "rotationY", -90f, 0f);
+                inAnim.setDuration(200);
+                inAnim.setInterpolator(new AccelerateDecelerateInterpolator());
+                inAnim.addListener(new android.animation.AnimatorListenerAdapter() {
+                    @Override
+                    public void onAnimationEnd(android.animation.Animator a) {
+                        isAnimating = false;
+                    }
+                });
+                inAnim.start();
             }
         });
-        flipOut.start();
+        outAnim.start();
     }
 
+    private void flipBackToFront() {
+        isAnimating = true;
+        // Phase 1: rotate back OUT (0 → 90)
+        ObjectAnimator outAnim = ObjectAnimator.ofFloat(cardBack, "rotationY", 0f, 90f);
+        outAnim.setDuration(200);
+        outAnim.setInterpolator(new AccelerateDecelerateInterpolator());
+        outAnim.addListener(new android.animation.AnimatorListenerAdapter() {
+            @Override
+            public void onAnimationEnd(android.animation.Animator anim) {
+                cardBack.setVisibility(View.INVISIBLE);
+                cardBack.setRotationY(0f);
+                cardFront.setVisibility(View.VISIBLE);
+                cardFront.setRotationY(-90f);
+                // Phase 2: rotate front IN (-90 → 0)
+                ObjectAnimator inAnim = ObjectAnimator.ofFloat(cardFront, "rotationY", -90f, 0f);
+                inAnim.setDuration(200);
+                inAnim.setInterpolator(new AccelerateDecelerateInterpolator());
+                inAnim.addListener(new android.animation.AnimatorListenerAdapter() {
+                    @Override
+                    public void onAnimationEnd(android.animation.Animator a) {
+                        isAnimating = false;
+                    }
+                });
+                inAnim.start();
+            }
+        });
+        outAnim.start();
+    }
+
+    // ──────────────────────────────────────────────
+    // SWIPE
+    // ──────────────────────────────────────────────
     private void swipeRight() {
-        // User knows this word → mark as learned
         PhraseItem item = cards.get(cardIndex);
         learnedWords.add(item.getWordDe());
         prefs.edit().putStringSet("learned_words", learnedWords).apply();
-
         animateSwipeOut(true);
     }
 
     private void swipeLeft() {
-        // User doesn't know → add to study queue for this topic
         PhraseItem item = cards.get(cardIndex);
         String studyKey = "study_" + topicName;
         Set<String> studyQueue = new HashSet<>(prefs.getStringSet(studyKey, new HashSet<>()));
         studyQueue.add(item.getWordDe());
         prefs.edit().putStringSet(studyKey, studyQueue).apply();
-
         animateSwipeOut(false);
     }
 
-    private void animateSwipeOut(boolean toRight) {
-        float targetX = toRight ? 2000f : -2000f;
-
+    private void animateSwipeOut(boolean right) {
+        isAnimating = true;
+        float targetX = right ? 1600f : -1600f;
         cardContainer.animate()
                 .translationX(targetX)
-                .rotation(toRight ? 30f : -30f)
+                .rotation(right ? 25f : -25f)
                 .alpha(0f)
-                .setDuration(300)
+                .setDuration(280)
                 .withEndAction(() -> {
                     cardContainer.setAlpha(1f);
                     overlayLeft.setAlpha(0f);
                     overlayRight.setAlpha(0f);
+                    isAnimating = false;
                     cardIndex++;
-                    if (cardIndex < cards.size()) {
+                    if (cardIndex < cards.size())
                         showCard(cardIndex);
-                    } else {
+                    else
                         showCompletionScreen();
-                    }
                 })
                 .start();
     }
 
-    private void showCompletionScreen() {
-        flashcardContent.setVisibility(View.GONE);
-        completionView.setVisibility(View.VISIBLE);
-
-        // Calculate progress
-        int learnedInTopic = 0;
+    // ──────────────────────────────────────────────
+    // CARD DATA
+    // ──────────────────────────────────────────────
+    private void loadCards() {
         Map<String, List<PhraseItem>> allData = PhraseProvider.getPhrasesByTopic(this);
-        List<PhraseItem> allTopicCards = allData.get(topicName);
-        if (allTopicCards != null) {
-            for (PhraseItem item : allTopicCards) {
-                if (learnedWords.contains(item.getWordDe()))
-                    learnedInTopic++;
+        List<PhraseItem> all = allData.get(topicName);
+        totalCardsInTopic = all != null ? all.size() : 0;
+        cards = new ArrayList<>();
+        if (all != null) {
+            for (PhraseItem item : all) {
+                if (!learnedWords.contains(item.getWordDe()))
+                    cards.add(item);
             }
-            totalCardsInTopic = allTopicCards.size();
         }
+        if (cards.isEmpty()) {
+            showCompletionScreen();
+            return;
+        }
+        cardIndex = 0;
+        showCard(0);
+    }
 
-        int pct = totalCardsInTopic > 0 ? (learnedInTopic * 100) / totalCardsInTopic : 100;
+    private void showCard(int index) {
+        PhraseItem item = cards.get(index);
+        isFlipped = false;
+        isAnimating = false;
 
-        tvCompletionTopic.setText(topicName);
-        tvCompletionPct.setText(pct + "%");
-        tvCompletionCount.setText(learnedInTopic + " з " + totalCardsInTopic + " слів вивчено");
+        // Reset card state
+        cardFront.setVisibility(View.VISIBLE);
+        cardFront.setRotationY(0f);
+        cardBack.setVisibility(View.INVISIBLE);
+        cardBack.setRotationY(0f);
+        cardContainer.setTranslationX(0);
+        cardContainer.setRotation(0);
+        cardContainer.setAlpha(1f);
+        overlayLeft.setAlpha(0f);
+        overlayRight.setAlpha(0f);
 
-        // Check if there are unknown words to repeat
-        String studyKey = "study_" + topicName;
-        Set<String> studyQueue = prefs.getStringSet(studyKey, new HashSet<>());
-        if (studyQueue.isEmpty() || cards.isEmpty()) {
-            btnRepeatUnknown.setVisibility(View.GONE);
-        } else {
-            btnRepeatUnknown.setVisibility(View.VISIBLE);
+        tvWordDe.setText(item.getWordDe());
+        tvWordDeBack.setText(item.getWordDe());
+        tvWordUk.setText(item.getWordUk());
+
+        int shown = index + 1;
+        int total = cards.size();
+        tvCardCount.setText(shown + " / " + total);
+        pbFlashcard.setProgress((shown * 100) / Math.max(total, 1));
+
+        handler.postDelayed(this::speakCurrentWord, 500);
+    }
+
+    private void restartWithUnknown() {
+        learnedWords = new HashSet<>(prefs.getStringSet("learned_words", new HashSet<>()));
+        completionView.setVisibility(View.GONE);
+        flashcardContent.setVisibility(View.VISIBLE);
+        loadCards();
+    }
+
+    // ──────────────────────────────────────────────
+    // TTS
+    // ──────────────────────────────────────────────
+    private void speakCurrentWord() {
+        if (tts != null && ttsReady && cardIndex < cards.size()) {
+            tts.setLanguage(Locale.GERMANY);
+            tts.speak(cards.get(cardIndex).getWordDe(), TextToSpeech.QUEUE_FLUSH, null, "w");
         }
     }
 
@@ -388,8 +366,36 @@ public class FlashcardActivity extends AppCompatActivity {
         tts = new TextToSpeech(this, status -> {
             if (status == TextToSpeech.SUCCESS) {
                 tts.setLanguage(Locale.GERMANY);
+                ttsReady = true;
             }
         });
+    }
+
+    // ──────────────────────────────────────────────
+    // COMPLETION
+    // ──────────────────────────────────────────────
+    private void showCompletionScreen() {
+        flashcardContent.setVisibility(View.GONE);
+        completionView.setVisibility(View.VISIBLE);
+
+        int learnedInTopic = 0;
+        Map<String, List<PhraseItem>> allData = PhraseProvider.getPhrasesByTopic(this);
+        List<PhraseItem> allTopicCards = allData.get(topicName);
+        if (allTopicCards != null) {
+            totalCardsInTopic = allTopicCards.size();
+            for (PhraseItem item : allTopicCards) {
+                if (learnedWords.contains(item.getWordDe()))
+                    learnedInTopic++;
+            }
+        }
+        int pct = totalCardsInTopic > 0 ? (learnedInTopic * 100) / totalCardsInTopic : 100;
+
+        tvCompletionTopic.setText(topicName);
+        tvCompletionPct.setText(pct + "%");
+        tvCompletionCount.setText(learnedInTopic + " з " + totalCardsInTopic + " слів вивчено");
+
+        Set<String> studyQueue = prefs.getStringSet("study_" + topicName, new HashSet<>());
+        btnRepeatUnknown.setVisibility(studyQueue.isEmpty() ? View.GONE : View.VISIBLE);
     }
 
     @Override

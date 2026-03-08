@@ -156,7 +156,7 @@
                 android:background="@drawable/card_back_bg"
                 android:gravity="center"
                 android:padding="32dp"
-                android:visibility="gone">
+                android:visibility="invisible">
 
                 <TextView
                     android:id="@+id/tv_word_de_back"
@@ -180,15 +180,6 @@
                     android:textColor="@color/text_main"
                     android:textSize="38sp"
                     android:textStyle="bold"
-                    android:gravity="center"
-                    android:layout_marginBottom="20dp"/>
-
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Свайп → знаю  |  Свайп ← не знаю"
-                    android:textColor="@color/text_muted"
-                    android:textSize="13sp"
                     android:gravity="center"/>
             </LinearLayout>
         </FrameLayout>

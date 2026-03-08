@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+    <!-- Top bar: back + counter -->
+    <LinearLayout
+        android:id="@+id/top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:paddingTop="48dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:id="@+id/tv_listen_title"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="ВИВЧЕННЯ СЛОВА"
+                android:textAllCaps="true"
+                android:textColor="@color/primary"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_listen_counter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_muted"
+                android:textSize="14sp"
+                android:padding="8dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Card Container (Visually identical to flashcard) -->
+        <FrameLayout
+            android:id="@+id/card_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bottom_bar"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:paddingTop="110dp"
+            android:paddingBottom="24dp">
+
+            <!-- FRONT of card -->
+            <LinearLayout
+                android:id="@+id/card_front"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/card_front_bg"
+                android:gravity="center"
+                android:padding="32dp">
+
+                <TextView
+                    android:id="@+id/tv_sound_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔊"
+                    android:textSize="32sp"
+                    android:layout_marginBottom="24dp"
+                    android:padding="12dp"
+                    android:background="@drawable/btn_glass"/>
+
+                <TextView
+                    android:id="@+id/tv_listen_word_de"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_main"
+                    android:textSize="42sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginBottom="12dp"
+                    android:text="Schwer" />
+
+                <TextView
+                    android:id="@+id/tv_listen_translation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_muted"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    android:layout_marginBottom="24dp"
+                    android:text="Важкий / Складний"/>
+
+                <TextView
+                    android:id="@+id/tv_listen_phrase_de"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:layout_marginBottom="16dp"
+                    android:text="Das ist schwer." />
+
+                <TextView
+                    android:id="@+id/tv_listen_phrase_uk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_muted"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:text="Це важко."/>
+
+                <TextView
+                    android:id="@+id/tv_listen_status"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/primary"
+                    android:textSize="14sp"
+                    android:gravity="center"
+                    android:layout_marginTop="32dp"
+                    android:visibility="gone"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <!-- Bottom Buttons Row (No Swipe) -->
+        <LinearLayout
+            android:id="@+id/bottom_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:weightSum="3"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp">
+
+            <TextView
+                android:id="@+id/btn_back"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="НАЗАД"
+                android:textColor="@color/text_main"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/btn_listen_back"/>
+
+            <TextView
+                android:id="@+id/btn_listen_play_pause"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="ПАУЗА"
+                android:textColor="@color/text_main"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginEnd="8dp"
+                android:background="@drawable/btn_listen_pause"/>
+
+            <TextView
+                android:id="@+id/btn_mark_learned"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:text="ВІДМІТИТИ"
+                android:textColor="#000000"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:background="@drawable/btn_listen_mark"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+</FrameLayout>

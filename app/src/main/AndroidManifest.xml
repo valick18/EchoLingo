@@ -22,6 +22,8 @@
         <activity android:name=".FlashcardActivity" android:exported="false"/>
         <activity android:name=".LearnedActivity" android:exported="false"/>
         <activity android:name=".StudyActivity" android:exported="false"/>
+        <activity android:name=".ListenModeActivity" android:exported="false"/>
+        <activity android:name=".SettingsActivity" android:exported="false"/>
 
     </application>
 

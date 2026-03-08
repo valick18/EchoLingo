@@ -3,6 +3,8 @@ package com.example.germanspreach;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.os.Handler;
+import android.speech.tts.TextToSpeech;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
@@ -11,8 +13,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.germanspreach.data.PhraseProvider;
 import com.example.germanspreach.models.PhraseItem;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -20,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     private LinearLayout topicsList;
     private TextView tvTotalLearned;
-    private TextView btnViewLearned, btnNavStudy, btnNavLearned;
+    private TextView btnViewLearned, btnNavLearned;
     private SharedPreferences prefs;
     private Set<String> learnedWords;
     private Map<String, List<PhraseItem>> phraseData;
@@ -33,34 +38,26 @@ public class MainActivity extends AppCompatActivity {
         prefs = getSharedPreferences("GermanLearen", MODE_PRIVATE);
         phraseData = PhraseProvider.getPhrasesByTopic(this);
 
-        initViews();
+        topicsList = findViewById(R.id.topics_list);
+        tvTotalLearned = findViewById(R.id.tv_total_learned);
+        btnViewLearned = findViewById(R.id.btn_view_learned);
+        btnNavLearned = findViewById(R.id.btn_nav_learned);
+        TextView btnSettings = findViewById(R.id.btn_settings);
+
+        btnViewLearned.setOnClickListener(v -> startActivity(new Intent(this, LearnedActivity.class)));
+
+        // "🎧 Слухати" → plays study queue words with phrases (words swiped left)
+        btnNavLearned.setOnClickListener(v -> startActivity(new Intent(this, ListenModeActivity.class)));
+
+        btnSettings.setOnClickListener(v -> startActivity(new Intent(this, SettingsActivity.class)));
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        // Refresh after returning from flashcard
         learnedWords = new HashSet<>(prefs.getStringSet("learned_words", new HashSet<>()));
-        renderTopics();
-        updateHeader();
-    }
-
-    private void initViews() {
-        topicsList = findViewById(R.id.topics_list);
-        tvTotalLearned = findViewById(R.id.tv_total_learned);
-        btnViewLearned = findViewById(R.id.btn_view_learned);
-        btnNavStudy = findViewById(R.id.btn_nav_study);
-        btnNavLearned = findViewById(R.id.btn_nav_learned);
-
-        btnViewLearned.setOnClickListener(v -> startActivity(new Intent(this, LearnedActivity.class)));
-
-        btnNavLearned.setOnClickListener(v -> startActivity(new Intent(this, LearnedActivity.class)));
-
-        btnNavStudy.setOnClickListener(v -> startActivity(new Intent(this, StudyActivity.class)));
-    }
-
-    private void updateHeader() {
         tvTotalLearned.setText("Вивчено слів: " + learnedWords.size());
+        renderTopics();
     }
 
     private void renderTopics() {
@@ -70,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
             String topic = entry.getKey();
             List<PhraseItem> items = entry.getValue();
 
-            // Inflate topic card
             View card = getLayoutInflater().inflate(R.layout.item_topic, topicsList, false);
 
             TextView tvName = card.findViewById(R.id.tv_topic_name);
@@ -81,7 +77,6 @@ public class MainActivity extends AppCompatActivity {
             tvName.setText(topic);
             tvWordCount.setText(items.size() + " слів");
 
-            // Calculate progress
             int learned = 0;
             for (PhraseItem item : items) {
                 if (learnedWords.contains(item.getWordDe()))
@@ -98,9 +93,17 @@ public class MainActivity extends AppCompatActivity {
             }
             pb.setProgress(pct);
 
+            // Tap card → open flashcard mode
             card.setOnClickListener(v -> {
                 Intent intent = new Intent(this, FlashcardActivity.class);
                 intent.putExtra(FlashcardActivity.EXTRA_TOPIC, topic);
+                startActivity(intent);
+            });
+
+            TextView btnTopicListen = card.findViewById(R.id.btn_topic_listen);
+            btnTopicListen.setOnClickListener(v -> {
+                Intent intent = new Intent(this, ListenModeActivity.class);
+                intent.putExtra("topic_to_listen", topic);
                 startActivity(intent);
             });
 

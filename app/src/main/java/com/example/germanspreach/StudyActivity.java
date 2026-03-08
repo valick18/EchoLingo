@@ -1,33 +1,32 @@
 package com.example.germanspreach;
 
 import android.content.SharedPreferences;
+import android.graphics.Color;
 import android.os.Bundle;
-import android.os.Handler;
-import android.speech.tts.TextToSpeech;
+import android.view.Gravity;
+import android.view.View;
+import android.widget.CheckBox;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.content.ContextCompat;
 import com.example.germanspreach.data.PhraseProvider;
 import com.example.germanspreach.models.PhraseItem;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
 public class StudyActivity extends AppCompatActivity {
 
     private LinearLayout studyContainer;
-    private TextView btnBack, btnListenStudy;
-    private TextToSpeech tts;
-    private Handler handler = new Handler();
-    private List<PhraseItem> studyItems = new ArrayList<>();
-    private boolean isPlaying = false;
-    private int playIndex = 0;
+    private TextView btnBack, btnSave;
     private SharedPreferences prefs;
+    private final List<CheckBox> checkBoxes = new ArrayList<>();
+    private final List<PhraseItem> studyItems = new ArrayList<>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,148 +34,159 @@ public class StudyActivity extends AppCompatActivity {
         setContentView(R.layout.activity_study);
 
         prefs = getSharedPreferences("GermanLearen", MODE_PRIVATE);
-
         studyContainer = findViewById(R.id.study_container);
         btnBack = findViewById(R.id.btn_back);
-        btnListenStudy = findViewById(R.id.btn_listen_study);
+        btnSave = findViewById(R.id.btn_save);
 
         btnBack.setOnClickListener(v -> finish());
-        btnListenStudy.setOnClickListener(v -> togglePlay());
+        btnSave.setOnClickListener(v -> saveChecked());
 
-        initTTS();
-        buildUI();
+        buildChecklist();
     }
 
-    private void buildUI() {
+    private void buildChecklist() {
         studyContainer.removeAllViews();
+        checkBoxes.clear();
         studyItems.clear();
 
         Map<String, List<PhraseItem>> allData = PhraseProvider.getPhrasesByTopic(this);
         Set<String> learnedWords = new HashSet<>(prefs.getStringSet("learned_words", new HashSet<>()));
 
         boolean hasAny = false;
+        String specificTopic = getIntent().getStringExtra("topic_to_study");
+
         for (Map.Entry<String, List<PhraseItem>> entry : allData.entrySet()) {
             String topic = entry.getKey();
+
+            if (specificTopic != null && !topic.equals(specificTopic)) {
+                continue;
+            }
+
             String studyKey = "study_" + topic;
             Set<String> studyQueue = prefs.getStringSet(studyKey, new HashSet<>());
 
-            if (studyQueue.isEmpty())
+            // If we're not in a specific topic, skip topics with an empty study queue
+            if (specificTopic == null && studyQueue.isEmpty()) {
                 continue;
+            }
 
-            // Filter out already learned
-            List<PhraseItem> topicStudy = new ArrayList<>();
+            List<PhraseItem> topicItems = new ArrayList<>();
             for (PhraseItem item : entry.getValue()) {
-                if (studyQueue.contains(item.getWordDe()) && !learnedWords.contains(item.getWordDe())) {
-                    topicStudy.add(item);
-                    studyItems.add(item);
+                boolean shouldInclude = false;
+                if (specificTopic != null) {
+                    // For topic listen mode: show all unlearned words in the topic
+                    shouldInclude = true;
+                } else {
+                    // For global listen mode: show only words that were swiped left
+                    shouldInclude = studyQueue.contains(item.getWordDe());
+                }
+
+                if (shouldInclude && !learnedWords.contains(item.getWordDe())) {
+                    topicItems.add(item);
                 }
             }
 
-            if (topicStudy.isEmpty())
+            if (topicItems.isEmpty())
                 continue;
+
             hasAny = true;
 
             // Topic header
             TextView tvHeader = new TextView(this);
-            tvHeader.setText(topic + " (" + topicStudy.size() + ")");
-            tvHeader.setTextColor(getResources().getColor(R.color.primary));
+            tvHeader.setText(topic + "  (" + topicItems.size() + ")");
+            tvHeader.setTextColor(ContextCompat.getColor(this, R.color.primary));
             tvHeader.setTextSize(15f);
-            tvHeader.setPadding(0, 24, 0, 8);
-            tvHeader.setLayoutParams(new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT));
+            tvHeader.setTypeface(null, android.graphics.Typeface.BOLD);
+            tvHeader.setPadding(0, 28, 0, 10);
+            tvHeader.setLayoutParams(fullWidthLp());
             studyContainer.addView(tvHeader);
 
-            for (PhraseItem item : topicStudy) {
+            // Each word: card with checkbox
+            for (PhraseItem item : topicItems) {
+                // Card row background
+                LinearLayout card = new LinearLayout(this);
+                card.setOrientation(LinearLayout.HORIZONTAL);
+                card.setGravity(Gravity.CENTER_VERTICAL);
+                card.setBackground(ContextCompat.getDrawable(this, R.drawable.bg_checklist_item));
+                card.setPadding(32, 24, 32, 24);
+                LinearLayout.LayoutParams cardLp = new LinearLayout.LayoutParams(
+                        LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+                cardLp.setMargins(0, 0, 0, 8);
+                card.setLayoutParams(cardLp);
+
+                // Word text
                 TextView tvWord = new TextView(this);
-                tvWord.setText("  • " + item.getWordDe() + " — " + item.getWordUk());
-                tvWord.setTextColor(getResources().getColor(R.color.text_secondary));
+                tvWord.setText(item.getWordDe() + "  —  " + item.getWordUk());
+                tvWord.setTextColor(ContextCompat.getColor(this, R.color.text_main));
                 tvWord.setTextSize(15f);
-                tvWord.setPadding(0, 4, 0, 4);
-                tvWord.setLayoutParams(new LinearLayout.LayoutParams(
-                        LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT));
-                tvWord.setOnClickListener(v -> {
-                    if (tts != null) {
-                        tts.setLanguage(Locale.GERMANY);
-                        tts.speak(item.getWordDe(), TextToSpeech.QUEUE_FLUSH, null, null);
-                    }
-                });
-                studyContainer.addView(tvWord);
+                tvWord.setLayoutParams(new LinearLayout.LayoutParams(0,
+                        LinearLayout.LayoutParams.WRAP_CONTENT, 1f));
+                card.addView(tvWord);
+
+                // Checkbox — styled for dark theme using a custom TextView toggle
+                CheckBox cb = new CheckBox(this);
+                cb.setButtonTintList(android.content.res.ColorStateList.valueOf(
+                        ContextCompat.getColor(this, R.color.primary)));
+                cb.setLayoutParams(new LinearLayout.LayoutParams(
+                        LinearLayout.LayoutParams.WRAP_CONTENT, LinearLayout.LayoutParams.WRAP_CONTENT));
+                card.addView(cb);
+
+                // Tap whole card toggles checkbox
+                card.setOnClickListener(v -> cb.setChecked(!cb.isChecked()));
+
+                checkBoxes.add(cb);
+                studyItems.add(item);
+                studyContainer.addView(card);
             }
         }
 
         if (!hasAny) {
             TextView tv = new TextView(this);
-            tv.setText(getString(R.string.msg_no_study));
-            tv.setTextColor(getResources().getColor(R.color.text_muted));
-            tv.setTextSize(16f);
-            tv.setPadding(0, 32, 0, 0);
-            tv.setGravity(android.view.Gravity.CENTER);
-            tv.setLayoutParams(new LinearLayout.LayoutParams(
-                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT));
+            tv.setText("Список порожній.\nСвайпніть ← на картці, щоб додати слова.");
+            tv.setTextColor(ContextCompat.getColor(this, R.color.text_muted));
+            tv.setTextSize(15f);
+            tv.setGravity(Gravity.CENTER);
+            tv.setPadding(0, 48, 0, 0);
+            tv.setLayoutParams(fullWidthLp());
             studyContainer.addView(tv);
-        }
-    }
-
-    private void togglePlay() {
-        if (isPlaying) {
-            stopPlayback();
+            btnSave.setVisibility(View.GONE);
         } else {
-            if (studyItems.isEmpty()) {
-                Toast.makeText(this, getString(R.string.msg_no_study), Toast.LENGTH_SHORT).show();
-                return;
+            btnSave.setVisibility(View.VISIBLE);
+        }
+    }
+
+    private void saveChecked() {
+        Map<String, List<PhraseItem>> allData = PhraseProvider.getPhrasesByTopic(this);
+        Set<String> learnedWords = new HashSet<>(prefs.getStringSet("learned_words", new HashSet<>()));
+        int count = 0;
+
+        for (int i = 0; i < checkBoxes.size(); i++) {
+            if (!checkBoxes.get(i).isChecked())
+                continue;
+            String word = studyItems.get(i).getWordDe();
+            learnedWords.add(word);
+            // Remove from every topic's study queue
+            for (String topic : allData.keySet()) {
+                String key = "study_" + topic;
+                Set<String> queue = new HashSet<>(prefs.getStringSet(key, new HashSet<>()));
+                if (queue.remove(word))
+                    prefs.edit().putStringSet(key, queue).apply();
             }
-            isPlaying = true;
-            playIndex = 0;
-            btnListenStudy.setText("⏹");
-            playNext();
+            count++;
+        }
+
+        prefs.edit().putStringSet("learned_words", learnedWords).apply();
+
+        if (count > 0) {
+            Toast.makeText(this, "✅ " + count + " слів позначено як вивчені", Toast.LENGTH_SHORT).show();
+            buildChecklist(); // refresh — marked words disappear immediately
+        } else {
+            Toast.makeText(this, "Не відмічено жодного слова", Toast.LENGTH_SHORT).show();
         }
     }
 
-    private void playNext() {
-        if (!isPlaying || playIndex >= studyItems.size()) {
-            stopPlayback();
-            return;
-        }
-        PhraseItem item = studyItems.get(playIndex);
-        if (tts != null) {
-            tts.setLanguage(Locale.GERMANY);
-            tts.speak(item.getWordDe(), TextToSpeech.QUEUE_FLUSH, null, "de" + playIndex);
-            handler.postDelayed(() -> {
-                if (isPlaying && tts != null) {
-                    tts.setLanguage(new Locale("uk", "UA"));
-                    tts.speak(item.getWordUk(), TextToSpeech.QUEUE_FLUSH, null, "uk" + playIndex);
-                    handler.postDelayed(() -> {
-                        playIndex++;
-                        playNext();
-                    }, 2000);
-                }
-            }, 1500);
-        }
-    }
-
-    private void stopPlayback() {
-        isPlaying = false;
-        if (tts != null)
-            tts.stop();
-        handler.removeCallbacksAndMessages(null);
-        btnListenStudy.setText("🎧");
-    }
-
-    private void initTTS() {
-        tts = new TextToSpeech(this, status -> {
-            if (status == TextToSpeech.SUCCESS) {
-                tts.setLanguage(Locale.GERMANY);
-            }
-        });
-    }
-
-    @Override
-    protected void onDestroy() {
-        stopPlayback();
-        if (tts != null) {
-            tts.stop();
-            tts.shutdown();
-        }
-        super.onDestroy();
+    private LinearLayout.LayoutParams fullWidthLp() {
+        return new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
     }
 }

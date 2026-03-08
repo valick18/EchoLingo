@@ -27,25 +27,39 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Повторення"
+            android:text="Відмітити вивчені"
             android:textColor="@color/text_main"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textStyle="bold"
             android:gravity="center"/>
 
-        <TextView
-            android:id="@+id/btn_listen_study"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="🎧"
-            android:textSize="24sp"
-            android:padding="8dp"/>
+        <!-- Placeholder to center title -->
+        <View
+            android:layout_width="40dp"
+            android:layout_height="40dp"/>
     </LinearLayout>
 
+    <!-- Save button at bottom -->
+    <TextView
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Зберегти"
+        android:textColor="@color/text_main"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:layout_margin="16dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/btn_primary_flat"/>
+
+    <!-- Word list -->
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/header"
+        android:layout_above="@+id/btn_save"
         android:scrollbars="none">
 
         <LinearLayout
@@ -54,7 +68,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:padding="24dp"
-            android:paddingTop="0dp"/>
+            android:paddingTop="8dp"/>
     </ScrollView>
 
 </RelativeLayout>
