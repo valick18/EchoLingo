@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DuetcheLeararin"
+rootProject.name = "EchoLingo"
 include(":app")

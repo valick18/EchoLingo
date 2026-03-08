@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Німецька мова</string>
+    <string name="app_name">EchoLingo</string>
     <string name="btn_back">Назад</string>
     <string name="btn_pause">Пауза</string>
     <string name="btn_resume">Продовжити</string>
