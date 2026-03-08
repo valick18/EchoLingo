@@ -1,0 +1,116 @@
+{
+    "Почуття та Емоції": [
+        {
+            "wordDe": "Glücklich",
+            "wordUk": "Щасливий",
+            "phrasesDe": [
+                "Ich bin glücklich.",
+                "Ein glückliches Leben.",
+                "Du machst mich glücklich."
+            ],
+            "phrasesUk": [
+                "Я щасливий.",
+                "Щасливе життя.",
+                "Ти робиш мене щасливим."
+            ]
+        },
+        {
+            "wordDe": "Traurig",
+            "wordUk": "Сумний",
+            "phrasesDe": [
+                "Warum bist du traurig?",
+                "Ein trauriger Film.",
+                "Ich fühle mich traurig."
+            ],
+            "phrasesUk": [
+                "Чому ти сумний?",
+                "Сумний фільм.",
+                "Я почуваюся сумно."
+            ]
+        },
+        {
+            "wordDe": "Wütend",
+            "wordUk": "Лютий / Злий",
+            "phrasesDe": [
+                "Er ist wütend.",
+                "Ich bin so wütend!",
+                "Sei nicht wütend."
+            ],
+            "phrasesUk": [
+                "Він розлючений.",
+                "Я такий злий!",
+                "Не сердься."
+            ]
+        },
+        {
+            "wordDe": "Müde",
+            "wordUk": "Втомлений",
+            "phrasesDe": [
+                "Ich bin sehr müde.",
+                "Müde Augen.",
+                "Schlafen gehen."
+            ],
+            "phrasesUk": [
+                "Я дуже втомився.",
+                "Втомлені очі.",
+                "Йти спати."
+            ]
+        },
+        {
+            "wordDe": "Angst",
+            "wordUk": "Страх",
+            "phrasesDe": [
+                "Hab keine Angst.",
+                "Ich habe Angst.",
+                "Angst vor Hunden."
+            ],
+            "phrasesUk": [
+                "Не бійся.",
+                "Мені страшно.",
+                "Страх перед собаками."
+            ]
+        },
+        {
+            "wordDe": "Liebe",
+            "wordUk": "Любов",
+            "phrasesDe": [
+                "Ich liebe dich.",
+                "Wahre Liebe.",
+                "Liebe ist schön."
+            ],
+            "phrasesUk": [
+                "Я тебе кохаю.",
+                "Справжнє кохання.",
+                "Любов - це прекрасно."
+            ]
+        },
+        {
+            "wordDe": "Überrascht",
+            "wordUk": "Здивований",
+            "phrasesDe": [
+                "Total überrascht.",
+                "Ich bin überrascht.",
+                "Eine Überraschung."
+            ],
+            "phrasesUk": [
+                "Цілком здивований.",
+                "Я здивований.",
+                "Сюрприз."
+            ]
+        },
+        {
+            "wordDe": "Sicher",
+            "wordUk": "Впевнений / Безпечний",
+            "phrasesDe": [
+                "Bist du sicher?",
+                "Ich bin sicher.",
+                "Ganz sicher."
+            ],
+            "phrasesUk": [
+                "Ти впевнений?",
+                "Я впевнений.",
+                "Цілком впевнений."
+            ]
+        }
+    ]
+}

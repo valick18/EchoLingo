@@ -1,0 +1,704 @@
+{
+    "Право та Правосуддя": [
+        {
+            "wordDe": "Gesetzgebung",
+            "wordUk": "Законодавство / Законотворчість",
+            "phrasesDe": [
+                "Prozess der Gesetzgebung.",
+                "Änderung der Gesetzgebung.",
+                "Bedeutung der Gesetzgebung."
+            ],
+            "phrasesUk": [
+                "Процес законотворчості.",
+                "Зміна законодавства.",
+                "Значення законодавства."
+            ]
+        },
+        {
+            "wordDe": "Verfassung",
+            "wordUk": "Конституція",
+            "phrasesDe": [
+                "Schutz der Verfassung.",
+                "Artikel der Verfassung.",
+                "Änderung der Verfassung."
+            ],
+            "phrasesUk": [
+                "Захист конституції.",
+                "Стаття конституції.",
+                "Зміна конституції."
+            ]
+        },
+        {
+            "wordDe": "Rechtsprechung",
+            "wordUk": "Судочинство / Судова практика",
+            "phrasesDe": [
+                "Einheitliche Rechtsprechung.",
+                "Wandel der Rechtsprechung.",
+                "Einfluss der Rechtsprechung."
+            ],
+            "phrasesUk": [
+                "Єдине судочинство.",
+                "Зміна судової практики.",
+                "Вплив судової практики."
+            ]
+        },
+        {
+            "wordDe": "Staatsanwaltschaft",
+            "wordUk": "Прокуратура",
+            "phrasesDe": [
+                "Ermittlung der Staatsanwaltschaft.",
+                "Vertreter der Staatsanwaltschaft.",
+                "Aufgabe der Staatsanwaltschaft."
+            ],
+            "phrasesUk": [
+                "Розслідування прокуратури.",
+                "Представник прокуратури.",
+                "Завдання прокуратури."
+            ]
+        },
+        {
+            "wordDe": "Rechtsanwalt",
+            "wordUk": "Адвокат",
+            "phrasesDe": [
+                "Beratung durch einen Rechtsanwalt.",
+                "Vollmacht für den Rechtsanwalt.",
+                "Kosten des Rechtsanwalts."
+            ],
+            "phrasesUk": [
+                "Консультація адвоката.",
+                "Довіреність на адвоката.",
+                "Витрати на адвоката."
+            ]
+        },
+        {
+            "wordDe": "Mandant",
+            "wordUk": "Клієнт (адвоката)",
+            "phrasesDe": [
+                "Interessen des Mandanten.",
+                "Geheimnis des Mandanten.",
+                "Gespräch mit dem Mandanten."
+            ],
+            "phrasesUk": [
+                "Інтереси клієнта.",
+                "Таємниця клієнта.",
+                "Розмова з клієнтом."
+            ]
+        },
+        {
+            "wordDe": "Gerichtshof",
+            "wordUk": "Суд (як установа) / Трибунал",
+            "phrasesDe": [
+                "Urteil des Gerichtshofs.",
+                "Zuständigkeit des Gerichtshofs.",
+                "Verfahren vor dem Gerichtshof."
+            ],
+            "phrasesUk": [
+                "Рішення суду.",
+                "Юрисдикція суду.",
+                "Провадження в суді."
+            ]
+        },
+        {
+            "wordDe": "Kläger",
+            "wordUk": "Позивач",
+            "phrasesDe": [
+                "Antrag des Klägers.",
+                "Rechte des Klägers.",
+                "Beweislast des Klägers."
+            ],
+            "phrasesUk": [
+                "Заява позивача.",
+                "Права позивача.",
+                "Обов'язок доказування позивача."
+            ]
+        },
+        {
+            "wordDe": "Beklagter",
+            "wordUk": "Відповідач / Оберувач",
+            "phrasesDe": [
+                "Erwiderung des Beklagten.",
+                "Rechte des Beklagten.",
+                "Anwesenheit des Beklagten."
+            ],
+            "phrasesUk": [
+                "Заперечення відповідача.",
+                "Права відповідача.",
+                "Присутність відповідача."
+            ]
+        },
+        {
+            "wordDe": "Angeklagter",
+            "wordUk": "Підсудний / Обвинувачений (Кримінальне право)",
+            "phrasesDe": [
+                "Rechte des Angeklagten.",
+                "Vernehmung des Angeklagten.",
+                "Schuld des Angeklagten."
+            ],
+            "phrasesUk": [
+                "Права підсудного.",
+                "Допит обвинуваченого.",
+                "Провина підсудного."
+            ]
+        },
+        {
+            "wordDe": "Zeuge",
+            "wordUk": "Свідок",
+            "phrasesDe": [
+                "Aussage eines Zeugen.",
+                "Vereidigung des Zeugen.",
+                "Schutz für Zeugen."
+            ],
+            "phrasesUk": [
+                "Показання свідка.",
+                "Приведення свідка до присяги.",
+                "Захист свідків."
+            ]
+        },
+        {
+            "wordDe": "Sachverständiger",
+            "wordUk": "Експерт / Спеціаліст",
+            "phrasesDe": [
+                "Gutachten des Sachverständigen.",
+                "Bestellung eines Sachverständigen.",
+                "Fragen an den Sachverständigen."
+            ],
+            "phrasesUk": [
+                "Висновок експерта.",
+                "Призначення експерта.",
+                "Запитання до спеціаліста."
+            ]
+        },
+        {
+            "wordDe": "Urteil",
+            "wordUk": "Вирок / Рішення суду",
+            "phrasesDe": [
+                "Verkündung des Urteils.",
+                "Begründung des Urteils.",
+                "Vollstreckung des Urteils."
+            ],
+            "phrasesUk": [
+                "Оголошення вироку.",
+                "Обґрунтування рішення.",
+                "Виконання вироку."
+            ]
+        },
+        {
+            "wordDe": "Revision",
+            "wordUk": "Перегляд справи / Касація",
+            "phrasesDe": [
+                "Einlegung der Revision.",
+                "Erfolg der Revision.",
+                "Gründe für die Revision."
+            ],
+            "phrasesUk": [
+                "Подача касаційної скарги.",
+                "Успіх перегляду справи.",
+                "Підстави для ревізії (перегляду)."
+            ]
+        },
+        {
+            "wordDe": "Berufung",
+            "wordUk": "Апеляція",
+            "phrasesDe": [
+                "Frist für die Berufung.",
+                "Verhandlung über die Berufung.",
+                "Rücknahme der Berufung."
+            ],
+            "phrasesUk": [
+                "Термін для апеляції.",
+                "Розгляд апеляційної скарги.",
+                "Відкликання апеляції."
+            ]
+        },
+        {
+            "wordDe": "Paragraf",
+            "wordUk": "Параграф / Стаття закону",
+            "phrasesDe": [
+                "Inhalt des Paragrafen.",
+                "Verweis auf einen Paragrafen.",
+                "Auslegung des Paragrafen."
+            ],
+            "phrasesUk": [
+                "Зміст параграфа.",
+                "Посилання на статтю закону.",
+                "Тлумачення параграфа."
+            ]
+        },
+        {
+            "wordDe": "Verordnung",
+            "wordUk": "Постанова / Розпорядження",
+            "phrasesDe": [
+                "Erlass einer Verordnung.",
+                "Gültigkeit der Verordnung.",
+                "Einhaltung der Verordnung."
+            ],
+            "phrasesUk": [
+                "Видання постанови.",
+                "Чинність розпорядження.",
+                "Дотримання постанови."
+            ]
+        },
+        {
+            "wordDe": "Vorschrift",
+            "wordUk": "Припис / Інструкція / Норма",
+            "phrasesDe": [
+                "Gesetzliche Vorschrift.",
+                "Beachtung der Vorschriften.",
+                "Verstoß gegen die Vorschrift."
+            ],
+            "phrasesUk": [
+                "Законодавчий припис.",
+                "Дотримання інструкцій.",
+                "Порушення норми."
+            ]
+        },
+        {
+            "wordDe": "Haftung",
+            "wordUk": "Відповідальність",
+            "phrasesDe": [
+                "Haftung für Schäden.",
+                "Gesetzliche Haftung.",
+                "Ausschluss der Haftung."
+            ],
+            "phrasesUk": [
+                "Відповідальність за збитки.",
+                "Законодавча відповідальність.",
+                "Виключення відповідальності."
+            ]
+        },
+        {
+            "wordDe": "Vertrag",
+            "wordUk": "Договір",
+            "phrasesDe": [
+                "Abschluss eines Vertrags.",
+                "Inhalt des Vertrags.",
+                "Kündigung des Vertrags."
+            ],
+            "phrasesUk": [
+                "Укладення договору.",
+                "Зміст контракту.",
+                "Розірвання договору."
+            ]
+        },
+        {
+            "wordDe": "Urheberrecht",
+            "wordUk": "Авторське право",
+            "phrasesDe": [
+                "Schutz des Urheberrechts.",
+                "Verletzung des Urheberrechts.",
+                "Gesetze zum Urheberrecht."
+            ],
+            "phrasesUk": [
+                "Захист авторських прав.",
+                "Порушення авторського права.",
+                "Закони про авторське право."
+            ]
+        },
+        {
+            "wordDe": "Datenschutz",
+            "wordUk": "Захист персональних даних",
+            "phrasesDe": [
+                "Grundlagen des Datenschutzes.",
+                "Beauftragter für Datenschutz.",
+                "Verstoß gegen den Datenschutz."
+            ],
+            "phrasesUk": [
+                "Основи захисту даних.",
+                "Уповноважений з питань захисту даних.",
+                "Порушення приватності."
+            ]
+        },
+        {
+            "wordDe": "Menschenrechte",
+            "wordUk": "Права людини",
+            "phrasesDe": [
+                "Einhaltung der Menschenrechte.",
+                "Verletzung der Menschenrechte.",
+                "Charta der Menschenrechte."
+            ],
+            "phrasesUk": [
+                "Дотримання прав людини.",
+                "Порушення прав людини.",
+                "Хартія прав людини."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Sinn für Gerechtigkeit.",
+                "Streben nach Gerechtigkeit.",
+                "Soziale Gerechtigkeit."
+            ],
+            "phrasesUk": [
+                "Почуття справедливості.",
+                "Прагнення до справедливості.",
+                "Соціальна справедливість."
+            ]
+        },
+        {
+            "wordDe": "Unschuldsvermutung",
+            "wordUk": "Презумпція невинуватості",
+            "phrasesDe": [
+                "Prinzip der Unschuldsvermutung.",
+                "Bedeutung der Unschuldsvermutung.",
+                "Schutz durch Unschuldsvermutung."
+            ],
+            "phrasesUk": [
+                "Принцип презумпції невинуватості.",
+                "Значення презумпції невинуватості.",
+                "Захист через презумпцію."
+            ]
+        },
+        {
+            "wordDe": "Beweisaufnahme",
+            "wordUk": "Збір та розгляд доказів",
+            "phrasesDe": [
+                "Beginn der Beweisaufnahme.",
+                "Ergebnis der Beweisaufnahme.",
+                "Fehler bei der Beweisaufnahme."
+            ],
+            "phrasesUk": [
+                "Початок розгляду доказів.",
+                "Результат збору доказів.",
+                "Помилка при зборі доказів."
+            ]
+        },
+        {
+            "wordDe": "Tatbestand",
+            "wordUk": "Склад злочину / Обставини справи",
+            "phrasesDe": [
+                "Prüfung des Tatbestands.",
+                "Inhalt des Tatbestands.",
+                "Erfüllung des Tatbestands."
+            ],
+            "phrasesUk": [
+                "Перевірка складу злочину.",
+                "Суть обставин справи.",
+                "Наявність складу злочину."
+            ]
+        },
+        {
+            "wordDe": "Notwehr",
+            "wordUk": "Самооборона / Необхідна оборона (Нотвер)",
+            "phrasesDe": [
+                "Handeln in Notwehr.",
+                "Grenzen der Notwehr.",
+                "Beweis für Notwehr."
+            ],
+            "phrasesUk": [
+                "Дії в межах самооборони.",
+                "Межі необхідної оборони.",
+                "Доказ самооборони."
+            ]
+        },
+        {
+            "wordDe": "Vorsatz",
+            "wordUk": "Умисел / Намір",
+            "phrasesDe": [
+                "Handeln mit Vorsatz.",
+                "Nachweis von Vorsatz.",
+                "Unterschied zum Vorsatz."
+            ],
+            "phrasesUk": [
+                "Дія з умислом.",
+                "Доказ наміру.",
+                "Відмінність (наприклад, від необережності)."
+            ]
+        },
+        {
+            "wordDe": "Fahrlässigkeit",
+            "wordUk": "Необережність (Фарлесігкейт)",
+            "phrasesDe": [
+                "Grobe Fahrlässigkeit.",
+                "Haftung bei Fahrlässigkeit.",
+                "Vorwurf der Fahrlässigkeit."
+            ],
+            "phrasesUk": [
+                "Груба необережність.",
+                "Відповідальність за необережність.",
+                "Звинувачення в недбалості."
+            ]
+        },
+        {
+            "wordDe": "Delikt",
+            "wordUk": "Правопорушення / Делікт",
+            "phrasesDe": [
+                "Ein schweres Delikt.",
+                "Verfolgung von Delikten.",
+                "Begehung eines Delikts."
+            ],
+            "phrasesUk": [
+                "Тяжке правопорушення.",
+                "Переслідування злочинів.",
+                "Вчинення правопорушення."
+            ]
+        },
+        {
+            "wordDe": "Straftat",
+            "wordUk": "Кримінальний злочин",
+            "phrasesDe": [
+                "Verdacht einer Straftat.",
+                "Aufklärung einer Straftat.",
+                "Folgen einer Straftat."
+            ],
+            "phrasesUk": [
+                "Підозра у вчиненні злочину.",
+                "Розкриття злочину.",
+                "Наслідки кримінального злочину."
+            ]
+        },
+        {
+            "wordDe": "Ordnungswidrigkeit",
+            "wordUk": "Адміністративне правопорушення",
+            "phrasesDe": [
+                "Begehung einer Ordnungswidrigkeit.",
+                "Bußgeld bei Ordnungswidrigkeit.",
+                "Verfahren bei Ordnungswidrigkeit."
+            ],
+            "phrasesUk": [
+                "Вчинення адмінпорушення.",
+                "Штраф за адміністративне порушення.",
+                "Провадження у справі про адмінпорушення."
+            ]
+        },
+        {
+            "wordDe": "Bußgeld",
+            "wordUk": "Штраф (адміністративний)",
+            "phrasesDe": [
+                "Höhe des Bußgeldes.",
+                "Bezahlung des Bußgeldes.",
+                "Bescheid über das Bußgeld."
+            ],
+            "phrasesUk": [
+                "Розмір штрафу.",
+                "Оплата штрафу.",
+                "Повідомлення про накладення штрафу."
+            ]
+        },
+        {
+            "wordDe": "Freiheitsstrafe",
+            "wordUk": "Позбавлення волі",
+            "phrasesDe": [
+                "Dauer der Freiheitsstrafe.",
+                "Verbüßung der Freiheitsstrafe.",
+                "Bewährung bei Freiheitsstrafe."
+            ],
+            "phrasesUk": [
+                "Термін позбавлення волі.",
+                "Відбування покарання.",
+                "Умовний термін при позбавленні волі."
+            ]
+        },
+        {
+            "wordDe": "Bewährung",
+            "wordUk": "Умовний термін / Випробувальний термін",
+            "phrasesDe": [
+                "Strafe auf Bewährung.",
+                "Bedingungen der Bewährung.",
+                "Widerruf der Bewährung."
+            ],
+            "phrasesUk": [
+                "Покарання умовно.",
+                "Умови випробувального терміну.",
+                "Скасування умовного терміну."
+            ]
+        },
+        {
+            "wordDe": "Amnestie",
+            "wordUk": "Амністія",
+            "phrasesDe": [
+                "Gewährung einer Amnestie.",
+                "Bedingungen der Amnestie.",
+                "Folgen der Amnestie."
+            ],
+            "phrasesUk": [
+                "Надання амністії.",
+                "Умови амністії.",
+                "Наслідки амністії."
+            ]
+        },
+        {
+            "wordDe": "Begnadigung",
+            "wordUk": "Помилування",
+            "phrasesDe": [
+                "Antrag auf Begnadigung.",
+                "Recht zur Begnadigung.",
+                "Akt der Begnadigung."
+            ],
+            "phrasesUk": [
+                "Клопотання про помилування.",
+                "Право на помилування.",
+                "Акт помилування."
+            ]
+        },
+        {
+            "wordDe": "Eigentum",
+            "wordUk": "Власність",
+            "phrasesDe": [
+                "Schutz des Eigentums.",
+                "Erwerb von Eigentum.",
+                "Rechte am Eigentum."
+            ],
+            "phrasesUk": [
+                "Захист власності.",
+                "Набуття власності.",
+                "Права на власність."
+            ]
+        },
+        {
+            "wordDe": "Besitz",
+            "wordUk": "Володіння",
+            "phrasesDe": [
+                "Unterschied zwischen Eigentum und Besitz.",
+                "Störung des Besitzes.",
+                "Übergabe des Besitzes."
+            ],
+            "phrasesUk": [
+                "Різниця між власністю та володінням.",
+                "Порушення володіння.",
+                "Передача володіння."
+            ]
+        },
+        {
+            "wordDe": "Erbrecht",
+            "wordUk": "Спадкове право",
+            "phrasesDe": [
+                "Fragen des Erbrechts.",
+                "Pflichtteil im Erbrecht.",
+                " Testament und Erbrecht."
+            ],
+            "phrasesUk": [
+                "Питання спадкового права.",
+                "Обов'язкова частка в спадщині.",
+                "Заповіт та спадкове право."
+            ]
+        },
+        {
+            "wordDe": "Testament",
+            "wordUk": "Заповіт",
+            "phrasesDe": [
+                "Verfassen eines Testaments.",
+                "Gültigkeit des Testaments.",
+                "Eröffnung des Testaments."
+            ],
+            "phrasesUk": [
+                "Написання заповіту.",
+                "Чинність заповіту.",
+                "Оголошення заповіту."
+            ]
+        },
+        {
+            "wordDe": "Vollmacht",
+            "wordUk": "Довіреність",
+            "phrasesDe": [
+                "Erteilung einer Vollmacht.",
+                "Umfang der Vollmacht.",
+                "Widerruf der Vollmacht."
+            ],
+            "phrasesUk": [
+                "Видача довіреності.",
+                "Обсяг повноважень за довіреністю.",
+                "Відкликання довіреності."
+            ]
+        },
+        {
+            "wordDe": "Notar",
+            "wordUk": "Нотаріус",
+            "phrasesDe": [
+                "Beurkundung durch den Notar.",
+                "Termin beim Notar.",
+                "Gebühren des Notars."
+            ],
+            "phrasesUk": [
+                "Засвідчення нотаріусом.",
+                "Запис до нотаріуса.",
+                "Послуги (збори) нотаріуса."
+            ]
+        },
+        {
+            "wordDe": "Schiedsgericht",
+            "wordUk": "Третейський суд / Арбітраж",
+            "phrasesDe": [
+                "Anrufung des Schiedsgerichts.",
+                "Urteil des Schiedsgerichts.",
+                "Vorteile eines Schiedsgerichts."
+            ],
+            "phrasesUk": [
+                "Звернення до третейського суду.",
+                "Рішення арбітражу.",
+                "Переваги третейського суду."
+            ]
+        },
+        {
+            "wordDe": "Vergleich",
+            "wordUk": "Мирова угода",
+            "phrasesDe": [
+                "Abschluss eines Vergleichs.",
+                "Vorschlag für einen Vergleich.",
+                "Vorteile des Vergleichs."
+            ],
+            "phrasesUk": [
+                "Укладення мирової угоди.",
+                "Пропозиція мирової угоди.",
+                "Переваги мирової угоди."
+            ]
+        },
+        {
+            "wordDe": "Klage",
+            "wordUk": "Позов / Скарга",
+            "phrasesDe": [
+                "Einreichung einer Klage.",
+                "Abweisung der Klage.",
+                "Begründung der Klage."
+            ],
+            "phrasesUk": [
+                "Подача позову.",
+                "Відхилення позову.",
+                "Обґрунтування позову."
+            ]
+        },
+        {
+            "wordDe": "Ermittlung",
+            "wordUk": "Розслідування / Слідство (Ермітлунг)",
+            "phrasesDe": [
+                "Laufende Ermittlungen.",
+                "Ergebnis der Ermittlung.",
+                "Einstellung der Ermittlung."
+            ],
+            "phrasesUk": [
+                "Поточне розслідування.",
+                "Результат слідства.",
+                "Припинення розслідування."
+            ]
+        },
+        {
+            "wordDe": "Festnahme",
+            "wordUk": "Затримання / Арешт",
+            "phrasesDe": [
+                "Vorläufige Festnahme.",
+                "Grund für die Festnahme.",
+                "Vollzug der Festnahme."
+            ],
+            "phrasesUk": [
+                "Попереднє затримання.",
+                "Причина арешту.",
+                "Проведення затримання."
+            ]
+        },
+        {
+            "wordDe": "Durchsuchung",
+            "wordUk": "Обшук",
+            "phrasesDe": [
+                "Anordnung einer Durchsuchung.",
+                "Durchführung der Durchsuchung.",
+                "Ergebnis der Durchsuchung."
+            ],
+            "phrasesUk": [
+                "Постанова про обшук.",
+                "Проведення обшуку.",
+                "Результат обшуку."
+            ]
+        }
+    ]
+}

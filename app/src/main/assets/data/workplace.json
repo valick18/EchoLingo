@@ -1,0 +1,284 @@
+{
+    "Робота": [
+        {
+            "wordDe": "Beruf",
+            "wordUk": "Професія",
+            "phrasesDe": [
+                "Was ist dein Beruf?",
+                "Ein interessanter Beruf.",
+                "Berufliche Erfahrung."
+            ],
+            "phrasesUk": [
+                "Яка твоя професія?",
+                "Цікава професія.",
+                "Професійний досвід."
+            ]
+        },
+        {
+            "wordDe": "Büro",
+            "wordUk": "Офіс",
+            "phrasesDe": [
+                "Ich arbeite im Büro.",
+                "Das Büro ist im Zentrum.",
+                "Wo ist dein Büro?"
+            ],
+            "phrasesUk": [
+                "Я працюю в офісі.",
+                "Офіс у центрі.",
+                "Де твій офіс?"
+            ]
+        },
+        {
+            "wordDe": "Kollege",
+            "wordUk": "Колега",
+            "phrasesDe": [
+                "Mein Kollege ist nett.",
+                "Wir sind gute Kollegen.",
+                "Frag den Kollegen."
+            ],
+            "phrasesUk": [
+                "Мій колега приємний.",
+                "Ми хороші колеги.",
+                "Запитай колегу."
+            ]
+        },
+        {
+            "wordDe": "Chef",
+            "wordUk": "Шеф / Начальник",
+            "phrasesDe": [
+                "Der Chef ist streng.",
+                "Sprich mit dem Chef.",
+                "Unser neuer Chef."
+            ],
+            "phrasesUk": [
+                "Начальник суворий.",
+                "Поговори з шефом.",
+                "Наш новий начальник."
+            ]
+        },
+        {
+            "wordDe": "Besprechung",
+            "wordUk": "Нарада / Зустріч",
+            "phrasesDe": [
+                "Eine wichtige Besprechung.",
+                "Wann ist die Besprechung?",
+                "In der Besprechung sein."
+            ],
+            "phrasesUk": [
+                "Важлива нарада.",
+                "Коли нарада?",
+                "Бути на нараді."
+            ]
+        },
+        {
+            "wordDe": "Projekt",
+            "wordUk": "Проект",
+            "phrasesDe": [
+                "Ein neues Projekt.",
+                "Wir arbeiten am Projekt.",
+                "Das Projekt ist fertig."
+            ],
+            "phrasesUk": [
+                "Новий проект.",
+                "Ми працюємо над проектом.",
+                "Проект готовий."
+            ]
+        },
+        {
+            "wordDe": "Kunde",
+            "wordUk": "Клієнт",
+            "phrasesDe": [
+                "Der Kunde ist König.",
+                "Wir haben viele Kunden.",
+                "Ein neuer Kunde."
+            ],
+            "phrasesUk": [
+                "Клієнт - це король.",
+                "У нас багато клієнтів.",
+                "Новий клієнт."
+            ]
+        },
+        {
+            "wordDe": "Vertrag",
+            "wordUk": "Контракт / Договір",
+            "phrasesDe": [
+                "Unterschreibe den Vertrag.",
+                "Ein wichtiger Vertrag.",
+                "Der Vertrag läuft ab."
+            ],
+            "phrasesUk": [
+                "Підпиши контракт.",
+                "Важливий контракт.",
+                "Термін дії контракту закінчується."
+            ]
+        },
+        {
+            "wordDe": "Gehalt",
+            "wordUk": "Зарплата",
+            "phrasesDe": [
+                "Ein faires Gehalt.",
+                "Wann kommt das Gehalt?",
+                "Gehaltserhöhung."
+            ],
+            "phrasesUk": [
+                "Справедлива зарплата.",
+                "Коли прийде зарплата?",
+                "Підвищення зарплати."
+            ]
+        },
+        {
+            "wordDe": "Urlaub",
+            "wordUk": "Відпустка",
+            "phrasesDe": [
+                "Ich brauche Urlaub.",
+                "Schönen Urlaub!",
+                "Wann hast du Urlaub?"
+            ],
+            "phrasesUk": [
+                "Мені потрібна відпустка.",
+                "Гарної відпустки!",
+                "Коли у тебе відпустка?"
+            ]
+        },
+        {
+            "wordDe": "Bewerbung",
+            "wordUk": "Заява на роботу",
+            "phrasesDe": [
+                "Schreib eine Bewerbung.",
+                "Meine Bewerbung ist fertig.",
+                "Bewerbungsgespräch."
+            ],
+            "phrasesUk": [
+                "Напиши заяву на роботу.",
+                "Моя заява готова.",
+                "Співбесіда."
+            ]
+        },
+        {
+            "wordDe": "Erfolg",
+            "wordUk": "Успіх",
+            "phrasesDe": [
+                "Viel Erfolg!",
+                "Ein großer Erfolg.",
+                "Erfolg bei der Arbeit."
+            ],
+            "phrasesUk": [
+                "Бажаю успіху!",
+                "Великий успіх.",
+                "Успіх у роботі."
+            ]
+        },
+        {
+            "wordDe": "Termin",
+            "wordUk": "Термін / Зустріч",
+            "phrasesDe": [
+                "Ich habe einen Termin.",
+                "Wann passt der Termin?",
+                "Termin verschieben."
+            ],
+            "phrasesUk": [
+                "У мене призначена зустріч.",
+                "Коли зручно зустрітися?",
+                "Перенести зустріч."
+            ]
+        },
+        {
+            "wordDe": "Aufgabe",
+            "wordUk": "Завдання",
+            "phrasesDe": [
+                "Eine schwere Aufgabe.",
+                "Mach deine Aufgabe.",
+                "Was ist meine Aufgabe?"
+            ],
+            "phrasesUk": [
+                "Важке завдання.",
+                "Виконуй своє завдання.",
+                "Яке моє завдання?"
+            ]
+        },
+        {
+            "wordDe": "Laptop",
+            "wordUk": "Ноутбук",
+            "phrasesDe": [
+                "Mein Laptop ist neu.",
+                "Wo ist mein Laptop?",
+                "Ich arbeite am Laptop."
+            ],
+            "phrasesUk": [
+                "Мій ноутбук новий.",
+                "Де мій ноутбук?",
+                "Я працюю на ноутбуці."
+            ]
+        },
+        {
+            "wordDe": "Drucker",
+            "wordUk": "Принтер",
+            "phrasesDe": [
+                "Der Drucker ist kaputt.",
+                "Wo steht der Drucker?",
+                "Drucke das Dokument."
+            ],
+            "phrasesUk": [
+                "Принтер зламаний.",
+                "Де стоїть принтер?",
+                "Роздрукуй документ."
+            ]
+        },
+        {
+            "wordDe": "Dokument",
+            "wordUk": "Документ",
+            "phrasesDe": [
+                "Lies das Dokument.",
+                "Wichtige Dokumente.",
+                "Unterschreibe das Dokument."
+            ],
+            "phrasesUk": [
+                "Прочитай документ.",
+                "Важливі документи.",
+                "Підпиши документ."
+            ]
+        },
+        {
+            "wordDe": "Firma",
+            "wordUk": "Фірма / Компанія",
+            "phrasesDe": [
+                "Eine große Firma.",
+                "Ich besuche die Firma.",
+                "Wem gehört die Firma?"
+            ],
+            "phrasesUk": [
+                "Велика фірма.",
+                "Я відвідаю фірму.",
+                "Кому належить фірма?"
+            ]
+        },
+        {
+            "wordDe": "Markt",
+            "wordUk": "Ринок",
+            "phrasesDe": [
+                "Der Markt wächst.",
+                "Weltweiter Markt.",
+                "Auf dem Markt kaufen."
+            ],
+            "phrasesUk": [
+                "Ринок росте.",
+                "Світовий ринок.",
+                "Купувати на ринку."
+            ]
+        },
+        {
+            "wordDe": "Steuer",
+            "wordUk": "Податок",
+            "phrasesDe": [
+                "Steuern zahlen.",
+                "Wie hoch ist die Steuer?",
+                "Einkommenssteuer."
+            ],
+            "phrasesUk": [
+                "Платити податки.",
+                "Який розмір податку?",
+                "Прибутковий податок."
+            ]
+        }
+    ]
+}

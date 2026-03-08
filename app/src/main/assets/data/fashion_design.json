@@ -1,0 +1,704 @@
+{
+    "Мода та Дизайн": [
+        {
+            "wordDe": "Kollektion",
+            "wordUk": "Колекція",
+            "phrasesDe": [
+                "Design der Kollektion.",
+                "Neue Kollektion vorstellen.",
+                "Farben der Kollektion."
+            ],
+            "phrasesUk": [
+                "Дизайн колекції.",
+                "Представити нову колекцію.",
+                "Кольори колекції."
+            ]
+        },
+        {
+            "wordDe": "Laufsteg",
+            "wordUk": "Подіум (Лауфштейг)",
+            "phrasesDe": [
+                "Show auf dem Laufsteg.",
+                "Modell auf dem Laufsteg.",
+                "Musik am Laufsteg."
+            ],
+            "phrasesUk": [
+                "Шоу на подіумі.",
+                "Модель на подіумі.",
+                "Музика на подіумі."
+            ]
+        },
+        {
+            "wordDe": "Stilrichtung",
+            "wordUk": "Стилістичний напрямок",
+            "phrasesDe": [
+                "Eine neue Stilrichtung.",
+                "Merkmale der Stilrichtung.",
+                "Wahl der Stilrichtung."
+            ],
+            "phrasesUk": [
+                "Новий стилістичний напрямок.",
+                "Ознаки стилю.",
+                "Вибір стилістичного напрямку."
+            ]
+        },
+        {
+            "wordDe": "Textilie",
+            "wordUk": "Текстиль / Тканина",
+            "phrasesDe": [
+                "Handel mit Textilien.",
+                "Hochwertige Textilien.",
+                "Herstellung von Textilien."
+            ],
+            "phrasesUk": [
+                "Торгівля текстилем.",
+                "Високоякісні тканини.",
+                "Виробництво текстилю."
+            ]
+        },
+        {
+            "wordDe": "Schnittmuster",
+            "wordUk": "Викрійка / Лекало",
+            "phrasesDe": [
+                "Erstellen eines Schnittmusters.",
+                "Teile des Schnittmusters.",
+                "Anpassung des Schnittmusters."
+            ],
+            "phrasesUk": [
+                "Створення викрійки.",
+                "Частини лекала.",
+                "Адаптація викрійки."
+            ]
+        },
+        {
+            "wordDe": "Schneider",
+            "wordUk": "Кравець / Швачка (Шнайдер)",
+            "phrasesDe": [
+                "Maß vom Schneider.",
+                "Beruf des Schneiders.",
+                "Arbeit beim Schneider."
+            ],
+            "phrasesUk": [
+                "Заміри від кравця.",
+                "Професія кравця.",
+                "Робота у кравця."
+            ]
+        },
+        {
+            "wordDe": "Maßanzug",
+            "wordUk": "Костюм на замовлення (за мірками)",
+            "phrasesDe": [
+                "Einen Maßanzug tragen.",
+                "Preis für einen Maßanzug.",
+                "Sitz des Maßanzugs."
+            ],
+            "phrasesUk": [
+                "Носити костюм на замовлення.",
+                "Ціна костюма за мірками.",
+                "Як сидить костюм за мірками."
+            ]
+        },
+        {
+            "wordDe": "Stoff",
+            "wordUk": "Тканина / Матеріал (Штофф)",
+            "phrasesDe": [
+                "Wahl des Stoffes.",
+                "Muster auf dem Stoff.",
+                "Qualität des Stoffes."
+            ],
+            "phrasesUk": [
+                "Вибір тканини.",
+                "Візерунок на тканині.",
+                "Якість матеріалу."
+            ]
+        },
+        {
+            "wordDe": "Seide",
+            "wordUk": "Шовк",
+            "phrasesDe": [
+                "Bluse aus Seide.",
+                "Gefühl von Seide.",
+                "Pflege von Seide."
+            ],
+            "phrasesUk": [
+                "Блузка з шовку.",
+                "Відчуття шовку.",
+                "Догляд за шовком."
+            ]
+        },
+        {
+            "wordDe": "Baumwolle",
+            "wordUk": "Бавовна",
+            "phrasesDe": [
+                "Hemd aus Baumwolle.",
+                "Ernte von Baumwolle.",
+                "Vorteile von Baumwolle."
+            ],
+            "phrasesUk": [
+                "Сорочка з бавовни.",
+                "Урожай бавовни.",
+                "Переваги бавовни."
+            ]
+        },
+        {
+            "wordDe": "Leinen",
+            "wordUk": "Льон",
+            "phrasesDe": [
+                "Hose aus Leinen.",
+                "Struktur von Leinen.",
+                "Kühlen mit Leinen."
+            ],
+            "phrasesUk": [
+                "Штани з льону.",
+                "Структура льону.",
+                "Охолодження (влітку) льоном."
+            ]
+        },
+        {
+            "wordDe": "Wolle",
+            "wordUk": "Вовна",
+            "phrasesDe": [
+                "Pullover aus Wolle.",
+                "Wärme durch Wolle.",
+                "Typen von Wolle."
+            ],
+            "phrasesUk": [
+                "Пуловер з вовни.",
+                "Тепло від вовни.",
+                "Типи вовни."
+            ]
+        },
+        {
+            "wordDe": "Leder",
+            "wordUk": "Шкіра (матеріал)",
+            "phrasesDe": [
+                "Jacke aus Leder.",
+                "Geruch von Leder.",
+                "Pflege von Leder."
+            ],
+            "phrasesUk": [
+                "Куртка зі шкіри.",
+                "Запах шкіри.",
+                "Догляд за шкірою."
+            ]
+        },
+        {
+            "wordDe": "Synthetik",
+            "wordUk": "Синтетика",
+            "phrasesDe": [
+                "Faser aus Synthetik.",
+                "Vorteile von Synthetik.",
+                "Kritik an Synthetik."
+            ],
+            "phrasesUk": [
+                "Синтетичне волокно.",
+                "Переваги синтетики.",
+                "Критика синтетики."
+            ]
+        },
+        {
+            "wordDe": "Accessoire",
+            "wordUk": "Аксесуар",
+            "phrasesDe": [
+                "Passende Accessoires.",
+                "Wahl der Accessoires.",
+                "Trend bei Accessoires."
+            ],
+            "phrasesUk": [
+                "Відповідні аксесуари.",
+                "Вибір аксесуарів.",
+                "Тренд на аксесуари."
+            ]
+        },
+        {
+            "wordDe": "Schmuck",
+            "wordUk": "Прикраси / Ювелірні вироби (Шмук)",
+            "phrasesDe": [
+                "Tragen von Schmuck.",
+                "Wertvoller Schmuck.",
+                "Design von Schmuck."
+            ],
+            "phrasesUk": [
+                "Носіння прикрас.",
+                "Цінні ювелірні вироби.",
+                "Дизайн прикрас."
+            ]
+        },
+        {
+            "wordDe": "Halskette",
+            "wordUk": "Намисто / Кольє",
+            "phrasesDe": [
+                "Eine goldene Halskette.",
+                "Länge der Halskette.",
+                "Verschluss der Halskette."
+            ],
+            "phrasesUk": [
+                "Золоте намисто.",
+                "Довжина кольє.",
+                "Застібка намиста."
+            ]
+        },
+        {
+            "wordDe": "Ohrring",
+            "wordUk": "Сережка",
+            "phrasesDe": [
+                "Paar Ohrringe.",
+                "Verlust eines Ohrrings.",
+                "Design der Ohrringe."
+            ],
+            "phrasesUk": [
+                "Пара сережок.",
+                "Втрата сережки.",
+                "Дизайн сережок."
+            ]
+        },
+        {
+            "wordDe": "Armband",
+            "wordUk": "Браслет",
+            "phrasesDe": [
+                "Ein silbernes Armband.",
+                "Gravur auf dem Armband.",
+                "Größe des Armbands."
+            ],
+            "phrasesUk": [
+                "Срібний браслет.",
+                "Гравірування на браслеті.",
+                "Розмір браслета."
+            ]
+        },
+        {
+            "wordDe": "Armbanduhr",
+            "wordUk": "Наручний годинник",
+            "phrasesDe": [
+                "Kauf einer Armbanduhr.",
+                "Marke der Armbanduhr.",
+                "Funktion der Armbanduhr."
+            ],
+            "phrasesUk": [
+                "Купівля наручного годинника.",
+                "Марка годинника.",
+                "Функція наручного годинника."
+            ]
+        },
+        {
+            "wordDe": "Gürtel",
+            "wordUk": "Ремінь / Пояс",
+            "phrasesDe": [
+                "Gürtel aus Leder.",
+                "Farbe des Gürtels.",
+                "Schnalle am Gürtel."
+            ],
+            "phrasesUk": [
+                "Шкіряний ремінь.",
+                "Колір пояса.",
+                "Пряжка на ремені."
+            ]
+        },
+        {
+            "wordDe": "Handtasche",
+            "wordUk": "Дамська сумочка",
+            "phrasesDe": [
+                "Inhalt der Handtasche.",
+                "Design der Handtasche.",
+                "Marke der Handtasche."
+            ],
+            "phrasesUk": [
+                "Вміст сумочки.",
+                "Дизайн сумки.",
+                "Бренд сумочки."
+            ]
+        },
+        {
+            "wordDe": "Schuhwerk",
+            "wordUk": "Взуття (збірне)",
+            "phrasesDe": [
+                "Bequemes Schuhwerk.",
+                "Wahl des Schuhwerks.",
+                "Pflege von Schuhwerk."
+            ],
+            "phrasesUk": [
+                "Зручне взуття.",
+                "Вибір взуття.",
+                "Догляд за взуттям."
+            ]
+        },
+        {
+            "wordDe": "Absatz",
+            "wordUk": "Підбори (Абзац)",
+            "phrasesDe": [
+                "Schuhe mit Absatz.",
+                "Höhe des Absatzes.",
+                "Bruch eines Absatzes."
+            ],
+            "phrasesUk": [
+                "Взуття на підборах.",
+                "Висота підборів.",
+                "Поломка підбора."
+            ]
+        },
+        {
+            "wordDe": "Sohle",
+            "wordUk": "Підошва",
+            "phrasesDe": [
+                "Dicke der Sohle.",
+                "Material der Sohle.",
+                "Loch in der Sohle."
+            ],
+            "phrasesUk": [
+                "Товщина підошви.",
+                "Матеріал підошви.",
+                "Дірка в підошві."
+            ]
+        },
+        {
+            "wordDe": "Erscheinungsbild",
+            "wordUk": "Зовнішній вигляд / Обличчя",
+            "phrasesDe": [
+                "Gepflegtes Erscheinungsbild.",
+                "Erster Eindruck durch Erscheinungsbild.",
+                "Wandel des Erscheinungsbilds."
+            ],
+            "phrasesUk": [
+                "Доглянутий зовнішній вигляд.",
+                "Перше враження за виглядом.",
+                "Зміна зовнішнього вигляду."
+            ]
+        },
+        {
+            "wordDe": "Ästhetik",
+            "wordUk": "Естетика",
+            "phrasesDe": [
+                "Sinn für Ästhetik.",
+                "Formen der Ästhetik.",
+                "Wandel der Ästhetik."
+            ],
+            "phrasesUk": [
+                "Почуття естетики.",
+                "Форми естетики.",
+                "Зміна естетичних поглядів."
+            ]
+        },
+        {
+            "wordDe": "Trends",
+            "wordUk": "Тренди",
+            "phrasesDe": [
+                "Aktuelle Trends.",
+                "Folgen der Trends.",
+                "Bestimmen von Trends."
+            ],
+            "phrasesUk": [
+                "Актуальні тренди.",
+                "Наслідування трендів.",
+                "Визначення трендів."
+            ]
+        },
+        {
+            "wordDe": "Hingucker",
+            "wordUk": "Те, що притягує погляд (Хін-гуккер)",
+            "phrasesDe": [
+                "Ein echter Hingucker.",
+                "Farbe als Hingucker.",
+                "Schmuck als Hingucker."
+            ],
+            "phrasesUk": [
+                "Справжня принада для очей.",
+                "Колір, що притягує погляд.",
+                "Прикраса як акцент."
+            ]
+        },
+        {
+            "wordDe": "Kombination",
+            "wordUk": "Комбінація / Поєднання",
+            "phrasesDe": [
+                "Gute Kombination.",
+                "Wahl der Kombination.",
+                "Farben in Kombination."
+            ],
+            "phrasesUk": [
+                "Гарне поєднання.",
+                "Вибір комбінації.",
+                "Кольори в поєднанні."
+            ]
+        },
+        {
+            "wordDe": "Eleganz",
+            "wordUk": "Елегантність",
+            "phrasesDe": [
+                "Schlichte Eleganz.",
+                "Ausstrahlung von Eleganz.",
+                "Zeitlose Eleganz."
+            ],
+            "phrasesUk": [
+                "Стримана елегантність.",
+                "Випромінювання елегантності.",
+                "Позачасова елегантність."
+            ]
+        },
+        {
+            "wordDe": "Glamour",
+            "wordUk": "Гламур / Блиск",
+            "phrasesDe": [
+                "Welt des Glamour.",
+                "Wenig Glamour.",
+                "Hauch von Glamour."
+            ],
+            "phrasesUk": [
+                "Світ гламуру.",
+                "Мало блиску.",
+                "Нотка гламуру."
+            ]
+        },
+        {
+            "wordDe": "Extravaganz",
+            "wordUk": "Екстравагантність",
+            "phrasesDe": [
+                "Mut zur Extravaganz.",
+                "Beispiel für Extravaganz.",
+                "Preis der Extravaganz."
+            ],
+            "phrasesUk": [
+                "Сміливість до екстравагантності.",
+                "Приклад екстравагантності.",
+                "Ціна екстравагантності."
+            ]
+        },
+        {
+            "wordDe": "Understatement",
+            "wordUk": "Стриманість / Лаконічність",
+            "phrasesDe": [
+                "Britisches Understatement.",
+                "Sinn für Understatement.",
+                "Wirkung von Understatement."
+            ],
+            "phrasesUk": [
+                "Британська стриманість.",
+                "Почуття лаконічності.",
+                "Ефект стриманості."
+            ]
+        },
+        {
+            "wordDe": "Markenzeichen",
+            "wordUk": "Фірмовий знак / Візитна картка (стилю)",
+            "phrasesDe": [
+                "Ein bekanntes Markenzeichen.",
+                "Entwurf eines Markenzeichens.",
+                "Schrein des Markenzeichens."
+            ],
+            "phrasesUk": [
+                "Відомий фірмовий знак.",
+                "Розробка візитної картки стилю.",
+                "Значення фірмового знака."
+            ]
+        },
+        {
+            "wordDe": "Logo",
+            "wordUk": "Логотип",
+            "phrasesDe": [
+                "Platzierung des Logos.",
+                "Größe des Logos.",
+                "Design des Logos."
+            ],
+            "phrasesUk": [
+                "Розміщення логотипа.",
+                "Розмір логотипа.",
+                "Дизайн логотипа."
+            ]
+        },
+        {
+            "wordDe": "Slogan",
+            "wordUk": "Слоган / Гасло",
+            "phrasesDe": [
+                "Ein griffiger Slogan.",
+                "Wirkung des Slogans.",
+                "Wahl des Slogans."
+            ],
+            "phrasesUk": [
+                "Влучний слоган.",
+                "Ефект гасла.",
+                "Вибір слогана."
+            ]
+        },
+        {
+            "wordDe": "Image",
+            "wordUk": "Імідж",
+            "phrasesDe": [
+                "Pflege des Image.",
+                "Schaden für das Image.",
+                "Wandel des Image."
+            ],
+            "phrasesUk": [
+                "Підтримка іміджу.",
+                "Шкода для іміджу.",
+                "Зміна іміджу."
+            ]
+        },
+        {
+            "wordDe": "Prestige",
+            "wordUk": "Престиж",
+            "phrasesDe": [
+                "Gewinn an Prestige.",
+                "Verlust von Prestige.",
+                "Frage des Prestige."
+            ],
+            "phrasesUk": [
+                "Здобуття престижу.",
+                "Втрата престижу.",
+                "Питання престижу."
+            ]
+        },
+        {
+            "wordDe": "Lifestyle",
+            "wordUk": "Стиль життя",
+            "phrasesDe": [
+                "Moderner Lifestyle.",
+                "Frage des Lifestyle.",
+                "Produkte für den Lifestyle."
+            ],
+            "phrasesUk": [
+                "Сучасний стиль життя.",
+                "Питання способу життя.",
+                "Товари для лайфстайлу."
+            ]
+        },
+        {
+            "wordDe": "Inspiration",
+            "wordUk": "Натхнення",
+            "phrasesDe": [
+                "Quelle der Inspiration.",
+                "Suche nach Inspiration.",
+                "Moment der Inspiration."
+            ],
+            "phrasesUk": [
+                "Джерело натхнення.",
+                "Пошук натхнення.",
+                "Момент натхнення."
+            ]
+        },
+        {
+            "wordDe": "Kreativität",
+            "wordUk": "Креативність / Творчість",
+            "phrasesDe": [
+                "Förderung der Kreativität.",
+                "Grenzen der Kreativität.",
+                "Ausdruck von Kreativität."
+            ],
+            "phrasesUk": [
+                "Стимулювання креативності.",
+                "Межі творчості.",
+                "Вираження креативності."
+            ]
+        },
+        {
+            "wordDe": "Innovation",
+            "wordUk": "Інновація / Нововведення",
+            "phrasesDe": [
+                "Mut zur Innovation.",
+                "Bedeutung von Innovation.",
+                "Preise für Innovation."
+            ],
+            "phrasesUk": [
+                "Сміливість до інновацій.",
+                "Значення нововведень.",
+                "Нагороди за інновації."
+            ]
+        },
+        {
+            "wordDe": "Funktionalität",
+            "wordUk": "Функціональність",
+            "phrasesDe": [
+                "Design und Funktionalität.",
+                "Fokus auf Funktionalität.",
+                "Mangel an Funktionalität."
+            ],
+            "phrasesUk": [
+                "Дизайн та функціональність.",
+                "Фокус на функціональності.",
+                "Брак функціональності."
+            ]
+        },
+        {
+            "wordDe": "Ergonomie",
+            "wordUk": "Ергономіка",
+            "phrasesDe": [
+                "Vorteile der Ergonomie.",
+                "Prinzipien der Ergonomie.",
+                "Fokus auf Ergonomie."
+            ],
+            "phrasesUk": [
+                "Переваги ергономіки.",
+                "Принципи ергономіки.",
+                "Фокус на ергономіці."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltigkeit",
+            "wordUk": "Сталість / Екологічність",
+            "phrasesDe": [
+                "Trend zur Nachhaltigkeit.",
+                "Bedeutung der Nachhaltigkeit.",
+                "Bericht zur Nachhaltigkeit."
+            ],
+            "phrasesUk": [
+                "Тренд на екологічність.",
+                "Значення сталості.",
+                "Звіт про сталий розвиток."
+            ]
+        },
+        {
+            "wordDe": "Recycling",
+            "wordUk": "Переробка (Ресайклінг)",
+            "phrasesDe": [
+                "Mode aus Recycling.",
+                "Prozess des Recycling.",
+                "Vorteile von Recycling."
+            ],
+            "phrasesUk": [
+                "Мода з перероблених матеріалів.",
+                "Процес ресайклінгу.",
+                "Переваги переробки."
+            ]
+        },
+        {
+            "wordDe": "Vintage",
+            "wordUk": "Вінтаж / Ретро",
+            "phrasesDe": [
+                "Mode im Vintage-Stil.",
+                "Liebe zu Vintage.",
+                "Markt für Vintage."
+            ],
+            "phrasesUk": [
+                "Мода у стилі вінтаж.",
+                "Любов до ретро.",
+                "Ринок вінтажних речей."
+            ]
+        },
+        {
+            "wordDe": "Second-Hand",
+            "wordUk": "Секонд-хенд",
+            "phrasesDe": [
+                "Kauf in Second-Hand.",
+                "Vorteile von Second-Hand.",
+                "Läden für Second-Hand."
+            ],
+            "phrasesUk": [
+                "Купівля в секонд-хенді.",
+                "Переваги секонд-хенду.",
+                "Магазини секонд-хенду."
+            ]
+        },
+        {
+            "wordDe": "Individualität",
+            "wordUk": "Індивідуальність",
+            "phrasesDe": [
+                "Ausdruck von Individualität.",
+                "Wahrung der Individualität.",
+                "Suche nach Individualität."
+            ],
+            "phrasesUk": [
+                "Вираження індивідуальності.",
+                "Збереження індивідуальності.",
+                "Пошук власного стилю."
+            ]
+        }
+    ]
+}

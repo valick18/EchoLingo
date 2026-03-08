@@ -1,0 +1,144 @@
+{
+    "Їжа та Кухня": [
+        {
+            "wordDe": "Brot",
+            "wordUk": "Хліб",
+            "phrasesDe": [
+                "Frisches Brot.",
+                "Ich kaufe Brot.",
+                "Brot mit Käse."
+            ],
+            "phrasesUk": [
+                "Свіжий хліб.",
+                "Я купую хліб.",
+                "Хліб із сиром."
+            ]
+        },
+        {
+            "wordDe": "Käse",
+            "wordUk": "Сир",
+            "phrasesDe": [
+                "Leckerer Käse.",
+                "Möchten Sie Käse?",
+                "Käsebrot."
+            ],
+            "phrasesUk": [
+                "Смачний сир.",
+                "Хочете сиру?",
+                "Бутерброд із сиром."
+            ]
+        },
+        {
+            "wordDe": "Wurst",
+            "wordUk": "Ковбаса",
+            "phrasesDe": [
+                "Ein Stück Wurst.",
+                "Ich esse keine Wurst.",
+                "Currywurst."
+            ],
+            "phrasesUk": [
+                "Шматочок ковбаси.",
+                "Я не їм ковбасу.",
+                "Ковбаса каррі."
+            ]
+        },
+        {
+            "wordDe": "Milch",
+            "wordUk": "Молоко",
+            "phrasesDe": [
+                "Glas Milch.",
+                "Milch im Kaffee.",
+                "Frische Milch."
+            ],
+            "phrasesUk": [
+                "Склянка молока.",
+                "Молоко в каві.",
+                "Свіже молоко."
+            ]
+        },
+        {
+            "wordDe": "Zucker",
+            "wordUk": "Цукор",
+            "phrasesDe": [
+                "Tee mit Zucker.",
+                "Zu viel Zucker.",
+                "Süßer Zucker."
+            ],
+            "phrasesUk": [
+                "Чай із цукром.",
+                "Забагато цукру.",
+                "Солодкий цукор."
+            ]
+        },
+        {
+            "wordDe": "Salz",
+            "wordUk": "Сіль",
+            "phrasesDe": [
+                "Salz und Pfeffer.",
+                "Wenig Salz.",
+                "Gib mir das Salz."
+            ],
+            "phrasesUk": [
+                "Сіль і перець.",
+                "Мало солі.",
+                "Дай мені сіль."
+            ]
+        },
+        {
+            "wordDe": "Eis",
+            "wordUk": "Морозиво / Лід",
+            "phrasesDe": [
+                "Kaltes Eis.",
+                "Ein Eis bitte.",
+                "Schokoladeneis."
+            ],
+            "phrasesUk": [
+                "Холодне морозиво.",
+                "Одне морозиво, будь ласка.",
+                "Шоколадне морозиво."
+            ]
+        },
+        {
+            "wordDe": "Obst",
+            "wordUk": "Фрукти",
+            "phrasesDe": [
+                "Frisches Obst.",
+                "Obst essen.",
+                "Obstsalat."
+            ],
+            "phrasesUk": [
+                "Свіжі фрукти.",
+                "Їсти фрукти.",
+                "Фруктовий салат."
+            ]
+        },
+        {
+            "wordDe": "Gemüse",
+            "wordUk": "Овочі",
+            "phrasesDe": [
+                "Viel Gemüse.",
+                "Gemüsesuppe.",
+                "Gemüse kaufen."
+            ],
+            "phrasesUk": [
+                "Багато овочів.",
+                "Овочевий суп.",
+                "Купувати овочі."
+            ]
+        },
+        {
+            "wordDe": "Fleisch",
+            "wordUk": "М'ясо",
+            "phrasesDe": [
+                "Gutes Fleisch.",
+                "Ich esse Fleisch.",
+                "Fleisch braten."
+            ],
+            "phrasesUk": [
+                "Гарне м'ясо.",
+                "Я їм м'ясо.",
+                "Смажити м'ясо."
+            ]
+        }
+    ]
+}

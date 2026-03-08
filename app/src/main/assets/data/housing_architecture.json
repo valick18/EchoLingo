@@ -1,0 +1,704 @@
+{
+    "Житло та Архітектура": [
+        {
+            "wordDe": "Immobilie",
+            "wordUk": "Нерухомість",
+            "phrasesDe": [
+                "Eine teure Immobilie.",
+                "Immobilienmarkt.",
+                "Immobilienmakler."
+            ],
+            "phrasesUk": [
+                "Дорога нерухомість.",
+                "Ринок нерухомості.",
+                "Маклер з нерухомості."
+            ]
+        },
+        {
+            "wordDe": "Altbau",
+            "wordUk": "Будинок старої забудови (Альтбау)",
+            "phrasesDe": [
+                "Wohnen im Altbau.",
+                "Hohe Decken im Altbau.",
+                "Altbauwohnung."
+            ],
+            "phrasesUk": [
+                "Жити в старому будинку.",
+                "Високі стелі в альтбау.",
+                "Квартира в старому будинку."
+            ]
+        },
+        {
+            "wordDe": "Neubau",
+            "wordUk": "Новобудова / Нова забудова",
+            "phrasesDe": [
+                "Ein moderner Neubau.",
+                "Wohnung im Neubau.",
+                "Neubauprojekt."
+            ],
+            "phrasesUk": [
+                "Сучасна новобудова.",
+                "Квартира в новобудові.",
+                "Проєкт нової забудови."
+            ]
+        },
+        {
+            "wordDe": "Reihenhaus",
+            "wordUk": "Таунхаус / Будинок терасного типу",
+            "phrasesDe": [
+                "Ein gemütliches Reihenhaus.",
+                "Reihenhaus am Stadtrand.",
+                "Garten am Reihenhaus."
+            ],
+            "phrasesUk": [
+                "Затишний таунхаус.",
+                "Таунхаус на околиці міста.",
+                "Сад біля таунхаусу."
+            ]
+        },
+        {
+            "wordDe": "Mehrfamilienhaus",
+            "wordUk": "Багатоквартирний будинок",
+            "phrasesDe": [
+                "In einem Mehrfamilienhaus wohnen.",
+                "Eingang zum Mehrfamilienhaus.",
+                "Verwaltung des Mehrfamilienhauses."
+            ],
+            "phrasesUk": [
+                "Жити в багатоквартирному будинку.",
+                "Вхід до багатоквартирного будинку.",
+                "Управління багатоквартирним будинком."
+            ]
+        },
+        {
+            "wordDe": "Einfamilienhaus",
+            "wordUk": "Особняк / Приватний будинок",
+            "phrasesDe": [
+                "Ein freistehendes Einfamilienhaus.",
+                "Bau eines Einfamilienhauses.",
+                "Einfamilienhaus mit Garage."
+            ],
+            "phrasesUk": [
+                "Окремий приватний будинок.",
+                "Будівництво особняка.",
+                "Приватний будинок із гаражем."
+            ]
+        },
+        {
+            "wordDe": "Grundstück",
+            "wordUk": "Земельна ділянка",
+            "phrasesDe": [
+                "Ein großes Grundstück.",
+                "Grundstück kaufen.",
+                "Grenze des Grundstücks."
+            ],
+            "phrasesUk": [
+                "Велика земельна ділянка.",
+                "Купити ділянку.",
+                "Межа ділянки."
+            ]
+        },
+        {
+            "wordDe": "Mietvertrag",
+            "wordUk": "Договір оренди",
+            "phrasesDe": [
+                "Den Mietvertrag unterschreiben.",
+                "Kündigung des Mietvertrags.",
+                "Bedingungen im Mietvertrag."
+            ],
+            "phrasesUk": [
+                "Підписати договір оренди.",
+                "Розірвання договору оренди.",
+                "Умови в договорі оренди."
+            ]
+        },
+        {
+            "wordDe": "Kaltmiete",
+            "wordUk": "Орендна плата без комунальних послуг (Кальтміте)",
+            "phrasesDe": [
+                "Wie hoch ist die Kaltmiete?",
+                "Kaltmiete pro Monat.",
+                "Erhöhung der Kaltmiete."
+            ],
+            "phrasesUk": [
+                "Яка орендна плата без комунальних?",
+                "Кальтміте на місяць.",
+                "Підвищення базової оренди."
+            ]
+        },
+        {
+            "wordDe": "Nebenkosten",
+            "wordUk": "Комунальні витрати / Додаткові витрати",
+            "phrasesDe": [
+                "Nebenkosten inklusive.",
+                "Abrechnung der Nebenkosten.",
+                "Hohe Nebenkosten."
+            ],
+            "phrasesUk": [
+                "Комунальні послуги включені.",
+                "Розрахунок комунальних витрат.",
+                "Високі комунальні."
+            ]
+        },
+        {
+            "wordDe": "Warmmiete",
+            "wordUk": "Орендна плата з комунальними послугами (Вармміте)",
+            "phrasesDe": [
+                "Die gesamte Warmmiete.",
+                "Limit für die Warmmiete.",
+                "Warmmiete überweisen."
+            ],
+            "phrasesUk": [
+                "Повна вармміте.",
+                "Ліміт на повну оренду.",
+                "Переказувати повну орендну плату."
+            ]
+        },
+        {
+            "wordDe": "Kaution",
+            "wordUk": "Застава (Кауціон)",
+            "phrasesDe": [
+                "Drei Monatsmieten Kaution.",
+                "Rückzahlung der Kaution.",
+                "Die Kaution hinterlegen."
+            ],
+            "phrasesUk": [
+                "Застава в розмірі трьох орендних плат.",
+                "Повернення застави.",
+                "Внести заставу."
+            ]
+        },
+        {
+            "wordDe": "Provision",
+            "wordUk": "Комісія (маклеру)",
+            "phrasesDe": [
+                "Wohnung ohne Provision.",
+                "Höhe der Provision.",
+                "Provision bezahlen."
+            ],
+            "phrasesUk": [
+                "Квартира без комісії.",
+                "Розмір комісії.",
+                "Сплатити комісію."
+            ]
+        },
+        {
+            "wordDe": "Einbauküche (EBK)",
+            "wordUk": "Вбудована кухня",
+            "phrasesDe": [
+                "Wohnung mit Einbauküche.",
+                "Moderne Einbauküche.",
+                "Einbauküche übernehmen."
+            ],
+            "phrasesUk": [
+                "Квартира з вбудованою кухнею.",
+                "Сучасна вбудована кухня.",
+                "Прийняти (викупити) вбудовану кухню."
+            ]
+        },
+        {
+            "wordDe": "Balkon",
+            "wordUk": "Балкон",
+            "phrasesDe": [
+                "Sonne auf dem Balkon.",
+                "Frühstück auf dem Balkon.",
+                "Blumen für den Balkon."
+            ],
+            "phrasesUk": [
+                "Сонце на балконі.",
+                "Сніданок на балконі.",
+                "Квіти для балкона."
+            ]
+        },
+        {
+            "wordDe": "Terrasse",
+            "wordUk": "Тераса",
+            "phrasesDe": [
+                "Eine große Terrasse.",
+                "Dachterrasse.",
+                "Abend auf der Terrasse."
+            ],
+            "phrasesUk": [
+                "Велика тераса.",
+                "Тераса на даху.",
+                "Вечір на терасі."
+            ]
+        },
+        {
+            "wordDe": "Keller",
+            "wordUk": "Підвал",
+            "phrasesDe": [
+                "Sachen im Keller lagern.",
+                "Trockener Keller.",
+                "Kellerabteil."
+            ],
+            "phrasesUk": [
+                "Зберігати речі в підвалі.",
+                "Сухий підвал.",
+                "Відділення в підвалі."
+            ]
+        },
+        {
+            "wordDe": "Dachboden",
+            "wordUk": "Горище",
+            "phrasesDe": [
+                "Auf dem Dachboden suchen.",
+                "Ausbau des Dachbodens.",
+                "Staub auf dem Dachboden."
+            ],
+            "phrasesUk": [
+                "Шукати на горищі.",
+                "Переобладнання горища.",
+                "Пил на горищі."
+            ]
+        },
+        {
+            "wordDe": "Flur",
+            "wordUk": "Коридор / Передпокій",
+            "phrasesDe": [
+                "Licht im Flur.",
+                "Jacken im Flur aufhängen.",
+                "Langer Flur."
+            ],
+            "phrasesUk": [
+                "Світло в коридорі.",
+                "Вішати куртки в передпокої.",
+                "Довгий коридор."
+            ]
+        },
+        {
+            "wordDe": "Treppenhaus",
+            "wordUk": "Сходова клітка",
+            "phrasesDe": [
+                "Reinigung im Treppenhaus.",
+                "Treppenhaus fegen.",
+                "Lärm im Treppenhaus."
+            ],
+            "phrasesUk": [
+                "Прибирання на сходовій клітці.",
+                "Підмітати під'їзд.",
+                "Шум у під'їзді."
+            ]
+        },
+        {
+            "wordDe": "Aufzug",
+            "wordUk": "Ліфт",
+            "phrasesDe": [
+                "Den Aufzug benutzen.",
+                "Der Aufzug ist defekt.",
+                "Aufzug in den fünften Stock."
+            ],
+            "phrasesUk": [
+                "Користуватися ліфтом.",
+                "Ліфт несправний.",
+                "Ліфт на п'ятий поверх."
+            ]
+        },
+        {
+            "wordDe": "Möblierung",
+            "wordUk": "Меблювання",
+            "phrasesDe": [
+                "Stilvolle Möblierung.",
+                "Möblierung inklusive.",
+                "Teilweise Möblierung."
+            ],
+            "phrasesUk": [
+                "Стильне меблювання.",
+                "Меблі включені.",
+                "Часткове меблювання."
+            ]
+        },
+        {
+            "wordDe": "Sanierung",
+            "wordUk": "Санація / Капітальний ремонт",
+            "phrasesDe": [
+                "Vollständige Sanierung.",
+                "Kosten für die Sanierung.",
+                "Sanierung eines Altbaus."
+            ],
+            "phrasesUk": [
+                "Повна санація (капремонт).",
+                "Витрати на санацію.",
+                "Капремонт старого будинку."
+            ]
+        },
+        {
+            "wordDe": "Renovierung",
+            "wordUk": "Ремонт (косметичний)",
+            "phrasesDe": [
+                "Zeit für eine Renovierung.",
+                "Wohnung selber renovieren.",
+                "Renovierungsbedürftig."
+            ],
+            "phrasesUk": [
+                "Час для ремонту.",
+                "Самостійно ремонтувати квартиру.",
+                "Потребує ремонту."
+            ]
+        },
+        {
+            "wordDe": "Heizung",
+            "wordUk": "Опалення",
+            "phrasesDe": [
+                "Die Heizung aufdrehen.",
+                "Zentralheizung.",
+                "Heizkosten sparen."
+            ],
+            "phrasesUk": [
+                "Увімкнути (накрутити) опалення.",
+                "Центральне опалення.",
+                "Економити на опаленні."
+            ]
+        },
+        {
+            "wordDe": "Lüftung",
+            "wordUk": "Вентиляція",
+            "phrasesDe": [
+                "Automatische Lüftung.",
+                "Für Lüftung sorgen.",
+                "Lüftungsschacht."
+            ],
+            "phrasesUk": [
+                "Автоматична вентиляція.",
+                "Забезпечити вентиляцію.",
+                "Вентиляційна шахта."
+            ]
+        },
+        {
+            "wordDe": "Dämmung",
+            "wordUk": "Ізоляція / Утеплення",
+            "phrasesDe": [
+                "Gute Dämmung der Wände.",
+                "Wärmedämmung.",
+                "Schalldämmung."
+            ],
+            "phrasesUk": [
+                "Гарне утеплення стін.",
+                "Теплоізоляція.",
+                "Звукоізоляція."
+            ]
+        },
+        {
+            "wordDe": "Fassade",
+            "wordUk": "Фасад",
+            "phrasesDe": [
+                "Helle Fassade.",
+                "Denkmalgeschützte Fassade.",
+                "Fassadengestaltung."
+            ],
+            "phrasesUk": [
+                "Світлий фасад.",
+                "Фасад під охороною пам'яток.",
+                "Оформлення фасаду."
+            ]
+        },
+        {
+            "wordDe": "Fensterbrett",
+            "wordUk": "Підвіконня",
+            "phrasesDe": [
+                "Blumen auf dem Fensterbrett.",
+                "Staub auf dem Fensterbrett.",
+                "Breites Fensterbrett."
+            ],
+            "phrasesUk": [
+                "Квіти на підвіконні.",
+                "Пил на підвіконні.",
+                "Широке підвіконня."
+            ]
+        },
+        {
+            "wordDe": "Verglasung",
+            "wordUk": "Скління",
+            "phrasesDe": [
+                "Dreifachverglasung.",
+                "Isolierverglasung.",
+                "Neue Verglasung."
+            ],
+            "phrasesUk": [
+                "Потрійний склопакет.",
+                "Ізоляційне скління.",
+                "Нове скління."
+            ]
+        },
+        {
+            "wordDe": "Haustür",
+            "wordUk": "Вхідні двері",
+            "phrasesDe": [
+                "Vor der Haustür stehen.",
+                "Haustür abschließen.",
+                "Sichere Haustür."
+            ],
+            "phrasesUk": [
+                "Стояти перед вхідними дверима.",
+                "Зачиняти вхідні двері.",
+                "Надійні вхідні двері."
+            ]
+        },
+        {
+            "wordDe": "Klingel",
+            "wordUk": "Дзвінок",
+            "phrasesDe": [
+                "An der Klingel läuten.",
+                "Die Klingel ist laut.",
+                "Namensschild an der Klingel."
+            ],
+            "phrasesUk": [
+                "Дзвонити у дзвінок.",
+                "Дзвінок гучний.",
+                "Табличка з прізвищем на дзвінку."
+            ]
+        },
+        {
+            "wordDe": "Briefkasten",
+            "wordUk": "Поштова скринька",
+            "phrasesDe": [
+                "Post im Briefkasten.",
+                "Briefkasten leeren.",
+                "Schlüssel für den Briefkasten."
+            ],
+            "phrasesUk": [
+                "Пошта в скриньці.",
+                "Спустошити поштову скриньку.",
+                "Ключ від поштової скриньки."
+            ]
+        },
+        {
+            "wordDe": "Mülltonnen",
+            "wordUk": "Сміттєві баки",
+            "phrasesDe": [
+                "Die Mülltonnen rausstellen.",
+                "Trennung der Mülltonnen.",
+                "Deckel der Mülltonne."
+            ],
+            "phrasesUk": [
+                "Виставити сміттєві баки.",
+                "Розподіл сміттєвих баків.",
+                "Кришка смітника."
+            ]
+        },
+        {
+            "wordDe": "Parkplatz",
+            "wordUk": "Паркувальне місце",
+            "phrasesDe": [
+                "Einen Parkplatz suchen.",
+                "Privater Parkplatz.",
+                "Parkplatzgebühr."
+            ],
+            "phrasesUk": [
+                "Шукати місце для паркування.",
+                "Приватна парковка.",
+                "Плата за паркування."
+            ]
+        },
+        {
+            "wordDe": "Tiefgarage",
+            "wordUk": "Підземний гараж",
+            "phrasesDe": [
+                "Auto in der Tiefgarage.",
+                "Einfahrt zur Tiefgarage.",
+                "Licht in der Tiefgarage."
+            ],
+            "phrasesUk": [
+                "Авто в підземному гаражі.",
+                "В'їзд до підземного гаража.",
+                "Світло в підземному гаражі."
+            ]
+        },
+        {
+            "wordDe": "Grundriss",
+            "wordUk": "План поверху / Креслення",
+            "phrasesDe": [
+                "Den Grundriss studieren.",
+                "Ein offener Grundriss.",
+                "Grundriss der Wohnung."
+            ],
+            "phrasesUk": [
+                "Вивчати план приміщення.",
+                "Відкрите планування.",
+                "План квартири."
+            ]
+        },
+        {
+            "wordDe": "Wohnfläche",
+            "wordUk": "Житлова площа",
+            "phrasesDe": [
+                "Berechnung der Wohnfläche.",
+                "Große Wohnfläche.",
+                "Wohnfläche in Quadratmetern."
+            ],
+            "phrasesUk": [
+                "Розрахунок житлової площі.",
+                "Велика житлова площа.",
+                "Житлова площа у кв. метрах."
+            ]
+        },
+        {
+            "wordDe": "Zimmer",
+            "wordUk": "Кімната",
+            "phrasesDe": [
+                "Ein helles Zimmer.",
+                "Zimmer vermieten.",
+                "Wohnzimmer."
+            ],
+            "phrasesUk": [
+                "Світла кімната.",
+                "Здавати кімнату.",
+                "Вітальня."
+            ]
+        },
+        {
+            "wordDe": "Schlafzimmer",
+            "wordUk": "Спальня",
+            "phrasesDe": [
+                "Großes Schlafzimmer.",
+                "Möbel im Schlafzimmer.",
+                "Schlafzimmer einrichten."
+            ],
+            "phrasesUk": [
+                "Велика спальня.",
+                "Меблі в спальні.",
+                "Облаштувати спальню."
+            ]
+        },
+        {
+            "wordDe": "Badezimmer",
+            "wordUk": "Ванна кімната",
+            "phrasesDe": [
+                "Modernes Badezimmer.",
+                "Badezimmer mit Fenster.",
+                "Badewanne im Badezimmer."
+            ],
+            "phrasesUk": [
+                "Сучасна ванна кімната.",
+                "Ванна з вікном.",
+                "Ванна у ванній кімнаті."
+            ]
+        },
+        {
+            "wordDe": "Gäste-WC",
+            "wordUk": "Гостьовий туалет",
+            "phrasesDe": [
+                "Kleines Gäste-WC.",
+                "Handtuch im Gäste-WC.",
+                "Wo ist das Gäste-WC?"
+            ],
+            "phrasesUk": [
+                "Маленький гостьовий туалет.",
+                "Рушник у гостьовому туалеті.",
+                "Де гостьовий туалет?"
+            ]
+        },
+        {
+            "wordDe": "Abstellraum",
+            "wordUk": "Комора / Технічне приміщення",
+            "phrasesDe": [
+                "Sachen im Abstellraum.",
+                "Regale im Abstellraum.",
+                "Ordnung im Abstellraum."
+            ],
+            "phrasesUk": [
+                "Речі в коморі.",
+                "Полиці в коморі.",
+                "Порядок у коморі."
+            ]
+        },
+        {
+            "wordDe": "Mietspiegel",
+            "wordUk": "Середній рівень орендної плати (Мітшпігель)",
+            "phrasesDe": [
+                "Den Mietspiegel prüfen.",
+                "Aktueller Mietspiegel.",
+                "Anpassung an den Mietspiegel."
+            ],
+            "phrasesUk": [
+                "Перевірити таблицю середніх цін на оренду.",
+                "Актуальний мітшпігель.",
+                "Приведення у відповідність до середніх цін."
+            ]
+        },
+        {
+            "wordDe": "Nachmieter",
+            "wordUk": "Наступний орендар",
+            "phrasesDe": [
+                "Einen Nachmieter suchen.",
+                "Nachmieter vorschlagen.",
+                "Kein Nachmieter gefunden."
+            ],
+            "phrasesUk": [
+                "Шукати наступного орендаря.",
+                "Пропонувати наступного орендаря.",
+                "Наступного орендаря не знайдено."
+            ]
+        },
+        {
+            "wordDe": "Zwischenmiete",
+            "wordUk": "Тимчасова оренда (Суборенда)",
+            "phrasesDe": [
+                "Wohnung zur Zwischenmiete.",
+                "Vertrag für Zwischenmiete.",
+                "Vorteile der Zwischenmiete."
+            ],
+            "phrasesUk": [
+                "Квартира в тимчасову оренду.",
+                "Договір на тимчасову оренду.",
+                "Переваги суборенди."
+            ]
+        },
+        {
+            "wordDe": "Wohngemeinschaft (WG)",
+            "wordUk": "Гуртожиток / Спільне проживання (ВГ)",
+            "phrasesDe": [
+                "In einer WG wohnen.",
+                "WG-Zimmer suchen.",
+                "Zusammenleben in der WG."
+            ],
+            "phrasesUk": [
+                "Жити в одній квартирі з іншими.",
+                "Шукати кімнату у ВГ.",
+                "Спільне життя у ВГ."
+            ]
+        },
+        {
+            "wordDe": "Hausverwaltung",
+            "wordUk": "Управитель будинку / Домоуправління",
+            "phrasesDe": [
+                "Kontakt zur Hausverwaltung.",
+                "Brief von der Hausverwaltung.",
+                "Zuständigkeit der Hausverwaltung."
+            ],
+            "phrasesUk": [
+                "Контакт із домоуправлінням.",
+                "Лист від домоуправління.",
+                "Сфера відповідальності домоуправління."
+            ]
+        },
+        {
+            "wordDe": "Hausmeister",
+            "wordUk": "Завгосп / Хаусмайстер",
+            "phrasesDe": [
+                "Den Hausmeister rufen.",
+                "Aufgaben des Hausmeisters.",
+                "Wo wohnt der Hausmeister?"
+            ],
+            "phrasesUk": [
+                "Викликати завгоспа (хаусмайстера).",
+                "Завдання завгоспа.",
+                "Де живе завгосп?"
+            ]
+        },
+        {
+            "wordDe": "Wohnungsbesichtigung",
+            "wordUk": "Огляд квартири",
+            "phrasesDe": [
+                "Termin zur Wohnungsbesichtigung.",
+                "Fragen bei der Wohnungsbesichtigung.",
+                "Nach der Wohnungsbesichtigung."
+            ],
+            "phrasesUk": [
+                "Запис на огляд квартири.",
+                "Питання під час огляду.",
+                "Після огляду квартири."
+            ]
+        }
+    ]
+}

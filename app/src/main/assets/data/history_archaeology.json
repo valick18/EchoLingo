@@ -1,0 +1,704 @@
+{
+    "Історія та Археологія": [
+        {
+            "wordDe": "Antike",
+            "wordUk": "Античність",
+            "phrasesDe": [
+                "Kultur der Antike.",
+                "Erbe der Antike.",
+                "Zeit der Antike."
+            ],
+            "phrasesUk": [
+                "Культура античності.",
+                "Спадщина античності.",
+                "Епоха античності."
+            ]
+        },
+        {
+            "wordDe": "Mittelalter",
+            "wordUk": "Середньовіччя",
+            "phrasesDe": [
+                "Leben im Mittelalter.",
+                "Gesellschaft im Mittelalter.",
+                "Frühes Mittelalter."
+            ],
+            "phrasesUk": [
+                "Життя в Середньовіччі.",
+                "Суспільство Середньовіччя.",
+                "Раннє Середньовіччя."
+            ]
+        },
+        {
+            "wordDe": "Neuzeit",
+            "wordUk": "Новий час (Нова історія)",
+            "phrasesDe": [
+                "Beginn der Neuzeit.",
+                "Entfaltung der Neuzeit.",
+                "Moderne Neuzeit."
+            ],
+            "phrasesUk": [
+                "Початок Нового часу.",
+                "Розквіт Нової історії.",
+                "Сучасний Новий час."
+            ]
+        },
+        {
+            "wordDe": "Industrialisierung",
+            "wordUk": "Індустріалізація",
+            "phrasesDe": [
+                "Folgen der Industrialisierung.",
+                "Beginn der Industrialisierung.",
+                "Wandel durch Industrialisierung."
+            ],
+            "phrasesUk": [
+                "Наслідки індустріалізації.",
+                "Початок індустріалізації.",
+                "Зміни завдяки індустріалізації."
+            ]
+        },
+        {
+            "wordDe": "Ausgrabung",
+            "wordUk": "Розкопки / Археологічні розкопки",
+            "phrasesDe": [
+                "Funde bei der Ausgrabung.",
+                "Leitung der Ausgrabung.",
+                "Ort der Ausgrabung."
+            ],
+            "phrasesUk": [
+                "Знахідки під час розкопок.",
+                "Керівництво розкопками.",
+                "Місце розкопок."
+            ]
+        },
+        {
+            "wordDe": "Artefakt",
+            "wordUk": "Артефакт",
+            "phrasesDe": [
+                "Ein wertvolles Artefakt.",
+                "Bedeutung des Artefakts.",
+                "Bestimmung des Artefakts."
+            ],
+            "phrasesUk": [
+                "Цінний артефакт.",
+                "Значення артефакту.",
+                "Визначення артефакту."
+            ]
+        },
+        {
+            "wordDe": "Hieroglyphen",
+            "wordUk": "Ієрогліфи",
+            "phrasesDe": [
+                "Entzifferung der Hieroglyphen.",
+                "Schreiben mit Hieroglyphen.",
+                "Bedeutung der Hieroglyphen."
+            ],
+            "phrasesUk": [
+                "Розшифровка ієрогліфів.",
+                "Письмо ієрогліфами.",
+                "Значення ієрогліфів."
+            ]
+        },
+        {
+            "wordDe": "Dynastie",
+            "wordUk": "Династія",
+            "phrasesDe": [
+                "Herrschaft einer Dynastie.",
+                "Aufstieg der Dynastie.",
+                "Ende der Dynastie."
+            ],
+            "phrasesUk": [
+                "Панування династії.",
+                "Піднесення династії.",
+                "Кінець династії."
+            ]
+        },
+        {
+            "wordDe": "Monarchie",
+            "wordUk": "Монархія",
+            "phrasesDe": [
+                "Form der Monarchie.",
+                "Krise der Monarchie.",
+                "Abschaffung der Monarchie."
+            ],
+            "phrasesUk": [
+                "Форма монархії.",
+                "Криза монархії.",
+                "Скасування монархії."
+            ]
+        },
+        {
+            "wordDe": "Republik",
+            "wordUk": "Республіка",
+            "phrasesDe": [
+                "Gründung einer Republik.",
+                "Werte der Republik.",
+                "Verfassung der Republik."
+            ],
+            "phrasesUk": [
+                "Заснування республіки.",
+                "Цінності республіки.",
+                "Конституція республіки."
+            ]
+        },
+        {
+            "wordDe": "Revolution",
+            "wordUk": "Революція",
+            "phrasesDe": [
+                "Ausbruch einer Revolution.",
+                "Ursache der Revolution.",
+                "Folgen der Revolution."
+            ],
+            "phrasesUk": [
+                "Початок революції.",
+                "Причина революції.",
+                "Наслідки революції."
+            ]
+        },
+        {
+            "wordDe": "Kolonialisierung",
+            "wordUk": "Колонізація",
+            "phrasesDe": [
+                "Geschichte der Kolonialisierung.",
+                "Kritik an der Kolonialisierung.",
+                "Folgen der Kolonialisierung."
+            ],
+            "phrasesUk": [
+                "Історія колонізації.",
+                "Критика колоніалізму.",
+                "Наслідки колонізації."
+            ]
+        },
+        {
+            "wordDe": "Unabhängigkeit",
+            "wordUk": "Незалежність",
+            "phrasesDe": [
+                "Kampf um Unabhängigkeit.",
+                "Erreichte Unabhängigkeit.",
+                "Erklärung der Unabhängigkeit."
+            ],
+            "phrasesUk": [
+                "Боротьба за незалежність.",
+                "Здобута незалежність.",
+                "Декларація незалежності."
+            ]
+        },
+        {
+            "wordDe": "Diplomatie",
+            "wordUk": "Дипломатія",
+            "phrasesDe": [
+                "Erfolg der Diplomatie.",
+                "Wege der Diplomatie.",
+                "Fehler in der Diplomatie."
+            ],
+            "phrasesUk": [
+                "Успіх дипломатії.",
+                "Шляхи дипломатії.",
+                "Помилка в дипломатії."
+            ]
+        },
+        {
+            "wordDe": "Allianz",
+            "wordUk": "Альянс / Союз",
+            "phrasesDe": [
+                "Bildung einer Allianz.",
+                "Partner in der Allianz.",
+                "Bruch der Allianz."
+            ],
+            "phrasesUk": [
+                "Створення альянсу.",
+                "Партнери в союзі.",
+                "Розрив альянсу."
+            ]
+        },
+        {
+            "wordDe": "Vertrag",
+            "wordUk": "Договір",
+            "phrasesDe": [
+                "Unterzeichnung des Vertrags.",
+                "Inhalt des Vertrags.",
+                "Bedeutung des Vertrags."
+            ],
+            "phrasesUk": [
+                "Підписання договору.",
+                "Зміст договору.",
+                "Значення договору."
+            ]
+        },
+        {
+            "wordDe": "Krieg",
+            "wordUk": "Війна",
+            "phrasesDe": [
+                "Ausbruch eines Krieges.",
+                "Verlauf des Krieges.",
+                "Ende des Krieges."
+            ],
+            "phrasesUk": [
+                "Початок війни.",
+                "Хід війни.",
+                "Кінець війни."
+            ]
+        },
+        {
+            "wordDe": "Frieden",
+            "wordUk": "Мир",
+            "phrasesDe": [
+                "Suche nach Frieden.",
+                "Sicherung des Friedens.",
+                "Friedensnobelpreis."
+            ],
+            "phrasesUk": [
+                "Пошук миру.",
+                "Забезпечення миру.",
+                "Нобелівська премія миру."
+            ]
+        },
+        {
+            "wordDe": "Währungsreform",
+            "wordUk": "Грошова реформа",
+            "phrasesDe": [
+                "Durchführung einer Währungsreform.",
+                "Gründe für eine Währungsreform.",
+                "Folgen der Währungsreform."
+            ],
+            "phrasesUk": [
+                "Проведення грошової реформи.",
+                "Причини монетарної реформи.",
+                "Наслідки валютної реформи."
+            ]
+        },
+        {
+            "wordDe": "Völkerwanderung",
+            "wordUk": "Велике переселення народів (Фелькер-вандерунг)",
+            "phrasesDe": [
+                "Zeit der Völkerwanderung.",
+                "Ursachen der Völkerwanderung.",
+                "Folgen der Völkerwanderung."
+            ],
+            "phrasesUk": [
+                "Епоха переселення народів.",
+                "Причини переселення народів.",
+                "Наслідки великого переселення."
+            ]
+        },
+        {
+            "wordDe": "Aufklärung",
+            "wordUk": "Просвітництво",
+            "phrasesDe": [
+                "Ideen der Aufklärung.",
+                "Zeitalter der Aufklärung.",
+                "Erbe der Aufklärung."
+            ],
+            "phrasesUk": [
+                "Ідеї Просвітництва.",
+                "Епоха Просвітництва.",
+                "Спадщина Просвітництва."
+            ]
+        },
+        {
+            "wordDe": "Feudalismus",
+            "wordUk": "Феодалізм",
+            "phrasesDe": [
+                "System des Feudalismus.",
+                "Kritik am Feudalismus.",
+                "Ende des Feudalismus."
+            ],
+            "phrasesUk": [
+                "Система феодалізму.",
+                "Критика феодалізму.",
+                "Кінець феодалізму."
+            ]
+        },
+        {
+            "wordDe": "Absolutismus",
+            "wordUk": "Абсолютизм",
+            "phrasesDe": [
+                "Epoche des Absolutismus.",
+                "Fürsten im Absolutismus.",
+                "Ende des Absolutismus."
+            ],
+            "phrasesUk": [
+                "Епоха абсолютизму.",
+                "Князі в епоху абсолютизму.",
+                "Кінець абсолютизму."
+            ]
+        },
+        {
+            "wordDe": "Imperialismus",
+            "wordUk": "Імперіалізм",
+            "phrasesDe": [
+                "Zeit des Imperialismus.",
+                "Merkmale des Imperialismus.",
+                "Kritik am Imperialismus."
+            ],
+            "phrasesUk": [
+                "Епоха імперіалізму.",
+                "Ознаки імперіалізму.",
+                "Критика імперіалізму."
+            ]
+        },
+        {
+            "wordDe": "Nationalismus",
+            "wordUk": "Націоналізм",
+            "phrasesDe": [
+                "Gefahr des Nationalismus.",
+                "Folgen des Nationalismus.",
+                "Wurzeln des Nationalismus."
+            ],
+            "phrasesUk": [
+                "Небезпека націоналізму.",
+                "Наслідки націоналізму.",
+                "Коріння націоналізму."
+            ]
+        },
+        {
+            "wordDe": "Globalisierung",
+            "wordUk": "Глобалізація",
+            "phrasesDe": [
+                "Prozess der Globalisierung.",
+                "Vorteile der Globalisierung.",
+                "Kritik der Globalisierung."
+            ],
+            "phrasesUk": [
+                "Процес глобалізації.",
+                "Переваги глобалізації.",
+                "Критика глобалізації."
+            ]
+        },
+        {
+            "wordDe": "Renaissance",
+            "wordUk": "Ренесанс / Відродження",
+            "phrasesDe": [
+                "Ideale der Renaissance.",
+                "Künstler der Renaissance.",
+                "Meisterwerke der Renaissance."
+            ],
+            "phrasesUk": [
+                "Ідеали Ренесансу.",
+                "Художники Відродження.",
+                "Шедеври Ренесансу."
+            ]
+        },
+        {
+            "wordDe": "Barock",
+            "wordUk": "Бароко",
+            "phrasesDe": [
+                "Architektur des Barock.",
+                "Stil des Barock.",
+                "Musik im Barock."
+            ],
+            "phrasesUk": [
+                "Архітектура бароко.",
+                "Стиль бароко.",
+                "Музика в епоху бароко."
+            ]
+        },
+        {
+            "wordDe": "Klassizismus",
+            "wordUk": "Класицизм",
+            "phrasesDe": [
+                "Epoche des Klassizismus.",
+                "Formen des Klassizismus.",
+                "Ideale des Klassizismus."
+            ],
+            "phrasesUk": [
+                "Епоха класицизму.",
+                "Форми класицизму.",
+                "Ідеали класицизму."
+            ]
+        },
+        {
+            "wordDe": "Romantik",
+            "wordUk": "Романтизм",
+            "phrasesDe": [
+                "Literatur der Romantik.",
+                "Themen der Romantik.",
+                "Geist der Romantik."
+            ],
+            "phrasesUk": [
+                "Література романтизму.",
+                "Теми романтизму.",
+                "Дух романтизму."
+            ]
+        },
+        {
+            "wordDe": "Realismus",
+            "wordUk": "Реалізм",
+            "phrasesDe": [
+                "Epoche des Realismus.",
+                "Vertreter des Realismus.",
+                "Merkmale des Realismus."
+            ],
+            "phrasesUk": [
+                "Епоха реалізму.",
+                "Представники реалізму.",
+                "Ознаки реалізму."
+            ]
+        },
+        {
+            "wordDe": "Urgeschichte",
+            "wordUk": "Первісна історія / Передісторія",
+            "phrasesDe": [
+                "Ereignisse der Urgeschichte.",
+                "Funde aus der Urgeschichte.",
+                "Bedeutung der Urgeschichte."
+            ],
+            "phrasesUk": [
+                "Події первісної історії.",
+                "Знахідки з перед-історії.",
+                "Значення первісної історії."
+            ]
+        },
+        {
+            "wordDe": "Steinzeit",
+            "wordUk": "Кам'яний вік",
+            "phrasesDe": [
+                "Leben in der Steinzeit.",
+                "Werkzeuge aus der Steinzeit.",
+                "Menschen der Steinzeit."
+            ],
+            "phrasesUk": [
+                "Життя в кам'яному віці.",
+                "Інструменти кам'яного віку.",
+                "Люди кам'яного віку."
+            ]
+        },
+        {
+            "wordDe": "Bronzezeit",
+            "wordUk": "Бронзовий вік",
+            "phrasesDe": [
+                "Handel in der Bronzezeit.",
+                "Funde aus der Bronzezeit.",
+                "Kultur der Bronzezeit."
+            ],
+            "phrasesUk": [
+                "Торгівля в бронзовому віці.",
+                "Знахідки бронзового віку.",
+                "Культура бронзового віку."
+            ]
+        },
+        {
+            "wordDe": "Eisenzeit",
+            "wordUk": "Залізний вік",
+            "phrasesDe": [
+                "Fortschritte in der Eisenzeit.",
+                "Krieger der Eisenzeit.",
+                "Beginn der Eisenzeit."
+            ],
+            "phrasesUk": [
+                "Прогрес у залізному віці.",
+                "Воїни залізного віку.",
+                "Початок залізного віку."
+            ]
+        },
+        {
+            "wordDe": "Mythologie",
+            "wordUk": "Міфологія",
+            "phrasesDe": [
+                "Götter der Mythologie.",
+                "Bedeutung der Mythologie.",
+                "Themen der Mythologie."
+            ],
+            "phrasesUk": [
+                "Боги міфології.",
+                "Значення міфології.",
+                "Теми міфології."
+            ]
+        },
+        {
+            "wordDe": "Legende",
+            "wordUk": "Легенда",
+            "phrasesDe": [
+                "Eine alte Legende.",
+                "Wahrheit hinter der Legende.",
+                "Helden der Legende."
+            ],
+            "phrasesUk": [
+                "Стара легенда.",
+                "Правда за легендою.",
+                "Герої легенди."
+            ]
+        },
+        {
+            "wordDe": "Chronik",
+            "wordUk": "Хроніка / Літопис",
+            "phrasesDe": [
+                "Führen einer Chronik.",
+                "Ereignisse in der Chronik.",
+                "Bedeutung der Chronik."
+            ],
+            "phrasesUk": [
+                "Ведення хроніки.",
+                "Події в літописі.",
+                "Значення хроніки."
+            ]
+        },
+        {
+            "wordDe": "Archiv",
+            "wordUk": "Архів",
+            "phrasesDe": [
+                "Suche im Archiv.",
+                "Dokumente im Archiv.",
+                "Zugang zum Archiv."
+            ],
+            "phrasesUk": [
+                "Пошук в архіві.",
+                "Документи в архіві.",
+                "Доступ до архіву."
+            ]
+        },
+        {
+            "wordDe": "Historiker",
+            "wordUk": "Історик",
+            "phrasesDe": [
+                "Arbeit eines Historikers.",
+                "Ansatz des Historikers.",
+                "Berühmte Historiker."
+            ],
+            "phrasesUk": [
+                "Робота історика.",
+                "Підхід історика.",
+                "Знамениті історики."
+            ]
+        },
+        {
+            "wordDe": "Ahnenforschung",
+            "wordUk": "Генеалогія / Вивчення родоводу (Анен-форшунг)",
+            "phrasesDe": [
+                "Interesse an Ahnenforschung.",
+                "Methoden der Ahnenforschung.",
+                "Ergebnisse der Ahnenforschung."
+            ],
+            "phrasesUk": [
+                "Інтерес до генеалогії.",
+                "Методи вивчення родоводу.",
+                "Результати дослідження предків."
+            ]
+        },
+        {
+            "wordDe": "Stammbaum",
+            "wordUk": "Родовідне дерево (Штам-баум)",
+            "phrasesDe": [
+                "Erstellen eines Stammbaums.",
+                "Lücken im Stammbaum.",
+                "Bedeutung des Stammbaums."
+            ],
+            "phrasesUk": [
+                "Створення родовідного дерева.",
+                "Прогалини в родоводі.",
+                "Значення родовідного дерева."
+            ]
+        },
+        {
+            "wordDe": "Erbgut",
+            "wordUk": "Спадкова інформація / Спадковий матеріал (Ерб-гут)",
+            "phrasesDe": [
+                "Analyse des Erbguts.",
+                "Wissen über das Erbgut.",
+                "Schutz des Erbguts."
+            ],
+            "phrasesUk": [
+                "Аналіз спадкової інформації.",
+                "Знання про геном.",
+                "Захист спадкового матеріалу."
+            ]
+        },
+        {
+            "wordDe": "Tradition",
+            "wordUk": "Традиція",
+            "phrasesDe": [
+                "Wahrung der Tradition.",
+                "Bruch mit der Tradition.",
+                "Bedeutung der Tradition."
+            ],
+            "phrasesUk": [
+                "Збереження традицій.",
+                "Розрив із традицією.",
+                "Значення традиції."
+            ]
+        },
+        {
+            "wordDe": "Bräuche",
+            "wordUk": "Звичаї / Обряди",
+            "phrasesDe": [
+                "Alte Bräuche.",
+                "Erklärung der Bräuche.",
+                "Vielfalt der Bräuche."
+            ],
+            "phrasesUk": [
+                "Старі звичаї.",
+                "Пояснення обрядів.",
+                "Різноманіття звичаїв."
+            ]
+        },
+        {
+            "wordDe": "Ritual",
+            "wordUk": "Ритуал",
+            "phrasesDe": [
+                "Durchführung eines Rituals.",
+                "Bedeutung des Rituals.",
+                "Formen von Ritualen."
+            ],
+            "phrasesUk": [
+                "Проведення ритуалу.",
+                "Значення ритуалу.",
+                "Форми ритуалів."
+            ]
+        },
+        {
+            "wordDe": "Nationalfeiertag",
+            "wordUk": "Національне свято",
+            "phrasesDe": [
+                "Datum des Nationalfeiertags.",
+                "Feier zum Nationalfeiertag.",
+                "Bedeutung des Nationalfeiertags."
+            ],
+            "phrasesUk": [
+                "Дата національного свята.",
+                "Святкування нац. свята.",
+                "Значення національного свята."
+            ]
+        },
+        {
+            "wordDe": "Identität",
+            "wordUk": "Ідентичність",
+            "phrasesDe": [
+                "Suche nach Identität.",
+                "Nationale Identität.",
+                "Wahrung der Identität."
+            ],
+            "phrasesUk": [
+                "Пошук ідентичності.",
+                "Національна ідентичність.",
+                "Збереження ідентичності."
+            ]
+        },
+        {
+            "wordDe": "Heimat",
+            "wordUk": "Батьківщина / Рідний край (Хаймат)",
+            "phrasesDe": [
+                "Gefühl von Heimat.",
+                "Verlust der Heimat.",
+                "Liebe zur Heimat."
+            ],
+            "phrasesUk": [
+                "Почуття рідного краю.",
+                "Втрата батьківщини.",
+                "Любов до батьківщини."
+            ]
+        },
+        {
+            "wordDe": "Zeitzeuge",
+            "wordUk": "Сучасник подій / Свідок епохи (Цайт-цойге)",
+            "phrasesDe": [
+                "Bericht eines Zeitzeugen.",
+                "Gespräch mit dem Zeitzeugen.",
+                "Bedeutung von Zeitzeugen."
+            ],
+            "phrasesUk": [
+                "Звіт свідка подій.",
+                "Розмова з очевидцем епохи.",
+                "Значення свідчень сучасників."
+            ]
+        }
+    ]
+}

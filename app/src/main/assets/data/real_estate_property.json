@@ -1,0 +1,704 @@
+{
+    "Нерухомість та Майно": [
+        {
+            "wordDe": "Immobilienmarkt",
+            "wordUk": "Ринок нерухомості",
+            "phrasesDe": [
+                "Lage auf dem Immobilienmarkt.",
+                "Trends am Immobilienmarkt.",
+                "Preise im Immobilienmarkt."
+            ],
+            "phrasesUk": [
+                "Ситуація на ринку нерухомості.",
+                "Тренди на ринку нерухомості.",
+                "Ціни на ринку нерухомості."
+            ]
+        },
+        {
+            "wordDe": "Eigentumswohnung",
+            "wordUk": "Приватна квартира (власна)",
+            "phrasesDe": [
+                "Kauf einer Eigentumswohnung.",
+                "Besitz einer Eigentumswohnung.",
+                "Preis der Eigentumswohnung."
+            ],
+            "phrasesUk": [
+                "Купівля власної квартири.",
+                "Володіння власною квартирою.",
+                "Ціна приватної квартири."
+            ]
+        },
+        {
+            "wordDe": "Mietobjekt",
+            "wordUk": "Об'єкт оренди",
+            "phrasesDe": [
+                "Suche nach einem Mietobjekt.",
+                "Zustand des Mietobjekts.",
+                "Übergabe des Mietobjekts."
+            ],
+            "phrasesUk": [
+                "Пошук об'єкта оренди.",
+                "Стан об'єкта оренди.",
+                "Передача об'єкта оренди."
+            ]
+        },
+        {
+            "wordDe": "Maklerprovision",
+            "wordUk": "Комісія рієлтора (маклера)",
+            "phrasesDe": [
+                "Höhe der Maklerprovision.",
+                "Zahlung der Maklerprovision.",
+                "Gesetz zur Maklerprovision."
+            ],
+            "phrasesUk": [
+                "Розмір комісії рієлтора.",
+                "Оплата комісії маклера.",
+                "Закон про маклерську винагороду."
+            ]
+        },
+        {
+            "wordDe": "Notarvertrag",
+            "wordUk": "Нотаріально завірений договір",
+            "phrasesDe": [
+                "Abschluss eines Notarvertrags.",
+                "Inhalt des Notarvertrags.",
+                "Kosten für den Notarvertrag."
+            ],
+            "phrasesUk": [
+                "Укладення нотаріального договору.",
+                "Зміст нотаріального контракту.",
+                "Витрати на нотаріальний договір."
+            ]
+        },
+        {
+            "wordDe": "Grundbucheintrag",
+            "wordUk": "Запис у поземельній книзі / Реєстр власності",
+            "phrasesDe": [
+                "Kosten für den Grundbucheintrag.",
+                "Bedeutung des Grundbucheintrags.",
+                "Vorgang beim Grundbucheintrag."
+            ],
+            "phrasesUk": [
+                "Витрати на запис у реєстр.",
+                "Значення запису в поземельній книзі.",
+                "Процедура внесення в реєстр власності."
+            ]
+        },
+        {
+            "wordDe": "Hypothek",
+            "wordUk": "Іпотека",
+            "phrasesDe": [
+                "Aufnahme einer Hypothek.",
+                "Zinsen für die Hypothek.",
+                "Löschung der Hypothek."
+            ],
+            "phrasesUk": [
+                "Оформлення іпотеки.",
+                "Відсотки по іпотеці.",
+                "Погашення (скасування) іпотеки."
+            ]
+        },
+        {
+            "wordDe": "Darlehen",
+            "wordUk": "Позика / Кредит",
+            "phrasesDe": [
+                "Gewährung eines Darlehens.",
+                "Rückzahlung des Darlehens.",
+                "Zinsen auf das Darlehen."
+            ],
+            "phrasesUk": [
+                "Надання позики.",
+                "Повернення кредиту.",
+                "Відсотки на позику."
+            ]
+        },
+        {
+            "wordDe": "Eigenkapital",
+            "wordUk": "Власний капітал",
+            "phrasesDe": [
+                "Einsatz von Eigenkapital.",
+                "Höhe des Eigenkapitals.",
+                "Bedarf an Eigenkapital."
+            ],
+            "phrasesUk": [
+                "Використання власного капіталу.",
+                "Розмір власного капіталу.",
+                "Потреба у власному капіталі."
+            ]
+        },
+        {
+            "wordDe": "Finanzierung",
+            "wordUk": "Фінансування",
+            "phrasesDe": [
+                "Planung der Finanzierung.",
+                "Zusage der Finanzierung.",
+                "Modelle der Finanzierung."
+            ],
+            "phrasesUk": [
+                "Планування фінансування.",
+                "Підтвердження фінансування.",
+                "Моделі фінансування."
+            ]
+        },
+        {
+            "wordDe": "Nebenkosten",
+            "wordUk": "Додаткові витрати / Комунальні платежі (Небен-костен)",
+            "phrasesDe": [
+                "Abrechnung der Nebenkosten.",
+                "Höhe der Nebenkosten.",
+                "Sparen bei Nebenkosten."
+            ],
+            "phrasesUk": [
+                "Розрахунок комунальних платежів.",
+                "Розмір додаткових витрат.",
+                "Економія на комуналці (небенкостен)."
+            ]
+        },
+        {
+            "wordDe": "Kaltmiete",
+            "wordUk": "Орендна плата без комунальних (Кальт-міте)",
+            "phrasesDe": [
+                "Höhe der Kaltmiete.",
+                "Steigerung der Kaltmiete.",
+                "Unterschied zur Warmmiete."
+            ],
+            "phrasesUk": [
+                "Розмір орендної плати (чистої).",
+                "Зростання кальтміте.",
+                "Відмінність від вармміте (з комунальними)."
+            ]
+        },
+        {
+            "wordDe": "Warmmiete",
+            "wordUk": "Орендна плата з комунальними (Варм-міте)",
+            "phrasesDe": [
+                "Berechnung der Warmmiete.",
+                "Zahlung der Warmmiete.",
+                "Bestandteile der Warmmiete."
+            ],
+            "phrasesUk": [
+                "Розрахунок повної орендної плати.",
+                "Оплата вармміте.",
+                "Складові частини повної оренди."
+            ]
+        },
+        {
+            "wordDe": "Kaution",
+            "wordUk": "Застава / Депозит (Кауціон)",
+            "phrasesDe": [
+                "Hinterlegung der Kaution.",
+                "Rückzahlung der Kaution.",
+                "Höhe der Kaution."
+            ],
+            "phrasesUk": [
+                "Внесення застави.",
+                "Повернення депозиту.",
+                "Розмір кауціону."
+            ]
+        },
+        {
+            "wordDe": "Mietvertrag",
+            "wordUk": "Договір оренди",
+            "phrasesDe": [
+                "Kündigung des Mietvertrags.",
+                "Unterschrift unter dem Mietvertrag.",
+                "Klauseln im Mietvertrag."
+            ],
+            "phrasesUk": [
+                "Розірвання договору оренди.",
+                "Підпис під договором.",
+                "Пункти (клаузули) у договорі оренди."
+            ]
+        },
+        {
+            "wordDe": "Kündigungsfrist",
+            "wordUk": "Термін попередження про розірвання (Кюндігунгс-фріст)",
+            "phrasesDe": [
+                "Einhaltung der Kündigungsfrist.",
+                "Dauer der Kündigungsfrist.",
+                "Gesetzliche Kündigungsfrist."
+            ],
+            "phrasesUk": [
+                "Дотримання терміну розірвання.",
+                "Тривалість кюндігунгсфріст.",
+                "Законодавчий термін попередження."
+            ]
+        },
+        {
+            "wordDe": "Hausordnung",
+            "wordUk": "Правила внутрішнього розпорядку будинку",
+            "phrasesDe": [
+                "Beachtung der Hausordnung.",
+                "Inhalt der Hausordnung.",
+                "Verstoß gegen die Hausordnung."
+            ],
+            "phrasesUk": [
+                "Дотримання правил будинку.",
+                "Зміст хаузордунгу.",
+                "Порушення правил розпорядку."
+            ]
+        },
+        {
+            "wordDe": "Instandhaltung",
+            "wordUk": "Технічне обслуговування / Підтримка в належному стані",
+            "phrasesDe": [
+                "Kosten für Instandhaltung.",
+                "Maßnahmen zur Instandhaltung.",
+                "Pflicht zur Instandhaltung."
+            ],
+            "phrasesUk": [
+                "Витрати на техобслуговування.",
+                "Заходи з підтримки стану будинку.",
+                "Обов'язок щодо утримання майна."
+            ]
+        },
+        {
+            "wordDe": "Renovierung",
+            "wordUk": "Ремонт / Реновація",
+            "phrasesDe": [
+                "Bedarf an Renovierung.",
+                "Kosten der Renovierung.",
+                "Durchführung der Renovierung."
+            ],
+            "phrasesUk": [
+                "Потреба в ремонті.",
+                "Вартість реновації.",
+                "Проведення ремонту."
+            ]
+        },
+        {
+            "wordDe": "Sanierung",
+            "wordUk": "Санація / Капітальний ремонт (оздоровлення будівлі)",
+            "phrasesDe": [
+                "Energetische Sanierung.",
+                "Planung der Sanierung.",
+                "Förderung für Sanierung."
+            ],
+            "phrasesUk": [
+                "Енергетична санація.",
+                "Планування капітального ремонту.",
+                "Субсидії на санацію."
+            ]
+        },
+        {
+            "wordDe": "Wohnfläche",
+            "wordUk": "Житлова площа",
+            "phrasesDe": [
+                "Berechnung der Wohnfläche.",
+                "Größe der Wohnfläche.",
+                "Preis pro Quadratmeter Wohnfläche."
+            ],
+            "phrasesUk": [
+                "Розрахунок житлової площі.",
+                "Розмір житлової площі.",
+                "Ціна за метр житла."
+            ]
+        },
+        {
+            "wordDe": "Grundstück",
+            "wordUk": "Земельна ділянка",
+            "phrasesDe": [
+                "Kauf eines Grundstücks.",
+                "Grenzen des Grundstücks.",
+                "Größe des Grundstücks."
+            ],
+            "phrasesUk": [
+                "Купівля ділянки.",
+                "Межі земельної ділянки.",
+                "Розмір ділянки."
+            ]
+        },
+        {
+            "wordDe": "Baugenehmigung",
+            "wordUk": "Дозвіл на будівництво",
+            "phrasesDe": [
+                "Antrag auf Baugenehmigung.",
+                "Erhalt der Baugenehmigung.",
+                "Auflagen der Baugenehmigung."
+            ],
+            "phrasesUk": [
+                "Заявка на дозвіл на будівництво.",
+                "Отримання дозволу.",
+                "Умови (приписи) дозволу на забудову."
+            ]
+        },
+        {
+            "wordDe": "Erschließung",
+            "wordUk": "Підведення комунікацій / Освоєння (ділянки)",
+            "phrasesDe": [
+                "Kosten der Erschließung.",
+                "Stand der Erschließung.",
+                "Maßnahmen zur Erschließung."
+            ],
+            "phrasesUk": [
+                "Витрати на комунікації.",
+                "Статус підведення мереж.",
+                "Заходи з освоєння ділянки."
+            ]
+        },
+        {
+            "wordDe": "Infrastruktur",
+            "wordUk": "Інфраструктура",
+            "phrasesDe": [
+                "Gute Infrastruktur.",
+                "Ausbau der Infrastruktur.",
+                "Anbindung an Infrastruktur."
+            ],
+            "phrasesUk": [
+                "Гарна інфраструктура.",
+                "Розбудова інфраструктури.",
+                "Приєднання до інфраструктури."
+            ]
+        },
+        {
+            "wordDe": "Verkehrsanbindung",
+            "wordUk": "Транспортне сполучення",
+            "phrasesDe": [
+                "Gute Verkehrsanbindung.",
+                "Ausbau der Verkehrsanbindung.",
+                "Lage und Verkehrsanbindung."
+            ],
+            "phrasesUk": [
+                "Гарне транспортне сполучення.",
+                "Розвиток транспортних розв'язок.",
+                "Розташування та сполучення."
+            ]
+        },
+        {
+            "wordDe": "Wohnlage",
+            "wordUk": "Район проживання / Житлова зона",
+            "phrasesDe": [
+                "Ruhige Wohnlage.",
+                "Bevorzugte Wohnlage.",
+                "Bewertung der Wohnlage."
+            ],
+            "phrasesUk": [
+                "Тихий житловий район.",
+                "Престижна житлова зона.",
+                "Оцінка району проживання."
+            ]
+        },
+        {
+            "wordDe": "Gewerbeimmobilie",
+            "wordUk": "Комерційна нерухомість",
+            "phrasesDe": [
+                "Miete einer Gewerbeimmobilie.",
+                "Kauf der Gewerbeimmobilie.",
+                "Ausstattung der Gewerbeimmobilie."
+            ],
+            "phrasesUk": [
+                "Оренда комерційної нерухомості.",
+                "Купівля комерційного об'єкта.",
+                "Оснащення комерційної будівлі."
+            ]
+        },
+        {
+            "wordDe": "Rendite",
+            "wordUk": "Прибутковість / Рентабельність (Рендіте)",
+            "phrasesDe": [
+                "Erwartete Rendite.",
+                "Berechnung der Rendite.",
+                "Höhe der Rendite."
+            ],
+            "phrasesUk": [
+                "Очікувана прибутковість.",
+                "Розрахунок рентабельності.",
+                "Розмір доходу (рендіте)."
+            ]
+        },
+        {
+            "wordDe": "Wertermittlung",
+            "wordUk": "Оцінка вартості",
+            "phrasesDe": [
+                "Gutachten zur Wertermittlung.",
+                "Basis der Wertermittlung.",
+                "Verfahren der Wertermittlung."
+            ],
+            "phrasesUk": [
+                "Експертиза з оцінки вартості.",
+                "Основа оцінки.",
+                "Методи оцінки вартості."
+            ]
+        },
+        {
+            "wordDe": "Besichtigungstermin",
+            "wordUk": "Зустріч для огляду (об'єкта)",
+            "phrasesDe": [
+                "Vereinbarung eines Besichtigungstermins.",
+                "Ablauf des Besichtigungstermins.",
+                "Fragen beim Besichtigungstermin."
+            ],
+            "phrasesUk": [
+                "Узгодження часу огляду.",
+                "Перебіг огляду об'єкта.",
+                "Запитання під час перегляду."
+            ]
+        },
+        {
+            "wordDe": "Selbstauskunft",
+            "wordUk": "Відомості про себе (анкета орендаря/позичальника)",
+            "phrasesDe": [
+                "Ausfüllen der Selbstauskunft.",
+                "Daten in der Selbstauskunft.",
+                "Check der Selbstauskunft."
+            ],
+            "phrasesUk": [
+                "Заповнення анкети (зельбст-аускунфт).",
+                "Дані в самодекларації.",
+                "Перевірка відомостей про себе."
+            ]
+        },
+        {
+            "wordDe": "Bonitätsprüfung",
+            "wordUk": "Перевірка платоспроможності (Бонітет-прюфунг)",
+            "phrasesDe": [
+                "Durchführung der Bonitätsprüfung.",
+                "Ergebnis der Bonitätsprüfung.",
+                "Bedeutung der Bonitätsprüfung."
+            ],
+            "phrasesUk": [
+                "Проведення перевірки платоспроможності.",
+                "Результат перевірки фінансового стану.",
+                "Значення перевірки бонітету."
+            ]
+        },
+        {
+            "wordDe": "Schufa-Auskunft",
+            "wordUk": "Довідка Шуфа (кредитна історія в Німеччині)",
+            "phrasesDe": [
+                "Beantragung der Schufa-Auskunft.",
+                "Inhalt der Schufa-Auskunft.",
+                "Eintrag in der Schufa."
+            ],
+            "phrasesUk": [
+                "Запит довідки Шуфа.",
+                "Зміст кредитної історії.",
+                "Запис у базі Шуфа."
+            ]
+        },
+        {
+            "wordDe": "Einkommensnachweis",
+            "wordUk": "Довідка про доходи / Підтвердження доходу",
+            "phrasesDe": [
+                "Vorlage des Einkommensnachweises.",
+                "Drei Einkommensnachweise.",
+                "Aktueller Einkommensnachweis."
+            ],
+            "phrasesUk": [
+                "Пред'явлення довідки про доходи.",
+                "Три підтвердження доходу.",
+                "Актуальна довідка про доходи."
+            ]
+        },
+        {
+            "wordDe": "Bürge",
+            "wordUk": "Поручитель",
+            "phrasesDe": [
+                "Unterschrift des Bürgen.",
+                "Haftung des Bürgen.",
+                "Suche nach einem Bürgen."
+            ],
+            "phrasesUk": [
+                "Підпис поручителя.",
+                "Відповідальність поручителя.",
+                "Пошук поручителя."
+            ]
+        },
+        {
+            "wordDe": "Mietbürgschaft",
+            "wordUk": "Поручительство за оренду",
+            "phrasesDe": [
+                "Vorlage einer Mietbürgschaft.",
+                "Kosten der Mietbürgschaft.",
+                "Voraussetzung für Mietbürgschaft."
+            ],
+            "phrasesUk": [
+                "Надання поручительства за оренду.",
+                "Вартість поруки.",
+                "Умова для поручительства."
+            ]
+        },
+        {
+            "wordDe": "Wohnberechtigungsschein (WBS)",
+            "wordUk": "Дозвіл на соціальне житло (WBS)",
+            "phrasesDe": [
+                "Antrag auf einen WBS.",
+                "Voraussetzung für WBS.",
+                "Gültigkeit des WBS."
+            ],
+            "phrasesUk": [
+                "Заявка на WBS.",
+                "Умова для отримання дозволу на соцжитло.",
+                "Термін дії WBS."
+            ]
+        },
+        {
+            "wordDe": "Sozialwohnung",
+            "wordUk": "Соціальне житло",
+            "phrasesDe": [
+                "Bezug einer Sozialwohnung.",
+                "Miete der Sozialwohnung.",
+                "Bau von Sozialwohnungen."
+            ],
+            "phrasesUk": [
+                "Вселення в соціальне житло.",
+                "Оренда соцжитла.",
+                "Будівництво соціального житла."
+            ]
+        },
+        {
+            "wordDe": "Wohngemeinschaft (WG)",
+            "wordUk": "Спільне проживання (в одній квартирі) / Ве-Ге (WG)",
+            "phrasesDe": [
+                "Leben in einer WG.",
+                "Zimmer in einer WG.",
+                "Suche nach einer WG."
+            ],
+            "phrasesUk": [
+                "Життя у Ве-Ге (разом з іншими).",
+                "Кімната у спільній квартирі.",
+                "Пошук Ве-Ге."
+            ]
+        },
+        {
+            "wordDe": "Zwischenmiete",
+            "wordUk": "Тимчасова суборенда (Цвішен-міте)",
+            "phrasesDe": [
+                "Angebot zur Zwischenmiete.",
+                "Dauer der Zwischenmiete.",
+                "Vertrag zur Zwischenmiete."
+            ],
+            "phrasesUk": [
+                "Пропозиція тимчасової суборенди.",
+                "Тривалість цвішенміте.",
+                "Договір на тимчасову суборенду."
+            ]
+        },
+        {
+            "wordDe": "Untermieter",
+            "wordUk": "Суборендар",
+            "phrasesDe": [
+                "Suche nach einem Untermieter.",
+                "Rechte des Untermieters.",
+                "Erlaubnis für Untermieter."
+            ],
+            "phrasesUk": [
+                "Пошук суборендаря.",
+                "Права суборендаря.",
+                "Дозвіл (від власника) на суборендаря."
+            ]
+        },
+        {
+            "wordDe": "Hausmeister",
+            "wordUk": "Завгосп / Хаусмайстер",
+            "phrasesDe": [
+                "Aufgabe des Hausmeisters.",
+                "Termin beim Hausmeister.",
+                "Hilfe vom Hausmeister."
+            ],
+            "phrasesUk": [
+                "Завдання хаусмайстера.",
+                "Зустріч із завгоспом.",
+                "Допомога від хаусмайстера."
+            ]
+        },
+        {
+            "wordDe": "Müllentsorgung",
+            "wordUk": "Вивезення сміття / Утилізація відходів",
+            "phrasesDe": [
+                "Kosten der Müllentsorgung.",
+                "Regeln zur Müllentsorgung.",
+                "Plan für Müllentsorgung."
+            ],
+            "phrasesUk": [
+                "Витрати на вивезення сміття.",
+                "Правила утилізації відходів.",
+                "Графік вивезення сміття."
+            ]
+        },
+        {
+            "wordDe": "Treppenhausreinigung",
+            "wordUk": "Прибирання під'їзду (сходової клітки)",
+            "phrasesDe": [
+                "Plan für Treppenhausreinigung.",
+                "Kosten der Treppenhausreinigung.",
+                "Pflicht zur Treppenhausreinigung."
+            ],
+            "phrasesUk": [
+                "Графік прибирання під'їзду.",
+                "Витрати на прибирання сходів.",
+                "Обов'язок прибирання під'їзду."
+            ]
+        },
+        {
+            "wordDe": "Winterdienst",
+            "wordUk": "Прибирання снігу (взимку)",
+            "phrasesDe": [
+                "Kosten für Winterdienst.",
+                "Pflicht zum Winterdienst.",
+                "Durchführung des Winterdienstes."
+            ],
+            "phrasesUk": [
+                "Витрати на прибирання снігу.",
+                "Обов'язок з розчищення снігу.",
+                "Здійснення зимового сервісу."
+            ]
+        },
+        {
+            "wordDe": "Ruhezeiten",
+            "wordUk": "Години тиші",
+            "phrasesDe": [
+                "Einhaltung der Ruhezeiten.",
+                "Regeln für Ruhezeiten.",
+                "Verstoß gegen Ruhezeiten."
+            ],
+            "phrasesUk": [
+                "Дотримання годин тиші.",
+                "Правила щодо часу спокою.",
+                "Порушення годин тиші."
+            ]
+        },
+        {
+            "wordDe": "Heizkosten",
+            "wordUk": "Витрати на опалення",
+            "phrasesDe": [
+                "Abrechnung der Heizkosten.",
+                "Sparen bei Heizkosten.",
+                "Vorauszahlung der Heizkosten."
+            ],
+            "phrasesUk": [
+                "Розрахунок витрат на опалення.",
+                "Економія на опаленні.",
+                "Передоплата за опалення."
+            ]
+        },
+        {
+            "wordDe": "Stromanbieter",
+            "wordUk": "Постачальник електроенергії",
+            "phrasesDe": [
+                "Wahl des Stromanbieters.",
+                "Wechsel des Stromanbieters.",
+                "Rechnung vom Stromanbieter."
+            ],
+            "phrasesUk": [
+                "Вибір постачальника світла.",
+                "Зміна постачальника електроенергії.",
+                "Рахунок від енергокомпанії."
+            ]
+        },
+        {
+            "wordDe": "Internetanschluss",
+            "wordUk": "Підключення до інтернету",
+            "phrasesDe": [
+                "Vertrag für Internetanschluss.",
+                "Kosten für Internetanschluss.",
+                "Geschwindigkeit am Internetanschluss."
+            ],
+            "phrasesUk": [
+                "Контракт на інтернет.",
+                "Вартість підключення до інтернету.",
+                "Швидкість інтернет-з'єднання."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Спорт та Дозвілля": [
+        {
+            "wordDe": "Leistungssport",
+            "wordUk": "Професійний спорт / Спорт високих досягнень",
+            "phrasesDe": [
+                "Fokus auf Leistungssport.",
+                "Druck im Leistungssport.",
+                "Ende der Karriere im Leistungssport."
+            ],
+            "phrasesUk": [
+                "Фокус на професійному спорті.",
+                "Тиск у спорті високих досягнень.",
+                "Кінець кар'єри в професійному спорті."
+            ]
+        },
+        {
+            "wordDe": "Breitensport",
+            "wordUk": "Масовий спорт / Аматорський спорт",
+            "phrasesDe": [
+                "Förderung des Breitensports.",
+                "Spaß am Breitensport.",
+                "Angebot im Breitensport."
+            ],
+            "phrasesUk": [
+                "Сприяння масовому спорту.",
+                "Задоволення від аматорського спорту.",
+                "Пропозиція в масовому спорті."
+            ]
+        },
+        {
+            "wordDe": "Wettbewerb",
+            "wordUk": "Змагання / Конкурс",
+            "phrasesDe": [
+                "An einem Wettbewerb teilnehmen.",
+                "Internationaler Wettbewerb.",
+                "Sieg im Wettbewerb."
+            ],
+            "phrasesUk": [
+                "Брати участь у змаганнях.",
+                "Міжнародне змагання.",
+                "Перемога в конкурсі."
+            ]
+        },
+        {
+            "wordDe": "Meisterschaft",
+            "wordUk": "Чемпіонат / Першість",
+            "phrasesDe": [
+                "Gewinn der Meisterschaft.",
+                "Deutsche Meisterschaft.",
+                "Qualifikation für die Meisterschaft."
+            ],
+            "phrasesUk": [
+                "Виграш у чемпіонаті.",
+                "Чемпіонат Німеччини.",
+                "Кваліфікація на чемпіонат."
+            ]
+        },
+        {
+            "wordDe": "Mannschaft",
+            "wordUk": "Команда",
+            "phrasesDe": [
+                "Eine starke Mannschaft.",
+                "Mitglied der Mannschaft.",
+                "Mannschaftsgeist."
+            ],
+            "phrasesUk": [
+                "Сильна команда.",
+                "Член команди.",
+                "Командний дух."
+            ]
+        },
+        {
+            "wordDe": "Trainer",
+            "wordUk": "Тренер",
+            "phrasesDe": [
+                "Ein erfahrener Trainer.",
+                "Anweisungen des Trainers.",
+                "Wechsel des Trainers."
+            ],
+            "phrasesUk": [
+                "Досвідчений тренер.",
+                "Вказівки тренера.",
+                "Зміна тренера."
+            ]
+        },
+        {
+            "wordDe": "Training",
+            "wordUk": "Тренування",
+            "phrasesDe": [
+                "Hartes Training.",
+                "Tägliches Training.",
+                "Trainingsplan folgen."
+            ],
+            "phrasesUk": [
+                "Важке тренування.",
+                "Щоденне тренування.",
+                "Дотримуватися плану тренувань."
+            ]
+        },
+        {
+            "wordDe": "Ausdauer",
+            "wordUk": "Витривалість",
+            "phrasesDe": [
+                "Viel Ausdauer brauchen.",
+                "Ausdauer trainieren.",
+                "Mangel an Ausdauer."
+            ],
+            "phrasesUk": [
+                "Потребувати великої витривалості.",
+                "Тренувати витривалість.",
+                "Брак витривалості."
+            ]
+        },
+        {
+            "wordDe": "Krafttraining",
+            "wordUk": "Силві тренування",
+            "phrasesDe": [
+                "Effektives Krafttraining.",
+                "Krafttraining im Fitnessstudio.",
+                "Vorteile von Krafttraining."
+            ],
+            "phrasesUk": [
+                "Ефективне силове тренування.",
+                "Силові вправи в залі.",
+                "Переваги силових тренувань."
+            ]
+        },
+        {
+            "wordDe": "Fitnessstudio",
+            "wordUk": "Фітнес-центр / Тренажерний зал",
+            "phrasesDe": [
+                "Ins Fitnessstudio gehen.",
+                "Mitgliedschaft im Fitnessstudio.",
+                "Modernes Fitnessstudio."
+            ],
+            "phrasesUk": [
+                "Йти в тренажерний зал.",
+                "Абонемент у фітнес-центр.",
+                "Сучасний фітнес-зал."
+            ]
+        },
+        {
+            "wordDe": "Mitgliedschaft",
+            "wordUk": "Членство / Абонемент",
+            "phrasesDe": [
+                "Monatliche Mitgliedschaft.",
+                "Mitgliedschaft kündigen.",
+                "Vorteile der Mitgliedschaft."
+            ],
+            "phrasesUk": [
+                "Щомісячне членство.",
+                "Скасувати абонемент.",
+                "Переваги членства."
+            ]
+        },
+        {
+            "wordDe": "Wandern",
+            "wordUk": "Піші прогулянки / Хайкінг",
+            "phrasesDe": [
+                "In den Bergen wandern.",
+                "Wandern macht Spaß.",
+                "Ausrüstung zum Wandern."
+            ],
+            "phrasesUk": [
+                "Гуляти (ходити в походи) в горах.",
+                "Хайкінг — це весело.",
+                "Спорядження для походів."
+            ]
+        },
+        {
+            "wordDe": "Radfahren",
+            "wordUk": "Їзда на велосипеді",
+            "phrasesDe": [
+                "Sicher Radfahren.",
+                "Radfahren in der Stadt.",
+                "Radtour planen."
+            ],
+            "phrasesUk": [
+                "Безпечна їзда на велосипеді.",
+                "Катання на велосипеді в місті.",
+                "Планувати велотур."
+            ]
+        },
+        {
+            "wordDe": "Schwimmen",
+            "wordUk": "Плавання",
+            "phrasesDe": [
+                "Im See schwimmen.",
+                "Schwimmen lernen.",
+                "Schwimmbad besuchen."
+            ],
+            "phrasesUk": [
+                "Плавати в озері.",
+                "Вчитися плавати.",
+                "Відвідати басейн."
+            ]
+        },
+        {
+            "wordDe": "Laufen",
+            "wordUk": "Біг",
+            "phrasesDe": [
+                "Jeden Morgen laufen.",
+                "Marathon laufen.",
+                "Laufschuhe kaufen."
+            ],
+            "phrasesUk": [
+                "Бігати щоранку.",
+                "Бігти марафон.",
+                "Купити взуття для бігу."
+            ]
+        },
+        {
+            "wordDe": "Yoga",
+            "wordUk": "Йога",
+            "phrasesDe": [
+                "Yoga für Anfänger.",
+                "Täglich Yoga machen.",
+                "Yoga-Matte."
+            ],
+            "phrasesUk": [
+                "Йога для початківців.",
+                "Щодня займатися йогою.",
+                "Килимок для йоги."
+            ]
+        },
+        {
+            "wordDe": "Meditation",
+            "wordUk": "Медитація",
+            "phrasesDe": [
+                "Zeit für Meditation.",
+                "Geführte Meditation.",
+                "Wirkung von Meditation."
+            ],
+            "phrasesUk": [
+                "Час для медитації.",
+                "Керована медитація.",
+                "Дія медитації."
+            ]
+        },
+        {
+            "wordDe": "Hobby",
+            "wordUk": "Хобі",
+            "phrasesDe": [
+                "Ein interessantes Hobby.",
+                "Hobby zum Beruf machen.",
+                "Neues Hobby suchen."
+            ],
+            "phrasesUk": [
+                "Цікаве хобі.",
+                "Зробити хобі професією.",
+                "Шукати нове хобі."
+            ]
+        },
+        {
+            "wordDe": "Freizeitgestaltung",
+            "wordUk": "Організація дозвілля",
+            "phrasesDe": [
+                "Sinnvolle Freizeitgestaltung.",
+                "Ideen für die Freizeitgestaltung.",
+                "Gemeinsame Freizeitgestaltung."
+            ],
+            "phrasesUk": [
+                "Осмислене дозвілля.",
+                "Ідеї для організації вільного часу.",
+                "Спільне дозвілля."
+            ]
+        },
+        {
+            "wordDe": "Ehrenamt",
+            "wordUk": "Волонтерство / Громадська праця",
+            "phrasesDe": [
+                "Engagement im Ehrenamt.",
+                "Ehrenamtlich tätig sein.",
+                "Suche nach einem Ehrenamt."
+            ],
+            "phrasesUk": [
+                "Активність у волонтерстві.",
+                "Працювати на громадських засадах.",
+                "Пошук волонтерської діяльності."
+            ]
+        },
+        {
+            "wordDe": "Verein",
+            "wordUk": "Клуб / Спілка / Товариство",
+            "phrasesDe": [
+                "Vorsitzender des Vereins.",
+                "Beitritt zum Verein.",
+                "Vereinsleben genießen."
+            ],
+            "phrasesUk": [
+                "Голова клубу.",
+                "Вступ до спілки.",
+                "Насолоджуватися життям у товаристві."
+            ]
+        },
+        {
+            "wordDe": "Kultur",
+            "wordUk": "Культура",
+            "phrasesDe": [
+                "Kulturelle Angebote.",
+                "Interesse an Kultur.",
+                "Kulturerbe."
+            ],
+            "phrasesUk": [
+                "Культурні пропозиції.",
+                "Інтерес до культури.",
+                "Культурна спадщина."
+            ]
+        },
+        {
+            "wordDe": "Kino",
+            "wordUk": "Кіно",
+            "phrasesDe": [
+                "Ins Kino gehen.",
+                "Aktueller Film im Kino.",
+                "Kinokarte."
+            ],
+            "phrasesUk": [
+                "Йти в кіно.",
+                "Актуальний фільм у кінотеатрі.",
+                "Квиток у кіно."
+            ]
+        },
+        {
+            "wordDe": "Theater",
+            "wordUk": "Театр",
+            "phrasesDe": [
+                "Besuch im Theater.",
+                "Modernes Theaterstück.",
+                "Theaterkarte reservieren."
+            ],
+            "phrasesUk": [
+                "Візит до театру.",
+                "Сучасна театральна п'єса.",
+                "Зарезервувати квиток у театр."
+            ]
+        },
+        {
+            "wordDe": "Konzert",
+            "wordUk": "Концерт",
+            "phrasesDe": [
+                "Ein Live-Konzert.",
+                "Konzert von deiner Lieblingsband.",
+                "Konzertbesuch."
+            ],
+            "phrasesUk": [
+                "Живий концерт.",
+                "Концерт твоєї улюбленої групи.",
+                "Відвідування концерту."
+            ]
+        },
+        {
+            "wordDe": "Museum",
+            "wordUk": "Музей",
+            "phrasesDe": [
+                "Historisches Museum.",
+                "Eintritt ins Museum.",
+                "Ausstellung im Museum."
+            ],
+            "phrasesUk": [
+                "Історичний музей.",
+                "Вхід до музею.",
+                "Виставка в музеї."
+            ]
+        },
+        {
+            "wordDe": "Galerie",
+            "wordUk": "Галерея",
+            "phrasesDe": [
+                "Kunstgalerie besuchen.",
+                "Bilder in der Galerie.",
+                "Eröffnung der Galerie."
+            ],
+            "phrasesUk": [
+                "Відвідати художню галерею.",
+                "Картини в галереї.",
+                "Відкриття галереї."
+            ]
+        },
+        {
+            "wordDe": "Reisen",
+            "wordUk": "Подорожі",
+            "phrasesDe": [
+                "Gerne reisen.",
+                "Weltreise planen.",
+                "Reiselust."
+            ],
+            "phrasesUk": [
+                "Охоче подорожувати.",
+                "Планувати навколосвітню подорож.",
+                "Жага до подорожей."
+            ]
+        },
+        {
+            "wordDe": "Urlaub",
+            "wordUk": "Відпустка",
+            "phrasesDe": [
+                "Urlaub am Meer.",
+                "Urlaub machen.",
+                "Erholung im Urlaub."
+            ],
+            "phrasesUk": [
+                "Відпустка на морі.",
+                "Бути у відпустці.",
+                "Відпочинок у відпустці."
+            ]
+        },
+        {
+            "wordDe": "Entspannung",
+            "wordUk": "Розслаблення",
+            "phrasesDe": [
+                "Zeit für Entspannung.",
+                "Übungen zur Entspannung.",
+                "Tiefe Entspannung finden."
+            ],
+            "phrasesUk": [
+                "Час для розслаблення.",
+                "Вправи для релаксації.",
+                "Знайти глибоке розслаблення."
+            ]
+        },
+        {
+            "wordDe": "Wellness",
+            "wordUk": "Велнес / Оздоровлення",
+            "phrasesDe": [
+                "Wellness-Wochenende.",
+                "Wellness-Bereich.",
+                "Angebot für Wellness."
+            ],
+            "phrasesUk": [
+                "Велнес-вікенд.",
+                "Велнес-зона.",
+                "Пропозиція для оздоровлення."
+            ]
+        },
+        {
+            "wordDe": "Sauna",
+            "wordUk": "Сауна",
+            "phrasesDe": [
+                "In die Sauna gehen.",
+                "Aufguss in der Sauna.",
+                "Entspannung in der Sauna."
+            ],
+            "phrasesUk": [
+                "Йти в сауну.",
+                "Поливання каменів (ауфгус) у сауні.",
+                "Розслаблення в сауні."
+            ]
+        },
+        {
+            "wordDe": "Massage",
+            "wordUk": "Масаж",
+            "phrasesDe": [
+                "Eine wohltuende Massage.",
+                "Termin zur Massage.",
+                "Rückenmassage."
+            ],
+            "phrasesUk": [
+                "Приємний масаж.",
+                "Запис на масаж.",
+                "Масаж спини."
+            ]
+        },
+        {
+            "wordDe": "Gärtnern",
+            "wordUk": "Садівництво",
+            "phrasesDe": [
+                "Hobby Gärtnern.",
+                "Arbeit im Garten.",
+                "Pflanzen pflegen."
+            ],
+            "phrasesUk": [
+                "Хобі — садівництво.",
+                "Робота в саду.",
+                "Доглядати за рослинами."
+            ]
+        },
+        {
+            "wordDe": "Lesen",
+            "wordUk": "Читання",
+            "phrasesDe": [
+                "Ein spannendes Buch lesen.",
+                "Viel lesen bildet.",
+                "Leseecke einrichten."
+            ],
+            "phrasesUk": [
+                "Читати захопливу книгу.",
+                "Багато читати — розвиватися.",
+                "Облаштувати куточок для читання."
+            ]
+        },
+        {
+            "wordDe": "Kochen",
+            "wordUk": "Кулінарія / Готування",
+            "phrasesDe": [
+                "Gerne kochen.",
+                "Kochen für Freunde.",
+                "Kochkurs besuchen."
+            ],
+            "phrasesUk": [
+                "Охоче готувати.",
+                "Готувати для друзів.",
+                "Відвідати кулінарні курси."
+            ]
+        },
+        {
+            "wordDe": "Backen",
+            "wordUk": "Випікання",
+            "phrasesDe": [
+                "Kuchen backen.",
+                "Plätzchen backen zu Weihnachten.",
+                "Frisches Brot backen."
+            ],
+            "phrasesUk": [
+                "Пекти пиріг.",
+                "Пекти печиво на Різдво.",
+                "Пекти свіжий хліб."
+            ]
+        },
+        {
+            "wordDe": "Fotografie",
+            "wordUk": "Фотографія",
+            "phrasesDe": [
+                "Leidenschaft für Fotografie.",
+                "Bilder machen.",
+                "Digitale Fotografie."
+            ],
+            "phrasesUk": [
+                "Пристрасть до фотографії.",
+                "Робити знімки.",
+                "Цифрова фотографія."
+            ]
+        },
+        {
+            "wordDe": "Gaming",
+            "wordUk": "Геймінг / Відеоігри",
+            "phrasesDe": [
+                "Gaming am PC.",
+                "Online-Gaming.",
+                "Neues Spiel ausprobieren."
+            ],
+            "phrasesUk": [
+                "Геймінг на ПК.",
+                "Онлайн-ігри.",
+                "Спробувати нову гру."
+            ]
+        },
+        {
+            "wordDe": "Social Media",
+            "wordUk": "Соціальні мережі",
+            "phrasesDe": [
+                "Zeit in Social Media verbringen.",
+                "Social Media Account.",
+                "Einfluss von Social Media."
+            ],
+            "phrasesUk": [
+                "Проводити час у соцмережах.",
+                "Аккаунт у соціальних мережах.",
+                "Вплив соціальних мереж."
+            ]
+        },
+        {
+            "wordDe": "Streaming",
+            "wordUk": "Стрімінг (перегляд онлайн)",
+            "phrasesDe": [
+                "Filme über Streaming schauen.",
+                "Streaming-Dienst.",
+                "Live-Streaming."
+            ],
+            "phrasesUk": [
+                "Дивитися фільми через стрімінг.",
+                "Стрімінговий сервіс.",
+                "Прямий ефір (лайв-стрім)."
+            ]
+        },
+        {
+            "wordDe": "Heimwerken",
+            "wordUk": "Майстрування вдома / DIY",
+            "phrasesDe": [
+                "Hobby Heimwerken.",
+                "Reparaturen selber machen.",
+                "Werkzeug für Heimwerken."
+            ],
+            "phrasesUk": [
+                "Хобі — майструвати вдома.",
+                "Робити ремонт самостійно.",
+                "Інструмент для домашнього майстра."
+            ]
+        },
+        {
+            "wordDe": "Handarbeit",
+            "wordUk": "Рукоділля",
+            "phrasesDe": [
+                "Stricken und Häkeln.",
+                "Freude an Handarbeit.",
+                "Produkte aus Handarbeit."
+            ],
+            "phrasesUk": [
+                "В'язання спицями та гачком.",
+                "Радість від рукоділля.",
+                "Вироби ручної роботи."
+            ]
+        },
+        {
+            "wordDe": "Sammeln",
+            "wordUk": "Колекціонування",
+            "phrasesDe": [
+                "Briefmarken sammeln.",
+                "Leidenschaft fürs Sammeln.",
+                "Münzsammlung."
+            ],
+            "phrasesUk": [
+                "Колекціонувати марки.",
+                "Пристрасть до колекціонування.",
+                "Колекція монет."
+            ]
+        },
+        {
+            "wordDe": "Zeichnen",
+            "wordUk": "Малювання (олівцем/графіка)",
+            "phrasesDe": [
+                "Porträts zeichnen.",
+                "Zeichnen lernen.",
+                "Stifte zum Zeichnen."
+            ],
+            "phrasesUk": [
+                "Малювати портрети.",
+                "Вчитися малювати.",
+                "Олівці для малювання."
+            ]
+        },
+        {
+            "wordDe": "Malen",
+            "wordUk": "Живопис / Малювання фарбами",
+            "phrasesDe": [
+                "Ein Ölgemälde malen.",
+                "Hobby Malen.",
+                "Farben und Leinwand."
+            ],
+            "phrasesUk": [
+                "Писати картину олією.",
+                "Хобі — живопис.",
+                "Фарби та полотно."
+            ]
+        },
+        {
+            "wordDe": "Instrument spielen",
+            "wordUk": "Грати на інструменті",
+            "phrasesDe": [
+                "Klavier spielen.",
+                "Ein Instrument lernen.",
+                "Musik machen."
+            ],
+            "phrasesUk": [
+                "Грати на піаніно.",
+                "Вивчати інструмент.",
+                "Займатися музикою."
+            ]
+        },
+        {
+            "wordDe": "Singen",
+            "wordUk": "Спів",
+            "phrasesDe": [
+                "Im Chor singen.",
+                "Singen unter der Dusche.",
+                "Sangeslust."
+            ],
+            "phrasesUk": [
+                "Співати в хорі.",
+                "Співати в душі.",
+                "Любов до співу."
+            ]
+        },
+        {
+            "wordDe": "Tanzen",
+            "wordUk": "Танці",
+            "phrasesDe": [
+                "Salsa tanzen.",
+                "Tanzkurs besuchen.",
+                "Freude am Tanzen."
+            ],
+            "phrasesUk": [
+                "Танцювати сальсу.",
+                "Відвідати курси танців.",
+                "Радість від танців."
+            ]
+        },
+        {
+            "wordDe": "Ausflug",
+            "wordUk": "Екскурсія / Прогулянка (поїздка)",
+            "phrasesDe": [
+                "Ein Ausflug ins Grüne.",
+                "Wochenendausflug.",
+                "Ausflug planen."
+            ],
+            "phrasesUk": [
+                "Поїздка на природу.",
+                "Виїзд на вихідні.",
+                "Планувати екскурсію."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Освіта та Наука (Просунутий)": [
+        {
+            "wordDe": "Immatrikulation",
+            "wordUk": "Зарахування до університету (Імматрікуляція)",
+            "phrasesDe": [
+                "Die Immatrikulation läuft.",
+                "Bestätigung der Immatrikulation.",
+                "Unterlagen für die Immatrikulation."
+            ],
+            "phrasesUk": [
+                "Триває зарахування (імматрікуляція).",
+                "Підтвердження зарахування.",
+                "Документи для зарахування."
+            ]
+        },
+        {
+            "wordDe": "Exmatrikulation",
+            "wordUk": "Відрахування / Закінчення навчання (Ексматрікуляція)",
+            "phrasesDe": [
+                "Antrag auf Exmatrikulation.",
+                "Nach der Exmatrikulation.",
+                "Gründe für die Exmatrikulation."
+            ],
+            "phrasesUk": [
+                "Заява на відрахування.",
+                "Після закінчення навчання (ексматрікуляції).",
+                "Причини відрахування."
+            ]
+        },
+        {
+            "wordDe": "Vorlesungsverzeichnis",
+            "wordUk": "Розклад лекцій / Каталог курсів",
+            "phrasesDe": [
+                "Im Vorlesungsverzeichnis suchen.",
+                "Das aktuelle Vorlesungsverzeichnis.",
+                "Kurse aus dem Vorlesungsverzeichnis wählen."
+            ],
+            "phrasesUk": [
+                "Шукати в каталозі лекцій.",
+                "Актуальний розклад лекцій.",
+                "Вибирати курси з каталогу."
+            ]
+        },
+        {
+            "wordDe": "Studiengang",
+            "wordUk": "Навчальна програма / Напрям підготовки",
+            "phrasesDe": [
+                "Ein beliebter Studiengang.",
+                "Studiengang wechseln.",
+                "Inhalt des Studiengangs."
+            ],
+            "phrasesUk": [
+                "Популярний напрям підготовки.",
+                "Змінити навчальну програму.",
+                "Зміст програми навчання."
+            ]
+        },
+        {
+            "wordDe": "Regelstudienzeit",
+            "wordUk": "Нормативний термін навчання",
+            "phrasesDe": [
+                "Innerhalb der Regelstudienzeit.",
+                "Die Regelstudienzeit überschreiten.",
+                "Bafög und Regelstudienzeit."
+            ],
+            "phrasesUk": [
+                "Протягом нормативного терміну навчання.",
+                "Перевищити термін навчання.",
+                "Стипендія Bafög та нормативний термін."
+            ]
+        },
+        {
+            "wordDe": "Hausarbeit",
+            "wordUk": "Курсова робота / Реферат",
+            "phrasesDe": [
+                "Eine Hausarbeit schreiben.",
+                "Abgabetermin für die Hausarbeit.",
+                "Thema der Hausarbeit."
+            ],
+            "phrasesUk": [
+                "Писати курсову роботу.",
+                "Термін здачі курсової.",
+                "Тема курсової роботи."
+            ]
+        },
+        {
+            "wordDe": "Kolloquium",
+            "wordUk": "Колоквіум / Наукова бесіда",
+            "phrasesDe": [
+                "Teilnahme am Kolloquium.",
+                "Vorbereitung auf das Kolloquium.",
+                "Ein spannendes Kolloquium."
+            ],
+            "phrasesUk": [
+                "Участь у колоквіумі.",
+                "Підготовка до колоквіуму.",
+                "Захопливий колоквіум."
+            ]
+        },
+        {
+            "wordDe": "Quellenverzeichnis",
+            "wordUk": "Список джерел",
+            "phrasesDe": [
+                "Ein korrektes Quellenverzeichnis.",
+                "Zitate im Quellenverzeichnis.",
+                "Quellenverzeichnis erstellen."
+            ],
+            "phrasesUk": [
+                "Правильний список джерел.",
+                "Цитати в списку джерел.",
+                "Створити список джерел."
+            ]
+        },
+        {
+            "wordDe": "Plagiat",
+            "wordUk": "Плагіат",
+            "phrasesDe": [
+                "Schutz vor Plagiat.",
+                "Vorwurf von Plagiat.",
+                "Plagiatsprüfung."
+            ],
+            "phrasesUk": [
+                "Захист від плагіату.",
+                "Звинувачення в плагіаті.",
+                "Перевірка на плагіат."
+            ]
+        },
+        {
+            "wordDe": "Stipendium",
+            "wordUk": "Стипендія",
+            "phrasesDe": [
+                "Ein Stipendium beantragen.",
+                "Vollstipendium erhalten.",
+                "Kriterien für das Stipendium."
+            ],
+            "phrasesUk": [
+                "Подати заяву на стипендію.",
+                "Отримати повну стипендію.",
+                "Критерії для отримання стипендії."
+            ]
+        },
+        {
+            "wordDe": "Fachsemester",
+            "wordUk": "Семестр навчання за спеціальністю",
+            "phrasesDe": [
+                "Im dritten Fachsemester.",
+                "Anzahl der Fachsemester.",
+                "Fachsemester zählen."
+            ],
+            "phrasesUk": [
+                "На третьому семестрі спеціальності.",
+                "Кількість семестрів.",
+                "Рахувати семестри навчання."
+            ]
+        },
+        {
+            "wordDe": "Fakultät",
+            "wordUk": "Факультет",
+            "phrasesDe": [
+                "Die philosophische Fakultät.",
+                "Dekan der Fakultät.",
+                "Gebäude der Fakultät."
+            ],
+            "phrasesUk": [
+                "Філософський факультет.",
+                "Декан факультету.",
+                "Будівля факультету."
+            ]
+        },
+        {
+            "wordDe": "Campus",
+            "wordUk": "Кампус (університетське містечко)",
+            "phrasesDe": [
+                "Wohnen auf dem Campus.",
+                "Der Campus ist modern.",
+                "Leben auf dem Campus."
+            ],
+            "phrasesUk": [
+                "Жити в кампусі.",
+                "Кампус сучасний.",
+                "Життя в кампусі."
+            ]
+        },
+        {
+            "wordDe": "Mensa",
+            "wordUk": "Їдальня (університетська)",
+            "phrasesDe": [
+                "Essen in der Mensa.",
+                "Preise in der Mensa.",
+                "Treffen in der Mensa."
+            ],
+            "phrasesUk": [
+                "Їсти в їдальні.",
+                "Ціни в їдальні.",
+                "Зустрітися в їдальні."
+            ]
+        },
+        {
+            "wordDe": "Lerngruppe",
+            "wordUk": "Навчальна група (самостійна)",
+            "phrasesDe": [
+                "Eine Lerngruppe bilden.",
+                "Effektiv in der Lerngruppe.",
+                "Termin für die Lerngruppe."
+            ],
+            "phrasesUk": [
+                "Сформувати навчальну групу.",
+                "Ефективно в навчальній групі.",
+                "Зустріч навчальної групи."
+            ]
+        },
+        {
+            "wordDe": "Selbststudium",
+            "wordUk": "Самостійне навчання",
+            "phrasesDe": [
+                "Fokus auf Selbststudium.",
+                "Zeit für Selbststudium.",
+                "Materialien für das Selbststudium."
+            ],
+            "phrasesUk": [
+                "Фокус на самостійному навчанні.",
+                "Час для самостійного навчання.",
+                "Матеріали для самостійної роботи."
+            ]
+        },
+        {
+            "wordDe": "Thesenpapier",
+            "wordUk": "Тези (доповіді)",
+            "phrasesDe": [
+                "Ein Thesenpapier erstellen.",
+                "Inhalt des Thesenpapiers.",
+                "Fragen zum Thesenpapier."
+            ],
+            "phrasesUk": [
+                "Скласти тези доповіді.",
+                "Зміст тез.",
+                "Питання до тез."
+            ]
+        },
+        {
+            "wordDe": "Seminar",
+            "wordUk": "Семінар",
+            "phrasesDe": [
+                "Teilnahme an einem Seminar.",
+                "Ein spannendes Seminar.",
+                "Seminararbeit schreiben."
+            ],
+            "phrasesUk": [
+                "Участь у семінарі.",
+                "Захопливий семінар.",
+                "Писати семінарську роботу."
+            ]
+        },
+        {
+            "wordDe": "Vorlesung",
+            "wordUk": "Лекція",
+            "phrasesDe": [
+                "In der Vorlesung sitzen.",
+                "Besuch einer Vorlesung.",
+                "Notizen in der Vorlesung."
+            ],
+            "phrasesUk": [
+                "Сидіти на лекції.",
+                "Відвідування лекції.",
+                "Нотатки під час лекції."
+            ]
+        },
+        {
+            "wordDe": "Tutorium",
+            "wordUk": "Туторіал / Консультаційне заняття",
+            "phrasesDe": [
+                "Freiwilliges Tutorium.",
+                "Hilfe im Tutorium.",
+                "Anmeldung zum Tutorium."
+            ],
+            "phrasesUk": [
+                "Добровільне консультаційне заняття.",
+                "Допомога на туторіалі.",
+                "Запис на туторіал."
+            ]
+        },
+        {
+            "wordDe": "Wissenschaftskommunikation",
+            "wordUk": "Наукова комунікація",
+            "phrasesDe": [
+                "Fokus auf Wissenschaftskommunikation.",
+                "Ziele der Wissenschaftskommunikation.",
+                "Moderne Wissenschaftskommunikation."
+            ],
+            "phrasesUk": [
+                "Фокус на науковій комунікації.",
+                "Цілі наукової комунікації.",
+                "Сучасна наукова комунікація."
+            ]
+        },
+        {
+            "wordDe": "Hypothese",
+            "wordUk": "Гіпотеза",
+            "phrasesDe": [
+                "Eine Hypothese aufstellen.",
+                "Bestätigung der Hypothese.",
+                "Die Hypothese prüfen."
+            ],
+            "phrasesUk": [
+                "Висунути гіпотезу.",
+                "Підтвердження гіпотези.",
+                "Перевірити гіпотезу."
+            ]
+        },
+        {
+            "wordDe": "Empirie",
+            "wordUk": "Емпіричні дані / Досвід",
+            "phrasesDe": [
+                "Basis der Empirie.",
+                "Empirische Forschung.",
+                "Ergebnisse der Empirie."
+            ],
+            "phrasesUk": [
+                "Основа емпірики.",
+                "Емпіричне дослідження.",
+                "Емпіричні результати."
+            ]
+        },
+        {
+            "wordDe": "Datenerhebung",
+            "wordUk": "Збір даних",
+            "phrasesDe": [
+                "Methoden der Datenerhebung.",
+                "Phase der Datenerhebung.",
+                "Präzise Datenerhebung."
+            ],
+            "phrasesUk": [
+                "Методи збору даних.",
+                "Фаза збору даних.",
+                "Точний збір даних."
+            ]
+        },
+        {
+            "wordDe": "Statistik",
+            "wordUk": "Статистика",
+            "phrasesDe": [
+                "Statistiken analysieren.",
+                "Amtliche Statistik.",
+                "Lerne Statistik."
+            ],
+            "phrasesUk": [
+                "Аналізувати статистику.",
+                "Офіційна статистика.",
+                "Вивчай статистику."
+            ]
+        },
+        {
+            "wordDe": "Analyse",
+            "wordUk": "Аналіз",
+            "phrasesDe": [
+                "Detaillierte Analyse.",
+                "Analyse der Ergebnisse.",
+                "Fokus auf die Analyse."
+            ],
+            "phrasesUk": [
+                "Детальний аналіз.",
+                "Аналіз результатів.",
+                "Фокус на аналізі."
+            ]
+        },
+        {
+            "wordDe": "Methodik",
+            "wordUk": "Методика",
+            "phrasesDe": [
+                "Wissenschaftliche Methodik.",
+                "Fokus auf Methodik.",
+                "Richtige Methodik wählen."
+            ],
+            "phrasesUk": [
+                "Наукова методика.",
+                "Фокус на методиці.",
+                "Вибрати правильну методику."
+            ]
+        },
+        {
+            "wordDe": "Innovation",
+            "wordUk": "Інновація",
+            "phrasesDe": [
+                "Bereit für Innovation.",
+                "Forschung und Innovation.",
+                "Neue Innovationen."
+            ],
+            "phrasesUk": [
+                "Готовність до інновацій.",
+                "Дослідження та інновації.",
+                "Нові інновації."
+            ]
+        },
+        {
+            "wordDe": "Technologietransfer",
+            "wordUk": "Трансфер технологій",
+            "phrasesDe": [
+                "Fokus auf Technologietransfer.",
+                "Zentrum für Technologietransfer.",
+                "Vorteile des Technologietransfers."
+            ],
+            "phrasesUk": [
+                "Фокус на трансфері технологій.",
+                "Центр трансферу технологій.",
+                "Переваги трансферу технологій."
+            ]
+        },
+        {
+            "wordDe": "Publikation",
+            "wordUk": "Публікація / Видання",
+            "phrasesDe": [
+                "Wissenschaftliche Publikation.",
+                "Liste der Publikationen.",
+                "Publikation einreichen."
+            ],
+            "phrasesUk": [
+                "Наукова публікація.",
+                "Список публікацій.",
+                "Подати роботу до публікації."
+            ]
+        },
+        {
+            "wordDe": "Gutachten",
+            "wordUk": "Експертний висновок / Рецензія",
+            "phrasesDe": [
+                "Ein schriftliches Gutachten.",
+                "Gutachten erstellen.",
+                "Warten auf das Gutachten."
+            ],
+            "phrasesUk": [
+                "Письмовий експертний висновок.",
+                "Скласти рецензію.",
+                "Чекати на висновок експерта."
+            ]
+        },
+        {
+            "wordDe": "Promotion",
+            "wordUk": "Здобуття наукового ступеня",
+            "phrasesDe": [
+                "Promotion abschließen.",
+                "Thema der Promotion.",
+                "Stelle zur Promotion."
+            ],
+            "phrasesUk": [
+                "Завершити роботу над докторською.",
+                "Тема дисертації.",
+                "Місце для аспірантури."
+            ]
+        },
+        {
+            "wordDe": "Doktorand",
+            "wordUk": "Докторант / Аспірант",
+            "phrasesDe": [
+                "Ein fleißiger Doktorand.",
+                "Betreuung der Doktoranden.",
+                "Doktoranden-Seminar."
+            ],
+            "phrasesUk": [
+                "Старанний докторант.",
+                "Кураторство аспірантів.",
+                "Семінар для докторантів."
+            ]
+        },
+        {
+            "wordDe": "Forschungsstipendium",
+            "wordUk": "Дослідницька стипендія (грант)",
+            "phrasesDe": [
+                "Ein Forschungsstipendium erhalten.",
+                "Antrag auf Forschungsstipendium.",
+                "Dauer des Forschungsstipendiums."
+            ],
+            "phrasesUk": [
+                "Отримати дослідницьку стипендію.",
+                "Заявка на дослідницький грант.",
+                "Тривалість стипендії."
+            ]
+        },
+        {
+            "wordDe": "Labor",
+            "wordUk": "Лабораторія",
+            "phrasesDe": [
+                "Arbeit im Labor.",
+                "Modernes Labor.",
+                "Sicherheit im Labor."
+            ],
+            "phrasesUk": [
+                "Робота в лабораторії.",
+                "Сучасна лабораторія.",
+                "Безпека в лабораторії."
+            ]
+        },
+        {
+            "wordDe": "Patent",
+            "wordUk": "Патент",
+            "phrasesDe": [
+                "Ein Patent anmelden.",
+                "Schutz durch Patent.",
+                "Patent erteilt."
+            ],
+            "phrasesUk": [
+                "Зареєструвати патент.",
+                "Захист патентом.",
+                "Патент видано."
+            ]
+        },
+        {
+            "wordDe": "Erfindung",
+            "wordUk": "Винахід",
+            "phrasesDe": [
+                "Eine großartige Erfindung.",
+                "Entwicklung einer Erfindung.",
+                "Die Erfindung patentieren."
+            ],
+            "phrasesUk": [
+                "Чудовий винахід.",
+                "Розвиток винаходу.",
+                "Запатентувати винахід."
+            ]
+        },
+        {
+            "wordDe": "Entwicklungshilfe",
+            "wordUk": "Допомога в розвитку",
+            "phrasesDe": [
+                "Fokus auf Entwicklungshilfe.",
+                "Mittel für Entwicklungshilfe.",
+                "Ziele der Entwicklungshilfe."
+            ],
+            "phrasesUk": [
+                "Фокус на допомозі в розвитку.",
+                "Кошти на допомогу в розвитку.",
+                "Цілі допомоги в розвитку."
+            ]
+        },
+        {
+            "wordDe": "Globalisierung",
+            "wordUk": "Глобалізація",
+            "phrasesDe": [
+                "Auswirkungen der Globalisierung.",
+                "Globalisierung der Märkte.",
+                "Kritik an der Globalisierung."
+            ],
+            "phrasesUk": [
+                "Наслідки глобалізації.",
+                "Глобалізація ринків.",
+                "Критика глобалізації."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltigkeit",
+            "wordUk": "Стала екологічність / Сталий розвиток",
+            "phrasesDe": [
+                "Nachhaltigkeit in der Forschung.",
+                "Ziele für Nachhaltigkeit.",
+                "Nachhaltige Entwicklung."
+            ],
+            "phrasesUk": [
+                "Сталий розвиток у дослідженнях.",
+                "Цілі сталого розвитку.",
+                "Екологічний розвиток."
+            ]
+        },
+        {
+            "wordDe": "Ethik",
+            "wordUk": "Етика",
+            "phrasesDe": [
+                "Ethik in der Wissenschaft.",
+                "Ethische Fragen.",
+                "Ethikrat."
+            ],
+            "phrasesUk": [
+                "Етика в науці.",
+                "Етичні питання.",
+                "Рада з питань етики."
+            ]
+        },
+        {
+            "wordDe": "Philosophie",
+            "wordUk": "Філософія",
+            "phrasesDe": [
+                "Studium der Philosophie.",
+                "Eigene Philosophie.",
+                "Philosophische Werke."
+            ],
+            "phrasesUk": [
+                "Вивчення філософії.",
+                "Власна філософія.",
+                "Філософські праці."
+            ]
+        },
+        {
+            "wordDe": "Psychologie",
+            "wordUk": "Психологія",
+            "phrasesDe": [
+                "Fokus auf Psychologie.",
+                "Psychologie studieren.",
+                "Psychologische Beratung."
+            ],
+            "phrasesUk": [
+                "Фокус на психології.",
+                "Вивчати психологію.",
+                "Психологічна консультація."
+            ]
+        },
+        {
+            "wordDe": "Soziologie",
+            "wordUk": "Соціологія",
+            "phrasesDe": [
+                "Themen der Soziologie.",
+                "Soziologie studieren.",
+                "Soziologische Forschung."
+            ],
+            "phrasesUk": [
+                "Теми соціології.",
+                "Вивчати соціологію.",
+                "Соціологічне дослідження."
+            ]
+        },
+        {
+            "wordDe": "Politologie",
+            "wordUk": "Політологія",
+            "phrasesDe": [
+                "Fokus auf Politologie.",
+                "Politologie studieren.",
+                "Experte für Politologie."
+            ],
+            "phrasesUk": [
+                "Фокус на політології.",
+                "Вивчати політологію.",
+                "Експерт із політології."
+            ]
+        },
+        {
+            "wordDe": "Linguistik",
+            "wordUk": "Лінгвістика / Мовознавство",
+            "phrasesDe": [
+                "Angewandte Linguistik.",
+                "Studium der Linguistik.",
+                "Linguistische Analyse."
+            ],
+            "phrasesUk": [
+                "Прикладна лінгвістика.",
+                "Вивчення лінгвістики.",
+                "Лінгвістичний аналіз."
+            ]
+        },
+        {
+            "wordDe": "Archäologie",
+            "wordUk": "Археологія",
+            "phrasesDe": [
+                "Fokus auf Archäologie.",
+                "Funde in der Archäologie.",
+                "Archäologische Ausgrabung."
+            ],
+            "phrasesUk": [
+                "Фокус на археології.",
+                "Знахідки в археології.",
+                "Археологічні розкопки."
+            ]
+        },
+        {
+            "wordDe": "Astronomie",
+            "wordUk": "Астрономія",
+            "phrasesDe": [
+                "Sterne in der Astronomie.",
+                "Astronomie studieren.",
+                "Entdeckungen in der Astronomie."
+            ],
+            "phrasesUk": [
+                "Зірки в астрономії.",
+                "Вивчати астрономію.",
+                "Відкриття в астрономії."
+            ]
+        },
+        {
+            "wordDe": "Genetik",
+            "wordUk": "Генетика",
+            "phrasesDe": [
+                "Moderne Genetik.",
+                "Fortschritte in der Genetik.",
+                "Genetische Forschung."
+            ],
+            "phrasesUk": [
+                "Сучасна генетика.",
+                "Прогрес у генетиці.",
+                "Генетичне дослідження."
+            ]
+        },
+        {
+            "wordDe": "Ökologie",
+            "wordUk": "Екологія",
+            "phrasesDe": [
+                "Umgang mit Ökologie.",
+                "Ökologie studieren.",
+                "Ökologische Krise."
+            ],
+            "phrasesUk": [
+                "Робота з екологією.",
+                "Вивчати екологію.",
+                "Екологічна криза."
+            ]
+        }
+    ]
+}

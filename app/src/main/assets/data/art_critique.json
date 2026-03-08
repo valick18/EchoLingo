@@ -1,0 +1,704 @@
+{
+    "Мистецтво та Критика": [
+        {
+            "wordDe": "Ästhetik",
+            "wordUk": "Естетика",
+            "phrasesDe": [
+                "Prinzipien der Ästhetik.",
+                "Wandel der Ästhetik.",
+                "Fragen der Ästhetik."
+            ],
+            "phrasesUk": [
+                "Принципи естетики.",
+                "Зміна естетики.",
+                "Питання естетики."
+            ]
+        },
+        {
+            "wordDe": "Meisterwerk",
+            "wordUk": "Шедевр",
+            "phrasesDe": [
+                "Ein wahres Meisterwerk.",
+                "Meisterwerk der Architektur.",
+                "Meisterwerk des Malers."
+            ],
+            "phrasesUk": [
+                "Справжній шедевр.",
+                "Шедевр архітектури.",
+                "Шедевр художника."
+            ]
+        },
+        {
+            "wordDe": "Vernissage",
+            "wordUk": "Вернісаж / Відкриття виставки",
+            "phrasesDe": [
+                "Besuch einer Vernissage.",
+                "Einladung zur Vernissage.",
+                "Stimmung auf der Vernissage."
+            ],
+            "phrasesUk": [
+                "Візит на вернісаж.",
+                "Запрошення на відкриття виставки.",
+                "Атмосфера на вернісажі."
+            ]
+        },
+        {
+            "wordDe": "Ausstellung",
+            "wordUk": "Виставка",
+            "phrasesDe": [
+                "Eine große Ausstellung.",
+                "Ausstellung eröffnen.",
+                "In der Ausstellung."
+            ],
+            "phrasesUk": [
+                "Велика виставка.",
+                "Відкрити виставку.",
+                "На виставці."
+            ]
+        },
+        {
+            "wordDe": "Galerie",
+            "wordUk": "Галерея",
+            "phrasesDe": [
+                "Eine berühmte Galerie.",
+                "Galerie für moderne Kunst.",
+                "Besuch in der Galerie."
+            ],
+            "phrasesUk": [
+                "Знаменита галерея.",
+                "Галерея сучасного мистецтва.",
+                "Візит до галереї."
+            ]
+        },
+        {
+            "wordDe": "Exponat",
+            "wordUk": "Експонат",
+            "phrasesDe": [
+                "Ein wertvolles Exponat.",
+                "Erläuterung zum Exponat.",
+                "Auswahl der Exponate."
+            ],
+            "phrasesUk": [
+                "Цінний експонат.",
+                "Пояснення до експоната.",
+                "Вибір експонатів."
+            ]
+        },
+        {
+            "wordDe": "Kurator",
+            "wordUk": "Куратор",
+            "phrasesDe": [
+                "Aufgabe des Kurators.",
+                "Konzept des Kurators.",
+                "Zusammenarbeit mit dem Kurator."
+            ],
+            "phrasesUk": [
+                "Завдання куратора.",
+                "Концепція куратора.",
+                "Співпраця з куратором."
+            ]
+        },
+        {
+            "wordDe": "Inspiriation",
+            "wordUk": "Натхнення (Інспіраціон)",
+            "phrasesDe": [
+                "Quelle der Inspiration.",
+                "Suche nach Inspiration.",
+                "Moment der Inspiration."
+            ],
+            "phrasesUk": [
+                "Джерело натхнення.",
+                "Пошук натхнення.",
+                "Момент натхнення."
+            ]
+        },
+        {
+            "wordDe": "Atelier",
+            "wordUk": "Ательє / Майстерня художника",
+            "phrasesDe": [
+                "Arbeit im Atelier.",
+                "Besuch im Atelier.",
+                "Ausstattung des Ateliers."
+            ],
+            "phrasesUk": [
+                "Робота в майстерні.",
+                "Візит до ательє.",
+                "Оснащення майстерні."
+            ]
+        },
+        {
+            "wordDe": "Skizze",
+            "wordUk": "Ескіз / Начерк",
+            "phrasesDe": [
+                "Eine schnelle Skizze.",
+                "Skizze anfertigen.",
+                "Bedeutung der Skizze."
+            ],
+            "phrasesUk": [
+                "Швидкий начерк.",
+                "Зробити ескіз.",
+                "Значення ескізу."
+            ]
+        },
+        {
+            "wordDe": "Leinwand",
+            "wordUk": "Полотно",
+            "phrasesDe": [
+                "Malerei auf Leinwand.",
+                "Größe der Leinwand.",
+                "Vorbereitung der Leinwand."
+            ],
+            "phrasesUk": [
+                "Живопис на полотні.",
+                "Розмір полотна.",
+                "Підготовка полотна."
+            ]
+        },
+        {
+            "wordDe": "Pinselstrich",
+            "wordUk": "Мазок пензлем",
+            "phrasesDe": [
+                "Ein feiner Pinselstrich.",
+                "Kraftvolle Pinselstriche.",
+                "Spuren der Pinselstriche."
+            ],
+            "phrasesUk": [
+                "Тонкий мазок.",
+                "Потужні мазки.",
+                "Сліди мазків."
+            ]
+        },
+        {
+            "wordDe": "Farbpalette",
+            "wordUk": "Колірна палітра",
+            "phrasesDe": [
+                "Eine breite Farbpalette.",
+                "Wahl der Farbpalette.",
+                "Harmonische Farbpalette."
+            ],
+            "phrasesUk": [
+                "Широка колірна гама.",
+                "Вибір палітри кольорів.",
+                "Гармонійна колірна палітра."
+            ]
+        },
+        {
+            "wordDe": "Komposition",
+            "wordUk": "Композиція",
+            "phrasesDe": [
+                "Aufbau der Komposition.",
+                "Dynamische Komposition.",
+                "Regeln der Komposition."
+            ],
+            "phrasesUk": [
+                "Будова композиції.",
+                "Динамічна композиція.",
+                "Правила композиції."
+            ]
+        },
+        {
+            "wordDe": "Perspektive",
+            "wordUk": "Перспектива",
+            "phrasesDe": [
+                "Lineare Perspektive.",
+                "Wahl der Perspektive.",
+                "Spiel mit der Perspektive."
+            ],
+            "phrasesUk": [
+                "Лінійна перспектива.",
+                "Вибір перспективи.",
+                "Гра з перспективою."
+            ]
+        },
+        {
+            "wordDe": "Stillleben",
+            "wordUk": "Натюрморт (Штільлебен)",
+            "phrasesDe": [
+                "Ein klassisches Stillleben.",
+                "Blumen im Stillleben.",
+                "Meister des Stilllebens."
+            ],
+            "phrasesUk": [
+                "Класичний натюрморт.",
+                "Квіти в натюрморті.",
+                "Майстер натюрморту."
+            ]
+        },
+        {
+            "wordDe": "Porträt",
+            "wordUk": "Портрет",
+            "phrasesDe": [
+                "Ein lebensnahes Porträt.",
+                "Selbstporträt.",
+                "Auftrag für ein Porträt."
+            ],
+            "phrasesUk": [
+                "Життєвий портрет.",
+                "Автопортрет.",
+                "Замовлення на портрет."
+            ]
+        },
+        {
+            "wordDe": "Landschaftsmalerei",
+            "wordUk": "Пейзажний живопис",
+            "phrasesDe": [
+                "Interesse an Landschaftsmalerei.",
+                "Stile der Landschaftsmalerei.",
+                "Berühmte Landschaftsmalerei."
+            ],
+            "phrasesUk": [
+                "Інтерес до пейзажного живопису.",
+                "Стилі пейзажу.",
+                "Знаменитий пейзажний живопис."
+            ]
+        },
+        {
+            "wordDe": "Abstraktion",
+            "wordUk": "Абстракція",
+            "phrasesDe": [
+                "Grad der Abstraktion.",
+                "Wege zur Abstraktion.",
+                "Bedeutung der Abstraktion."
+            ],
+            "phrasesUk": [
+                "Ступінь абстракції.",
+                "Шляхи до абстракції.",
+                "Значення абстракції."
+            ]
+        },
+        {
+            "wordDe": "Skulptur",
+            "wordUk": "Скульптура",
+            "phrasesDe": [
+                "Eine moderne Skulptur.",
+                "Material der Skulptur.",
+                "Aufstellung der Skulptur."
+            ],
+            "phrasesUk": [
+                "Сучасна скульптура.",
+                "Матеріал скульптури.",
+                "Встановлення скульптури."
+            ]
+        },
+        {
+            "wordDe": "Plastik",
+            "wordUk": "Пластика / Скульптура (об'ємна)",
+            "phrasesDe": [
+                "Eine antike Plastik.",
+                "Formen der Plastik.",
+                "Plastik aus Bronze."
+            ],
+            "phrasesUk": [
+                "Антична пластика.",
+                "Форми пластики.",
+                "Скульптура з бронзи."
+            ]
+        },
+        {
+            "wordDe": "Architektur",
+            "wordUk": "Архітектура",
+            "phrasesDe": [
+                "Moderne Architektur.",
+                "Geschichte der Architektur.",
+                "Elemente der Architektur."
+            ],
+            "phrasesUk": [
+                "Сучасна архітектура.",
+                "Історія архітектури.",
+                "Елементи архітектури."
+            ]
+        },
+        {
+            "wordDe": "Denkmal",
+            "wordUk": "Пам'ятник / Пам'ятка",
+            "phrasesDe": [
+                "Ein historisches Denkmal.",
+                "Schutz der Denkmäler.",
+                "Errichtung eines Denkmals."
+            ],
+            "phrasesUk": [
+                "Історичний пам'ятник.",
+                "Захист пам'яток.",
+                "Зведення пам'ятника."
+            ]
+        },
+        {
+            "wordDe": "Restaurierung",
+            "wordUk": "Реставрація",
+            "phrasesDe": [
+                "Aufwendige Restaurierung.",
+                "Kosten der Restaurierung.",
+                "Ziel der Restaurierung."
+            ],
+            "phrasesUk": [
+                "Дороговартісна реставрація.",
+                "Витрати на реставрацію.",
+                "Мета реставрації."
+            ]
+        },
+        {
+            "wordDe": "Kulturerbe",
+            "wordUk": "Культурна спадщина",
+            "phrasesDe": [
+                "Weltkulturerbe der UNESCO.",
+                "Schutz des Kulturerbes.",
+                "Bedeutung des Kulturerbes."
+            ],
+            "phrasesUk": [
+                "Світова спадщина ЮНЕСКО.",
+                "Захист культурної спадщини.",
+                "Значення культурної спадщини."
+            ]
+        },
+        {
+            "wordDe": "Epoche",
+            "wordUk": "Епоха / Період",
+            "phrasesDe": [
+                "Merkmale einer Epoche.",
+                "Wandel der Epochen.",
+                "Kunst einer Epoche."
+            ],
+            "phrasesUk": [
+                "Ознаки епохи.",
+                "Зміна епох.",
+                "Мистецтво певної епохи."
+            ]
+        },
+        {
+            "wordDe": "Renaissance",
+            "wordUk": "Ренесанс / Відродження",
+            "phrasesDe": [
+                "Ideals der Renaissance.",
+                "Meister der Renaissance.",
+                "Bedeutung der Renaissance."
+            ],
+            "phrasesUk": [
+                "Ідеали Ренесансу.",
+                "Майстри Відродження.",
+                "Значення Ренесансу."
+            ]
+        },
+        {
+            "wordDe": "Barock",
+            "wordUk": "Бароко",
+            "phrasesDe": [
+                "Pracht des Barock.",
+                "Architektur des Barock.",
+                "Musik des Barock."
+            ],
+            "phrasesUk": [
+                "Пишність бароко.",
+                "Архітектура бароко.",
+                "Музика бароко."
+            ]
+        },
+        {
+            "wordDe": "Expressionismus",
+            "wordUk": "Експресіонізм",
+            "phrasesDe": [
+                "Farben des Expressionismus.",
+                "Themen des Expressionismus.",
+                "Vertreter des Expressionismus."
+            ],
+            "phrasesUk": [
+                "Кольори експресіонізму.",
+                "Теми експресіонізму.",
+                "Представники експресіонізму."
+            ]
+        },
+        {
+            "wordDe": "Impressionismus",
+            "wordUk": "Імпресіонізм",
+            "phrasesDe": [
+                "Licht im Impressionismus.",
+                "Vertreter des Impressionismus.",
+                "Merkmale des Impressionismus."
+            ],
+            "phrasesUk": [
+                "Світло в імпресіонізмі.",
+                "Представники імпресіонізму.",
+                "Ознаки імпресіонізму."
+            ]
+        },
+        {
+            "wordDe": "Avantgarde",
+            "wordUk": "Авангард",
+            "phrasesDe": [
+                "Geist der Avantgarde.",
+                "Künstler der Avantgarde.",
+                "Bedeutung der Avantgarde."
+            ],
+            "phrasesUk": [
+                "Дух авангарду.",
+                "Художники авангарду.",
+                "Значення авангарду."
+            ]
+        },
+        {
+            "wordDe": "Kritik",
+            "wordUk": "Критика",
+            "phrasesDe": [
+                "Konstruktive Kritik.",
+                "Kritik an der Ausstellung.",
+                "Kunstkritik."
+            ],
+            "phrasesUk": [
+                "Конструктивна критика.",
+                "Критика виставки.",
+                "Мистецтвознавча критика."
+            ]
+        },
+        {
+            "wordDe": "Rezension",
+            "wordUk": "Рецензія / Огляд",
+            "phrasesDe": [
+                "Eine positive Rezension.",
+                "Rezension des Films.",
+                "Rezension verfassen."
+            ],
+            "phrasesUk": [
+                "Позитивна рецензія.",
+                "Огляд фільму.",
+                "Писати рецензію."
+            ]
+        },
+        {
+            "wordDe": "Interpretation",
+            "wordUk": "Інтерпретація / Тлумачення",
+            "phrasesDe": [
+                "Freiraum für Interpretation.",
+                "Interpretation des Werkes.",
+                "Verschiedene Interpretationen."
+            ],
+            "phrasesUk": [
+                "Простір для інтерпретації.",
+                "Тлумачення твору.",
+                "Різні інтерпретації."
+            ]
+        },
+        {
+            "wordDe": "Symbolik",
+            "wordUk": "Символіка",
+            "phrasesDe": [
+                "Bedeutung der Symbolik.",
+                "Religiöse Symbolik.",
+                "Tiefe Symbolik."
+            ],
+            "phrasesUk": [
+                "Значення символіки.",
+                "Релігійна символіка.",
+                "Глибока символіка."
+            ]
+        },
+        {
+            "wordDe": "Metapher",
+            "wordUk": "Метафора",
+            "phrasesDe": [
+                "Eine treffende Metapher.",
+                "Gebrauch von Metaphern.",
+                "Bedeutung der Metapher."
+            ],
+            "phrasesUk": [
+                "Влучна метафора.",
+                "Використання метафор.",
+                "Значення метафори."
+            ]
+        },
+        {
+            "wordDe": "Provokation",
+            "wordUk": "Провокація",
+            "phrasesDe": [
+                "Kunst als Provokation.",
+                "Ziel der Provokation.",
+                "Versuch der Provokation."
+            ],
+            "phrasesUk": [
+                "Мистецтво як провокація.",
+                "Мета провокації.",
+                "Спроба провокації."
+            ]
+        },
+        {
+            "wordDe": "Skandal",
+            "wordUk": "Скандал",
+            "phrasesDe": [
+                "Ein großer Skandal.",
+                "Ursache für den Skandal.",
+                "Folgen des Skandals."
+            ],
+            "phrasesUk": [
+                "Великий скандал.",
+                "Причина скандалу.",
+                "Наслідки скандалу."
+            ]
+        },
+        {
+            "wordDe": "Publikum",
+            "wordUk": "Публіка / Глядачі",
+            "phrasesDe": [
+                "Reaktion des Publikums.",
+                "Begeistertes Publikum.",
+                "Vor dem Publikum."
+            ],
+            "phrasesUk": [
+                "Реакція публіки.",
+                "Захоплені глядачі.",
+                "Перед публікою."
+            ]
+        },
+        {
+            "wordDe": "Bühne",
+            "wordUk": "Сцена",
+            "phrasesDe": [
+                "Auf der Bühne stehen.",
+                "Gestaltung der Bühne.",
+                "Hinter der Bühne."
+            ],
+            "phrasesUk": [
+                "Стояти на сцені.",
+                "Оформлення сцени.",
+                "За лаштунками (поза сценою)."
+            ]
+        },
+        {
+            "wordDe": "Inszenierung",
+            "wordUk": "Постановка / Інсценізація",
+            "phrasesDe": [
+                "Eine moderne Inszenierung.",
+                "Inszenierung des Stücks.",
+                "Kritik an der Inszenierung."
+            ],
+            "phrasesUk": [
+                "Сучасна постановка.",
+                "Постановка п'єси.",
+                "Критика інсценізації."
+            ]
+        },
+        {
+            "wordDe": "Regie",
+            "wordUk": "Режисура",
+            "phrasesDe": [
+                "Führung der Regie.",
+                "Konzept der Regie.",
+                "Zusammenarbeit mit der Regie."
+            ],
+            "phrasesUk": [
+                "Керівництво постановкою.",
+                "Режисерська концепція.",
+                "Співпраця з режисурою."
+            ]
+        },
+        {
+            "wordDe": "Schauspieler",
+            "wordUk": "Актор",
+            "phrasesDe": [
+                "Ein begabter Schauspieler.",
+                "Rolle des Schauspielers.",
+                "Karriere als Schauspieler."
+            ],
+            "phrasesUk": [
+                "Обдарований актор.",
+                "Роль актора.",
+                "Кар'єра актора."
+            ]
+        },
+        {
+            "wordDe": "Drehbuch",
+            "wordUk": "Сценарій (Дребух)",
+            "phrasesDe": [
+                "Schreiben eines Drehbuchs.",
+                "Vorlage für das Drehbuch.",
+                "Änderung im Drehbuch."
+            ],
+            "phrasesUk": [
+                "Написання сценарію.",
+                "Основа для сценарію.",
+                "Зміна в сценарії."
+            ]
+        },
+        {
+            "wordDe": "Uraufführung",
+            "wordUk": "Прем'єра / Перша постановка",
+            "phrasesDe": [
+                "Erfolg der Uraufführung.",
+                "Datum der Uraufführung.",
+                "Besuch der Uraufführung."
+            ],
+            "phrasesUk": [
+                "Успіх прем'єри.",
+                "Дата першого показу.",
+                "Відвідування прем'єри."
+            ]
+        },
+        {
+            "wordDe": "Fiktion",
+            "wordUk": "Фікція / Вигадка",
+            "phrasesDe": [
+                "Welt der Fiktion.",
+                "Grenze zur Fiktion.",
+                "Bedeutung der Fiktion."
+            ],
+            "phrasesUk": [
+                "Світ вигадки.",
+                "Межа з фікцією.",
+                "Значення фікції."
+            ]
+        },
+        {
+            "wordDe": "Realismus",
+            "wordUk": "Реалізм",
+            "phrasesDe": [
+                "Magischer Realismus.",
+                "Vertreter des Realismus.",
+                "Merkmale des Realismus."
+            ],
+            "phrasesUk": [
+                "Магічний реалізм.",
+                "Представники реалізму.",
+                "Ознаки реалізму."
+            ]
+        },
+        {
+            "wordDe": "Subjektiv",
+            "wordUk": "Суб'єктивний",
+            "phrasesDe": [
+                "Eine subjektive Sicht.",
+                "Subjektive Wahrnehmung.",
+                "Subjektive Meinung."
+            ],
+            "phrasesUk": [
+                "Суб'єктивний погляд.",
+                "Суб'єктивне сприйняття.",
+                "Суб'єктивна думка."
+            ]
+        },
+        {
+            "wordDe": "Objektiv",
+            "wordUk": "Об'єктивний",
+            "phrasesDe": [
+                "Eine objektive Analyse.",
+                "Objektive Beurteilung.",
+                "Objektive Kriterien."
+            ],
+            "phrasesUk": [
+                "Об'єктивний аналіз.",
+                "Об'єктивне судження.",
+                "Об'єктивні критерії."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltig",
+            "wordUk": "Тривалий / Сталий (вплив)",
+            "phrasesDe": [
+                "Ein nachhaltiger Eindruck.",
+                "Nachhaltige Wirkung der Kunst.",
+                "Nachhaltiges Interesse."
+            ],
+            "phrasesUk": [
+                "Тривале враження.",
+                "Сталий вплив мистецтва.",
+                "Постійний інтерес."
+            ]
+        }
+    ]
+}

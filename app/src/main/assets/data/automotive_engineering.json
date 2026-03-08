@@ -1,0 +1,704 @@
+{
+    "Автомобілебудування та Інженерія": [
+        {
+            "wordDe": "Verbrennungsmotor",
+            "wordUk": "Двигун внутрішнього згоряння (ДВЗ)",
+            "phrasesDe": [
+                "Funktion des Verbrennungsmotors.",
+                "Wirkungsgrad des Verbrennungsmotors.",
+                "Zukunft des Verbrennungsmotors."
+            ],
+            "phrasesUk": [
+                "Функція двигуна внутрішнього згоряння.",
+                "ККД двигуна внутрішнього згоряння.",
+                "Майбутнє ДВЗ."
+            ]
+        },
+        {
+            "wordDe": "Elektromotor",
+            "wordUk": "Електродвигун",
+            "phrasesDe": [
+                "Vorteile des Elektromotors.",
+                "Leistung des Elektromotors.",
+                "Wartung des Elektromotors."
+            ],
+            "phrasesUk": [
+                "Переваги електродвигуна.",
+                "Потужність електродвигуна.",
+                "Обслуговування електродвигуна."
+            ]
+        },
+        {
+            "wordDe": "Fahrwerk",
+            "wordUk": "Ходова частина / Підвіска",
+            "phrasesDe": [
+                "Einstellung des Fahrwerks.",
+                "Komfort des Fahrwerks.",
+                "Komponenten des Fahrwerks."
+            ],
+            "phrasesUk": [
+                "Налаштування ходової частини.",
+                "Комфорт підвіски.",
+                "Компоненти ходової частини."
+            ]
+        },
+        {
+            "wordDe": "Getriebe",
+            "wordUk": "Коробка передач / Трансмісія",
+            "phrasesDe": [
+                "Automatisches Getriebe.",
+                "Schaden am Getriebe.",
+                "Übersetzung des Getriebes."
+            ],
+            "phrasesUk": [
+                "Автоматична коробка передач.",
+                "Пошкодження трансмісії.",
+                "Передавальне число коробки."
+            ]
+        },
+        {
+            "wordDe": "Antriebsstrang",
+            "wordUk": "Силова передача / Приводний механізм (Антріб-штранг)",
+            "phrasesDe": [
+                "Effizienz des Antriebsstrangs.",
+                "Komponenten des Antriebsstrangs.",
+                "Optimierung des Antriebsstrangs."
+            ],
+            "phrasesUk": [
+                "Ефективність силової передачі.",
+                "Компоненти приводу.",
+                "Оптимізація приводного механізму."
+            ]
+        },
+        {
+            "wordDe": "Bremssystem",
+            "wordUk": "Гальмівна система",
+            "phrasesDe": [
+                "Wartung des Bremssystems.",
+                "Sicherheit des Bremssystems.",
+                "Verschleiß des Bremssystems."
+            ],
+            "phrasesUk": [
+                "Обслуговування гальмівної системи.",
+                "Безпека системи гальм.",
+                "Знос гальмівної системи."
+            ]
+        },
+        {
+            "wordDe": "Karosserie",
+            "wordUk": "Кузов (автомобіля)",
+            "phrasesDe": [
+                "Form der Karosserie.",
+                "Material der Karosserie.",
+                "Schaden an der Karosserie."
+            ],
+            "phrasesUk": [
+                "Форма кузова.",
+                "Матеріал кузова.",
+                "Пошкодження кузова."
+            ]
+        },
+        {
+            "wordDe": "Fahrgastzelle",
+            "wordUk": "Салон / Кабіна (пасажирська частина кузова)",
+            "phrasesDe": [
+                "Sicherheit der Fahrgastzelle.",
+                "Platz in der Fahrgastzelle.",
+                "Design der Fahrgastzelle."
+            ],
+            "phrasesUk": [
+                "Безпека пасажирського салону.",
+                "Місце в кабіні.",
+                "Дизайн пасажирського салону."
+            ]
+        },
+        {
+            "wordDe": "Aerodynamik",
+            "wordUk": "Аеродинаміка",
+            "phrasesDe": [
+                "Verbesserung der Aerodynamik.",
+                "Bedeutung der Aerodynamik.",
+                "Luftwiderstand und Aerodynamik."
+            ],
+            "phrasesUk": [
+                "Покращення аеродинаміки.",
+                "Значення аеродинаміки.",
+                "Опір повітря та аеродинаміка."
+            ]
+        },
+        {
+            "wordDe": "Leichtbau",
+            "wordUk": "Полегшена конструкція",
+            "phrasesDe": [
+                "Vorteile des Leichtbaus.",
+                "Materialien für den Leichtbau.",
+                "Prinzip des Leichtbaus."
+            ],
+            "phrasesUk": [
+                "Переваги полегшеної конструкції.",
+                "Матеріали для легких конструкцій.",
+                "Принцип полегшення ваги."
+            ]
+        },
+        {
+            "wordDe": "Assistenzsystem",
+            "wordUk": "Система допомоги водієві / Асистент",
+            "phrasesDe": [
+                "Fahrer-Assistenzsysteme.",
+                "Funktion des Assistenzsystems.",
+                "Sicherheit durch Assistenzsysteme."
+            ],
+            "phrasesUk": [
+                "Системи допомоги водієві.",
+                "Функція асистента.",
+                "Безпека завдяки системам допомоги."
+            ]
+        },
+        {
+            "wordDe": "Autonomes Fahren",
+            "wordUk": "Автономне водіння / Автопілот",
+            "phrasesDe": [
+                "Zukunft des autonomen Fahrens.",
+                "Stufen des autonomen Fahrens.",
+                "Herausforderungen des autonomen Fahrens."
+            ],
+            "phrasesUk": [
+                "Майбутнє автономного водіння.",
+                "Рівні автономності.",
+                "Виклики автономного водіння."
+            ]
+        },
+        {
+            "wordDe": "Vernetzung",
+            "wordUk": "Комунікація / Зв'язок (V2X)",
+            "phrasesDe": [
+                "Vernetzung von Fahrzeugen.",
+                "Sicherheit durch Vernetzung.",
+                "Vorteile der Vernetzung."
+            ],
+            "phrasesUk": [
+                "Зв'язок між автомобілями.",
+                "Безпека через комунікацію.",
+                "Переваги мережевого зв'язку."
+            ]
+        },
+        {
+            "wordDe": "Produktionsstraße",
+            "wordUk": "Виробнича лінія / Конвеєр",
+            "phrasesDe": [
+                "Arbeit an der Produktionsstraße.",
+                "Automatisierung der Produktionsstraße.",
+                "Taktzeit der Produktionsstraße."
+            ],
+            "phrasesUk": [
+                "Робота на виробничій лінії.",
+                "Автоматизація конвеєра.",
+                "Час циклу на виробничій лінії."
+            ]
+        },
+        {
+            "wordDe": "Montage",
+            "wordUk": "Монтаж / Збірка",
+            "phrasesDe": [
+                "Endmontage des Fahrzeugs.",
+                "Qualitätssicherung in der Montage.",
+                "Dauer der Montage."
+            ],
+            "phrasesUk": [
+                "Кінцева збірка автомобіля.",
+                "Контроль якості при монтажі.",
+                "Тривалість збірки."
+            ]
+        },
+        {
+            "wordDe": "Qualitätskontrolle",
+            "wordUk": "Контроль якості",
+            "phrasesDe": [
+                "Strenge Qualitätskontrolle.",
+                "Schritte der Qualitätskontrolle.",
+                "Ergebnis der Qualitätskontrolle."
+            ],
+            "phrasesUk": [
+                "Суворий контроль якості.",
+                "Етапи контролю якості.",
+                "Результат контролю якості."
+            ]
+        },
+        {
+            "wordDe": "Zulieferer",
+            "wordUk": "Постачальник комплектуючих",
+            "phrasesDe": [
+                "Wichtige Zulieferer.",
+                "Beziehung zum Zulieferer.",
+                "Qualität der Zulieferer."
+            ],
+            "phrasesUk": [
+                "Важливі постачальники комплектуючих.",
+                "Відносини з постачальником.",
+                "Якість роботи постачальників."
+            ]
+        },
+        {
+            "wordDe": "Prototyp",
+            "wordUk": "Прототип",
+            "phrasesDe": [
+                "Bau eines Prototyps.",
+                "Test des Prototyps.",
+                "Präsentation des Prototyps."
+            ],
+            "phrasesUk": [
+                "Побудова прототипу.",
+                "Тестування прототипу.",
+                "Презентація прототипу."
+            ]
+        },
+        {
+            "wordDe": "Serienreife",
+            "wordUk": "Готовність до серійного виробництва",
+            "phrasesDe": [
+                "Erreichen der Serienreife.",
+                "Weg zur Serienreife.",
+                "Prüfung der Serienreife."
+            ],
+            "phrasesUk": [
+                "Досягнення готовності до серії.",
+                "Шлях до серійного виробництва.",
+                "Перевірка готовності до серії."
+            ]
+        },
+        {
+            "wordDe": "Markteinführung",
+            "wordUk": "Вихід на ринок",
+            "phrasesDe": [
+                "Datum der Markteinführung.",
+                "Kampagne zur Markteinführung.",
+                "Erfolg der Markteinführung."
+            ],
+            "phrasesUk": [
+                "Дата виходу на ринок.",
+                "Кампанія з виведення на ринок.",
+                "Успіх виходу на ринок."
+            ]
+        },
+        {
+            "wordDe": "Modellpflege",
+            "wordUk": "Рестайлінг / Фейсліфтинг (Модель-пфлеге)",
+            "phrasesDe": [
+                "Maßnahmen zur Modellpflege.",
+                "Zeitpunkt der Modellpflege.",
+                "Neuerungen in der Modellpflege."
+            ],
+            "phrasesUk": [
+                "Заходи з рестайлінгу моделі.",
+                "Час проведення рестайлінгу.",
+                "Нововведення при оновленні моделі."
+            ]
+        },
+        {
+            "wordDe": "Absatzzahlen",
+            "wordUk": "Показники продажів",
+            "phrasesDe": [
+                "Steigende Absatzzahlen.",
+                "Analyse der Absatzzahlen.",
+                "Sorge über sinkende Absatzzahlen."
+            ],
+            "phrasesUk": [
+                "Зростаючі продажі.",
+                "Аналіз показників продажів.",
+                "Занепокоєння через падіння продажів."
+            ]
+        },
+        {
+            "wordDe": "Marktanteil",
+            "wordUk": "Частка ринку",
+            "phrasesDe": [
+                "Gewinn von Marktanteilen.",
+                "Verlust von Marktanteilen.",
+                "Ziel beim Marktanteil."
+            ],
+            "phrasesUk": [
+                "Збільшення частки ринку.",
+                "Втрата частки ринку.",
+                "Ціль щодо частки ринку."
+            ]
+        },
+        {
+            "wordDe": "Wettbewerber",
+            "wordUk": "Конкурент",
+            "phrasesDe": [
+                "Starke Wettbewerber.",
+                "Vergleich mit dem Wettbewerber.",
+                "Analyse der Wettbewerber."
+            ],
+            "phrasesUk": [
+                "Сильні конкуренти.",
+                "Порівняння з конкурентом.",
+                "Аналіз конкурентів."
+            ]
+        },
+        {
+            "wordDe": "Alleinstellungsmerkmal (USP)",
+            "wordUk": "Унікальна торгова пропозиція (УТП)",
+            "phrasesDe": [
+                "Ein wichtiges Alleinstellungsmerkmal.",
+                "Suche nach dem Alleinstellungsmerkmal.",
+                "Bedeutung des Alleinstellungsmerkmals."
+            ],
+            "phrasesUk": [
+                "Важлива унікальна риса.",
+                "Пошук унікальної торгової пропозиції.",
+                "Значення унікальної риси продукту."
+            ]
+        },
+        {
+            "wordDe": "Kundenzufriedenheit",
+            "wordUk": "Задоволеність клієнтів",
+            "phrasesDe": [
+                "Steigerung der Kundenzufriedenheit.",
+                "Messung der Kundenzufriedenheit.",
+                "Faktor für Kundenzufriedenheit."
+            ],
+            "phrasesUk": [
+                "Підвищення задоволеності клієнтів.",
+                "Вимірювання задоволеності клієнтів.",
+                "Фактор задоволеності покупців."
+            ]
+        },
+        {
+            "wordDe": "Serviceintervall",
+            "wordUk": "Сервісний інтервал / Періодичність обслуговування",
+            "phrasesDe": [
+                "Einhaltung des Serviceintervalls.",
+                "Anzeige des Serviceintervalls.",
+                "Dauer des Serviceintervalls."
+            ],
+            "phrasesUk": [
+                "Дотримання сервісного інтервалу.",
+                "Індикація сервісного інтервалу.",
+                "Тривалість періоду між сервісами."
+            ]
+        },
+        {
+            "wordDe": "Werkstatt",
+            "wordUk": "Автомайстерня / СТО",
+            "phrasesDe": [
+                "Besuch in der Werkstatt.",
+                "Termin in der Werkstatt.",
+                "Kosten der Werkstatt."
+            ],
+            "phrasesUk": [
+                "Візит на СТО.",
+                "Запис до автомайстерні.",
+                "Витрати на автосервіс."
+            ]
+        },
+        {
+            "wordDe": "Ersatzteil",
+            "wordUk": "Запасна частина (запчастина)",
+            "phrasesDe": [
+                "Originale Ersatzteile.",
+                "Preise für Ersatzteile.",
+                "Verfügbarkeit von Ersatzteilen."
+            ],
+            "phrasesUk": [
+                "Оригінальні запчастини.",
+                "Ціни на запасні частини.",
+                "Наявність запчастин."
+            ]
+        },
+        {
+            "wordDe": "Garantie",
+            "wordUk": "Гарантія",
+            "phrasesDe": [
+                "Dauer der Garantie.",
+                "Leistungen der Garantie.",
+                "Bedingungen der Garantie."
+            ],
+            "phrasesUk": [
+                "Тривалість гарантії.",
+                "Гарантійні послуги.",
+                "Умови гарантії."
+            ]
+        },
+        {
+            "wordDe": "Kulanz",
+            "wordUk": "Лояльність (добровільна поступка виробника)",
+            "phrasesDe": [
+                "Anfrage auf Kulanz.",
+                "Regelung zur Kulanz.",
+                "Vorteile der Kulanz."
+            ],
+            "phrasesUk": [
+                "Запит на лояльне вирішення.",
+                "Правила щодо добровільних поступок.",
+                "Переваги лояльності виробника."
+            ]
+        },
+        {
+            "wordDe": "Rückrufaktion",
+            "wordUk": "Відклична кампанія / Відкликання авто",
+            "phrasesDe": [
+                "Grund für die Rückrufaktion.",
+                "Umfang der Rückrufaktion.",
+                "Kosten der Rückrufaktion."
+            ],
+            "phrasesUk": [
+                "Причина відкликання автомобілів.",
+                "Масштаб відкличної кампанії.",
+                "Витрати на відкликання авто."
+            ]
+        },
+        {
+            "wordDe": "CO2-Bilanz",
+            "wordUk": "Вуглецевий слід / Баланс CO2",
+            "phrasesDe": [
+                "Verbesserung der CO2-Bilanz.",
+                "Messung der CO2-Bilanz.",
+                "Bedeutung der CO2-Bilanz."
+            ],
+            "phrasesUk": [
+                "Покращення вуглецевого балансу.",
+                "Вимірювання викидів CO2.",
+                "Значення балансу вуглецю."
+            ]
+        },
+        {
+            "wordDe": "Klimaziele",
+            "wordUk": "Цілі в сфері клімату",
+            "phrasesDe": [
+                "Einhaltung der Klimaziele.",
+                "Beitrag zu den Klimazielen.",
+                "Herausforderung der Klimaziele."
+            ],
+            "phrasesUk": [
+                "Дотримання кліматичних цілей.",
+                "Внесок у досягнення кліматичних цілей.",
+                "Виклик кліматичних завдань."
+            ]
+        },
+        {
+            "wordDe": "Treibstoffverbrauch",
+            "wordUk": "Витрата пального",
+            "phrasesDe": [
+                "Senkung des Treibstoffverbrauchs.",
+                "Angaben zum Treibstoffverbrauch.",
+                "Messung des Treibstoffverbrauchs."
+            ],
+            "phrasesUk": [
+                "Зниження витрати пального.",
+                "Дані про витрату палива.",
+                "Вимірювання витрати пального."
+            ]
+        },
+        {
+            "wordDe": "Effizienzklasse",
+            "wordUk": "Клас енергоефективності",
+            "phrasesDe": [
+                "Einstufung in eine Effizienzklasse.",
+                "Beste Effizienzklasse.",
+                "Bedeutung der Effizienzklasse."
+            ],
+            "phrasesUk": [
+                "Класифікація за енергоефективністю.",
+                "Найкращий клас ефективності.",
+                "Значення класу енергоефективності."
+            ]
+        },
+        {
+            "wordDe": "Ladeinfrastruktur",
+            "wordUk": "Інфраструктура для зарядки (Е-авто)",
+            "phrasesDe": [
+                "Ausbau der Ladeinfrastruktur.",
+                "Mangel an Ladeinfrastruktur.",
+                "Kosten der Ladeinfrastruktur."
+            ],
+            "phrasesUk": [
+                "Розбудова зарядної мережі.",
+                "Брак інфраструктури для зарядки.",
+                "Вартість зарядної інфраструктури."
+            ]
+        },
+        {
+            "wordDe": "Reichweite",
+            "wordUk": "Запас ходу (на одному заряді/баку)",
+            "phrasesDe": [
+                "Höhere Reichweite.",
+                "Angst vor zu geringer Reichweite.",
+                "Messung der Reichweite."
+            ],
+            "phrasesUk": [
+                "Більший запас ходу.",
+                "Страх замалого запасу ходу (Range anxiety).",
+                "Вимірювання запасу ходу."
+            ]
+        },
+        {
+            "wordDe": "Batterietechnologie",
+            "wordUk": "Технологія акумуляторів (батарей)",
+            "phrasesDe": [
+                "Fortschritte in der Batterietechnologie.",
+                "Kosten der Batterietechnologie.",
+                "Zukunft der Batterietechnologie."
+            ],
+            "phrasesUk": [
+                "Прогрес у технологіях акумуляторів.",
+                "Вартість технологій батарей.",
+                "Майбутнє акумуляторних технологій."
+            ]
+        },
+        {
+            "wordDe": "Umweltbonus",
+            "wordUk": "Екологічний бонус / Субсидія на покупку",
+            "phrasesDe": [
+                "Beantragung des Umweltbonus.",
+                "Höhe des Umweltbonus.",
+                "Voraussetzung für den Umweltbonus."
+            ],
+            "phrasesUk": [
+                "Подача заяви на еко-бонус.",
+                "Розмір субсидії на еко-авто.",
+                "Умова отримання екологічного бонусу."
+            ]
+        },
+        {
+            "wordDe": "Zertifizierung",
+            "wordUk": "Сертифікація",
+            "phrasesDe": [
+                "Erfolgreiche Zertifizierung.",
+                "Notwendigkeit einer Zertifizierung.",
+                "Prozess der Zertifizierung."
+            ],
+            "phrasesUk": [
+                "Успішна сертифікація.",
+                "Необхідність сертифікації.",
+                "Процес сертифікації."
+            ]
+        },
+        {
+            "wordDe": "Normung",
+            "wordUk": "Стандартизація / Нормування",
+            "phrasesDe": [
+                "Vorteile der Normung.",
+                "Prozess der Normung.",
+                "Gremien für Normung."
+            ],
+            "phrasesUk": [
+                "Переваги стандартизації.",
+                "Процес нормування.",
+                "Комітети зі стандартизації."
+            ]
+        },
+        {
+            "wordDe": "Patent",
+            "wordUk": "Патент",
+            "phrasesDe": [
+                "Anmeldung eines Patents.",
+                "Schutz durch ein Patent.",
+                "Dauer des Patents."
+            ],
+            "phrasesUk": [
+                "Подача заявки на патент.",
+                "Захист патентом.",
+                "Термін дії патенту."
+            ]
+        },
+        {
+            "wordDe": "Forschung und Entwicklung (F&E)",
+            "wordUk": "Дослідження та розробка (R&D)",
+            "phrasesDe": [
+                "Investition in Forschung und Entwicklung.",
+                "Abteilung für Forschung und Entwicklung.",
+                "Erfolg in der Forschung."
+            ],
+            "phrasesUk": [
+                "Інвестиції в R&D.",
+                "Відділ досліджень та розробок.",
+                "Успіх у дослідженнях."
+            ]
+        },
+        {
+            "wordDe": "Innovation",
+            "wordUk": "Інновація",
+            "phrasesDe": [
+                "Geist der Innovation.",
+                "Technische Innovation.",
+                "Förderung von Innovationen."
+            ],
+            "phrasesUk": [
+                "Дух інновацій.",
+                "Технічна інновація.",
+                "Стимулювання інновацій."
+            ]
+        },
+        {
+            "wordDe": "Ingenieurwesen",
+            "wordUk": "Інженерія / Інженерна справа",
+            "phrasesDe": [
+                "Faszination Ingenieurwesen.",
+                "Studium des Ingenieurwesens.",
+                "Themen im Ingenieurwesen."
+            ],
+            "phrasesUk": [
+                "Захоплення інженерією.",
+                "Навчання на інженерному факультеті.",
+                "Теми в інженерній справі."
+            ]
+        },
+        {
+            "wordDe": "Maschinenbau",
+            "wordUk": "Машинобудування",
+            "phrasesDe": [
+                "Tradition im Maschinenbau.",
+                "Herausforderung im Maschinenbau.",
+                "Experten für Maschinenbau."
+            ],
+            "phrasesUk": [
+                "Традиції в машинобудуванні.",
+                "Виклик у галузі машинобудування.",
+                "Експерти з машинобудування."
+            ]
+        },
+        {
+            "wordDe": "Elektrotechnik",
+            "wordUk": "Електротехніка",
+            "phrasesDe": [
+                "Fortschritte in der Elektrotechnik.",
+                "Themen der Elektrotechnik.",
+                "Karriere in der Elektrotechnik."
+            ],
+            "phrasesUk": [
+                "Прогрес в електротехніці.",
+                "Теми електротехніки.",
+                "Кар'єра в електротехніці."
+            ]
+        },
+        {
+            "wordDe": "Automotive",
+            "wordUk": "Автомобільна галузь / Automotive",
+            "phrasesDe": [
+                "Trends in der Automotive-Branche.",
+                "Zukunft der Automotive.",
+                "Jobs in der Automotive."
+            ],
+            "phrasesUk": [
+                "Тренди в автомобільній галузі.",
+                "Майбутнє автомобілебудування.",
+                "Робота в автомобільному секторі."
+            ]
+        },
+        {
+            "wordDe": "Mobilität",
+            "wordUk": "Мобільність",
+            "phrasesDe": [
+                "Zukunft der Mobilität.",
+                "Formen der Mobilität.",
+                "Vernetzte Mobilität."
+            ],
+            "phrasesUk": [
+                "Майбутнє мобільності.",
+                "Форми мобільності.",
+                "Мережева мобільність."
+            ]
+        }
+    ]
+}

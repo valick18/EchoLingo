@@ -1,0 +1,704 @@
+{
+    "Природничі Науки": [
+        {
+            "wordDe": "Zellbiologie",
+            "wordUk": "Клітинна біологія",
+            "phrasesDe": [
+                "Forschung in der Zellbiologie.",
+                "Grundlagen der Zellbiologie.",
+                "Prozesse in der Zellbiologie."
+            ],
+            "phrasesUk": [
+                "Дослідження в клітинній біології.",
+                "Основи клітинної біології.",
+                "Процеси в клітинній біології."
+            ]
+        },
+        {
+            "wordDe": "Genetik",
+            "wordUk": "Генетика",
+            "phrasesDe": [
+                "Fortschritte in der Genetik.",
+                "Gesetze der Genetik.",
+                "Themen der Genetik."
+            ],
+            "phrasesUk": [
+                "Прогрес у генетиці.",
+                "Закони генетики.",
+                "Теми генетики."
+            ]
+        },
+        {
+            "wordDe": "Molekül",
+            "wordUk": "Молекула",
+            "phrasesDe": [
+                "Struktur eines Moleküls.",
+                "Bindung zwischen Molekülen.",
+                "Eigenschaften von Molekülen."
+            ],
+            "phrasesUk": [
+                "Структура молекули.",
+                "Зв'язок між молекулами.",
+                "Властивості молекул."
+            ]
+        },
+        {
+            "wordDe": "Atomkern",
+            "wordUk": "Ядро атома",
+            "phrasesDe": [
+                "Spaltung des Atomkerns.",
+                "Bausteine des Atomkerns.",
+                "Energie im Atomkern."
+            ],
+            "phrasesUk": [
+                "Розщеплення атомного ядра.",
+                "Складові частини ядра атома.",
+                "Енергія в атомному ядрі."
+            ]
+        },
+        {
+            "wordDe": "Teilchenphysik",
+            "wordUk": "Фізика елементарних частинок",
+            "phrasesDe": [
+                "Standardmodell der Teilchenphysik.",
+                "Experimente in der Teilchenphysik.",
+                "Fragen der Teilchenphysik."
+            ],
+            "phrasesUk": [
+                "Стандартна модель фізики частинок.",
+                "Експерименти у фізиці частинок.",
+                "Питання фізики елементарних частинок."
+            ]
+        },
+        {
+            "wordDe": "Relativitätstheorie",
+            "wordUk": "Теорія відносності",
+            "phrasesDe": [
+                "Einsteins Relativitätstheorie.",
+                "Grundlagen der Relativitätstheorie.",
+                "Bestätigung der Relativitätstheorie."
+            ],
+            "phrasesUk": [
+                "Теорія відносності Ейнштейна.",
+                "Основи теорії відносності.",
+                "Підтвердження теорії відносності."
+            ]
+        },
+        {
+            "wordDe": "Quantenmechanik",
+            "wordUk": "Квантова механіка",
+            "phrasesDe": [
+                "Prinzipien der Quantenmechanik.",
+                "Rätsel der Quantenmechanik.",
+                "Nutzung der Quantenmechanik."
+            ],
+            "phrasesUk": [
+                "Принципи квантової механіки.",
+                "Загадки квантової механіки.",
+                "Використання квантової механіки."
+            ]
+        },
+        {
+            "wordDe": "Evolution",
+            "wordUk": "Еволюція",
+            "phrasesDe": [
+                "Theorie der Evolution.",
+                "Beweise für die Evolution.",
+                "Verlauf der Evolution."
+            ],
+            "phrasesUk": [
+                "Теорія еволюції.",
+                "Докази еволюції.",
+                "Хід еволюції."
+            ]
+        },
+        {
+            "wordDe": "Metabolismus",
+            "wordUk": "Метаболізм / Обмін речовин",
+            "phrasesDe": [
+                "Störung des Metabolismus.",
+                "Prozesse beim Metabolismus.",
+                "Analyse des Metabolismus."
+            ],
+            "phrasesUk": [
+                "Порушення обміну речовин.",
+                "Процеси при метаболізмі.",
+                "Аналіз метаболізму."
+            ]
+        },
+        {
+            "wordDe": "Photosynthese",
+            "wordUk": "Фотосинтез",
+            "phrasesDe": [
+                "Vorgang der Photosynthese.",
+                "Bedeutung der Photosynthese.",
+                "Voraussetzung für Photosynthese."
+            ],
+            "phrasesUk": [
+                "Процес фотосинтезу.",
+                "Значення фотосинтезу.",
+                "Умова для фотосинтезу."
+            ]
+        },
+        {
+            "wordDe": "Ökosystem",
+            "wordUk": "Екосистема",
+            "phrasesDe": [
+                "Gleichgewicht im Ökosystem.",
+                "Schutz des Ökosystems.",
+                "Artenvielfalt im Ökosystem."
+            ],
+            "phrasesUk": [
+                "Рівновага в екосистемі.",
+                "Захист екосистеми.",
+                "Біорізноманіття в екосистемі."
+            ]
+        },
+        {
+            "wordDe": "Biodiversität",
+            "wordUk": "Біорізноманіття",
+            "phrasesDe": [
+                "Verlust an Biodiversität.",
+                "Schutz der Biodiversität.",
+                "Bedeutung der Biodiversität."
+            ],
+            "phrasesUk": [
+                "Втрата біорізноманіття.",
+                "Захист біорізноманіття.",
+                "Значення біорізноманіття."
+            ]
+        },
+        {
+            "wordDe": "Gravitation",
+            "wordUk": "Гравітація / Тяжіння",
+            "phrasesDe": [
+                "Gesetz der Gravitation.",
+                "Wirkung der Gravitation.",
+                "Wellen der Gravitation."
+            ],
+            "phrasesUk": [
+                "Закон гравітації.",
+                "Дія тяжіння.",
+                "Гравітаційні хвилі."
+            ]
+        },
+        {
+            "wordDe": "Magnetismus",
+            "wordUk": "Магнетизм",
+            "phrasesDe": [
+                "Eigenschaften des Magnetismus.",
+                "Nutzung von Magnetismus.",
+                "Erdfeld und Magnetismus."
+            ],
+            "phrasesUk": [
+                "Властивості магнетизму.",
+                "Використання магнетизму.",
+                "Земне поле та магнетизм."
+            ]
+        },
+        {
+            "wordDe": "Thermodynamik",
+            "wordUk": "Термодинаміка",
+            "phrasesDe": [
+                "Gesetze der Thermodynamik.",
+                "Anwendung der Thermodynamik.",
+                "Themen der Thermodynamik."
+            ],
+            "phrasesUk": [
+                "Закони термодинаміки.",
+                "Застосування термодинаміки.",
+                "Теми термодинаміки."
+            ]
+        },
+        {
+            "wordDe": "Elektromagnetismus",
+            "wordUk": "Електромагнетизм",
+            "phrasesDe": [
+                "Prinzip des Elektromagnetismus.",
+                "Wirkung von Elektromagnetismus.",
+                "Entdeckung des Elektromagnetismus."
+            ],
+            "phrasesUk": [
+                "Принцип електромагнетизму.",
+                "Дія електромагнетизму.",
+                "Відкриття електромагнетизму."
+            ]
+        },
+        {
+            "wordDe": "Schwarzes Loch",
+            "wordUk": "Чорна діра",
+            "phrasesDe": [
+                "Das Wesen eines Schwarzen Lochs.",
+                "Foto eines Schwarzen Lochs.",
+                "Physik am Schwarzen Loch."
+            ],
+            "phrasesUk": [
+                "Суть чорної діри.",
+                "Фото чорної діри.",
+                "Фізика поблизу чорної діри."
+            ]
+        },
+        {
+            "wordDe": "Urknall",
+            "wordUk": "Великий вибух",
+            "phrasesDe": [
+                "Theorie vom Urknall.",
+                "Ereignisse nach dem Urknall.",
+                "Reste des Urknalls."
+            ],
+            "phrasesUk": [
+                "Теорія Великого вибуху.",
+                "Події після Великого вибуху.",
+                "Залишки (відлуння) Великого вибуху."
+            ]
+        },
+        {
+            "wordDe": "Dunkle Materie",
+            "wordUk": "Темна матерія",
+            "phrasesDe": [
+                "Suche nach Dunkler Materie.",
+                "Existenz Dunkler Materie.",
+                "Einfluss Dunkler Materie."
+            ],
+            "phrasesUk": [
+                "Пошук темної матерії.",
+                "Існування темної матерії.",
+                "Вплив темної матерії."
+            ]
+        },
+        {
+            "wordDe": "Gentechnik",
+            "wordUk": "Генна інженерія",
+            "phrasesDe": [
+                "Anwendung der Gentechnik.",
+                "Kritik an der Gentechnik.",
+                "Chancen der Gentechnik."
+            ],
+            "phrasesUk": [
+                "Застосування генної інженерії.",
+                "Критика генної інженерії.",
+                "Шанси генної інженерії."
+            ]
+        },
+        {
+            "wordDe": "Mutation",
+            "wordUk": "Мутація",
+            "phrasesDe": [
+                "Ursache für eine Mutation.",
+                "Folgen einer Mutation.",
+                "Rate der Mutationen."
+            ],
+            "phrasesUk": [
+                "Причина мутації.",
+                "Наслідки мутації.",
+                "Частота мутацій."
+            ]
+        },
+        {
+            "wordDe": "Organismus",
+            "wordUk": "Організм",
+            "phrasesDe": [
+                "Ein lebendiger Organismus.",
+                "Aufbau des Organismus.",
+                "Funktion des Organismus."
+            ],
+            "phrasesUk": [
+                "Живий організм.",
+                "Будова організму.",
+                "Функція організму."
+            ]
+        },
+        {
+            "wordDe": "Spezies",
+            "wordUk": "Вид (біологічний)",
+            "phrasesDe": [
+                "Erhalt der Spezies.",
+                "Entstehung neuer Spezies.",
+                "Bestimmung der Spezies."
+            ],
+            "phrasesUk": [
+                "Збереження виду.",
+                "Виникнення нових видів.",
+                "Визначення виду."
+            ]
+        },
+        {
+            "wordDe": "Ökologie",
+            "wordUk": "Екологія",
+            "phrasesDe": [
+                "Studium der Ökologie.",
+                "Themen der Ökologie.",
+                "Bedeutung der Ökologie."
+            ],
+            "phrasesUk": [
+                "Вивчення екології.",
+                "Теми екології.",
+                "Значення екології."
+            ]
+        },
+        {
+            "wordDe": "Symbiose",
+            "wordUk": "Симбіоз",
+            "phrasesDe": [
+                "Eine enge Symbiose.",
+                "Formen der Symbiose.",
+                "Vorteile der Symbiose."
+            ],
+            "phrasesUk": [
+                "Тісний симбіоз.",
+                "Форми симбіозу.",
+                "Переваги симбіозу."
+            ]
+        },
+        {
+            "wordDe": "Parasitismus",
+            "wordUk": "Паразитизм",
+            "phrasesDe": [
+                "Beispiel für Parasitismus.",
+                "Folgen von Parasitismus.",
+                "Kampf gegen Parasitismus."
+            ],
+            "phrasesUk": [
+                "Приклад паразитизму.",
+                "Наслідки паразитизму.",
+                "Боротьба з паразитизмом."
+            ]
+        },
+        {
+            "wordDe": "Anatomie",
+            "wordUk": "Анатомія",
+            "phrasesDe": [
+                "Kenntnisse in Anatomie.",
+                "Atlas der Anatomie.",
+                "Studium der Anatomie."
+            ],
+            "phrasesUk": [
+                "Знання з анатомії.",
+                "Атлас анатомії.",
+                "Вивчення анатомії."
+            ]
+        },
+        {
+            "wordDe": "Neurologie",
+            "wordUk": "Неврологія",
+            "phrasesDe": [
+                "Fortschritte in der Neurologie.",
+                "Bereich der Neurologie.",
+                "Fragen der Neurologie."
+            ],
+            "phrasesUk": [
+                "Прогрес у неврології.",
+                "Галузь неврології.",
+                "Питання неврології."
+            ]
+        },
+        {
+            "wordDe": "Anthropologie",
+            "wordUk": "Антропологія",
+            "phrasesDe": [
+                "Themen der Anthropologie.",
+                "Zweige der Anthropologie.",
+                "Methoden der Anthropologie."
+            ],
+            "phrasesUk": [
+                "Теми антропології.",
+                "Гілки антропології.",
+                "Методи антропології."
+            ]
+        },
+        {
+            "wordDe": "Paläontologie",
+            "wordUk": "Палеонтологія",
+            "phrasesDe": [
+                "Funde in der Paläontologie.",
+                "Bedeutung der Paläontologie.",
+                "Arbeit in der Paläontologie."
+            ],
+            "phrasesUk": [
+                "Знахідки в палеонтології.",
+                "Значення палеонтології.",
+                "Робота в палеонтології."
+            ]
+        },
+        {
+            "wordDe": "Astronomie",
+            "wordUk": "Астрономія",
+            "phrasesDe": [
+                "Wunder der Astronomie.",
+                "Objekte der Astronomie.",
+                "Zukunft der Astronomie."
+            ],
+            "phrasesUk": [
+                "Дива астрономії.",
+                "Об'єкти астрономії.",
+                "Майбутнє астрономії."
+            ]
+        },
+        {
+            "wordDe": "Astrophysik",
+            "wordUk": "Астрофізика",
+            "phrasesDe": [
+                "Themen der Astrophysik.",
+                "Modelle in der Astrophysik.",
+                "Studium der Astrophysik."
+            ],
+            "phrasesUk": [
+                "Теми астрофізики.",
+                "Моделі в астрофізиці.",
+                "Вивчення астрофізики."
+            ]
+        },
+        {
+            "wordDe": "Kosmologie",
+            "wordUk": "Космологія",
+            "phrasesDe": [
+                "Fragen der Kosmologie.",
+                "Entwicklung der Kosmologie.",
+                "Bedeutung der Kosmologie."
+            ],
+            "phrasesUk": [
+                "Питання космології.",
+                "Розвиток космології.",
+                "Значення космології."
+            ]
+        },
+        {
+            "wordDe": "Meteorologie",
+            "wordUk": "Метеорологія",
+            "phrasesDe": [
+                "Daten der Meteorologie.",
+                "Vorhersage der Meteorologie.",
+                "Stationen der Meteorologie."
+            ],
+            "phrasesUk": [
+                "Дані метеорології.",
+                "Прогноз метеорології.",
+                "Станції метеорології."
+            ]
+        },
+        {
+            "wordDe": "Geologie",
+            "wordUk": "Геологія",
+            "phrasesDe": [
+                "Geschichte der Geologie.",
+                "Funde in der Geologie.",
+                "Wissen über Geologie."
+            ],
+            "phrasesUk": [
+                "Історія геології.",
+                "Знахідки в геології.",
+                "Знання про геологію."
+            ]
+        },
+        {
+            "wordDe": "Chemische Reaktion",
+            "wordUk": "Хімічна реакція",
+            "phrasesDe": [
+                "Verlauf einer chemischen Reaktion.",
+                "Bedingung für chemische Reaktion.",
+                "Produkt der chemischen Reaktion."
+            ],
+            "phrasesUk": [
+                "Перебіг хімічної реакції.",
+                "Умова для хімічної реакції.",
+                "Продукт хімічної реакції."
+            ]
+        },
+        {
+            "wordDe": "Knotenpunkt",
+            "wordUk": "Вузол / Точка перетину",
+            "phrasesDe": [
+                "Wichtiger Knotenpunkt.",
+                "Netzwerk und Knotenpunkte.",
+                "Verbindung zum Knotenpunkt."
+            ],
+            "phrasesUk": [
+                "Важливий вузол.",
+                "Мережа та вузли.",
+                "Зв'язок із вузлом."
+            ]
+        },
+        {
+            "wordDe": "Aggregatzustand",
+            "wordUk": "Агрегатний стан",
+            "phrasesDe": [
+                "Änderung des Aggregatzustands.",
+                "Drei Aggregatzustände.",
+                "Form des Aggregatzustands."
+            ],
+            "phrasesUk": [
+                "Зміна агрегатного стану.",
+                "Три агрегатні стани.",
+                "Форма агрегатного стану."
+            ]
+        },
+        {
+            "wordDe": "Vakuum",
+            "wordUk": "Вакуум",
+            "phrasesDe": [
+                "Erzeugung eines Vakuums.",
+                "Eigenschaften im Vakuum.",
+                "Licht im Vakuum."
+            ],
+            "phrasesUk": [
+                "Створення вакууму.",
+                "Властивості у вакуумі.",
+                "Світло у вакуумі."
+            ]
+        },
+        {
+            "wordDe": "Energieerhaltung",
+            "wordUk": "Збереження енергії",
+            "phrasesDe": [
+                "Gesetz der Energieerhaltung.",
+                "Prinzip der Energieerhaltung.",
+                "Bedeutung der Energieerhaltung."
+            ],
+            "phrasesUk": [
+                "Закон збереження енергії.",
+                "Принцип збереження енергії.",
+                "Значення збереження енергії."
+            ]
+        },
+        {
+            "wordDe": "Entropie",
+            "wordUk": "Ентропія",
+            "phrasesDe": [
+                "Zunahme der Entropie.",
+                "Konzept der Entropie.",
+                "Maß für Entropie."
+            ],
+            "phrasesUk": [
+                "Зростання ентропії.",
+                "Концепція ентропії.",
+                "Міра ентропії."
+            ]
+        },
+        {
+            "wordDe": "Laser",
+            "wordUk": "Лазер",
+            "phrasesDe": [
+                "Einsatz eines Lasers.",
+                "Strahl des Lasers.",
+                "Funktion des Lasers."
+            ],
+            "phrasesUk": [
+                "Застосування лазера.",
+                "Промінь лазера.",
+                "Функція лазера."
+            ]
+        },
+        {
+            "wordDe": "Halbleiter",
+            "wordUk": "Напівпровідник",
+            "phrasesDe": [
+                "Bedeutung von Halbleitern.",
+                "Material für Halbleiter.",
+                "Industrie der Halbleiter."
+            ],
+            "phrasesUk": [
+                "Значення напівпровідників.",
+                "Матеріал для напівпровідників.",
+                "Індустрія напівпровідників."
+            ]
+        },
+        {
+            "wordDe": "Supraleitung",
+            "wordUk": "Надпровідність",
+            "phrasesDe": [
+                "Phänomen der Supraleitung.",
+                "Forschung zur Supraleitung.",
+                "Nutzung der Supraleitung."
+            ],
+            "phrasesUk": [
+                "Феномен надпровідності.",
+                "Дослідження надпровідності.",
+                "Використання надпровідності."
+            ]
+        },
+        {
+            "wordDe": "Nanotechnologie",
+            "wordUk": "Нанотехнології",
+            "phrasesDe": [
+                "Chancen der Nanotechnologie.",
+                "Risiken der Nanotechnologie.",
+                "Bereiche der Nanotechnologie."
+            ],
+            "phrasesUk": [
+                "Шанси нанотехнологій.",
+                "Ризики нанотехнологій.",
+                "Сфери застосування нанотехнологій."
+            ]
+        },
+        {
+            "wordDe": "Robotik",
+            "wordUk": "Робототехніка",
+            "phrasesDe": [
+                "Einsatz der Robotik.",
+                "Fortschritte in der Robotik.",
+                "Zukunft der Robotik."
+            ],
+            "phrasesUk": [
+                "Використання робототехніки.",
+                "Прогрес у робототехніці.",
+                "Майбутнє робототехніки."
+            ]
+        },
+        {
+            "wordDe": "KI (Künstliche Intelligenz)",
+            "wordUk": "Штучний інтелект (ШІ)",
+            "phrasesDe": [
+                "Entwicklung von KI.",
+                "Anwendung von KI.",
+                "Debatte über KI."
+            ],
+            "phrasesUk": [
+                "Розвиток ШІ.",
+                "Застосування ШІ.",
+                "Дебати про ШІ."
+            ]
+        },
+        {
+            "wordDe": "Algorithmus",
+            "wordUk": "Алгоритм",
+            "phrasesDe": [
+                "Einsatz von Algorithmen.",
+                "Funktion des Algorithmus.",
+                "Macht der Algorithmen."
+            ],
+            "phrasesUk": [
+                "Використання алгоритмів.",
+                "Функція алгоритму.",
+                "Сила алгоритмів."
+            ]
+        },
+        {
+            "wordDe": "Datenanalyse",
+            "wordUk": "Аналіз даних",
+            "phrasesDe": [
+                "Methoden der Datenanalyse.",
+                "Software für Datenanalyse.",
+                "Ergebnis der Datenanalyse."
+            ],
+            "phrasesUk": [
+                "Методи аналізу даних.",
+                "ПЗ для аналізу даних.",
+                "Результат аналізу даних."
+            ]
+        },
+        {
+            "wordDe": "Simulation",
+            "wordUk": "Симуляція / Моделювання",
+            "phrasesDe": [
+                "Durchführung einer Simulation.",
+                "Ergebnis der Simulation.",
+                "Modell für die Simulation."
+            ],
+            "phrasesUk": [
+                "Проведення симуляції.",
+                "Результат моделювання.",
+                "Модель для симуляції."
+            ]
+        }
+    ]
+}

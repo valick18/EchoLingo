@@ -1,0 +1,116 @@
+{
+    "Здоров'я": [
+        {
+            "wordDe": "Arzt",
+            "wordUk": "Лікар",
+            "phrasesDe": [
+                "Ich muss zum Arzt.",
+                "Der Arzt hilft mir.",
+                "Wo ist der Arzt?"
+            ],
+            "phrasesUk": [
+                "Мені потрібно до лікаря.",
+                "Лікар мені допомагає.",
+                "Де лікар?"
+            ]
+        },
+        {
+            "wordDe": "Medikament",
+            "wordUk": "Ліки",
+            "phrasesDe": [
+                "Nimm dieses Medikament.",
+                "Das Medikament ist wichtig.",
+                "Wo sind die Medikamente?"
+            ],
+            "phrasesUk": [
+                "Прийми ці ліки.",
+                "Ліки важливі.",
+                "Де ліки?"
+            ]
+        },
+        {
+            "wordDe": "Kopfschmerzen",
+            "wordUk": "Головний біль",
+            "phrasesDe": [
+                "Ich habe Kopfschmerzen.",
+                "Gegen Kopfschmerzen hilft Tee.",
+                "Schreckliche Kopfschmerzen."
+            ],
+            "phrasesUk": [
+                "У мене болить голова.",
+                "Від головного болю допомагає чай.",
+                "Жахливий головний біль."
+            ]
+        },
+        {
+            "wordDe": "Apotheke",
+            "wordUk": "Аптека",
+            "phrasesDe": [
+                "Wo ist die Apotheke?",
+                "Die Apotheke ist offen.",
+                "Geh zur Apotheke."
+            ],
+            "phrasesUk": [
+                "Де аптека?",
+                "Аптека відчинена.",
+                "Йди до аптеки."
+            ]
+        },
+        {
+            "wordDe": "Fiber",
+            "wordUk": "Лихоманка / Температура",
+            "phrasesDe": [
+                "Er hat hohes Fiber.",
+                "Ich habe kein Fiber.",
+                "Das Fiber sinkt."
+            ],
+            "phrasesUk": [
+                "У нього висока температура.",
+                "У мене немає температури.",
+                "Температура падає."
+            ]
+        },
+        {
+            "wordDe": "Schmerz",
+            "wordUk": "Біль",
+            "phrasesDe": [
+                "Wo ist der Schmerz?",
+                "Ich habe Schmerzen.",
+                "Der Schmerz geht weg."
+            ],
+            "phrasesUk": [
+                "Де болить?",
+                "У мене є болі.",
+                "Біль минає."
+            ]
+        },
+        {
+            "wordDe": "Spritze",
+            "wordUk": "Укол",
+            "phrasesDe": [
+                "Angst vor Spritzen.",
+                "Die Spritze tut weh.",
+                "Eine Spritze geben."
+            ],
+            "phrasesUk": [
+                "Страх перед уколами.",
+                "Укол болить.",
+                "Зробити укол."
+            ]
+        },
+        {
+            "wordDe": "Krankenhaus",
+            "wordUk": "Лікарня",
+            "phrasesDe": [
+                "Sie liegt im Krankenhaus.",
+                "Wo ist das Krankenhaus?",
+                "Das Krankenhaus ist modern."
+            ],
+            "phrasesUk": [
+                "Вона в лікарні.",
+                "Де лікарня?",
+                "Лікарня сучасна."
+            ]
+        }
+    ]
+}

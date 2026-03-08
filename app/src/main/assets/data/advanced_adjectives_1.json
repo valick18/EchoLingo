@@ -1,0 +1,704 @@
+{
+    "Просунуті Прикметники (Список 1)": [
+        {
+            "wordDe": "beträchtlich",
+            "wordUk": "значний / чималий",
+            "phrasesDe": [
+                "Ein beträchtlicher Erfolg.",
+                "Beträchtliche Kosten.",
+                "Ein beträchtlicher Unterschied."
+            ],
+            "phrasesUk": [
+                "Значний успіх.",
+                "Чималі витрати.",
+                "Значна відмінність."
+            ]
+        },
+        {
+            "wordDe": "kontrovers",
+            "wordUk": "суперечливий / дискусійний",
+            "phrasesDe": [
+                "Ein kontroverses Thema.",
+                "Kontrovers gehandelt.",
+                "Kontroverse Meinung."
+            ],
+            "phrasesUk": [
+                "Суперечлива тема.",
+                "Діяти суперечливо.",
+                "Дискусійна думка."
+            ]
+        },
+        {
+            "wordDe": "nachhaltig",
+            "wordUk": "сталий / тривалий / екологічний",
+            "phrasesDe": [
+                "Nachhaltige Entwicklung.",
+                "Ein nachhaltiger Eindruck.",
+                "Nachhaltig wirtschaften."
+            ],
+            "phrasesUk": [
+                "Сталий розвиток.",
+                "Тривале враження.",
+                "Господарювати екологічно (стало)."
+            ]
+        },
+        {
+            "wordDe": "ausführlich",
+            "wordUk": "докладний / детальний",
+            "phrasesDe": [
+                "Eine ausführliche Erklärung.",
+                "Ausführlich berichten.",
+                "Sich ausführlich widmen."
+            ],
+            "phrasesUk": [
+                "Докладне пояснення.",
+                "Детально доповідати.",
+                "Присвятити себе докладно (чомусь)."
+            ]
+        },
+        {
+            "wordDe": "offensichtlich",
+            "wordUk": "очевидний / явний",
+            "phrasesDe": [
+                "Ein offensichtlicher Fehler.",
+                "Es ist offensichtlich.",
+                "Offensichtliche Vorteile."
+            ],
+            "phrasesUk": [
+                "Очевидна помилка.",
+                "Це очевидно.",
+                "Явні переваги."
+            ]
+        },
+        {
+            "wordDe": "erheblich",
+            "wordUk": "істотний / значний (Ерхебліх)",
+            "phrasesDe": [
+                "Ein erheblicher Teil.",
+                "Erhebliche Probleme.",
+                "Erheblich besser."
+            ],
+            "phrasesUk": [
+                "Істотна частина.",
+                "Значні проблеми.",
+                "Значно краще."
+            ]
+        },
+        {
+            "wordDe": "vielfältig",
+            "wordUk": "різноманітний",
+            "phrasesDe": [
+                "Vielfältige Möglichkeiten.",
+                "Ein vielfältiges Angebot.",
+                "Vielfältige Interessen."
+            ],
+            "phrasesUk": [
+                "Різноманітні можливості.",
+                "Різноманітна пропозиція.",
+                "Різноманітні інтереси."
+            ]
+        },
+        {
+            "wordDe": "grundsätzlich",
+            "wordUk": "принциповий / засадничий / в принципі",
+            "phrasesDe": [
+                "Eine grundsätzliche Entscheidung.",
+                "Grundsätzlich bereit sein.",
+                "Grundsätzliche Fragen."
+            ],
+            "phrasesUk": [
+                "Принципове рішення.",
+                "Бути в принципі готовим.",
+                "Засадничі питання."
+            ]
+        },
+        {
+            "wordDe": "umfassend",
+            "wordUk": "всебічний / комплексний / обширний",
+            "phrasesDe": [
+                "Eine umfassende Studie.",
+                "Umfassende Kenntnisse.",
+                "Umfassend informiert sein."
+            ],
+            "phrasesUk": [
+                "Всебічне дослідження.",
+                "Обширні знання.",
+                "Бути комплексно поінформованим."
+            ]
+        },
+        {
+            "wordDe": "unzureichend",
+            "wordUk": "недостатній",
+            "phrasesDe": [
+                "Unzureichende Mittel.",
+                "Unzureichend vorbereitet.",
+                "Eine unzureichende Begründung."
+            ],
+            "phrasesUk": [
+                "Недостатні засоби.",
+                "Недостатньо підготовлений.",
+                "Недостатнє обґрунтування."
+            ]
+        },
+        {
+            "wordDe": "eindeutig",
+            "wordUk": "однозначний / чіткий",
+            "phrasesDe": [
+                "Ein eindeutiges Ergebnis.",
+                "Sich eindeutig ausdrücken.",
+                "Eindeutige Beweise."
+            ],
+            "phrasesUk": [
+                "Однозначний результат.",
+                "Висловлюватися чітко (однозначно).",
+                "Чіткі докази."
+            ]
+        },
+        {
+            "wordDe": "entscheidend",
+            "wordUk": "вирішальний",
+            "phrasesDe": [
+                "Ein entscheidender Moment.",
+                "Die entscheidende Rolle.",
+                "Entscheidend sein für..."
+            ],
+            "phrasesUk": [
+                "Вирішальний момент.",
+                "Вирішальна роль.",
+                "Бути вирішальним для..."
+            ]
+        },
+        {
+            "wordDe": "willkürlich",
+            "wordUk": "довільний / свавільний",
+            "phrasesDe": [
+                "Eine willkürliche Entscheidung.",
+                "Willkürlich ausgewählt.",
+                "Gegen Willkür kämpfen."
+            ],
+            "phrasesUk": [
+                "Свавільне рішення.",
+                "Вибраний довільно.",
+                "Боротися проти свавілля."
+            ]
+        },
+        {
+            "wordDe": "subjektiv",
+            "wordUk": "суб'єктивний",
+            "phrasesDe": [
+                "Eine subjektive Meinung.",
+                "Subjektiv empfunden.",
+                "Blick auf das Subjektive."
+            ],
+            "phrasesUk": [
+                "Суб'єктивна думка.",
+                "Сприйнято суб'єктивно.",
+                "Погляд на суб'єктивне."
+            ]
+        },
+        {
+            "wordDe": "objektiv",
+            "wordUk": "об'єктивний",
+            "phrasesDe": [
+                "Eine objektive Beurteilung.",
+                "Objektiv bleiben.",
+                "Objektive Kriterien."
+            ],
+            "phrasesUk": [
+                "Об'єктивна оцінка.",
+                "Залишатися об'єктивним.",
+                "Об'єктивні критерії."
+            ]
+        },
+        {
+            "wordDe": "zwangsläufig",
+            "wordUk": "неминучий / як наслідок",
+            "phrasesDe": [
+                "Eine zwangsläufige Folge.",
+                "Zwangsläufig entstehen Fragen.",
+                "Sich zwangsläufig ergeben."
+            ],
+            "phrasesUk": [
+                "Неминучий наслідок.",
+                "Неминуче виникають питання.",
+                "Випливати як наслідок."
+            ]
+        },
+        {
+            "wordDe": "effizient",
+            "wordUk": "ефективний (зі ставкою на результат)",
+            "phrasesDe": [
+                "Eine effiziente Arbeitsweise.",
+                "Effizient nutzen.",
+                "Effiziente Lösungen."
+            ],
+            "phrasesUk": [
+                "Ефективний спосіб роботи.",
+                "Ефективно використовувати.",
+                "Ефективні рішення."
+            ]
+        },
+        {
+            "wordDe": "effektiv",
+            "wordUk": "дієвий / результативний",
+            "phrasesDe": [
+                "Eine effektive Methode.",
+                "Sehr effektiv sein.",
+                "Effektiv handeln."
+            ],
+            "phrasesUk": [
+                "Дієвий метод.",
+                "Бути дуже результативним.",
+                "Діяти ефективно."
+            ]
+        },
+        {
+            "wordDe": "verantwortungsbewusst",
+            "wordUk": "відповідальний",
+            "phrasesDe": [
+                "Ein verantwortungsbewusster Mensch.",
+                "Verantwortungsbewusst handeln.",
+                "Verantwortungsbewusster Umgang."
+            ],
+            "phrasesUk": [
+                "Відповідальна людина.",
+                "Діяти відповідально.",
+                "Відповідальне поводження."
+            ]
+        },
+        {
+            "wordDe": "gewissenhaft",
+            "wordUk": "сумлінний / ретельний",
+            "phrasesDe": [
+                "Eine gewissenhafte Arbeit.",
+                "Gewissenhaft prüfen.",
+                "Sehr gewissenhaft sein."
+            ],
+            "phrasesUk": [
+                "Сумлінна робота.",
+                "Ретельно перевіряти.",
+                "Бути дуже сумлінним."
+            ]
+        },
+        {
+            "wordDe": "zuverlässig",
+            "wordUk": "надійний",
+            "phrasesDe": [
+                "Ein zuverlässiger Partner.",
+                "Zuverlässige Informationen.",
+                "Sehr zuverlässig arbeiten."
+            ],
+            "phrasesUk": [
+                "Надійний партнер.",
+                "Надійна інформація.",
+                "Працювати дуже надійно."
+            ]
+        },
+        {
+            "wordDe": "flexibel",
+            "wordUk": "гнучкий",
+            "phrasesDe": [
+                "Ein flexibler Zeitplan.",
+                "Flexibel reagieren.",
+                "Geforderte Flexibilität."
+            ],
+            "phrasesUk": [
+                "Гнучкий графік.",
+                "Реагувати гнучко.",
+                "Вимоглива гнучкість."
+            ]
+        },
+        {
+            "wordDe": "ambitioniert",
+            "wordUk": "амбітний",
+            "phrasesDe": [
+                "Ein ambitioniertes Projekt.",
+                "Ambitionierte Ziele.",
+                "Sehr ambitioniert sein."
+            ],
+            "phrasesUk": [
+                "Амбітний проєкт.",
+                "Амбітні цілі.",
+                "Бути дуже амбітним."
+            ]
+        },
+        {
+            "wordDe": "hartnäckig",
+            "wordUk": "завзятий / впертий / наполегливий",
+            "phrasesDe": [
+                "Ein hartnäckiger Widerstand.",
+                "Hartnäckig bleiben.",
+                "Hartnäckige Flecken."
+            ],
+            "phrasesUk": [
+                "Завзятий опір.",
+                "Залишатися наполегливим.",
+                "Стійкі (вперті) плями."
+            ]
+        },
+        {
+            "wordDe": "beharrlich",
+            "wordUk": "непохитний / наполегливий (в позитивному сенсі)",
+            "phrasesDe": [
+                "Beharrlich sein Ziel verfolgen.",
+                "Beharrliches Bemühen.",
+                "Auf etwas beharrlich bestehen."
+            ],
+            "phrasesUk": [
+                "Наполегливо йти до своєї мети.",
+                "Непохитні зусилля.",
+                "Наполегливо наполягати на чомусь."
+            ]
+        },
+        {
+            "wordDe": "überdurchschnittlich",
+            "wordUk": "вище середнього",
+            "phrasesDe": [
+                "Eine überdurchschnittliche Leistung.",
+                "Überdurchschnittlich begabt.",
+                "Überdurchschnittliche Kosten."
+            ],
+            "phrasesUk": [
+                "Результат вище середнього.",
+                "Обдарований вище середнього.",
+                "Витрати вище середніх."
+            ]
+        },
+        {
+            "wordDe": "unterdurchschnittlich",
+            "wordUk": "нижче середнього",
+            "phrasesDe": [
+                "Eine unterdurchschnittliche Leistung.",
+                "Unterdurchschnittlich verdienen.",
+                "Unterdurchschnittliche Qualität."
+            ],
+            "phrasesUk": [
+                "Результат нижче середнього.",
+                "Заробляти менше середнього.",
+                "Якість нижча за середню."
+            ]
+        },
+        {
+            "wordDe": "konsequent",
+            "wordUk": "послідовний / рішучий",
+            "phrasesDe": [
+                "Eine konsequente Haltung.",
+                "Konsequent handeln.",
+                "Sehr konsequent sein."
+            ],
+            "phrasesUk": [
+                "Послідовна позиція.",
+                "Діяти рішуче (послідовно).",
+                "Бути дуже послідовним."
+            ]
+        },
+        {
+            "wordDe": "inkonsequent",
+            "wordUk": "непослідовний",
+            "phrasesDe": [
+                "Ein inkonsequentes Verhalten.",
+                "Inkonsequent sein.",
+                "Kritik an Inkonsequenz."
+            ],
+            "phrasesUk": [
+                "Непослідовна поведінка.",
+                "Бути непослідовним.",
+                "Критика непослідовності."
+            ]
+        },
+        {
+            "wordDe": "kompetent",
+            "wordUk": "компетентний",
+            "phrasesDe": [
+                "Ein kompetenter Ansprechpartner.",
+                "Kompetent beraten.",
+                "Sehr kompetent wirken."
+            ],
+            "phrasesUk": [
+                "Компетентна контактна особа.",
+                "Консультувати компетентно.",
+                "Здаватися дуже компетентним."
+            ]
+        },
+        {
+            "wordDe": "inkompetent",
+            "wordUk": "некомпетентний",
+            "phrasesDe": [
+                "Ein inkompetenter Vorgesetzter.",
+                "Sich inkompetent fühlen.",
+                "Vorwurf der Inkompetenz."
+            ],
+            "phrasesUk": [
+                "Некомпетентний керівник.",
+                "Почуватися некомпетентним.",
+                "Звинувачення в некомпетентності."
+            ]
+        },
+        {
+            "wordDe": "seriös",
+            "wordUk": "серйозний / респектабельний / надійний",
+            "phrasesDe": [
+                "Ein seriöses Unternehmen.",
+                "Seriös wirken.",
+                "Ein seriöses Angebot."
+            ],
+            "phrasesUk": [
+                "Надійна компанія.",
+                "Справляти солідне враження.",
+                "Серйозна пропозиція."
+            ]
+        },
+        {
+            "wordDe": "dubios",
+            "wordUk": "сумнівний / підозрілий",
+            "phrasesDe": [
+                "Ein dubioses Geschäft.",
+                "Dubiose Gestalt.",
+                "Dubioses Angebot."
+            ],
+            "phrasesUk": [
+                "Сумнівна угода.",
+                "Підозріла постать.",
+                "Сумнівна пропозиція."
+            ]
+        },
+        {
+            "wordDe": "provokant",
+            "wordUk": "провокаційний",
+            "phrasesDe": [
+                "Eine provokante Frage.",
+                "Provokant gekleidet.",
+                "Provokantes Verhalten."
+            ],
+            "phrasesUk": [
+                "Провокаційне запитання.",
+                "Одягнений зухвало (провокаційно).",
+                "Провокаційна поведінка."
+            ]
+        },
+        {
+            "wordDe": "harmonisch",
+            "wordUk": "гармонійний",
+            "phrasesDe": [
+                "Ein harmonisches Miteinander.",
+                "Harmonische Farben.",
+                "Sehr harmonisch wirken."
+            ],
+            "phrasesUk": [
+                "Гармонійне співіснування.",
+                "Гармонійні кольори.",
+                "Виглядати дуже гармонійно."
+            ]
+        },
+        {
+            "wordDe": "kontinuierlich",
+            "wordUk": "безперервний / постійний",
+            "phrasesDe": [
+                "Eine kontinuierliche Verbesserung.",
+                "Kontinuierlich arbeiten.",
+                "Kontinuierliche Begleitung."
+            ],
+            "phrasesUk": [
+                "Безперервне вдосконалення.",
+                "Працювати постійно.",
+                "Постійний супровід."
+            ]
+        },
+        {
+            "wordDe": "gelegentlich",
+            "wordUk": "випадковий / час від часу / епізодичний",
+            "phrasesDe": [
+                "Gelegentliche Besuche.",
+                "Gelegentlich rauchen.",
+                "Ein gelegentlicher Fehler."
+            ],
+            "phrasesUk": [
+                "Епізодичні візити.",
+                "Курити час від часу.",
+                "Випадкова помилка."
+            ]
+        },
+        {
+            "wordDe": "permanent",
+            "wordUk": "постійний / перманентний",
+            "phrasesDe": [
+                "Permanenter Zeitdruck.",
+                "Permanent verfügbar sein.",
+                "Ein permanentes Problem."
+            ],
+            "phrasesUk": [
+                "Постійний брак часу.",
+                "Бути постійно доступним.",
+                "Перманентна проблема."
+            ]
+        },
+        {
+            "wordDe": "provisorisch",
+            "wordUk": "тимчасовий / провізорний",
+            "phrasesDe": [
+                "Eine provisorische Lösung.",
+                "Provisorisch eingerichtet.",
+                "Das Provisorische."
+            ],
+            "phrasesUk": [
+                "Тимчасове рішення.",
+                "Облаштовано тимчасово.",
+                "Щось тимчасове."
+            ]
+        },
+        {
+            "wordDe": "definitiv",
+            "wordUk": "остаточний / безперечний",
+            "phrasesDe": [
+                "Ein definitives Nein.",
+                "Definitiv feststehen.",
+                "Die definitive Antwort."
+            ],
+            "phrasesUk": [
+                "Остаточне \"ні\".",
+                "Бути остаточно встановленим (факт).",
+                "Кінцева відповідь."
+            ]
+        },
+        {
+            "wordDe": "potenziell",
+            "wordUk": "потенційний",
+            "phrasesDe": [
+                "Ein potenzieller Kunde.",
+                "Potenzielle Gefahren.",
+                "Potenzielle Gewinne."
+            ],
+            "phrasesUk": [
+                "Потенційний клієнт.",
+                "Потенційні небезпеки.",
+                "Потенційні прибутки."
+            ]
+        },
+        {
+            "wordDe": "theoretisch",
+            "wordUk": "теоретичний",
+            "phrasesDe": [
+                "Ein theoretischer Ansatz.",
+                "Theoretisch möglich.",
+                "Reine Theorie."
+            ],
+            "phrasesUk": [
+                "Теоретичний підхід.",
+                "Теоретично можливо.",
+                "Чиста теорія."
+            ]
+        },
+        {
+            "wordDe": "praktisch",
+            "wordUk": "практичний",
+            "phrasesDe": [
+                "Ein praktisches Beispiel.",
+                "Praktisch veranlagt sein.",
+                "Praktische Erfahrung."
+            ],
+            "phrasesUk": [
+                "Практичний приклад.",
+                "Мати практичний склад розуму.",
+                "Практичний досвід."
+            ]
+        },
+        {
+            "wordDe": "abstrakt",
+            "wordUk": "абстрактний",
+            "phrasesDe": [
+                "Eine abstrakte Theorie.",
+                "Abstrakt denken.",
+                "Abstrakte Kunst."
+            ],
+            "phrasesUk": [
+                "Абстрактна теорія.",
+                "Мислити абстрактно.",
+                "Абстрактне мистецтво."
+            ]
+        },
+        {
+            "wordDe": "konkret",
+            "wordUk": "конкретний",
+            "phrasesDe": [
+                "Ein konkretes Beispiel.",
+                "Konkret werden.",
+                "Konkrete Pläne."
+            ],
+            "phrasesUk": [
+                "Конкретний приклад.",
+                "Переходити до конкретики.",
+                "Конкретні плани."
+            ]
+        },
+        {
+            "wordDe": "komplex",
+            "wordUk": "складний / комплексний",
+            "phrasesDe": [
+                "Eine komplexe Situation.",
+                "Komplex denken.",
+                "Komplexe Systeme."
+            ],
+            "phrasesUk": [
+                "Складна ситуація.",
+                "Мислити комплексно.",
+                "Складні системи."
+            ]
+        },
+        {
+            "wordDe": "simpel",
+            "wordUk": "простий / примітивний",
+            "phrasesDe": [
+                "Eine simple Lösung.",
+                "Ziemlich simpel sein.",
+                "Ganz simpel."
+            ],
+            "phrasesUk": [
+                "Просте рішення.",
+                "Бути досить простим.",
+                "Зовсім просто."
+            ]
+        },
+        {
+            "wordDe": "originell",
+            "wordUk": "оригінальний / самобутній",
+            "phrasesDe": [
+                "Eine originelle Idee.",
+                "Originell sein.",
+                "Sehr originell wirken."
+            ],
+            "phrasesUk": [
+                "Оригінальна ідея.",
+                "Бути самобутнім.",
+                "Здаватися дуже оригінальним."
+            ]
+        },
+        {
+            "wordDe": "banal",
+            "wordUk": "банальний",
+            "phrasesDe": [
+                "Ein banaler Fehler.",
+                "Ziemlich banal wirken.",
+                "Alles banal finden."
+            ],
+            "phrasesUk": [
+                "Банальна помилка.",
+                "Здаватися досить банальним.",
+                "Вважати все банальним."
+            ]
+        },
+        {
+            "wordDe": "exklusiv",
+            "wordUk": "ексклюзивний",
+            "phrasesDe": [
+                "Ein exklusives Angebot.",
+                "Exklusiv berichten.",
+                "Exklusive Rechte."
+            ],
+            "phrasesUk": [
+                "Ексклюзивна пропозиція.",
+                "Повідомляти ексклюзивно.",
+                "Ексклюзивні права."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Тіло та Розум": [
+        {
+            "wordDe": "Gehirn",
+            "wordUk": "Мозок",
+            "phrasesDe": [
+                "Das menschliche Gehirn.",
+                "Gehirn trainieren.",
+                "Leistung des Gehirns."
+            ],
+            "phrasesUk": [
+                "Людський мозок.",
+                "Тренувати мозок.",
+                "Продуктивність мозку."
+            ]
+        },
+        {
+            "wordDe": "Gedächtnis",
+            "wordUk": "Пам'ять",
+            "phrasesDe": [
+                "Ein gutes Gedächtnis.",
+                "Gedächtnis verbessern.",
+                "Im Gedächtnis bleiben."
+            ],
+            "phrasesUk": [
+                "Гарна пам'ять.",
+                "Покращити пам'ять.",
+                "Залишитися в пам'яті."
+            ]
+        },
+        {
+            "wordDe": "Bewusstsein",
+            "wordUk": "Свідомість",
+            "phrasesDe": [
+                "Klares Bewusstsein.",
+                "Bewusstsein erweitern.",
+                "Das Bewusstsein verlieren."
+            ],
+            "phrasesUk": [
+                "Ясна свідомість.",
+                "Розширювати свідомість.",
+                "Втратити свідомість."
+            ]
+        },
+        {
+            "wordDe": "Unterbewusstsein",
+            "wordUk": "Підсвідомість",
+            "phrasesDe": [
+                "Macht des Unterbewusstseins.",
+                "Im Unterbewusstsein verankert.",
+                "Botschaften an das Unterbewusstsein."
+            ],
+            "phrasesUk": [
+                "Сила підсвідомості.",
+                "Закріплено в підсвідомості.",
+                "Послання до підсвідомості."
+            ]
+        },
+        {
+            "wordDe": "Gefühl",
+            "wordUk": "Почуття",
+            "phrasesDe": [
+                "Ein schönes Gefühl.",
+                "Gefühle zeigen.",
+                "Bauchgefühl."
+            ],
+            "phrasesUk": [
+                "Гарне почуття.",
+                "Показувати почуття.",
+                "Інтуїція (передчуття животом)."
+            ]
+        },
+        {
+            "wordDe": "Emotion",
+            "wordUk": "Емоція",
+            "phrasesDe": [
+                "Starke Emotionen.",
+                "Emotionen kontrollieren.",
+                "Welt der Emotionen."
+            ],
+            "phrasesUk": [
+                "Сильні емоції.",
+                "Контролювати емоції.",
+                "Світ емоцій."
+            ]
+        },
+        {
+            "wordDe": "Instinkt",
+            "wordUk": "Інстинкт",
+            "phrasesDe": [
+                "Natürlicher Instinkt.",
+                "Auf den Instinkt hören.",
+                "Überlebensinstinkt."
+            ],
+            "phrasesUk": [
+                "Природний інстинкт.",
+                "Слухати інстинкт.",
+                "Інстинкт виживання."
+            ]
+        },
+        {
+            "wordDe": "Wahrnehmung",
+            "wordUk": "Сприйняття",
+            "phrasesDe": [
+                "Subjektive Wahrnehmung.",
+                "Wahrnehmung der Realität.",
+                "Sinneswahrnehmung."
+            ],
+            "phrasesUk": [
+                "Суб’єктивне сприйняття.",
+                "Сприйняття реальності.",
+                "Чуттєве сприйняття."
+            ]
+        },
+        {
+            "wordDe": "Konzentration",
+            "wordUk": "Концентрація",
+            "phrasesDe": [
+                "Volle Konzentration.",
+                "Konzentration fördern.",
+                "Mangel an Konzentration."
+            ],
+            "phrasesUk": [
+                "Повна концентрація.",
+                "Сприяти концентрації.",
+                "Нестача концентрації."
+            ]
+        },
+        {
+            "wordDe": "Entspannung",
+            "wordUk": "Розслаблення",
+            "phrasesDe": [
+                "Zeit für Entspannung.",
+                "Übungen zur Entspannung.",
+                "Tiefe Entspannung."
+            ],
+            "phrasesUk": [
+                "Час для розслаблення.",
+                "Вправи для розслаблення.",
+                "Глибоке розслаблення."
+            ]
+        },
+        {
+            "wordDe": "Stress",
+            "wordUk": "Стрес",
+            "phrasesDe": [
+                "Viel Stress haben.",
+                "Stress abbauen.",
+                "Stress im Alltag."
+            ],
+            "phrasesUk": [
+                "Мати багато стресу.",
+                "Знімати стрес.",
+                "Стрес у повсякденному житті."
+            ]
+        },
+        {
+            "wordDe": "Angst",
+            "wordUk": "Страх",
+            "phrasesDe": [
+                "Keine Angst haben.",
+                "Angst überwinden.",
+                "Vor etwas Angst haben."
+            ],
+            "phrasesUk": [
+                "Не мати страху.",
+                "Побороти страх.",
+                "Боятися чогось."
+            ]
+        },
+        {
+            "wordDe": "Mut",
+            "wordUk": "Мужність / Сміливість",
+            "phrasesDe": [
+                "Viel Mut brauchen.",
+                "Mut fassen.",
+                "Mutig sein."
+            ],
+            "phrasesUk": [
+                "Потребувати багато мужності.",
+                "Набратися сміливості.",
+                "Бути сміливим."
+            ]
+        },
+        {
+            "wordDe": "Selbstvertrauen",
+            "wordUk": "Впевненість у собі",
+            "phrasesDe": [
+                "Gesundes Selbstvertrauen.",
+                "Selbstvertrauen stärken.",
+                "Mangel an Selbstvertrauen."
+            ],
+            "phrasesUk": [
+                "Здорова впевненість у собі.",
+                "Зміцнювати впевненість у собі.",
+                "Брак впевненості у собі."
+            ]
+        },
+        {
+            "wordDe": "Persönlichkeit",
+            "wordUk": "Особистість",
+            "phrasesDe": [
+                "Starke Persönlichkeit.",
+                "Entwicklung der Persönlichkeit.",
+                "Persönlichkeitsmerkmale."
+            ],
+            "phrasesUk": [
+                "Сильна особистість.",
+                "Розвиток особистості.",
+                "Риси особистості."
+            ]
+        },
+        {
+            "wordDe": "Charakter",
+            "wordUk": "Характер",
+            "phrasesDe": [
+                "Ein guter Charakter.",
+                "Charakter zeigen.",
+                "Charaktereigenschaften."
+            ],
+            "phrasesUk": [
+                "Гарний характер.",
+                "Показати характер.",
+                "Риси характеру."
+            ]
+        },
+        {
+            "wordDe": "Psyche",
+            "wordUk": "Психіка",
+            "phrasesDe": [
+                "Die menschliche Psyche.",
+                "Gesunde Psyche.",
+                "Belastung der Psyche."
+            ],
+            "phrasesUk": [
+                "Людська психіка.",
+                "Здорова психіка.",
+                "Навантаження на психіку."
+            ]
+        },
+        {
+            "wordDe": "Therapie",
+            "wordUk": "Терапія",
+            "phrasesDe": [
+                "Eine Therapie machen.",
+                "Erfolgreiche Therapie.",
+                "Psychotherapie."
+            ],
+            "phrasesUk": [
+                "Проходити терапію.",
+                "Успішна терапія.",
+                "Психотерапія."
+            ]
+        },
+        {
+            "wordDe": "Heilung",
+            "wordUk": "Зцілення / Одужання",
+            "phrasesDe": [
+                "Weg zur Heilung.",
+                "Heilungsprozess.",
+                "Heilungschancen."
+            ],
+            "phrasesUk": [
+                "Шлях до зцілення.",
+                "Процес одужання.",
+                "Шанси на одужання."
+            ]
+        },
+        {
+            "wordDe": "Gesundheit",
+            "wordUk": "Здоров'я",
+            "phrasesDe": [
+                "Gute Gesundheit.",
+                "Gesundheit ist wichtig.",
+                "Auf die Gesundheit achten."
+            ],
+            "phrasesUk": [
+                "Гарне здоров'я.",
+                "Здоров'я — це важливо.",
+                "Стежити за здоров'ям."
+            ]
+        },
+        {
+            "wordDe": "Krankheit",
+            "wordUk": "Хвороба",
+            "phrasesDe": [
+                "Schwere Krankheit.",
+                "Eine Krankheit heilen.",
+                "Symptome der Krankheit."
+            ],
+            "phrasesUk": [
+                "Важка хвороба.",
+                "Вилікувати хворобу.",
+                "Симптоми хвороби."
+            ]
+        },
+        {
+            "wordDe": "Körper",
+            "wordUk": "Тіло",
+            "phrasesDe": [
+                "Gesunder Körper.",
+                "Körper und Geist.",
+                "Auf den Körper hören."
+            ],
+            "phrasesUk": [
+                "Здорове тіло.",
+                "Тіло і дух.",
+                "Слухати своє тіло."
+            ]
+        },
+        {
+            "wordDe": "Geist",
+            "wordUk": "Дух / Розум",
+            "phrasesDe": [
+                "Wacher Geist.",
+                "Teamgeist.",
+                "Geistige Fitness."
+            ],
+            "phrasesUk": [
+                "Пильний (бадьорий) дух.",
+                "Командний дух.",
+                "Розумова (духовна) форма."
+            ]
+        },
+        {
+            "wordDe": "Atmung",
+            "wordUk": "Дихання",
+            "phrasesDe": [
+                "Ruhige Atmung.",
+                "Atmung kontrollieren.",
+                "Schwere Atmung."
+            ],
+            "phrasesUk": [
+                "Спокійне дихання.",
+                "Контролювати дихання.",
+                "Важке дихання."
+            ]
+        },
+        {
+            "wordDe": "Herzschlag",
+            "wordUk": "Серцебиття",
+            "phrasesDe": [
+                "Schneller Herzschlag.",
+                "Herzschlag messen.",
+                "Den Herzschlag spüren."
+            ],
+            "phrasesUk": [
+                "Швидке серцебиття.",
+                "Вимірювати серцебиття.",
+                "Відчувати серцебиття."
+            ]
+        },
+        {
+            "wordDe": "Blutdruck",
+            "wordUk": "Артеріальний тиск",
+            "phrasesDe": [
+                "Hoher Blutdruck.",
+                "Blutdruck senken.",
+                "Blutdruck kontrollieren."
+            ],
+            "phrasesUk": [
+                "Високий тиск.",
+                "Знижувати тиск.",
+                "Контролювати тиск."
+            ]
+        },
+        {
+            "wordDe": "Muskel",
+            "wordUk": "М'яз",
+            "phrasesDe": [
+                "Starke Muskeln.",
+                "Muskeln aufbauen.",
+                "Muskelkater haben."
+            ],
+            "phrasesUk": [
+                "Сильні м'язи.",
+                "Нарощувати м'язи.",
+                "Мати кріпатуру."
+            ]
+        },
+        {
+            "wordDe": "Knochen",
+            "wordUk": "Кістка",
+            "phrasesDe": [
+                "Starke Knochen.",
+                "Knochenbruch.",
+                "Skelett aus Knochen."
+            ],
+            "phrasesUk": [
+                "Міцні кістки.",
+                "Перелом кістки.",
+                "Скелет із кісток."
+            ]
+        },
+        {
+            "wordDe": "Gelenk",
+            "wordUk": "Суглоб",
+            "phrasesDe": [
+                "Schmerzende Gelenke.",
+                "Bewegliche Gelenke.",
+                "Gelenkschmerzen."
+            ],
+            "phrasesUk": [
+                "Суглоби, що болять.",
+                "Рухливі суглоби.",
+                "Біль у суглобах."
+            ]
+        },
+        {
+            "wordDe": "Haut",
+            "wordUk": "Шкіра",
+            "phrasesDe": [
+                "Empfindliche Haut.",
+                "Haut pflegen.",
+                "Hauttyp bestimmen."
+            ],
+            "phrasesUk": [
+                "Чутлива шкіра.",
+                "Доглядати за шкірою.",
+                "Визначити тип шкіри."
+            ]
+        },
+        {
+            "wordDe": "Auge",
+            "wordUk": "Око",
+            "phrasesDe": [
+                "Blaue Augen.",
+                "Den Augen trauen.",
+                "Augenkontakt halten."
+            ],
+            "phrasesUk": [
+                "Блакитні очі.",
+                "Вірити очам.",
+                "Тримати зоровий контакт."
+            ]
+        },
+        {
+            "wordDe": "Ohr",
+            "wordUk": "Вухо",
+            "phrasesDe": [
+                "Zuhören mit beiden Ohren.",
+                "Die Ohren spitzen.",
+                "Ohrschmerzen."
+            ],
+            "phrasesUk": [
+                "Слухати обома вухами.",
+                "Навострити вуха.",
+                "Біль у вусі."
+            ]
+        },
+        {
+            "wordDe": "Nase",
+            "wordUk": "Ніс",
+            "phrasesDe": [
+                "Eine feine Nase haben.",
+                "Durch die Nase atmen.",
+                "Verstopfte Nase."
+            ],
+            "phrasesUk": [
+                "Мати гарний нюх (тонкий ніс).",
+                "Дихати через ніс.",
+                "Закладений ніс."
+            ]
+        },
+        {
+            "wordDe": "Mund",
+            "wordUk": "Рот",
+            "phrasesDe": [
+                "Den Mund öffnen.",
+                "Mund halten.",
+                "Mundhygiene."
+            ],
+            "phrasesUk": [
+                "Відкрити рот.",
+                "Тримати язик за зубами (тримати рот).",
+                "Гігієна рота."
+            ]
+        },
+        {
+            "wordDe": "Zahn",
+            "wordUk": "Зуб",
+            "phrasesDe": [
+                "Weiße Zähne.",
+                "Zähne putzen.",
+                "Zahnschmerzen haben."
+            ],
+            "phrasesUk": [
+                "Білі зуби.",
+                "Чистити зуби.",
+                "Мати зубний біль."
+            ]
+        },
+        {
+            "wordDe": "Hals",
+            "wordUk": "Шия / Горло",
+            "phrasesDe": [
+                "Ein langer Hals.",
+                "Halsschmerzen.",
+                "Etwas im Hals haben."
+            ],
+            "phrasesUk": [
+                "Довга шия.",
+                "Біль у горлі.",
+                "Мати щось у горлі."
+            ]
+        },
+        {
+            "wordDe": "Rücken",
+            "wordUk": "Спина",
+            "phrasesDe": [
+                "Ein gerader Rücken.",
+                "Rückenschmerzen.",
+                "Den Rücken stärken."
+            ],
+            "phrasesUk": [
+                "Пряма спина.",
+                "Біль у спині.",
+                "Зміцнювати спину."
+            ]
+        },
+        {
+            "wordDe": "Bauch",
+            "wordUk": "Живіт",
+            "phrasesDe": [
+                "Ein dicker Bauch.",
+                "Bauchschmerzen.",
+                "Auf den Bauch hören."
+            ],
+            "phrasesUk": [
+                "Товстий живіт.",
+                "Біль у животі.",
+                "Довіряти інтуїції (слухати живіт)."
+            ]
+        },
+        {
+            "wordDe": "Bein",
+            "wordUk": "Нога",
+            "phrasesDe": [
+                "Lange Beine.",
+                "Die Beine vertreten.",
+                "Ein Bein brechen."
+            ],
+            "phrasesUk": [
+                "Довгі ноги.",
+                "Розім'яти ноги.",
+                "Зламати ногу."
+            ]
+        },
+        {
+            "wordDe": "Fuß",
+            "wordUk": "Стопа (нога)",
+            "phrasesDe": [
+                "Zu Fuß gehen.",
+                "Kalte Füße bekommen.",
+                "Fußball spielen."
+            ],
+            "phrasesUk": [
+                "Йти пішки.",
+                "Злякатися (отримати холодні ноги).",
+                "Грати у футбол."
+            ]
+        },
+        {
+            "wordDe": "Arm",
+            "wordUk": "Рука (плече/передпліччя)",
+            "phrasesDe": [
+                "Starke Arme.",
+                "In den Armen halten.",
+                "Unter den Arm nehmen."
+            ],
+            "phrasesUk": [
+                "Сильні руки.",
+                "Тримати в обіймах (в руках).",
+                "Взяти під руку."
+            ]
+        },
+        {
+            "wordDe": "Hand",
+            "wordUk": "Рука (кисть)",
+            "phrasesDe": [
+                "Die Hand geben.",
+                "In guten Händen sein.",
+                "Mit der Hand schreiben."
+            ],
+            "phrasesUk": [
+                "Дати руку (привітатися).",
+                "Бути в надійних руках.",
+                "Писати рукою."
+            ]
+        },
+        {
+            "wordDe": "Finger",
+            "wordUk": "Палець",
+            "phrasesDe": [
+                "Zehn Finger.",
+                "Mit dem Finger zeigen.",
+                "Den Finger verbrennen."
+            ],
+            "phrasesUk": [
+                "Десять пальців.",
+                "Показувати пальцем.",
+                "Обпекти палець."
+            ]
+        },
+        {
+            "wordDe": "Blut",
+            "wordUk": "Кров",
+            "phrasesDe": [
+                "Blut spenden.",
+                "Blutgruppe wissen.",
+                "Das Blut fließt."
+            ],
+            "phrasesUk": [
+                "Здавати кров.",
+                "Знати групу крові.",
+                "Кров тече."
+            ]
+        },
+        {
+            "wordDe": "Organ",
+            "wordUk": "Орган",
+            "phrasesDe": [
+                "Innere Organe.",
+                "Organspende.",
+                "Wichtigstes Organ."
+            ],
+            "phrasesUk": [
+                "Внутрішні органи.",
+                "Донорство органів.",
+                "Найважливіший орган."
+            ]
+        },
+        {
+            "wordDe": "Magen",
+            "wordUk": "Шлунок",
+            "phrasesDe": [
+                "Ein leerer Magen.",
+                "Magenbeschwerden.",
+                "Liebe geht durch den Magen."
+            ],
+            "phrasesUk": [
+                "Порожній шлунок.",
+                "Дискомфорт у шлунку.",
+                "Любов йде через шлунок."
+            ]
+        },
+        {
+            "wordDe": "Lunge",
+            "wordUk": "Легеня",
+            "phrasesDe": [
+                "Gesunde Lunge.",
+                "Luft in der Lunge.",
+                "Lungenkapazität."
+            ],
+            "phrasesUk": [
+                "Здорові легені.",
+                "Повітря в легенях.",
+                "Об’єм легень."
+            ]
+        },
+        {
+            "wordDe": "Leber",
+            "wordUk": "Печінка",
+            "phrasesDe": [
+                "Die Leber reinigen.",
+                "Funktion der Leber.",
+                "Leberwerte."
+            ],
+            "phrasesUk": [
+                "Очищувати печінку.",
+                "Функція печінки.",
+                "Показники печінки."
+            ]
+        },
+        {
+            "wordDe": "Niere",
+            "wordUk": "Нирка",
+            "phrasesDe": [
+                "Zwei Nieren haben.",
+                "Nierenstein.",
+                "Funktion der Nieren."
+            ],
+            "phrasesUk": [
+                "Мати дві нирки.",
+                "Камінь у нирці.",
+                "Функція нирок."
+            ]
+        },
+        {
+            "wordDe": "Hormon",
+            "wordUk": "Гормон",
+            "phrasesDe": [
+                "Glückshormone.",
+                "Hormonhaushalt.",
+                "Einfluss von Hormonen."
+            ],
+            "phrasesUk": [
+                "Гормони щастя.",
+                "Гармональний фон.",
+                "Вплив гормонів."
+            ]
+        }
+    ]
+}

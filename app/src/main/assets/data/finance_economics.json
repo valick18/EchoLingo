@@ -1,0 +1,704 @@
+{
+    "Фінанси та Економіка": [
+        {
+            "wordDe": "Wirtschaft",
+            "wordUk": "Економіка / Господарство",
+            "phrasesDe": [
+                "Die deutsche Wirtschaft.",
+                "Wirtschaftswachstum.",
+                "Freie Marktwirtschaft."
+            ],
+            "phrasesUk": [
+                "Німецька економіка.",
+                "Економічне зростання.",
+                "Вільна ринкова економіка."
+            ]
+        },
+        {
+            "wordDe": "Börse",
+            "wordUk": "Біржа",
+            "phrasesDe": [
+                "Aktien an der Börse.",
+                "Der Kurs an der Börse.",
+                "Börsenmakler."
+            ],
+            "phrasesUk": [
+                "Акції на біржі.",
+                "Курс на біржі.",
+                "Біржовий маклер."
+            ]
+        },
+        {
+            "wordDe": "Aktie",
+            "wordUk": "Акція (цінний папір)",
+            "phrasesDe": [
+                "Aktien kaufen.",
+                "Dividende pro Aktie.",
+                "Aktienmarkt beobachten."
+            ],
+            "phrasesUk": [
+                "Купувати акції.",
+                "Дивіденд на акцію.",
+                "Спостерігати за ринком акцій."
+            ]
+        },
+        {
+            "wordDe": "Zins",
+            "wordUk": "Відсоток (банківський)",
+            "phrasesDe": [
+                "Hohe Zinsen.",
+                "Zinssatz der Bank.",
+                "Zinsen zahlen."
+            ],
+            "phrasesUk": [
+                "Високі відсотки.",
+                "Відсоткова ставка банку.",
+                "Платити відсотки."
+            ]
+        },
+        {
+            "wordDe": "Inflation",
+            "wordUk": "Інфляція",
+            "phrasesDe": [
+                "Gefahr der Inflation.",
+                "Steigende Inflation.",
+                "Inflation bekämpfen."
+            ],
+            "phrasesUk": [
+                "Загроза інфляції.",
+                "Зростаюча інфляція.",
+                "Боротися з інфляцією."
+            ]
+        },
+        {
+            "wordDe": "Währung",
+            "wordUk": "Валюта",
+            "phrasesDe": [
+                "Stabile Währung.",
+                "Euro als Währung.",
+                "Fremdwährung wechseln."
+            ],
+            "phrasesUk": [
+                "Стабільна валюта.",
+                "Євро як валюта.",
+                "Міняти іноземну валюту."
+            ]
+        },
+        {
+            "wordDe": "Kredit",
+            "wordUk": "Кредит",
+            "phrasesDe": [
+                "Einen Kredit aufnehmen.",
+                "Kredit für das Haus.",
+                "Kredit ohne Zinsen."
+            ],
+            "phrasesUk": [
+                "Взяти кредит.",
+                "Кредит на будинок.",
+                "Кредит без відсотків."
+            ]
+        },
+        {
+            "wordDe": "Hypothek",
+            "wordUk": "Іпотека",
+            "phrasesDe": [
+                "Eine Hypothek abbezahlen.",
+                "Zinsen für die Hypothek.",
+                "Voraussetzungen für die Hypothek."
+            ],
+            "phrasesUk": [
+                "Виплачувати іпотеку.",
+                "Відсотки за іпотекою.",
+                "Умови для отримання іпотеки."
+            ]
+        },
+        {
+            "wordDe": "Insolvenz",
+            "wordUk": "Банкрутство (неплатоспроможність)",
+            "phrasesDe": [
+                "Insolvenz anmelden.",
+                "Gefahr der Insolvenz.",
+                "Insolvenzverfahren."
+            ],
+            "phrasesUk": [
+                "Подати на банкрутство.",
+                "Загроза банкрутства.",
+                "Процедура банкрутства."
+            ]
+        },
+        {
+            "wordDe": "Dividende",
+            "wordUk": "Дивіденд",
+            "phrasesDe": [
+                "Auszahlung der Dividende.",
+                "Hohe Dividende.",
+                "Dividende erhalten."
+            ],
+            "phrasesUk": [
+                "Виплата дивідендів.",
+                "Високий дивіденд.",
+                "Отримувати дивіденди."
+            ]
+        },
+        {
+            "wordDe": "Guthaben",
+            "wordUk": "Баланс / Кошти на рахунку",
+            "phrasesDe": [
+                "Mein Guthaben auf dem Konto.",
+                "Guthaben abfragen.",
+                "Viel Guthaben haben."
+            ],
+            "phrasesUk": [
+                "Мій баланс на рахунку.",
+                "Запитати стан рахунку.",
+                "Мати багато грошей на рахунку."
+            ]
+        },
+        {
+            "wordDe": "Überweisung",
+            "wordUk": "Переказ (банківський)",
+            "phrasesDe": [
+                "Eine Überweisung tätigen.",
+                "Online-Überweisung.",
+                "Überweisungsbeleg."
+            ],
+            "phrasesUk": [
+                "Здійснити переказ.",
+                "Онлайн-переказ.",
+                "Квитанція про переказ."
+            ]
+        },
+        {
+            "wordDe": "Dauerauftrag",
+            "wordUk": "Постійне платіжне доручення",
+            "phrasesDe": [
+                "Einen Dauerauftrag einrichten.",
+                "Miete per Dauerauftrag.",
+                "Dauerauftrag kündigen."
+            ],
+            "phrasesUk": [
+                "Налаштувати регулярний платіж.",
+                "Оренда через регулярний платіж.",
+                "Скасувати регулярний платіж."
+            ]
+        },
+        {
+            "wordDe": "Lastschrift",
+            "wordUk": "Пряме дебетування",
+            "phrasesDe": [
+                "Zahlung per Lastschrift.",
+                "Einzugsermächtigung.",
+                "Abbuchung vom Konto."
+            ],
+            "phrasesUk": [
+                "Оплата через пряме списання.",
+                "Дозвіл на списання коштів.",
+                "Списання з рахунку."
+            ]
+        },
+        {
+            "wordDe": "Vermögen",
+            "wordUk": "Майно / Капітал",
+            "phrasesDe": [
+                "Ein großes Vermögen.",
+                "Vermögen aufbauen.",
+                "Vermögenssteuer."
+            ],
+            "phrasesUk": [
+                "Велике майно (капітал).",
+                "Накопичувати капітал.",
+                "Податок на майно."
+            ]
+        },
+        {
+            "wordDe": "Schulden",
+            "wordUk": "Борги",
+            "phrasesDe": [
+                "Schulden haben.",
+                "Schulden zurückzahlen.",
+                "In den Schulden stecken."
+            ],
+            "phrasesUk": [
+                "Мати борги.",
+                "Повертати борги.",
+                "Застрягти в боргах."
+            ]
+        },
+        {
+            "wordDe": "Umsatz",
+            "wordUk": "Оборот (виручка)",
+            "phrasesDe": [
+                "Der jährliche Umsatz.",
+                "Umsatz steigern.",
+                "Viel Umsatz machen."
+            ],
+            "phrasesUk": [
+                "Річний оборот.",
+                "Збільшити виручку.",
+                "Мати великий оборот."
+            ]
+        },
+        {
+            "wordDe": "Gewinn",
+            "wordUk": "Прибуток",
+            "phrasesDe": [
+                "Gewinn nach Steuern.",
+                "Einen Gewinn erzielen.",
+                "Gewinn und Verlust."
+            ],
+            "phrasesUk": [
+                "Прибуток після податків.",
+                "Отримувати прибуток.",
+                "Прибуток і збитки."
+            ]
+        },
+        {
+            "wordDe": "Verlust",
+            "wordUk": "Збиток / Втрата",
+            "phrasesDe": [
+                "Einen Verlust machen.",
+                "Verlust an Wert.",
+                "Den Verlust begrenzen."
+            ],
+            "phrasesUk": [
+                "Зазнати збитків.",
+                "Втрата вартості.",
+                "Обмежити збитки."
+            ]
+        },
+        {
+            "wordDe": "Finanzamt",
+            "wordUk": "Податкова інспекція",
+            "phrasesDe": [
+                "Brief vom Finanzamt.",
+                "Termin beim Finanzamt.",
+                "Steuern an das Finanzamt."
+            ],
+            "phrasesUk": [
+                "Лист із податкової.",
+                "Візит до податкової.",
+                "Податки в податкову службу."
+            ]
+        },
+        {
+            "wordDe": "Buchhaltung",
+            "wordUk": "Бухгалтерія",
+            "phrasesDe": [
+                "In der Buchhaltung arbeiten.",
+                "Ordentliche Buchhaltung.",
+                "Belege für die Buchhaltung."
+            ],
+            "phrasesUk": [
+                "Працювати в бухгалтерії.",
+                "Акуратне ведення бухгалтерії.",
+                "Квитанції для бухгалтерії."
+            ]
+        },
+        {
+            "wordDe": "Bilanz",
+            "wordUk": "Баланс (фінансовий)",
+            "phrasesDe": [
+                "Die Bilanz erstellen.",
+                "Eine positive Bilanz.",
+                "Abschluss der Bilanz."
+            ],
+            "phrasesUk": [
+                "Скласти баланс.",
+                "Позитивний баланс.",
+                "Закриття балансу."
+            ]
+        },
+        {
+            "wordDe": "Anlage",
+            "wordUk": "Інвестиція / Вкладення",
+            "phrasesDe": [
+                "Sichere Anlage.",
+                "Geldanlage in Gold.",
+                "Risikofreudige Anlage."
+            ],
+            "phrasesUk": [
+                "Надійна інвестиція.",
+                "Вкладення грошей у золото.",
+                "Ризикована інвестиція."
+            ]
+        },
+        {
+            "wordDe": "Portfolio",
+            "wordUk": "Портфель (інвестиційний)",
+            "phrasesDe": [
+                "Ein diverses Portfolio.",
+                "Portfolio umschichten.",
+                "Aktien im Portfolio."
+            ],
+            "phrasesUk": [
+                "Диверсифікований портфель.",
+                "Перерозподілити портфель.",
+                "Акції в портфелі."
+            ]
+        },
+        {
+            "wordDe": "Kapitalmarkt",
+            "wordUk": "Ринок капіталу",
+            "phrasesDe": [
+                "Entwicklungen am Kapitalmarkt.",
+                "Zugang zum Kapitalmarkt.",
+                "Kapitalmarktregeln."
+            ],
+            "phrasesUk": [
+                "Події на ринку капіталу.",
+                "Доступ до ринку капіталу.",
+                "Правила ринку капіталу."
+            ]
+        },
+        {
+            "wordDe": "Konsum",
+            "wordUk": "Споживання",
+            "phrasesDe": [
+                "Massiver Konsum.",
+                "Konsumverhalten ändern.",
+                "Konsumgüter."
+            ],
+            "phrasesUk": [
+                "Масове споживання.",
+                "Змінити поведінку споживача.",
+                "Споживчі товари."
+            ]
+        },
+        {
+            "wordDe": "Nachfrage",
+            "wordUk": "Попит",
+            "phrasesDe": [
+                "Hohe Nachfrage.",
+                "Angebot und Nachfrage.",
+                "Nachfrage nach Produkten."
+            ],
+            "phrasesUk": [
+                "Високий попит.",
+                "Пропозиція і попит.",
+                "Попит на товари."
+            ]
+        },
+        {
+            "wordDe": "Angebot",
+            "wordUk": "Пропозиція / Оферта",
+            "phrasesDe": [
+                "Ein gutes Angebot.",
+                "Das Angebot gilt heute.",
+                "Vielfältiges Angebot."
+            ],
+            "phrasesUk": [
+                "Гарна пропозиція.",
+                "Пропозиція дійсна сьогодні.",
+                "Різноманітна пропозиція."
+            ]
+        },
+        {
+            "wordDe": "Export",
+            "wordUk": "Експорт",
+            "phrasesDe": [
+                "Wichtig für den Export.",
+                "Export von Autos.",
+                "Exportland Deutschland."
+            ],
+            "phrasesUk": [
+                "Важливо для експорту.",
+                "Експорт автомобілів.",
+                "Німеччина — країна-експортер."
+            ]
+        },
+        {
+            "wordDe": "Import",
+            "wordUk": "Імпорт",
+            "phrasesDe": [
+                "Import von Rohstoffen.",
+                "Zoll auf den Import.",
+                "Importgüter."
+            ],
+            "phrasesUk": [
+                "Імпорт сировини.",
+                "Мито на імпорт.",
+                "Імпортні товари."
+            ]
+        },
+        {
+            "wordDe": "Bruttoinlandsprodukt (BIP)",
+            "wordUk": "Внутрішній валовий продукт (ВВП)",
+            "phrasesDe": [
+                "Wachstum des BIP.",
+                "BIP pro Kopf.",
+                "BIP in Deutschland."
+            ],
+            "phrasesUk": [
+                "Зростання ВВП.",
+                "ВВП на душу населення.",
+                "ВВП у Німеччині."
+            ]
+        },
+        {
+            "wordDe": "Wettbewerb",
+            "wordUk": "Конкуренція / Змагання",
+            "phrasesDe": [
+                "Starker Wettbewerb.",
+                "Fairer Wettbewerb.",
+                "Im Wettbewerb stehen."
+            ],
+            "phrasesUk": [
+                "Сильна конкуренція.",
+                "Чесна конкуренція.",
+                "Перебувати в конкуренції."
+            ]
+        },
+        {
+            "wordDe": "Monopol",
+            "wordUk": "Монополія",
+            "phrasesDe": [
+                "Ein staatliches Monopol.",
+                "Gegen das Monopol kämpfen.",
+                "Marktmonopol."
+            ],
+            "phrasesUk": [
+                "Державна монополія.",
+                "Боротися проти монополії.",
+                "Монополія на ринку."
+            ]
+        },
+        {
+            "wordDe": "Subvention",
+            "wordUk": "Субсидія",
+            "phrasesDe": [
+                "Subventionen für Bauern.",
+                "Subventionen abbauen.",
+                "Staatliche Subvention."
+            ],
+            "phrasesUk": [
+                "Субсидії для фермерів.",
+                "Скорочувати субсидії.",
+                "Державна субсидія."
+            ]
+        },
+        {
+            "wordDe": "Haushalt",
+            "wordUk": "Бюджет / Домогосподарство",
+            "phrasesDe": [
+                "Der staatliche Haushalt.",
+                "Einen Haushalt planen.",
+                "Privater Haushalt."
+            ],
+            "phrasesUk": [
+                "Державний бюджет.",
+                "Планувати бюджет.",
+                "Приватне домогосподарство."
+            ]
+        },
+        {
+            "wordDe": "Sparen",
+            "wordUk": "Заощаджувати",
+            "phrasesDe": [
+                "Geld für später sparen.",
+                "Energie sparen.",
+                "An der falschen Stelle sparen."
+            ],
+            "phrasesUk": [
+                "Заощаджувати гроші на потім.",
+                "Заощаджувати енергію.",
+                "Економити не там, де треба."
+            ]
+        },
+        {
+            "wordDe": "Ausgabe",
+            "wordUk": "Витрата / Видання",
+            "phrasesDe": [
+                "Hohe Ausgaben.",
+                "Ausgaben reduzieren.",
+                "Tägliche Ausgaben."
+            ],
+            "phrasesUk": [
+                "Великі витрати.",
+                "Зменшити витрати.",
+                "Щоденні витрати."
+            ]
+        },
+        {
+            "wordDe": "Einnahme",
+            "wordUk": "Дохід (надходження)",
+            "phrasesDe": [
+                "Zusätzliche Einnahmen.",
+                "Einnahmen und Ausgaben.",
+                "Einnahmequelle."
+            ],
+            "phrasesUk": [
+                "Додаткові доходи.",
+                "Доходи та витрати.",
+                "Джерело доходу."
+            ]
+        },
+        {
+            "wordDe": "Einkommen",
+            "wordUk": "Дохід (заробіток)",
+            "phrasesDe": [
+                "Regelmäßiges Einkommen.",
+                "Das Einkommen versteuern.",
+                "Mindesteinkommen."
+            ],
+            "phrasesUk": [
+                "Регулярний дохід.",
+                "Сплачувати податок з доходу.",
+                "Мінімальний дохід."
+            ]
+        },
+        {
+            "wordDe": "Rente",
+            "wordUk": "Пенсія",
+            "phrasesDe": [
+                "In Rente gehen.",
+                "Die Rente ist sicher.",
+                "Private Rentenversicherung."
+            ],
+            "phrasesUk": [
+                "Йти на пенсію.",
+                "Пенсія гарантована.",
+                "Приватне пенсійне страхування."
+            ]
+        },
+        {
+            "wordDe": "Versicherung",
+            "wordUk": "Страхування",
+            "phrasesDe": [
+                "Krankenversicherung.",
+                "Autoversicherung.",
+                "Eine Versicherung abschließen."
+            ],
+            "phrasesUk": [
+                "Медичне страхування.",
+                "Страхування авто.",
+                "Укласти договір страхування."
+            ]
+        },
+        {
+            "wordDe": "Beitrag",
+            "wordUk": "Внесок / Стаття",
+            "phrasesDe": [
+                "Monatlicher Beitrag.",
+                "Versicherungsbeitrag.",
+                "Einen Beitrag leisten."
+            ],
+            "phrasesUk": [
+                "Щомісячний внесок.",
+                "Страховий внесок.",
+                "Зробити свій внесок."
+            ]
+        },
+        {
+            "wordDe": "Gehalt",
+            "wordUk": "Зарплата (службовця)",
+            "phrasesDe": [
+                "Ein faires Gehalt.",
+                "Gehaltserhöhung.",
+                "Netto-Gehalt."
+            ],
+            "phrasesUk": [
+                "Справедлива зарплата.",
+                "Підвищення зарплати.",
+                "Зарплата «на руки» (нетто)."
+            ]
+        },
+        {
+            "wordDe": "Lohn",
+            "wordUk": "Заробітна плата (робітника)",
+            "phrasesDe": [
+                "Mindestlohn.",
+                "Stundenlohn.",
+                "Lohnabrechnung."
+            ],
+            "phrasesUk": [
+                "Мінімальна зарплата.",
+                "Погодинна оплата.",
+                "Розрахунок заробітної плати."
+            ]
+        },
+        {
+            "wordDe": "Arbeitslosigkeit",
+            "wordUk": "Безробіття",
+            "phrasesDe": [
+                "Gefahr der Arbeitslosigkeit.",
+                "Kampf gegen Arbeitslosigkeit.",
+                "Arbeitslosenquote."
+            ],
+            "phrasesUk": [
+                "Загроза безробіття.",
+                "Боротьба з безробіттям.",
+                "Рівень безробіття."
+            ]
+        },
+        {
+            "wordDe": "Gewerkschaft",
+            "wordUk": "Профспілка",
+            "phrasesDe": [
+                "Druck durch die Gewerkschaft.",
+                "Einer Gewerkschaft beitreten.",
+                "Gewerkschaftstag."
+            ],
+            "phrasesUk": [
+                "Тиск з боку профспілки.",
+                "Вступити до профспілки.",
+                "З'їзд профспілки."
+            ]
+        },
+        {
+            "wordDe": "Streik",
+            "wordUk": "Страйк",
+            "phrasesDe": [
+                "Ein langer Streik.",
+                "Streik bei der Bahn.",
+                "In den Streik treten."
+            ],
+            "phrasesUk": [
+                "Тривалий страйк.",
+                "Страйк на залізниці.",
+                "Розпочати страйк."
+            ]
+        },
+        {
+            "wordDe": "Wachstum",
+            "wordUk": "Зростання",
+            "phrasesDe": [
+                "Wirtschaftliches Wachstum.",
+                "Wachstumsraten.",
+                "Grenzen des Wachstums."
+            ],
+            "phrasesUk": [
+                "Економічне зростання.",
+                "Показники зростання.",
+                "Межі зростання."
+            ]
+        },
+        {
+            "wordDe": "Privatisierung",
+            "wordUk": "Приватизація",
+            "phrasesDe": [
+                "Privatisierung der Bahn.",
+                "Folgen der Privatisierung.",
+                "Gegen Privatisierung."
+            ],
+            "phrasesUk": [
+                "Приватизація залізниці.",
+                "Наслідки приватизації.",
+                "Проти приватизації."
+            ]
+        },
+        {
+            "wordDe": "Infrastruktur",
+            "wordUk": "Інфраструктура",
+            "phrasesDe": [
+                "Marode Infrastruktur.",
+                "Infrastruktur ausbauen.",
+                "Digitale Infrastruktur."
+            ],
+            "phrasesUk": [
+                "Застаріла інфраструктура.",
+                "Розбудовувати інфраструктуру.",
+                "Цифрова інфраструктура."
+            ]
+        }
+    ]
+}

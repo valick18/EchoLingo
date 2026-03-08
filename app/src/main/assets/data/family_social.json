@@ -1,0 +1,704 @@
+{
+    "Сім'я та Соціальні Зв'язки": [
+        {
+            "wordDe": "Verwandtschaft",
+            "wordUk": "Родичі / Спорідненість",
+            "phrasesDe": [
+                "Die gesamte Verwandtschaft.",
+                "Gute Verwandtschaft.",
+                "Grad der Verwandtschaft."
+            ],
+            "phrasesUk": [
+                "Вся рідня.",
+                "Гарні родинні стосунки.",
+                "Ступінь спорідненості."
+            ]
+        },
+        {
+            "wordDe": "Angehörige",
+            "wordUk": "Креві (близькі) / Члени сім'ї",
+            "phrasesDe": [
+                "Nächste Angehörige.",
+                "Information für Angehörige.",
+                "Angehörige pflegen."
+            ],
+            "phrasesUk": [
+                "Найближчі родичі.",
+                "Інформація для близьких.",
+                "Доглядати за членами сім'ї."
+            ]
+        },
+        {
+            "wordDe": "Ehegatte",
+            "wordUk": "Чоловік (у шлюбі) / Подружжя",
+            "phrasesDe": [
+                "Mein Ehegatte.",
+                "Name des Ehegatten.",
+                "Rechte der Ehegatten."
+            ],
+            "phrasesUk": [
+                "Мій чоловік.",
+                "Ім'я чоловіка (подружжя).",
+                "Права подружжя."
+            ]
+        },
+        {
+            "wordDe": "Schwiegermutter",
+            "wordUk": "Теща / Свекруха",
+            "phrasesDe": [
+                "Besuch bei der Schwiegermutter.",
+                "Meine Schwiegermutter.",
+                "Geschenk für die Schwiegermutter."
+            ],
+            "phrasesUk": [
+                "Візит до тещі (свекрухи).",
+                "Моя свекруха.",
+                "Подарунок для тещі."
+            ]
+        },
+        {
+            "wordDe": "Schwiegervater",
+            "wordUk": "Тесть / Свекор",
+            "phrasesDe": [
+                "Mein Schwiegervater.",
+                "Gespräch mit dem Schwiegervater.",
+                "Rat vom Schwiegervater."
+            ],
+            "phrasesUk": [
+                "Мій тесть (свекор).",
+                "Розмова з тестем.",
+                "Порада від тестя."
+            ]
+        },
+        {
+            "wordDe": "Schwager",
+            "wordUk": "Швагро (брат чоловіка/дружини)",
+            "phrasesDe": [
+                "Mein Schwager.",
+                "Mit dem Schwager Fußball schauen.",
+                "Hilfe vom Schwager."
+            ],
+            "phrasesUk": [
+                "Мій швагро.",
+                "Дивитися футбол зі шваґром.",
+                "Допомога від шваґра."
+            ]
+        },
+        {
+            "wordDe": "Schwägerin",
+            "wordUk": "Невістка / Зовиця (сестра чоловіка/дружини)",
+            "phrasesDe": [
+                "Meine Schwägerin.",
+                "Geburtstag der Schwägerin.",
+                "Brief von der Schwägerin."
+            ],
+            "phrasesUk": [
+                "Моя невістка (зовиця).",
+                "День народження невістки.",
+                "Лист від невістки."
+            ]
+        },
+        {
+            "wordDe": "Neffe",
+            "wordUk": "Племінник",
+            "phrasesDe": [
+                "Mein kleiner Neffe.",
+                "Besuch vom Neffen.",
+                "Geschenk für den Neffen."
+            ],
+            "phrasesUk": [
+                "Мій маленький племінник.",
+                "Візит племінника.",
+                "Подарунок для племінника."
+            ]
+        },
+        {
+            "wordDe": "Nichte",
+            "wordUk": "Племінниця",
+            "phrasesDe": [
+                "Meine liebe Nichte.",
+                "Erfolg der Nichte.",
+                "Spielen mit der Nichte."
+            ],
+            "phrasesUk": [
+                "Моя люба племінниця.",
+                "Успіх племінниці.",
+                "Грати з племінницею."
+            ]
+        },
+        {
+            "wordDe": "Enkelkind",
+            "wordUk": "Онук / Онука",
+            "phrasesDe": [
+                "Meine Enkelkinder.",
+                "Zeit mit dem Enkelkind.",
+                "Stolz auf das Enkelkind."
+            ],
+            "phrasesUk": [
+                "Мої онуки.",
+                "Час з онуком.",
+                "Гордість за онука."
+            ]
+        },
+        {
+            "wordDe": "Urgroßeltern",
+            "wordUk": "Прабабуся та прадідусь",
+            "phrasesDe": [
+                "Fotos der Urgroßeltern.",
+                "Geschichte der Urgroßeltern.",
+                "Besuch bei den Urgroßeltern."
+            ],
+            "phrasesUk": [
+                "Фотографії прабабусі та прадідуся.",
+                "Історія прадідусів.",
+                "Візит до прабабусі та прадідуся."
+            ]
+        },
+        {
+            "wordDe": "Beziehung",
+            "wordUk": "Відносини / Стосунки",
+            "phrasesDe": [
+                "Eine feste Beziehung.",
+                "Probleme in der Beziehung.",
+                "Beziehung pflegen."
+            ],
+            "phrasesUk": [
+                "Серйозні стосунки.",
+                "Проблеми у відносинах.",
+                "Підтримувати стосунки."
+            ]
+        },
+        {
+            "wordDe": "Partnerschaft",
+            "wordUk": "Партнерство",
+            "phrasesDe": [
+                "Eingetragene Partnerschaft.",
+                "Partnerschaft auf Augenhöhe.",
+                "Lange Partnerschaft."
+            ],
+            "phrasesUk": [
+                "Зареєстроване партнерство.",
+                "Рівноправне партнерство.",
+                "Тривале партнерство."
+            ]
+        },
+        {
+            "wordDe": "Freundschaft",
+            "wordUk": "Дружба",
+            "phrasesDe": [
+                "Wahre Freundschaft.",
+                "Freundschaft schließen.",
+                "Beste Freundschaft."
+            ],
+            "phrasesUk": [
+                "Справжня дружба.",
+                "Завести дружбу.",
+                "Найкраща дружба."
+            ]
+        },
+        {
+            "wordDe": "Vertrauen",
+            "wordUk": "Довіра",
+            "phrasesDe": [
+                "Blindes Vertrauen.",
+                "Vertrauen gewinnen.",
+                "Bruch des Vertrauens."
+            ],
+            "phrasesUk": [
+                "Сліпа довіра.",
+                "Завоювати довіру.",
+                "Порушення довіри."
+            ]
+        },
+        {
+            "wordDe": "Eifersucht",
+            "wordUk": "Ревнощі",
+            "phrasesDe": [
+                "Große Eifersucht.",
+                "Grund für Eifersucht.",
+                "Eifersucht überwinden."
+            ],
+            "phrasesUk": [
+                "Великі ревнощі.",
+                "Причина ревнощів.",
+                "Побороти ревнощі."
+            ]
+        },
+        {
+            "wordDe": "Trennung",
+            "wordUk": "Розставання / Розлучення",
+            "phrasesDe": [
+                "Schmerzhafte Trennung.",
+                "Trennung auf Zeit.",
+                "Nach der Trennung."
+            ],
+            "phrasesUk": [
+                "Болісне розставання.",
+                "Тимчасове розставання.",
+                "Після розставання."
+            ]
+        },
+        {
+            "wordDe": "Scheidung",
+            "wordUk": "Розлучення (юридичне)",
+            "phrasesDe": [
+                "Die Scheidung einreichen.",
+                "Gründe für die Scheidung.",
+                "Nach der Scheidung."
+            ],
+            "phrasesUk": [
+                "Подати на розлучення.",
+                "Причини розлучення.",
+                "Після розлучення."
+            ]
+        },
+        {
+            "wordDe": "Heirat",
+            "wordUk": "Одруження",
+            "phrasesDe": [
+                "Vorschlag zur Heirat.",
+                "Tag der Heirat.",
+                "Nach der Heirat."
+            ],
+            "phrasesUk": [
+                "Пропозиція одруження.",
+                "День весілля.",
+                "Після одруження."
+            ]
+        },
+        {
+            "wordDe": "Verlobung",
+            "wordUk": "Заручини",
+            "phrasesDe": [
+                "Unsere Verlobung.",
+                "Anzeige der Verlobung.",
+                "Verlobungsring."
+            ],
+            "phrasesUk": [
+                "Наші заручини.",
+                "Оголошення про заручини.",
+                "Обручка на заручини."
+            ]
+        },
+        {
+            "wordDe": "Hochzeit",
+            "wordUk": "Весілля",
+            "phrasesDe": [
+                "Eine große Hochzeit.",
+                "Zivile Hochzeit.",
+                "Hochzeitskleid."
+            ],
+            "phrasesUk": [
+                "Велике весілля.",
+                "Цивільний шлюб.",
+                "Весільна сукня."
+            ]
+        },
+        {
+            "wordDe": "Flitterwochen",
+            "wordUk": "Медовий місяць",
+            "phrasesDe": [
+                "Flitterwochen auf den Malediven.",
+                "Schöne Flitterwochen.",
+                "Pläne für die Flitterwochen."
+            ],
+            "phrasesUk": [
+                "Медовий місяць на Мальдівах.",
+                "Гарний медовий місяць.",
+                "Плани на медовий місяць."
+            ]
+        },
+        {
+            "wordDe": "Erziehung",
+            "wordUk": "Виховання",
+            "phrasesDe": [
+                "Gute Erziehung.",
+                "Methoden der Erziehung.",
+                "Verantwortung für die Erziehung."
+            ],
+            "phrasesUk": [
+                "Гарне виховання.",
+                "Методи виховання.",
+                "Відповідальність за виховання."
+            ]
+        },
+        {
+            "wordDe": "Nachwuchs",
+            "wordUk": "Потомство / Молоде покоління",
+            "phrasesDe": [
+                "Sich um Nachwuchs kümmern.",
+                "Nachwuchs fördern.",
+                "Wir erwarten Nachwuchs."
+            ],
+            "phrasesUk": [
+                "Піклуватися про потомство.",
+                "Сприяти молоді.",
+                "Ми чекаємо на поповнення (дитину)."
+            ]
+        },
+        {
+            "wordDe": "Kindheit",
+            "wordUk": "Дитинство",
+            "phrasesDe": [
+                "Glückliche Kindheit.",
+                "Erinnerungen an die Kindheit.",
+                "In meiner Kindheit."
+            ],
+            "phrasesUk": [
+                "Щасливе дитинство.",
+                "Спогади про дитинство.",
+                "У моєму дитинстві."
+            ]
+        },
+        {
+            "wordDe": "Jugend",
+            "wordUk": "Молодість / Юність",
+            "phrasesDe": [
+                "Zeit der Jugend.",
+                "In der Jugend.",
+                "Jugendliche Sünden."
+            ],
+            "phrasesUk": [
+                "Час юності.",
+                "В молодості.",
+                "Гріхи молодості."
+            ]
+        },
+        {
+            "wordDe": "Pubertät",
+            "wordUk": "Підлітковий період (пубертат)",
+            "phrasesDe": [
+                "Mitten in der Pubertät.",
+                "Herausforderungen der Pubertät.",
+                "Verhalten in der Pubertät."
+            ],
+            "phrasesUk": [
+                "У розпалі підліткового періоду.",
+                "Виклики пубертату.",
+                "Поведінка в підлітковому віці."
+            ]
+        },
+        {
+            "wordDe": "Alter",
+            "wordUk": "Вік / Старість",
+            "phrasesDe": [
+                "Im hohen Alter.",
+                "Respekt vor dem Alter.",
+                "Altersunterschied."
+            ],
+            "phrasesUk": [
+                "У похилому віці.",
+                "Повага до старості.",
+                "Різниця у віці."
+            ]
+        },
+        {
+            "wordDe": "Generation",
+            "wordUk": "Покоління",
+            "phrasesDe": [
+                "Die junge Generation.",
+                "Generationenkonflikt.",
+                "Zukünftige Generationen."
+            ],
+            "phrasesUk": [
+                "Молоде покоління.",
+                "Конфлікт поколінь.",
+                "Майбутні покоління."
+            ]
+        },
+        {
+            "wordDe": "Nachbarschaft",
+            "wordUk": "Сусідство",
+            "phrasesDe": [
+                "Gute Nachbarschaft.",
+                "In der Nachbarschaft wohnen.",
+                "Nachbarschaftshilfe."
+            ],
+            "phrasesUk": [
+                "Гарне сусідство.",
+                "Жити по сусідству.",
+                "Допомога сусідам."
+            ]
+        },
+        {
+            "wordDe": "Bekanntenkreis",
+            "wordUk": "Коло знайомих",
+            "phrasesDe": [
+                "Großer Bekanntenkreis.",
+                "Im Bekanntenkreis fragen.",
+                "Treffen im Bekanntenkreis."
+            ],
+            "phrasesUk": [
+                "Велике коло знайомих.",
+                "Запитати в колі знайомих.",
+                "Зустріч у колі знайомих."
+            ]
+        },
+        {
+            "wordDe": "Kollege",
+            "wordUk": "Колега",
+            "phrasesDe": [
+                "Ein netter Kollege.",
+                "Zusammenarbeit mit Kollegen.",
+                "Frühstück mit Kollegen."
+            ],
+            "phrasesUk": [
+                "Приємний колега.",
+                "Співпраця з колегами.",
+                "Сніданок із колегами."
+            ]
+        },
+        {
+            "wordDe": "Vorgesetzter",
+            "wordUk": "Начальник / Керівник",
+            "phrasesDe": [
+                "Gespräch mit dem Vorgesetzten.",
+                "Strenger Vorgesetzter.",
+                "Weisung des Vorgesetzten."
+            ],
+            "phrasesUk": [
+                "Розмова з керівником.",
+                "Суворий начальник.",
+                "Вказівка начальника."
+            ]
+        },
+        {
+            "wordDe": "Vorbild",
+            "wordUk": "Приклад / Взірець (кумир)",
+            "phrasesDe": [
+                "Ein gutes Vorbild.",
+                "Jemanden als Vorbild haben.",
+                "Vorbildfunktion."
+            ],
+            "phrasesUk": [
+                "Гарний приклад.",
+                "Мати когось як взірець.",
+                "Функція прикладу."
+            ]
+        },
+        {
+            "wordDe": "Gesellschaft",
+            "wordUk": "Суспільство / Компанія",
+            "phrasesDe": [
+                "Die moderne Gesellschaft.",
+                "Gute Gesellschaft.",
+                "Mittelpunkt der Gesellschaft."
+            ],
+            "phrasesUk": [
+                "Сучасне суспільство.",
+                "Гарна компанія.",
+                "Центр уваги суспільства."
+            ]
+        },
+        {
+            "wordDe": "Gemeinschaft",
+            "wordUk": "Спільнота",
+            "phrasesDe": [
+                "Starke Gemeinschaft.",
+                "Gefühl der Gemeinschaft.",
+                "Religionsgemeinschaft."
+            ],
+            "phrasesUk": [
+                "Сильна спільнота.",
+                "Відчуття спільності.",
+                "Релігійна громада."
+            ]
+        },
+        {
+            "wordDe": "Verein",
+            "wordUk": "Клуб / Спілка / Товариство",
+            "phrasesDe": [
+                "Mitglied im Verein sein.",
+                "Sportverein.",
+                "Vereinsleben."
+            ],
+            "phrasesUk": [
+                "Бути членом клубу.",
+                "Спортивний клуб.",
+                "Життя в товаристві."
+            ]
+        },
+        {
+            "wordDe": "Ehrenamt",
+            "wordUk": "Волонтерство / Громадська діяльність (безоплатна)",
+            "phrasesDe": [
+                "Ein Ehrenamt ausüben.",
+                "Wichtigkeit des Ehrenamts.",
+                "Engagement im Ehrenamt."
+            ],
+            "phrasesUk": [
+                "Займатися волонтерством.",
+                "Важливість громадської діяльності.",
+                "Активність у волонтерстві."
+            ]
+        },
+        {
+            "wordDe": "Werte",
+            "wordUk": "Цінності",
+            "phrasesDe": [
+                "Gemeinsame Werte.",
+                "Ethische Werte.",
+                "Werte vermitteln."
+            ],
+            "phrasesUk": [
+                "Спільні цінності.",
+                "Етичні цінності.",
+                "Передавати цінності."
+            ]
+        },
+        {
+            "wordDe": "Normen",
+            "wordUk": "Норми",
+            "phrasesDe": [
+                "Soziale Normen.",
+                "Normen einhalten.",
+                "Bruch sozialer Normen."
+            ],
+            "phrasesUk": [
+                "Соціальні норми.",
+                "Дотримуватися норм.",
+                "Порушення соціальних норм."
+            ]
+        },
+        {
+            "wordDe": "Ansehen",
+            "wordUk": "Авторитет / Престиж / Репутація",
+            "phrasesDe": [
+                "Hohes Ansehen genießen.",
+                "Verlust des Ansehens.",
+                "Um sein Ansehen besorgt sein."
+            ],
+            "phrasesUk": [
+                "Мати високий авторитет.",
+                "Втрата репутації.",
+                "Турбуватися про свою репутацію."
+            ]
+        },
+        {
+            "wordDe": "Respekt",
+            "wordUk": "Повага",
+            "phrasesDe": [
+                "Viel Respekt zeigen.",
+                "Respekt verdienen.",
+                "Respektvoller Umgang."
+            ],
+            "phrasesUk": [
+                "Виявляти велику повагу.",
+                "Заслуговувати на повагу.",
+                "Шанобливе поводження."
+            ]
+        },
+        {
+            "wordDe": "Toleranz",
+            "wordUk": "Толерантність / Терпимість",
+            "phrasesDe": [
+                "Null Toleranz.",
+                "Mehr Toleranz brauchen.",
+                "Toleranz gegenüber anderen."
+            ],
+            "phrasesUk": [
+                "Нульова толерантність.",
+                "Потребувати більше терпимості.",
+                "Толерантність до інших."
+            ]
+        },
+        {
+            "wordDe": "Konflikt",
+            "wordUk": "Конфлікт",
+            "phrasesDe": [
+                "Einen Konflikt lösen.",
+                "Offener Konflikt.",
+                "Mitten im Konflikt."
+            ],
+            "phrasesUk": [
+                "Вирішити конфлікт.",
+                "Відкритий конфлікт.",
+                "Посеред конфлікту."
+            ]
+        },
+        {
+            "wordDe": "Missverständnis",
+            "wordUk": "Непорозуміння",
+            "phrasesDe": [
+                "Ein blödes Missverständnis.",
+                "Missverständnis klären.",
+                "Ursache für das Missverständnis."
+            ],
+            "phrasesUk": [
+                "Дурне непорозуміння.",
+                "З’ясувати непорозуміння.",
+                "Причина непорозуміння."
+            ]
+        },
+        {
+            "wordDe": "Versöhnung",
+            "wordUk": "Примирення",
+            "phrasesDe": [
+                "Tag der Versöhnung.",
+                "Versöhnung nach dem Streit.",
+                "Zeichen der Versöhnung."
+            ],
+            "phrasesUk": [
+                "День примирення.",
+                "Примирення після сварки.",
+                "Знак примирення."
+            ]
+        },
+        {
+            "wordDe": "Kompromiss",
+            "wordUk": "Компроміс",
+            "phrasesDe": [
+                "Einen Kompromiss finden.",
+                "Fauler Kompromiss.",
+                "Kompromissbereitschaft."
+            ],
+            "phrasesUk": [
+                "Знайти компроміс.",
+                "Гнилий компроміс.",
+                "Готовність до компромісу."
+            ]
+        },
+        {
+            "wordDe": "Unterstützung",
+            "wordUk": "Підтримка",
+            "phrasesDe": [
+                "Viel Unterstützung erhalten.",
+                "Um Unterstützung bitten.",
+                "Finanzielle Unterstützung."
+            ],
+            "phrasesUk": [
+                "Отримати багато підтримки.",
+                "Просити про підтримку.",
+                "Фінансова допомога."
+            ]
+        },
+        {
+            "wordDe": "Zusammenhalt",
+            "wordUk": "Згуртованість / Єдність",
+            "phrasesDe": [
+                "Sozialer Zusammenhalt.",
+                "Zusammenhalt in der Krise.",
+                "Den Zusammenhalt stärken."
+            ],
+            "phrasesUk": [
+                "Соціальна згуртованість.",
+                "Єдність у кризі.",
+                "Зміцнювати згуртованість."
+            ]
+        },
+        {
+            "wordDe": "Solidarität",
+            "wordUk": "Солідарність",
+            "phrasesDe": [
+                "Zeichen der Solidarität.",
+                "Solidarität zeigen.",
+                "Mangel an Solidarität."
+            ],
+            "phrasesUk": [
+                "Знак солідарності.",
+                "Виявляти солідарність.",
+                "Брак солідарності."
+            ]
+        }
+    ]
+}

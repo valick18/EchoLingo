@@ -1,0 +1,704 @@
+{
+    "Військова Справа та Оборона": [
+        {
+            "wordDe": "Verteidigungsministerium",
+            "wordUk": "Міністерство оборони",
+            "phrasesDe": [
+                "Aufgaben des Verteidigungsministeriums.",
+                "Chef des Verteidigungsministeriums.",
+                "Budget des Verteidigungsministeriums."
+            ],
+            "phrasesUk": [
+                "Завдання Міністерства оборони.",
+                "Глава Міноборони.",
+                "Бюджет Міністерства оборони."
+            ]
+        },
+        {
+            "wordDe": "Streitkräfte",
+            "wordUk": "Збройні сили",
+            "phrasesDe": [
+                "Struktur der Streitkräfte.",
+                "Modernisierung der Streitkräfte.",
+                "Einsatz der Streitkräfte."
+            ],
+            "phrasesUk": [
+                "Структура збройних сил.",
+                "Модернізація збройних сил.",
+                "Застосування збройних сил."
+            ]
+        },
+        {
+            "wordDe": "Bündnisverteidigung",
+            "wordUk": "Колективна оборона (Альянсу)",
+            "phrasesDe": [
+                "Prinzip der Bündnisverteidigung.",
+                "Verpflichtung zur Bündnisverteidigung.",
+                "Übung zur Bündnisverteidigung."
+            ],
+            "phrasesUk": [
+                "Принцип колективної оборони.",
+                "Зобов'язання щодо колективної оборони.",
+                "Навчання з колективної оборони."
+            ]
+        },
+        {
+            "wordDe": "Abschreckung",
+            "wordUk": "Стримування (Абшреккунг)",
+            "phrasesDe": [
+                "Strategie der Abschreckung.",
+                "Mittel zur Abschreckung.",
+                "Glaubwürdigkeit der Abschreckung."
+            ],
+            "phrasesUk": [
+                "Стратегія стримування.",
+                "Засоби стримування.",
+                "Переконливість (достовірність) стримування."
+            ]
+        },
+        {
+            "wordDe": "Rüstung",
+            "wordUk": "Озброєння / Оборонна промисловість",
+            "phrasesDe": [
+                "Ausgaben für Rüstung.",
+                "Kontrolle der Rüstung.",
+                "Wettlauf der Rüstung."
+            ],
+            "phrasesUk": [
+                "Витрати на озброєння.",
+                "Контроль над озброєнням.",
+                "Гонка озброєнь."
+            ]
+        },
+        {
+            "wordDe": "Panzer",
+            "wordUk": "Танк / Бронемашина (Панцер)",
+            "phrasesDe": [
+                "Einsatz von Panzern.",
+                "Schutz des Panzers.",
+                "Typen von Panzern."
+            ],
+            "phrasesUk": [
+                "Застосування танків.",
+                "Захист танка.",
+                "Типи танків."
+            ]
+        },
+        {
+            "wordDe": "Artillerie",
+            "wordUk": "Артилерія",
+            "phrasesDe": [
+                "Stellung der Artillerie.",
+                "Reichweite der Artillerie.",
+                "Feuer der Artillerie."
+            ],
+            "phrasesUk": [
+                "Позиція артилерії.",
+                "Дальність стрільби артилерії.",
+                "Вогонь артилерії."
+            ]
+        },
+        {
+            "wordDe": "Luftwaffe",
+            "wordUk": "Повітряні сили (Люфтваффе)",
+            "phrasesDe": [
+                "Einsatz der Luftwaffe.",
+                "Flugzeuge der Luftwaffe.",
+                "Stützpunkte der Luftwaffe."
+            ],
+            "phrasesUk": [
+                "Застосування ПС.",
+                "Літаки повітряних сил.",
+                "Бази повітряних сил."
+            ]
+        },
+        {
+            "wordDe": "Marine",
+            "wordUk": "Військово-морські сили (Маріне)",
+            "phrasesDe": [
+                "Schiffe der Marine.",
+                "Stützpunkt der Marine.",
+                "Einsatz der Marine."
+            ],
+            "phrasesUk": [
+                "Кораблі ВМС.",
+                "База військово-морських сил.",
+                "Застосування флоту."
+            ]
+        },
+        {
+            "wordDe": "Infanterie",
+            "wordUk": "Піхота",
+            "phrasesDe": [
+                "Soldaten der Infanterie.",
+                "Ausrüstung der Infanterie.",
+                "Einsatz der Infanterie."
+            ],
+            "phrasesUk": [
+                "Солдати піхоти.",
+                "Спорядження піхоти.",
+                "Застосування піхоти."
+            ]
+        },
+        {
+            "wordDe": "Spezialkräfte",
+            "wordUk": "Сили спеціальних операцій (ССО)",
+            "phrasesDe": [
+                "Einsatz von Spezialkräften.",
+                "Ausbildung der Spezialkräfte.",
+                "Aufgaben der Spezialkräfte."
+            ],
+            "phrasesUk": [
+                "Застосування сил спецпризначення.",
+                "Підготовка спецпризначенців.",
+                "Завдання ССО."
+            ]
+        },
+        {
+            "wordDe": "Mobilmachung",
+            "wordUk": "Мобілізація (Мобільмахунг)",
+            "phrasesDe": [
+                "Anordnung der Mobilmachung.",
+                "Durchführung der Mobilmachung.",
+                "Teilweise Mobilmachung."
+            ],
+            "phrasesUk": [
+                "Оголошення мобілізації.",
+                "Проведення мобілізації.",
+                "Часткова мобілізація."
+            ]
+        },
+        {
+            "wordDe": "Stützpunkt",
+            "wordUk": "Опорний пункт / База",
+            "phrasesDe": [
+                "Ein militärischer Stützpunkt.",
+                "Ausbau des Stützpunkts.",
+                "Lage des Stützpunkts."
+            ],
+            "phrasesUk": [
+                "Військова база.",
+                "Розбудова опорного пункту.",
+                "Розташування бази."
+            ]
+        },
+        {
+            "wordDe": "Nachschub",
+            "wordUk": "Постачання / Підкріплення (Нахшуб)",
+            "phrasesDe": [
+                "Sicherung des Nachschubs.",
+                "Weg für den Nachschub.",
+                "Probleme beim Nachschub."
+            ],
+            "phrasesUk": [
+                "Забезпечення постачання.",
+                "Шлях для підкріплення.",
+                "Проблеми з постачанням."
+            ]
+        },
+        {
+            "wordDe": "Logistik",
+            "wordUk": "Логістика",
+            "phrasesDe": [
+                "Militärische Logistik.",
+                "Aufgabe der Logistik.",
+                "Bedeutung der Logistik."
+            ],
+            "phrasesUk": [
+                "Військова логістика.",
+                "Завдання логістики.",
+                "Значення логістики."
+            ]
+        },
+        {
+            "wordDe": "Aufklärung",
+            "wordUk": "Розвідка (Ауфклерунг)",
+            "phrasesDe": [
+                "Ergebnisse der Aufklärung.",
+                "Mittel der Aufklärung.",
+                "Drohnen zur Aufklärung."
+            ],
+            "phrasesUk": [
+                "Результати розвідки.",
+                "Засоби розвідки.",
+                "Дрони для розвідки."
+            ]
+        },
+        {
+            "wordDe": "Spionage",
+            "wordUk": "Шпигунство",
+            "phrasesDe": [
+                "Verdacht auf Spionage.",
+                "Abwehr von Spionage.",
+                "Fall von Spionage."
+            ],
+            "phrasesUk": [
+                "Підозра у шпигунстві.",
+                "Протидія шпигунству.",
+                "Випадок шпигунства."
+            ]
+        },
+        {
+            "wordDe": "Cyberkrieg",
+            "wordUk": "Кібервійна",
+            "phrasesDe": [
+                "Gefahr durch Cyberkrieg.",
+                "Methoden im Cyberkrieg.",
+                "Abwehr von Cyberkrieg."
+            ],
+            "phrasesUk": [
+                "Небезпека кібервійни.",
+                "Методи кібервійни.",
+                "Захист від кіберзагроз."
+            ]
+        },
+        {
+            "wordDe": "Informationskrieg",
+            "wordUk": "Інформаційна війна",
+            "phrasesDe": [
+                "Mittel im Informationskrieg.",
+                "Abwehr von Informationskrieg.",
+                "Ziele im Informationskrieg."
+            ],
+            "phrasesUk": [
+                "Засоби інформаційної війни.",
+                "Протидія інфовійні.",
+                "Цілі в інформаційній війні."
+            ]
+        },
+        {
+            "wordDe": "Propaganda",
+            "wordUk": "Пропаганда",
+            "phrasesDe": [
+                "Einsatz von Propaganda.",
+                "Opfer von Propaganda.",
+                "Erkennen von Propaganda."
+            ],
+            "phrasesUk": [
+                "Застосування пропаганди.",
+                "Жертва пропаганди.",
+                "Розпізнавання пропаганди."
+            ]
+        },
+        {
+            "wordDe": "Desinformation",
+            "wordUk": "Дезінформація",
+            "phrasesDe": [
+                "Kampf gegen Desinformation.",
+                "Quelle der Desinformation.",
+                "Kampagne zur Desinformation."
+            ],
+            "phrasesUk": [
+                "Боротьба з дезінформацією.",
+                "Джерело дезінформації.",
+                "Кампанія з дезінформування."
+            ]
+        },
+        {
+            "wordDe": "Hybridkrieg",
+            "wordUk": "Гібридна війна",
+            "phrasesDe": [
+                "Formen des Hybridkriegs.",
+                "Abwehr von Hybridkrieg.",
+                "Gefahr durch Hybridkrieg."
+            ],
+            "phrasesUk": [
+                "Форми гібридної війни.",
+                "Захист від гібридної війни.",
+                "Небезпека гібридної війни."
+            ]
+        },
+        {
+            "wordDe": "Völkerrecht",
+            "wordUk": "Міжнародне право",
+            "phrasesDe": [
+                "Einhaltung des Völkerrechts.",
+                "Verstoß gegen das Völkerrecht.",
+                "Verteidigung des Völkerrechts."
+            ],
+            "phrasesUk": [
+                "Дотримання міжнародного права.",
+                "Порушення міжнародного права.",
+                "Захист міжнародного права."
+            ]
+        },
+        {
+            "wordDe": "Kriegsverbrechen",
+            "wordUk": "Військовий злочин",
+            "phrasesDe": [
+                "Verfolgung von Kriegsverbrechen.",
+                "Anklage wegen Kriegsverbrechen.",
+                "Opfer von Kriegsverbrechen."
+            ],
+            "phrasesUk": [
+                "Переслідування військових злочинів.",
+                "Обвинувачення у військових злочинах.",
+                "Жертви військових злочинів."
+            ]
+        },
+        {
+            "wordDe": "Genozid",
+            "wordUk": "Геноцид",
+            "phrasesDe": [
+                "Verhinderung von Genozid.",
+                "Anklage wegen Genozid.",
+                "Gedenken an Genozid."
+            ],
+            "phrasesUk": [
+                "Запобігання геноциду.",
+                "Обвинувачення в геноциді.",
+                "Вшанування пам'яті жертв геноциду."
+            ]
+        },
+        {
+            "wordDe": "Waffenruhe",
+            "wordUk": "Припинення вогню / Перемир'я",
+            "phrasesDe": [
+                "Verhandlung über Waffenruhe.",
+                "Bruch der Waffenruhe.",
+                "Einhaltung der Waffenruhe."
+            ],
+            "phrasesUk": [
+                "Переговори про припинення вогню.",
+                "Порушення перемир'я.",
+                "Дотримання режиму тиші."
+            ]
+        },
+        {
+            "wordDe": "Waffenstillstand",
+            "wordUk": "Перемир'я / Припинення бойових дій",
+            "phrasesDe": [
+                "Unterzeichnung des Waffenstillstands.",
+                "Dauer des Waffenstillstands.",
+                "Bedingungen des Waffenstillstands."
+            ],
+            "phrasesUk": [
+                "Підписання перемир'я.",
+                "Тривалість припинення вогню.",
+                "Умови перемир'я."
+            ]
+        },
+        {
+            "wordDe": "Friedensverhandlungen",
+            "wordUk": "Мирні переговори",
+            "phrasesDe": [
+                "Beginn der Friedensverhandlungen.",
+                "Erfolg der Friedensverhandlungen.",
+                "Ort der Friedensverhandlungen."
+            ],
+            "phrasesUk": [
+                "Початок мирних переговорів.",
+                "Успіх мирних переговорів.",
+                "Місце проведення переговорів."
+            ]
+        },
+        {
+            "wordDe": "Sanktionen",
+            "wordUk": "Санкції",
+            "phrasesDe": [
+                "Verschärfung der Sanktionen.",
+                "Wirkung der Sanktionen.",
+                "Umgehung der Sanktionen."
+            ],
+            "phrasesUk": [
+                "Посилення санкцій.",
+                "Дія санкцій.",
+                "Обхід санкцій."
+            ]
+        },
+        {
+            "wordDe": "Embargo",
+            "wordUk": "Ембарго",
+            "phrasesDe": [
+                "Verhängung eines Embargos.",
+                "Dauer des Embargos.",
+                "Waffenembargo."
+            ],
+            "phrasesUk": [
+                "Накладення ембарго.",
+                "Тривалість ембарго.",
+                "Збройне ембарго."
+            ]
+        },
+        {
+            "wordDe": "Bündnisfall",
+            "wordUk": "Випадок колективної оборони (Стаття 5 НАТО)",
+            "phrasesDe": [
+                "Eintritt des Bündnisfalls.",
+                "Definition des Bündnisfalls.",
+                "Reaktion auf den Bündnisfall."
+            ],
+            "phrasesUk": [
+                "Настання випадку колективної оборони.",
+                "Визначення випадку агресії проти альянсу.",
+                "Реакція на напад на союзника."
+            ]
+        },
+        {
+            "wordDe": "Intervention",
+            "wordUk": "Інтервенція / Втручання",
+            "phrasesDe": [
+                "Militärische Intervention.",
+                "Grund für die Intervention.",
+                "Folgen der Intervention."
+            ],
+            "phrasesUk": [
+                "Військове втручання.",
+                "Причина інтервенції.",
+                "Наслідки втручання."
+            ]
+        },
+        {
+            "wordDe": "Eskalation",
+            "wordUk": "Ескалація / Загострення",
+            "phrasesDe": [
+                "Gefahr der Eskalation.",
+                "Vermeidung von Eskalation.",
+                "Stufen der Eskalation."
+            ],
+            "phrasesUk": [
+                "Небезпека ескалації.",
+                "Уникнення загострення.",
+                "Ступені ескалації."
+            ]
+        },
+        {
+            "wordDe": "Deeskalation",
+            "wordUk": "Деескалація / Зменшення напруги",
+            "phrasesDe": [
+                "Bemühungen um Deeskalation.",
+                "Erfolg der Deeskalation.",
+                "Maßnahmen zur Deeskalation."
+            ],
+            "phrasesUk": [
+                "Зусилля з деескалації.",
+                "Успіх зменшення напруги.",
+                "Заходи з деескалації."
+            ]
+        },
+        {
+            "wordDe": "Abschuss",
+            "wordUk": "Збиття (цілі) / Запуск",
+            "phrasesDe": [
+                "Abschuss einer Drohne.",
+                "Abschuss einer Rakete.",
+                "Bestätigung des Abschusses."
+            ],
+            "phrasesUk": [
+                "Збиття дрона.",
+                "Запуск ракети.",
+                "Підтвердження збиття."
+            ]
+        },
+        {
+            "wordDe": "Patrouille",
+            "wordUk": "Патруль / Патрулювання",
+            "phrasesDe": [
+                "Fahrt auf Patrouille.",
+                "Aufgabe der Patrouille.",
+                "Schutz der Patrouille."
+            ],
+            "phrasesUk": [
+                "Виїзд на патрулювання.",
+                "Завдання патруля.",
+                "Захист патруля."
+            ]
+        },
+        {
+            "wordDe": "Gefecht",
+            "wordUk": "Бій / Сутичка",
+            "phrasesDe": [
+                "In ein Gefecht verwickelt sein.",
+                "Verlauf des Gefechts.",
+                "Ende des Gefechts."
+            ],
+            "phrasesUk": [
+                "Бути втягнутим у бій.",
+                "Перебіг бою.",
+                "Кінець сутички."
+            ]
+        },
+        {
+            "wordDe": "Schlacht",
+            "wordUk": "Битва",
+            "phrasesDe": [
+                "Entscheidende Schlacht.",
+                "Verlauf der Schlacht.",
+                "Opfer der Schlacht."
+            ],
+            "phrasesUk": [
+                "Вирішальна битва.",
+                "Хід битви.",
+                "Жертви битви."
+            ]
+        },
+        {
+            "wordDe": "Besatzung",
+            "wordUk": "Екіпаж / Окупація (Безацунг)",
+            "phrasesDe": [
+                "Besatzung eines Panzers.",
+                "Dauer der Besatzung.",
+                "Ende der Besatzung."
+            ],
+            "phrasesUk": [
+                "Екіпаж танка.",
+                "Тривалість окупації.",
+                "Кінець окупації."
+            ]
+        },
+        {
+            "wordDe": "Gefangenschaft",
+            "wordUk": "Полон (Гефангеншафт)",
+            "phrasesDe": [
+                "In Gefangenschaft geraten.",
+                "Dauer der Gefangenschaft.",
+                "Rückkehr aus der Gefangenschaft."
+            ],
+            "phrasesUk": [
+                "Потрапити в полон.",
+                "Тривалість перебування в полоні.",
+                "Повернення з полону."
+            ]
+        },
+        {
+            "wordDe": "Kriegsgefangener",
+            "wordUk": "Військовополонений",
+            "phrasesDe": [
+                "Rechte von Kriegsgefangenen.",
+                "Austausch von Kriegsgefangenen.",
+                "Lager für Kriegsgefangene."
+            ],
+            "phrasesUk": [
+                "Права військовополонених.",
+                "Обмін полоненими.",
+                "Табір для військовополонених."
+            ]
+        },
+        {
+            "wordDe": "Zivilist",
+            "wordUk": "Цивільна особа / Мирний житель",
+            "phrasesDe": [
+                "Schutz der Zivilisten.",
+                "Opfer unter Zivilisten.",
+                "Evakuierung von Zivilisten."
+            ],
+            "phrasesUk": [
+                "Захист цивільних.",
+                "Жертви серед мирного населення.",
+                "Евакуація цивільних."
+            ]
+        },
+        {
+            "wordDe": "Flüchtling",
+            "wordUk": "Біженець",
+            "phrasesDe": [
+                "Aufnahme von Flüchtlingen.",
+                "Strom von Flüchtlingen.",
+                "Schutz für Flüchtlinge."
+            ],
+            "phrasesUk": [
+                "Прийом біженців.",
+                "Потік біженців.",
+                "Захист для біженців."
+            ]
+        },
+        {
+            "wordDe": "Heimatschutz",
+            "wordUk": "Оборона рідного краю / Територіальна оборона",
+            "phrasesDe": [
+                "Aufgaben im Heimatschutz.",
+                "Bedeutung des Heimatschutzes.",
+                "Einheiten für Heimatschutz."
+            ],
+            "phrasesUk": [
+                "Завдання територіальної оборони.",
+                "Значення оборони рідного краю.",
+                "Підрозділи тероборони."
+            ]
+        },
+        {
+            "wordDe": "Verteidigungslinie",
+            "wordUk": "Лінія оборони",
+            "phrasesDe": [
+                "Durchbruch der Verteidigungslinie.",
+                "Stärkung der Verteidigungslinie.",
+                "Länge der Verteidigungslinie."
+            ],
+            "phrasesUk": [
+                "Прорив лінії оборони.",
+                "Зміцнення оборонної лінії.",
+                "Довжина лінії оборони."
+            ]
+        },
+        {
+            "wordDe": "Frontverlauf",
+            "wordUk": "Лінія фронту / Хід бойових дій",
+            "phrasesDe": [
+                "Änderung im Frontverlauf.",
+                "Bericht zum Frontverlauf.",
+                "Stabiler Frontverlauf."
+            ],
+            "phrasesUk": [
+                "Зміна лінії фронту.",
+                "Звіт про ситуацію на фронті.",
+                "Стабільна лінія фронту."
+            ]
+        },
+        {
+            "wordDe": "Waffenlager",
+            "wordUk": "Склад зброї",
+            "phrasesDe": [
+                "Angriff auf ein Waffenlager.",
+                "Standort des Waffenlagers.",
+                "Sicherung des Waffenlagers."
+            ],
+            "phrasesUk": [
+                "Атака на склад зброї.",
+                "Місцезнаходження складу зброї.",
+                "Охорона складу зброї."
+            ]
+        },
+        {
+            "wordDe": "Raketenabwehr",
+            "wordUk": "Протиракетна оборона (ПРО)",
+            "phrasesDe": [
+                "System der Raketenabwehr.",
+                "Effektivität der Raketenabwehr.",
+                "Ausbau der Raketenabwehr."
+            ],
+            "phrasesUk": [
+                "Система ПРО.",
+                "Ефективність протиракетної оборони.",
+                "Розбудова ПРО."
+            ]
+        },
+        {
+            "wordDe": "Luftverteidigung",
+            "wordUk": "Протиповітряна оборона (ППО)",
+            "phrasesDe": [
+                "Stärkung der Luftverteidigung.",
+                "Erfolg der Luftverteidigung.",
+                "Mittel der Luftverteidigung."
+            ],
+            "phrasesUk": [
+                "Посилення ППО.",
+                "Успіх протиповітряної оборони.",
+                "Засоби ППО."
+            ]
+        },
+        {
+            "wordDe": "Marschflugkörper",
+            "wordUk": "Крилата ракета",
+            "phrasesDe": [
+                "Einsatz von Marschflugkörpern.",
+                "Abwehr von Marschflugkörpern.",
+                "Reichweite des Marschflugkörpers."
+            ],
+            "phrasesUk": [
+                "Застосування крилатих ракет.",
+                "Перехоплення крилатих ракет.",
+                "Дальність польоту крилатої ракети."
+            ]
+        }
+    ]
+}

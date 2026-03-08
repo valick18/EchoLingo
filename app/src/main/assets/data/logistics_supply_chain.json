@@ -1,0 +1,704 @@
+{
+    "Логістика та Ланцюг Постачання": [
+        {
+            "wordDe": "Lieferkette",
+            "wordUk": "Ланцюг постачання (Supply Chain)",
+            "phrasesDe": [
+                "Störung der Lieferkette.",
+                "Optimierung der Lieferkette.",
+                "Transparenz in der Lieferkette."
+            ],
+            "phrasesUk": [
+                "Порушення ланцюга постачання.",
+                "Оптимізація ланцюга постачання.",
+                "Прозорість у ланцюгу постачання."
+            ]
+        },
+        {
+            "wordDe": "Spedition",
+            "wordUk": "Експедиторська компанія / Транспортна компанія",
+            "phrasesDe": [
+                "Beauftragung einer Spedition.",
+                "Kosten der Spedition.",
+                "Zusammenarbeit mit der Spedition."
+            ],
+            "phrasesUk": [
+                "Замовлення послуг експедитора.",
+                "Витрати на транспортну компанію.",
+                "Співпраця з експедитором."
+            ]
+        },
+        {
+            "wordDe": "Lagerhaltung",
+            "wordUk": "Складське господарство / Зберігання на складі",
+            "phrasesDe": [
+                "Kosten der Lagerhaltung.",
+                "Effektive Lagerhaltung.",
+                "Systeme zur Lagerhaltung."
+            ],
+            "phrasesUk": [
+                "Витрати на складське зберігання.",
+                "Ефективне складське господарство.",
+                "Системи управління складом."
+            ]
+        },
+        {
+            "wordDe": "Frachtbrief",
+            "wordUk": "Транспортна накладна / Фрахтбріф",
+            "phrasesDe": [
+                "Ausstellen des Frachtbriefs.",
+                "Kopie des Frachtbriefs.",
+                "Angaben im Frachtbrief."
+            ],
+            "phrasesUk": [
+                "Оформлення накладної.",
+                "Копія транспортної накладної.",
+                "Дані в накладній."
+            ]
+        },
+        {
+            "wordDe": "Zollabwicklung",
+            "wordUk": "Митне оформлення",
+            "phrasesDe": [
+                "Dauer der Zollabwicklung.",
+                "Probleme bei der Zollabwicklung.",
+                "Kosten der Zollabwicklung."
+            ],
+            "phrasesUk": [
+                "Тривалість митного оформлення.",
+                "Проблеми при розмитненні.",
+                "Вартість митного оформлення."
+            ]
+        },
+        {
+            "wordDe": "Versand",
+            "wordUk": "Відправлення / Доставка",
+            "phrasesDe": [
+                "Datum des Versands.",
+                "Kosten für den Versand.",
+                "Bestätigung des Versands."
+            ],
+            "phrasesUk": [
+                "Дата відправлення.",
+                "Витрати на доставку.",
+                "Підтвердження відправлення."
+            ]
+        },
+        {
+            "wordDe": "Empfänger",
+            "wordUk": "Одержувач",
+            "phrasesDe": [
+                "Adresse des Empfängers.",
+                "Unterschrift des Empfängers.",
+                "Benachrichtigung des Empfängers."
+            ],
+            "phrasesUk": [
+                "Адреса одержувача.",
+                "Підпис одержувача.",
+                "Сповіщення одержувача."
+            ]
+        },
+        {
+            "wordDe": "Absender",
+            "wordUk": "Відправник",
+            "phrasesDe": [
+                "Angaben zum Absender.",
+                "Haftung des Absenders.",
+                "Rücksendung an den Absender."
+            ],
+            "phrasesUk": [
+                "Дані про відправника.",
+                "Відповідальність відправника.",
+                "Повернення відправнику."
+            ]
+        },
+        {
+            "wordDe": "Ladekapazität",
+            "wordUk": "Вантажопідйомність / Місткість",
+            "phrasesDe": [
+                "Maximale Ladekapazität.",
+                "Erhöhung der Ladekapazität.",
+                "Ausnutzung der Ladekapazität."
+            ],
+            "phrasesUk": [
+                "Максимальна вантажопідйомність.",
+                "Збільшення місткості.",
+                "Використання вантажопідйомності."
+            ]
+        },
+        {
+            "wordDe": "Gefahrgut",
+            "wordUk": "Небезпечний вантаж",
+            "phrasesDe": [
+                "Transport von Gefahrgut.",
+                "Kennzeichnung von Gefahrgut.",
+                "Lagerung von Gefahrgut."
+            ],
+            "phrasesUk": [
+                "Транспортування небезпечних вантажів.",
+                "Маркування небезпечного вантажу.",
+                "Зберігання небезпечних вантажів."
+            ]
+        },
+        {
+            "wordDe": "Containerterminal",
+            "wordUk": "Контейнерний термінал",
+            "phrasesDe": [
+                "Arbeit am Containerterminal.",
+                "Ausbau des Containerterminals.",
+                "Lage des Containerterminals."
+            ],
+            "phrasesUk": [
+                "Робота на контейнерному терміналі.",
+                "Розбудова термінала.",
+                "Розташування контейнерного термінала."
+            ]
+        },
+        {
+            "wordDe": "Umschlag",
+            "wordUk": "Перевалка (вантажів) / Оборот",
+            "phrasesDe": [
+                "Umschlag von Gütern.",
+                "Zeitaufwand für den Umschlag.",
+                "Kosten des Umschlags."
+            ],
+            "phrasesUk": [
+                "Перевалка товарів.",
+                "Затрати часу на перевалку.",
+                "Вартість перевалки."
+            ]
+        },
+        {
+            "wordDe": "Bestandsaufnahme",
+            "wordUk": "Інвентаризація / Облік запасів",
+            "phrasesDe": [
+                "Jährliche Bestandsaufnahme.",
+                "Ergebnis der Bestandsaufnahme.",
+                "Fehler bei der Bestandsaufnahme."
+            ],
+            "phrasesUk": [
+                "Щорічна інвентаризація.",
+                "Результат обліку запасів.",
+                "Помилка при інвентаризації."
+            ]
+        },
+        {
+            "wordDe": "Just-in-time",
+            "wordUk": "Точно в строк (Just-in-time)",
+            "phrasesDe": [
+                "Lieferung Just-in-time.",
+                "Vorteile von Just-in-time.",
+                "Risiken von Just-in-time."
+            ],
+            "phrasesUk": [
+                "Доставка точно в строк.",
+                "Переваги системи Just-in-time.",
+                "Ризики стратегії точно в строк."
+            ]
+        },
+        {
+            "wordDe": "Distributionszentrum",
+            "wordUk": "Розподільчий центр",
+            "phrasesDe": [
+                "Lage des Distributionszentrums.",
+                "Arbeit im Distributionszentrum.",
+                "Größe des Distributionszentrums."
+            ],
+            "phrasesUk": [
+                "Розташування розподільчого центру.",
+                "Робота в розподільчому центрі.",
+                "Розмір розподільчого центру."
+            ]
+        },
+        {
+            "wordDe": "Fuhrpark",
+            "wordUk": "Автопарк",
+            "phrasesDe": [
+                "Verwaltung des Fuhrparks.",
+                "Erneuerung des Fuhrparks.",
+                "Größe des Fuhrparks."
+            ],
+            "phrasesUk": [
+                "Управління автопарком.",
+                "Оновлення автопарку.",
+                "Розмір автопарку."
+            ]
+        },
+        {
+            "wordDe": "Routenplanung",
+            "wordUk": "Планування маршруту",
+            "phrasesDe": [
+                "Effektive Routenplanung.",
+                "Software für die Routenplanung.",
+                "Vorteile der Routenplanung."
+            ],
+            "phrasesUk": [
+                "Ефективне планування маршруту.",
+                "Програмне забезпечення для логістики.",
+                "Переваги планування маршрутів."
+            ]
+        },
+        {
+            "wordDe": "Liefertermin",
+            "wordUk": "Термін доставки",
+            "phrasesDe": [
+                "Bestätigung des Liefertermins.",
+                "Änderung des Liefertermins.",
+                "Einhaltung des Liefertermins."
+            ],
+            "phrasesUk": [
+                "Підтвердження терміну доставки.",
+                "Зміна дати доставки.",
+                "Дотримання термінів доставки."
+            ]
+        },
+        {
+            "wordDe": "Versicherungsschutz",
+            "wordUk": "Страховий захист",
+            "phrasesDe": [
+                "Umfang des Versicherungsschutzes.",
+                "Kosten für den Versicherungsschutz.",
+                "Nachweis über Versicherungsschutz."
+            ],
+            "phrasesUk": [
+                "Обсяг страхового захисту.",
+                "Вартість страхування.",
+                "Підтвердження страхового захисту."
+            ]
+        },
+        {
+            "wordDe": "Haftung",
+            "wordUk": "Відповідальність (матеріальна/юридична)",
+            "phrasesDe": [
+                "Haftung bei Schäden.",
+                "Begrenzung der Haftung.",
+                "Gesetzliche Haftung."
+            ],
+            "phrasesUk": [
+                "Відповідальність за збитки.",
+                "Обмеження відповідальності.",
+                "Законодавча відповідальність."
+            ]
+        },
+        {
+            "wordDe": "Kühlkette",
+            "wordUk": "Холодильний ланцюг (доставка з охолодженням)",
+            "phrasesDe": [
+                "Einhaltung der Kühlkette.",
+                "Kontrolle der Kühlkette.",
+                "Bruch der Kühlkette."
+            ],
+            "phrasesUk": [
+                "Дотримання температурного режиму.",
+                "Контроль холодильного ланцюга.",
+                "Порушення холодового ланцюга."
+            ]
+        },
+        {
+            "wordDe": "Luftfracht",
+            "wordUk": "Авіаперевезення / Авіафрахт",
+            "phrasesDe": [
+                "Versand per Luftfracht.",
+                "Kosten der Luftfracht.",
+                "Vorteile der Luftfracht."
+            ],
+            "phrasesUk": [
+                "Відправлення авіатранспортом.",
+                "Вартість авіафрахту.",
+                "Переваги авіаперевезень."
+            ]
+        },
+        {
+            "wordDe": "Seefracht",
+            "wordUk": "Морські перевезення",
+            "phrasesDe": [
+                "Dauer der Seefracht.",
+                "Kosten der Seefracht.",
+                "Versicherung für Seefracht."
+            ],
+            "phrasesUk": [
+                "Тривалість морського перевезення.",
+                "Вартість морського фрахту.",
+                "Страхування морських вантажів."
+            ]
+        },
+        {
+            "wordDe": "Schienengüterverkehr",
+            "wordUk": "Залізничні вантажні перевезення",
+            "phrasesDe": [
+                "Ausbau des Schienengüterverkehrs.",
+                "Vorteile des Schienengüterverkehrs.",
+                "Kosten des Schienengüterverkehrs."
+            ],
+            "phrasesUk": [
+                "Розбудова залізничних перевезень.",
+                "Переваги вантажних потягів.",
+                "Вартість залізничної логістики."
+            ]
+        },
+        {
+            "wordDe": "Kombinierter Verkehr",
+            "wordUk": "Мультимодальні (комбіновані) перевезення",
+            "phrasesDe": [
+                "Nutzung von kombiniertem Verkehr.",
+                "Vorteile des kombinierten Verkehrs.",
+                "Förderung des kombinierten Verkehrs."
+            ],
+            "phrasesUk": [
+                "Використання комбінованого транспорту.",
+                "Переваги мультимодальних перевезень.",
+                "Сприяння змішаним перевезенням."
+            ]
+        },
+        {
+            "wordDe": "Ladungssicherung",
+            "wordUk": "Закріплення вантажу",
+            "phrasesDe": [
+                "Vorschriften zur Ladungssicherung.",
+                "Kontrolle der Ladungssicherung.",
+                "Mittel zur Ladungssicherung."
+            ],
+            "phrasesUk": [
+                "Норми закріплення вантажу.",
+                "Контроль фіксації вантажу.",
+                "Засоби для кріплення."
+            ]
+        },
+        {
+            "wordDe": "Paletten",
+            "wordUk": "Піддони / Палети",
+            "phrasesDe": [
+                "Tausch von Paletten.",
+                "Größe der Paletten.",
+                "Anzahl der Paletten."
+            ],
+            "phrasesUk": [
+                "Обмін палет.",
+                "Розмір піддонів.",
+                "Кількість палет."
+            ]
+        },
+        {
+            "wordDe": "Gabelstapler",
+            "wordUk": "Вилочний навантажувач",
+            "phrasesDe": [
+                "Führen eines Gabelstaplers.",
+                "Wartung des Gabelstaplers.",
+                "Sicherheit beim Gabelstapler."
+            ],
+            "phrasesUk": [
+                "Керування навантажувачем.",
+                "Обслуговування навантажувача.",
+                "Безпека при роботі з навантажувачем."
+            ]
+        },
+        {
+            "wordDe": "Rampe",
+            "wordUk": "Рампа / Естакада",
+            "phrasesDe": [
+                "Anfahrt an die Rampe.",
+                "Höhe der Rampe.",
+                "Belegung der Rampe."
+            ],
+            "phrasesUk": [
+                "Під'їзд до рампи.",
+                "Висота естакади.",
+                "Зайнятість рампи."
+            ]
+        },
+        {
+            "wordDe": "Lieferavis",
+            "wordUk": "Повідомлення про відвантаження (Авізо)",
+            "phrasesDe": [
+                "Senden eines Lieferavis.",
+                "Inhalt des Lieferavis.",
+                "Zeitpunkt des Lieferavis."
+            ],
+            "phrasesUk": [
+                "Надіслати авізо про доставку.",
+                "Зміст повідомлення про відвантаження.",
+                "Час відправлення авізо."
+            ]
+        },
+        {
+            "wordDe": "Retoure",
+            "wordUk": "Повернення (товару)",
+            "phrasesDe": [
+                "Abwicklung von Retouren.",
+                "Kosten der Retoure.",
+                "Grund für die Retoure."
+            ],
+            "phrasesUk": [
+                "Оформлення повернень.",
+                "Вартість повернення продукції.",
+                "Причина повернення."
+            ]
+        },
+        {
+            "wordDe": "Sendungsverfolgung",
+            "wordUk": "Відстеження відправлення (трекінг)",
+            "phrasesDe": [
+                "Link zur Sendungsverfolgung.",
+                "Status in der Sendungsverfolgung.",
+                "Vorteile der Sendungsverfolgung."
+            ],
+            "phrasesUk": [
+                "Посилання на відстеження.",
+                "Статус у системі трекінгу.",
+                "Переваги відстеження вантажу."
+            ]
+        },
+        {
+            "wordDe": "Track-and-Trace",
+            "wordUk": "Система відстеження (Track-and-Trace)",
+            "phrasesDe": [
+                "Einführung von Track-and-Trace.",
+                "Genauigkeit von Track-and-Trace.",
+                "Kunden nutzen Track-and-Trace."
+            ],
+            "phrasesUk": [
+                "Впровадження системи відстеження.",
+                "Точність системи трекінгу.",
+                "Клієнти використовують Track-and-Trace."
+            ]
+        },
+        {
+            "wordDe": "Durchlaufzeit",
+            "wordUk": "Час виконання (обробки) замовлення",
+            "phrasesDe": [
+                "Verkürzung der Durchlaufzeit.",
+                "Analyse der Durchlaufzeit.",
+                "Faktoren für die Durchlaufzeit."
+            ],
+            "phrasesUk": [
+                "Скорочення часу обробки.",
+                "Аналіз часу виконання.",
+                "Фактори, що впливають на швидкість."
+            ]
+        },
+        {
+            "wordDe": "Umschlagshäufigkeit",
+            "wordUk": "Оборотність залишків / Частота перевалки",
+            "phrasesDe": [
+                "Hohe Umschlagshäufigkeit.",
+                "Berechnung der Umschlagshäufigkeit.",
+                "Bedeutung der Umschlagshäufigkeit."
+            ],
+            "phrasesUk": [
+                "Висока оборотність.",
+                "Розрахунок оборотності товарів.",
+                "Значення частоти перевалки."
+            ]
+        },
+        {
+            "wordDe": "Lagerbestand",
+            "wordUk": "Складський запас",
+            "phrasesDe": [
+                "Optimierung des Lagerbestands.",
+                "Überwachung des Lagerbestands.",
+                "Kosten für den Lagerbestand."
+            ],
+            "phrasesUk": [
+                "Оптимізація складських запасів.",
+                "Моніторинг залишків на складі.",
+                "Витрати на утримання запасів."
+            ]
+        },
+        {
+            "wordDe": "Mindestbestand",
+            "wordUk": "Мінімальний запас (незнижуваний)",
+            "phrasesDe": [
+                "Festlegung des Mindestbestands.",
+                "Erreichen des Mindestbestands.",
+                "Warnung bei Mindestbestand."
+            ],
+            "phrasesUk": [
+                "Встановлення мінімального запасу.",
+                "Досягнення критичного залишку.",
+                "Попередження про низький запас."
+            ]
+        },
+        {
+            "wordDe": "Meldebestand",
+            "wordUk": "Точка замовлення (запас, при якому роблять замовлення)",
+            "phrasesDe": [
+                "Berechnung des Meldebestands.",
+                "Automatische Bestellung bei Meldebestand.",
+                "Funktion des Meldebestands."
+            ],
+            "phrasesUk": [
+                "Розрахунок точки замовлення.",
+                "Автозамовлення при досягненні ліміту.",
+                "Функція сигналу до замовлення."
+            ]
+        },
+        {
+            "wordDe": "Höchstbestand",
+            "wordUk": "Максимальний запас",
+            "phrasesDe": [
+                "Vermeidung von Höchstbeständen.",
+                "Platz für den Höchstbestand.",
+                "Kapazität für Höchstbestand."
+            ],
+            "phrasesUk": [
+                "Уникнення надмірних запасів.",
+                "Місце для максимального запасу.",
+                "Місткість для макс. залишку."
+            ]
+        },
+        {
+            "wordDe": "Beschaffungslogistik",
+            "wordUk": "Логістика закупівель (постачання)",
+            "phrasesDe": [
+                "Aufgaben der Beschaffungslogistik.",
+                "Ziele der Beschaffungslogistik.",
+                "Prozess der Beschaffungslogistik."
+            ],
+            "phrasesUk": [
+                "Завдання логістики закупівель.",
+                "Цілі логістики постачання.",
+                "Процес закупівельної логістики."
+            ]
+        },
+        {
+            "wordDe": "Produktionslogistik",
+            "wordUk": "Виробнича логістика",
+            "phrasesDe": [
+                "Optimierung der Produktionslogistik.",
+                "Steuerung der Produktionslogistik.",
+                "Teil der Produktionslogistik."
+            ],
+            "phrasesUk": [
+                "Оптимізація виробничої логістики.",
+                "Керування потоками на виробництві.",
+                "Складова виробничої логістики."
+            ]
+        },
+        {
+            "wordDe": "Distributionslogistik",
+            "wordUk": "Логістика розподілу (збуту)",
+            "phrasesDe": [
+                "Wege der Distributionslogistik.",
+                "Kosten der Distributionslogistik.",
+                "Ziele der Distributionslogistik."
+            ],
+            "phrasesUk": [
+                "Шляхи збутової логістики.",
+                "Витрати на логістику розподілу.",
+                "Цілі логістики збуту."
+            ]
+        },
+        {
+            "wordDe": "Entsorgungslogistik",
+            "wordUk": "Логістика відходів (утилізації)",
+            "phrasesDe": [
+                "Bedeutung der Entsorgungslogistik.",
+                "Gesetze zur Entsorgungslogistik.",
+                "Aufgaben der Entsorgungslogistik."
+            ],
+            "phrasesUk": [
+                "Значення логістики утилізації.",
+                "Закони про логістику відходів.",
+                "Завдання еко-логістики."
+            ]
+        },
+        {
+            "wordDe": "Incoterms",
+            "wordUk": "Інкотермс (міжнародні торгові терміни)",
+            "phrasesDe": [
+                "Anwendung der Incoterms.",
+                "Regeln der Incoterms.",
+                "Wahl der Incoterms."
+            ],
+            "phrasesUk": [
+                "Застосування Інкотермс.",
+                "Правила міжнародної торгівлі.",
+                "Вибір умов постачання."
+            ]
+        },
+        {
+            "wordDe": "Frachtkosten",
+            "wordUk": "Витрати на фрахт / Транспортні витрати",
+            "phrasesDe": [
+                "Berechnung der Frachtkosten.",
+                "Übernahme der Frachtkosten.",
+                "Senkung der Frachtkosten."
+            ],
+            "phrasesUk": [
+                "Розрахунок вартості фрахту.",
+                "Взяття витрат на перевезення.",
+                "Зниження транспортних витрат."
+            ]
+        },
+        {
+            "wordDe": "Lieferant",
+            "wordUk": "Постачальник",
+            "phrasesDe": [
+                "Auswahl der Lieferanten.",
+                "Bewertung der Lieferanten.",
+                "Vertrag mit dem Lieferanten."
+            ],
+            "phrasesUk": [
+                "Вибір постачальників.",
+                "Оцінка постачальника.",
+                "Договір з постачальником."
+            ]
+        },
+        {
+            "wordDe": "Auftragsabwicklung",
+            "wordUk": "Обробка замовлення",
+            "phrasesDe": [
+                "Schritte der Auftragsabwicklung.",
+                "Dauer der Auftragsabwicklung.",
+                "Fehler in der Auftragsabwicklung."
+            ],
+            "phrasesUk": [
+                "Етапи обробки замовлення.",
+                "Тривалість обробки замовлень.",
+                "Помилка при виконанні замовлення."
+            ]
+        },
+        {
+            "wordDe": "Kommissionierung",
+            "wordUk": "Комплектування (замовлення) / Відбір товарів",
+            "phrasesDe": [
+                "Verfahren der Kommissionierung.",
+                "Zeitaufwand für die Kommissionierung.",
+                "Fehler bei der Kommissionierung."
+            ],
+            "phrasesUk": [
+                "Методи комплектування.",
+                "Затрати часу на відбір товарів.",
+                "Помилка при комплектуванні."
+            ]
+        },
+        {
+            "wordDe": "Schnittstelle",
+            "wordUk": "Інтерфейс / Точка стикування (логістична)",
+            "phrasesDe": [
+                "Optimierung der Schnittstellen.",
+                "Probleme an der Schnittstelle.",
+                "Kommunikation an der Schnittstelle."
+            ],
+            "phrasesUk": [
+                "Оптимізація точок стикування.",
+                "Проблеми на межі етапів.",
+                "Комунікація в точках передачі."
+            ]
+        },
+        {
+            "wordDe": "Transparenz",
+            "wordUk": "Прозорість (процесів)",
+            "phrasesDe": [
+                "Forderung nach Transparenz.",
+                "Mangel an Transparenz.",
+                "Vollständige Transparenz."
+            ],
+            "phrasesUk": [
+                "Вимога прозорості.",
+                "Брак прозорості.",
+                "Повна прозорість процесів."
+            ]
+        }
+    ]
+}

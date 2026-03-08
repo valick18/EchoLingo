@@ -1,0 +1,704 @@
+{
+    "Технології та Медіа (Розширено)": [
+        {
+            "wordDe": "Softwareentwicklung",
+            "wordUk": "Розробка програмного забезпечення",
+            "phrasesDe": [
+                "Fokus auf Softwareentwicklung.",
+                "Moderne Softwareentwicklung.",
+                "Team für Softwareentwicklung."
+            ],
+            "phrasesUk": [
+                "Фокус на розробці ПЗ.",
+                "Сучасна розробка ПЗ.",
+                "Команда з розробки ПЗ."
+            ]
+        },
+        {
+            "wordDe": "Programmieren",
+            "wordUk": "Програмування",
+            "phrasesDe": [
+                "Programmieren lernen.",
+                "Ich programmiere in Java.",
+                "Spaß am Programmieren."
+            ],
+            "phrasesUk": [
+                "Вчитися програмувати.",
+                "Я програмую на Java.",
+                "Задоволення від програмування."
+            ]
+        },
+        {
+            "wordDe": "Datenbank",
+            "wordUk": "База даних",
+            "phrasesDe": [
+                "Die Datenbank ist groß.",
+                "Daten in die Datenbank speichern.",
+                "Datenbank optimieren."
+            ],
+            "phrasesUk": [
+                "База даних велика.",
+                "Зберігати дані в базі даних.",
+                "Оптимізувати базу даних."
+            ]
+        },
+        {
+            "wordDe": "Schnittstelle",
+            "wordUk": "Інтерфейс / API",
+            "phrasesDe": [
+                "Eine neue Schnittstelle.",
+                "API-Schnittstelle nutzen.",
+                "Schnittstelle definieren."
+            ],
+            "phrasesUk": [
+                "Новий інтерфейс.",
+                "Використовувати інтерфейс API.",
+                "Визначити інтерфейс."
+            ]
+        },
+        {
+            "wordDe": "Algorithmus",
+            "wordUk": "Алгоритм",
+            "phrasesDe": [
+                "Ein komplexer Algorithmus.",
+                "Algorithmus verbessern.",
+                "Wie der Algorithmus funktioniert."
+            ],
+            "phrasesUk": [
+                "Складний алгоритм.",
+                "Покращити алгоритм.",
+                "Як працює алгоритм."
+            ]
+        },
+        {
+            "wordDe": "Verschlüsselung",
+            "wordUk": "Шифрування",
+            "phrasesDe": [
+                "Sichere Verschlüsselung.",
+                "Daten Ende-zu-Ende verschlüsseln.",
+                "Verschlüsselung knacken."
+            ],
+            "phrasesUk": [
+                "Надійне шифрування.",
+                "Шифрувати дані наскрізно.",
+                "Зламати шифрування."
+            ]
+        },
+        {
+            "wordDe": "Hardware",
+            "wordUk": "Апаратне забезпечення",
+            "phrasesDe": [
+                "Neue Hardware kaufen.",
+                "Hardware und Software.",
+                "Hardwarefehler suchen."
+            ],
+            "phrasesUk": [
+                "Купувати нове залізо (апаратне забезпечення).",
+                "Залізо та софт.",
+                "Шукати апаратну помилку."
+            ]
+        },
+        {
+            "wordDe": "Netzwerk",
+            "wordUk": "Мережа",
+            "phrasesDe": [
+                "Soziales Netzwerk.",
+                "Das Netzwerk ist stabil.",
+                "Netzwerk verbinden."
+            ],
+            "phrasesUk": [
+                "Соціальна мережа.",
+                "Мережа стабільна.",
+                "Підключити мережу."
+            ]
+        },
+        {
+            "wordDe": "Server",
+            "wordUk": "Сервер",
+            "phrasesDe": [
+                "Der Server ist down.",
+                "Server neu starten.",
+                "Daten auf dem Server."
+            ],
+            "phrasesUk": [
+                "Сервер лежить.",
+                "Перезавантажити сервер.",
+                "Дані на сервері."
+            ]
+        },
+        {
+            "wordDe": "Cloud-Speicher",
+            "wordUk": "Хмарне сховище",
+            "phrasesDe": [
+                "Daten im Cloud-Speicher.",
+                "Cloud-Speicher nutzen.",
+                "Viel Platz in der Cloud."
+            ],
+            "phrasesUk": [
+                "Дані в хмарному сховищі.",
+                "Використовувати хмарне сховище.",
+                "Багато місця в хмарі."
+            ]
+        },
+        {
+            "wordDe": "Sicherheit",
+            "wordUk": "Безпека",
+            "phrasesDe": [
+                "IT-Sicherheit.",
+                "Sicherheit geht vor.",
+                "Sicherheitslücke finden."
+            ],
+            "phrasesUk": [
+                "IT-безпека.",
+                "Безпека понад усе.",
+                "Знайти вразливість (прогалину в безпеці)."
+            ]
+        },
+        {
+            "wordDe": "Benutzeroberfläche",
+            "wordUk": "Інтерфейс користувача (UI)",
+            "phrasesDe": [
+                "Intuitive Benutzeroberfläche.",
+                "UI-Design verbessern.",
+                "Einfache Benutzeroberfläche."
+            ],
+            "phrasesUk": [
+                "Інтуїтивний інтерфейс користувача.",
+                "Покращити UI-дизайн.",
+                "Простий інтерфейс користувача."
+            ]
+        },
+        {
+            "wordDe": "Bildschirm",
+            "wordUk": "Екран / Монітор",
+            "phrasesDe": [
+                "Großer Bildschirm.",
+                "Am Bildschirm arbeiten.",
+                "Bildschirmauflösung."
+            ],
+            "phrasesUk": [
+                "Великий екран.",
+                "Працювати за екраном.",
+                "Роздільна здатність екрана."
+            ]
+        },
+        {
+            "wordDe": "Tastatur",
+            "wordUk": "Клавіатура",
+            "phrasesDe": [
+                "Mechanische Tastatur.",
+                "Auf der Tastatur tippen.",
+                "Kabellose Tastatur."
+            ],
+            "phrasesUk": [
+                "Механічна клавіатура.",
+                "Друкувати на клавіатурі.",
+                "Бездротова клавіатура."
+            ]
+        },
+        {
+            "wordDe": "Maus",
+            "wordUk": "Миша",
+            "phrasesDe": [
+                "Die Maus bewegen.",
+                "Optische Maus.",
+                "Linksklick mit der Maus."
+            ],
+            "phrasesUk": [
+                "Рухати мишею.",
+                "Оптична миша.",
+                "Лівий клік мишею."
+            ]
+        },
+        {
+            "wordDe": "Künstliche Intelligenz",
+            "wordUk": "Штучний інтелект (ШІ)",
+            "phrasesDe": [
+                "Fortschritte in der KI.",
+                "KI-Modelle trainieren.",
+                "Ethik der Künstlichen Intelligenz."
+            ],
+            "phrasesUk": [
+                "Прогрес у ШІ.",
+                "Трунувати моделі ШІ.",
+                "Етика штучного інтелекту."
+            ]
+        },
+        {
+            "wordDe": "Maschinelles Lernen",
+            "wordUk": "Машинне навчання",
+            "phrasesDe": [
+                "Algorithmen für maschinelles Lernen.",
+                "Datenanalyse.",
+                "Deep Learning."
+            ],
+            "phrasesUk": [
+                "Алгоритми машинного навчання.",
+                "Аналіз даних.",
+                "Глибоке навчання."
+            ]
+        },
+        {
+            "wordDe": "Big Data",
+            "wordUk": "Великі дані",
+            "phrasesDe": [
+                "Umgang mit Big Data.",
+                "Big Data Experten.",
+                "Big Data Strategie."
+            ],
+            "phrasesUk": [
+                "Робота з великими даними.",
+                "Експерти з Big Data.",
+                "Стратегія великих даних."
+            ]
+        },
+        {
+            "wordDe": "Journalismus",
+            "wordUk": "Журналістика",
+            "phrasesDe": [
+                "Freier Journalismus.",
+                "Qualitätsjournalismus.",
+                "Journalismus studieren."
+            ],
+            "phrasesUk": [
+                "Вільна журналістика.",
+                "Якісна журналістика.",
+                "Вивчати журналістику."
+            ]
+        },
+        {
+            "wordDe": "Nachrichten",
+            "wordUk": "Новини",
+            "phrasesDe": [
+                "Aktuelle Nachrichten.",
+                "Nachrichten schauen.",
+                "Fake News."
+            ],
+            "phrasesUk": [
+                "Актуальні новини.",
+                "Дивитися новини.",
+                "Фейкові новини."
+            ]
+        },
+        {
+            "wordDe": "Zeitung",
+            "wordUk": "Газета",
+            "phrasesDe": [
+                "Die Zeitung lesen.",
+                "Tageszeitung.",
+                "Online-Zeitung."
+            ],
+            "phrasesUk": [
+                "Читати газету.",
+                "Щоденна газета.",
+                "Онлайн-газета."
+            ]
+        },
+        {
+            "wordDe": "Zeitschrift",
+            "wordUk": "Журнал",
+            "phrasesDe": [
+                "Eine bunte Zeitschrift.",
+                "Wissenschaftliche Zeitschrift.",
+                "Monatliche Zeitschrift."
+            ],
+            "phrasesUk": [
+                "Кольоровий журнал.",
+                "Науковий журнал.",
+                "Щомісячний журнал."
+            ]
+        },
+        {
+            "wordDe": "Fernsehen",
+            "wordUk": "Телебачення / Дивитися ТБ",
+            "phrasesDe": [
+                "Viel Fernsehen.",
+                "Fernsehen bildet.",
+                "Live im Fernsehen."
+            ],
+            "phrasesUk": [
+                "Багато дивитися ТБ.",
+                "ТБ освічує.",
+                "Наживо по телебаченню."
+            ]
+        },
+        {
+            "wordDe": "Rundfunk",
+            "wordUk": "Радіомовлення",
+            "phrasesDe": [
+                "Öffentlicher Rundfunk.",
+                "Rundfunkgebühren.",
+                "Rundfunkrat."
+            ],
+            "phrasesUk": [
+                "Суспільне мовлення.",
+                "Збори за радіомовлення.",
+                "Рада радіомовлення."
+            ]
+        },
+        {
+            "wordDe": "Internet",
+            "wordUk": "Інтернет",
+            "phrasesDe": [
+                "Im Internet surfen.",
+                "Schnelles Internet.",
+                "Sicherheit im Internet."
+            ],
+            "phrasesUk": [
+                "Серфити в інтернеті.",
+                "Швидкий інтернет.",
+                "Безпека в інтернеті."
+            ]
+        },
+        {
+            "wordDe": "Soziale Medien",
+            "wordUk": "Соціальні медіа",
+            "phrasesDe": [
+                "Aktiv in sozialen Medien.",
+                "Einfluss sozialer Medien.",
+                "Social Media Marketing."
+            ],
+            "phrasesUk": [
+                "Активний у соцмережах.",
+                "Вплив соціальних медіа.",
+                "Маркетинг у соціальних мережах."
+            ]
+        },
+        {
+            "wordDe": "Öffentlichkeit",
+            "wordUk": "Громадськість",
+            "phrasesDe": [
+                "In der Öffentlichkeit.",
+                "Öffentlichkeitsarbeit (PR).",
+                "Öffentliche Meinung."
+            ],
+            "phrasesUk": [
+                "На публіці (у громадськості).",
+                "Зв'язки з громадськістю (PR).",
+                "Громадська думка."
+            ]
+        },
+        {
+            "wordDe": "Berichterstattung",
+            "wordUk": "Репортаж / Висвітлення",
+            "phrasesDe": [
+                "Objektive Berichterstattung.",
+                "Kritische Berichterstattung.",
+                "Mediale Berichterstattung."
+            ],
+            "phrasesUk": [
+                "Об'єктивне висвітлення.",
+                "Критичний репортаж.",
+                "Медійне висвітлення."
+            ]
+        },
+        {
+            "wordDe": "Quelle",
+            "wordUk": "Джерело",
+            "phrasesDe": [
+                "Sichere Quelle.",
+                "Die Quelle nennen.",
+                "Informationsquelle."
+            ],
+            "phrasesUk": [
+                "Надійне джерело.",
+                "Назвати джерело.",
+                "Джерело інформації."
+            ]
+        },
+        {
+            "wordDe": "Interviewer",
+            "wordUk": "Інтерв'юер",
+            "phrasesDe": [
+                "Ein erfahrener Interviewer.",
+                "Der Interviewer fragt.",
+                "Fragen des Interviewers."
+            ],
+            "phrasesUk": [
+                "Досвідчений інтерв'юер.",
+                "Інтерв'юер запитує.",
+                "Питання інтерв'юера."
+            ]
+        },
+        {
+            "wordDe": "Dokumentation",
+            "wordUk": "Документація / Документальний фільм",
+            "phrasesDe": [
+                "Gute Dokumentation.",
+                "Eine Dokumentation sehen.",
+                "Dokumentation schreiben."
+            ],
+            "phrasesUk": [
+                "Гарна документація.",
+                "Дивитися документалку.",
+                "Писати документацію."
+            ]
+        },
+        {
+            "wordDe": "Recherche",
+            "wordUk": "Дослідження / Пошук інформації",
+            "phrasesDe": [
+                "Gründliche Recherche.",
+                "Journalistische Recherche.",
+                "Online-Recherche."
+            ],
+            "phrasesUk": [
+                "Ретельне дослідження.",
+                "Журналістське розслідування (пошук).",
+                "Пошук в інтернеті."
+            ]
+        },
+        {
+            "wordDe": "Livestream",
+            "wordUk": "Прямий ефір / Стрім",
+            "phrasesDe": [
+                "Ein spannender Livestream.",
+                "Livestream starten.",
+                "Zuschauer im Livestream."
+            ],
+            "phrasesUk": [
+                "Захопливий стрім.",
+                "Запустити прямий ефір.",
+                "Глядачі на стрімі."
+            ]
+        },
+        {
+            "wordDe": "Podcast",
+            "wordUk": "Подкаст",
+            "phrasesDe": [
+                "Einen Podcast hören.",
+                "Einen Podcast aufnehmen.",
+                "Interessante Podcasts."
+            ],
+            "phrasesUk": [
+                "Слухати подкаст.",
+                "Записувати подкаст.",
+                "Цікаві подкасти."
+            ]
+        },
+        {
+            "wordDe": "Blog",
+            "wordUk": "Блог",
+            "phrasesDe": [
+                "Einen Blog schreiben.",
+                "Persönlicher Blog.",
+                "Blogeintrag verfassen."
+            ],
+            "phrasesUk": [
+                "Писати блог.",
+                "Особистий блог.",
+                "Написати пост у блозі."
+            ]
+        },
+        {
+            "wordDe": "App",
+            "wordUk": "Додаток (Застосунок)",
+            "phrasesDe": [
+                "Eine nützliche App.",
+                "App herunterladen.",
+                "Die App aktualisieren."
+            ],
+            "phrasesUk": [
+                "Корисний додаток.",
+                "Завантажити застосунок.",
+                "Оновити додаток."
+            ]
+        },
+        {
+            "wordDe": "Update",
+            "wordUk": "Оновлення",
+            "phrasesDe": [
+                "Ein wichtiges Update.",
+                "Software-Update.",
+                "Handy updaten."
+            ],
+            "phrasesUk": [
+                "Важливе оновлення.",
+                "Оновлення ПЗ.",
+                "Оновити телефон."
+            ]
+        },
+        {
+            "wordDe": "Download",
+            "wordUk": "Завантаження",
+            "phrasesDe": [
+                "Schneller Download.",
+                "Download beendet.",
+                "Download-Link."
+            ],
+            "phrasesUk": [
+                "Швидке завантаження.",
+                "Завантаження завершено.",
+                "Посилання на завантаження."
+            ]
+        },
+        {
+            "wordDe": "Upload",
+            "wordUk": "Вивантаження (на сервер)",
+            "phrasesDe": [
+                "Video-Upload.",
+                "Upload-Geschwindigkeit.",
+                "Datei hochladen."
+            ],
+            "phrasesUk": [
+                "Вивантаження відео.",
+                "Швидкість віддачі.",
+                "Завантажити файл (на сервер)."
+            ]
+        },
+        {
+            "wordDe": "Passwort",
+            "wordUk": "Пароль",
+            "phrasesDe": [
+                "Starkes Passwort.",
+                "Passwort vergessen.",
+                "Passwort ändern."
+            ],
+            "phrasesUk": [
+                "Сильний пароль.",
+                "Забув пароль.",
+                "Змінити пароль."
+            ]
+        },
+        {
+            "wordDe": "Benutzername",
+            "wordUk": "Ім'я користувача",
+            "phrasesDe": [
+                "Dein Benutzername.",
+                "Benutzername eingeben.",
+                "Eindeutiger Benutzername."
+            ],
+            "phrasesUk": [
+                "Твоє ім'я користувача.",
+                "Ввести нікнейм.",
+                "Унікальне ім'я користувача."
+            ]
+        },
+        {
+            "wordDe": "Account",
+            "wordUk": "Обліковий запис (Аккаунт)",
+            "phrasesDe": [
+                "Einen Account erstellen.",
+                "Account löschen.",
+                "Premium-Account."
+            ],
+            "phrasesUk": [
+                "Створити аккаунт.",
+                "Видалити обліковий запис.",
+                "Преміум-аккаунт."
+            ]
+        },
+        {
+            "wordDe": "Browser",
+            "wordUk": "Браузер",
+            "phrasesDe": [
+                "Schneller Browser.",
+                "Browser-Tab.",
+                "Inhalt im Browser laden."
+            ],
+            "phrasesUk": [
+                "Швидкий браузер.",
+                "Вкладка браузера.",
+                "Завантажити вміст у браузері."
+            ]
+        },
+        {
+            "wordDe": "E-Mail",
+            "wordUk": "Електронна пошта",
+            "phrasesDe": [
+                "Eine E-Mail schreiben.",
+                "E-Mail-Adresse.",
+                "Spam-Mail."
+            ],
+            "phrasesUk": [
+                "Писати імейл.",
+                "Адреса електронної пошти.",
+                "Спам."
+            ]
+        },
+        {
+            "wordDe": "Webseite",
+            "wordUk": "Веб-сайт",
+            "phrasesDe": [
+                "Eigene Webseite.",
+                "Die Webseite besuchen.",
+                "Webdesign."
+            ],
+            "phrasesUk": [
+                "Власний веб-сайт.",
+                "Відвідати сайт.",
+                "Веб-дизайн."
+            ]
+        },
+        {
+            "wordDe": "Suchmaschine",
+            "wordUk": "Пошукова система (Пошуковик)",
+            "phrasesDe": [
+                "Google ist eine Suchmaschine.",
+                "In der Suchmaschine suchen.",
+                "Ranking in der Suchmaschine."
+            ],
+            "phrasesUk": [
+                "Google — це пошуковик.",
+                "Шукати в пошуковій системі.",
+                "Рейтинг у пошуковику."
+            ]
+        },
+        {
+            "wordDe": "Link",
+            "wordUk": "Посилання",
+            "phrasesDe": [
+                "Klick auf den Link.",
+                "Kaputter Link.",
+                "Link teilen."
+            ],
+            "phrasesUk": [
+                "Натисніть на посилання.",
+                "Бите посилання.",
+                "Поділитися посиланням."
+            ]
+        },
+        {
+            "wordDe": "Social Media Manager",
+            "wordUk": "SMM-менеджер",
+            "phrasesDe": [
+                "Job als Social Media Manager.",
+                "Aufgaben eines SMM-Managers.",
+                "SMM Strategie."
+            ],
+            "phrasesUk": [
+                "Робота SMM-менеджером.",
+                "Завдання SMM-менеджера.",
+                "Стратегія SMM."
+            ]
+        },
+        {
+            "wordDe": "Streaming",
+            "wordUk": "Стрімінг",
+            "phrasesDe": [
+                "Musik-Streaming.",
+                "Film-Streaming.",
+                "Streaming-Dienst nutzen."
+            ],
+            "phrasesUk": [
+                "Стрімінг музики.",
+                "Стрімінг фільмів.",
+                "Користуватися стрімінговим сервісом."
+            ]
+        },
+        {
+            "wordDe": "Digitalisierung",
+            "wordUk": "Цифровізація",
+            "phrasesDe": [
+                "Fokus auf Digitalisierung.",
+                "Vorteile der Digitalisierung.",
+                "Digitale Transformation."
+            ],
+            "phrasesUk": [
+                "Фокус на цифровізації.",
+                "Переваги цифровізації.",
+                "Цифрова трансформація."
+            ]
+        }
+    ]
+}

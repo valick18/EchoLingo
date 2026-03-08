@@ -1,0 +1,704 @@
+{
+    "Право та Політика": [
+        {
+            "wordDe": "Verfassung",
+            "wordUk": "Конституція",
+            "phrasesDe": [
+                "Gegen die Verfassung.",
+                "Die deutsche Verfassung.",
+                "Verfassungsgericht."
+            ],
+            "phrasesUk": [
+                "Проти конституції.",
+                "Німецька конституція.",
+                "Конституційний суд."
+            ]
+        },
+        {
+            "wordDe": "Demokratie",
+            "wordUk": "Демократія",
+            "phrasesDe": [
+                "Eine starke Demokratie.",
+                "Werte der Demokratie.",
+                "In einer Demokratie leben."
+            ],
+            "phrasesUk": [
+                "Сильна демократія.",
+                "Цінності демократії.",
+                "Жити в умовах демократії."
+            ]
+        },
+        {
+            "wordDe": "Parlament",
+            "wordUk": "Парламент",
+            "phrasesDe": [
+                "Debatte im Parlament.",
+                "Sitzung des Parlaments.",
+                "Das Parlament wählen."
+            ],
+            "phrasesUk": [
+                "Дебати в парламенті.",
+                "Засідання парламенту.",
+                "Обирати парламент."
+            ]
+        },
+        {
+            "wordDe": "Abgeordnete",
+            "wordUk": "Депутат",
+            "phrasesDe": [
+                "Ein gewählter Abgeordneter.",
+                "Was Abgeordnete tun.",
+                "Abgeordnete im Bundestag."
+            ],
+            "phrasesUk": [
+                "Обраний депутат.",
+                "Що роблять депутати.",
+                "Депутати в Бундестазі."
+            ]
+        },
+        {
+            "wordDe": "Gesetz",
+            "wordUk": "Закон",
+            "phrasesDe": [
+                "Ein neues Gesetz.",
+                "Gegen das Gesetz.",
+                "Das Gesetz beachten."
+            ],
+            "phrasesUk": [
+                "Новий закон.",
+                "Проти закону.",
+                "Дотримуватися закону."
+            ]
+        },
+        {
+            "wordDe": "Recht",
+            "wordUk": "Право",
+            "phrasesDe": [
+                "Ich habe das Recht.",
+                "Menschenrechte.",
+                "Recht und Ordnung."
+            ],
+            "phrasesUk": [
+                "Я маю право.",
+                "Права людини.",
+                "Право і порядок."
+            ]
+        },
+        {
+            "wordDe": "Gericht",
+            "wordUk": "Суд",
+            "phrasesDe": [
+                "Vor Gericht gehen.",
+                "Das Gericht entscheidet.",
+                "Amtsgericht."
+            ],
+            "phrasesUk": [
+                "Йти до суду.",
+                "Суд вирішує.",
+                "Районний суд."
+            ]
+        },
+        {
+            "wordDe": "Anwalt",
+            "wordUk": "Адвокат",
+            "phrasesDe": [
+                "Einen Anwalt rufen.",
+                "Treffen mit dem Anwalt.",
+                "Rechtsanwalt für Strafrecht."
+            ],
+            "phrasesUk": [
+                "Викликати адвоката.",
+                "Зустріч з адвокатом.",
+                "Адвокат з кримінального права."
+            ]
+        },
+        {
+            "wordDe": "Richter",
+            "wordUk": "Суддя",
+            "phrasesDe": [
+                "Der Richter spricht.",
+                "Urteil des Richters.",
+                "Ein gerechter Richter."
+            ],
+            "phrasesUk": [
+                "Суддя говорить.",
+                "Вирок судді.",
+                "Справедливий суддя."
+            ]
+        },
+        {
+            "wordDe": "Klage",
+            "wordUk": "Позов / Скарга",
+            "phrasesDe": [
+                "Eine Klage einreichen.",
+                "Zivilklage.",
+                "Klage gegen die Firma."
+            ],
+            "phrasesUk": [
+                "Подати позов.",
+                "Цивільний позов.",
+                "Позов проти компанії."
+            ]
+        },
+        {
+            "wordDe": "Vertrag",
+            "wordUk": "Договір / Контракт",
+            "phrasesDe": [
+                "Einen Vertrag unterschreiben.",
+                "Arbeitsvertrag lesen.",
+                "Mietvertrag kündigen."
+            ],
+            "phrasesUk": [
+                "Підписати контракт.",
+                "Читати трудовий договір.",
+                "Розірвати договір оренди."
+            ]
+        },
+        {
+            "wordDe": "Steuern",
+            "wordUk": "Податки",
+            "phrasesDe": [
+                "Steuern zahlen.",
+                "Einkommensteuer.",
+                "Steuererklärung machen."
+            ],
+            "phrasesUk": [
+                "Платити податки.",
+                "Прибутковий податок.",
+                "Робити податкову декларацію."
+            ]
+        },
+        {
+            "wordDe": "Wahl",
+            "wordUk": "Вибори",
+            "phrasesDe": [
+                "An der Wahl teilnehmen.",
+                "Wahlen zum Bundestag.",
+                "Ergebnisse der Wahl."
+            ],
+            "phrasesUk": [
+                "Брати участь у виборах.",
+                "Вибори до Бундестагу.",
+                "Результати виборів."
+            ]
+        },
+        {
+            "wordDe": "Stimme",
+            "wordUk": "Голос (на виборах)",
+            "phrasesDe": [
+                "Seine Stimme abgeben.",
+                "Mehreit der Stimmen.",
+                "Gültige Stimmen."
+            ],
+            "phrasesUk": [
+                "Віддати свій голос.",
+                "Більшість голосів.",
+                "Дійсні голоси."
+            ]
+        },
+        {
+            "wordDe": "Partei",
+            "wordUk": "Партія",
+            "phrasesDe": [
+                "Eine politische Partei.",
+                "Mitglied einer Partei.",
+                "Parteiprogramm lesen."
+            ],
+            "phrasesUk": [
+                "Політична партія.",
+                "Член партії.",
+                "Читати програму партії."
+            ]
+        },
+        {
+            "wordDe": "Opposition",
+            "wordUk": "Опозиція",
+            "phrasesDe": [
+                "Rolle der Opposition.",
+                "Gegen die Regierung.",
+                "In der Opposition sein."
+            ],
+            "phrasesUk": [
+                "Роль опозиції.",
+                "Проти уряду.",
+                "Бути в опозиції."
+            ]
+        },
+        {
+            "wordDe": "Regierung",
+            "wordUk": "Уряд",
+            "phrasesDe": [
+                "Die deutsche Regierung.",
+                "Regierung bilden.",
+                "Kritik an der Regierung."
+            ],
+            "phrasesUk": [
+                "Німецький уряд.",
+                "Сформувати уряд.",
+                "Критика уряду."
+            ]
+        },
+        {
+            "wordDe": "Minister",
+            "wordUk": "Міністр",
+            "phrasesDe": [
+                "Der Minister für Finanzen.",
+                "Außenminister treffen.",
+                "Rücktritt des Ministers."
+            ],
+            "phrasesUk": [
+                "Міністр фінансів.",
+                "Зустрітися з міністром закордонних справ.",
+                "Відставка міністра."
+            ]
+        },
+        {
+            "wordDe": "Bürgermeister",
+            "wordUk": "Мер (Бургомістр)",
+            "phrasesDe": [
+                "Der Bürgermeister der Stadt.",
+                "Wahl des Bürgermeisters.",
+                "Termin beim Bürgermeister."
+            ],
+            "phrasesUk": [
+                "Мер міста.",
+                "Вибори мера.",
+                "Зустріч (термін) у мера."
+            ]
+        },
+        {
+            "wordDe": "Freiheit",
+            "wordUk": "Свобода",
+            "phrasesDe": [
+                "Meinungsfreiheit schützen.",
+                "In Freiheit leben.",
+                "Freiheit und Gleichheit."
+            ],
+            "phrasesUk": [
+                "Захищати свободу думки.",
+                "Жити на волі (у свободі).",
+                "Свобода та рівність."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Soziale Gerechtigkeit.",
+                "Kampf für Gerechtigkeit.",
+                "Gerechtigkeit für alle."
+            ],
+            "phrasesUk": [
+                "Соціальна справедливість.",
+                "Боротьба за справедливість.",
+                "Справедливість для всіх."
+            ]
+        },
+        {
+            "wordDe": "Pflicht",
+            "wordUk": "Обов'язок",
+            "phrasesDe": [
+                "Seine Pflicht tun.",
+                "Schulpflicht in Deutschland.",
+                "Moralische Pflicht."
+            ],
+            "phrasesUk": [
+                "Виконувати свій обов'язок.",
+                "Обов'язкова шкільна освіта в Німеччині.",
+                "Моральний обов'язок."
+            ]
+        },
+        {
+            "wordDe": "Haftung",
+            "wordUk": "Відповідальність (юридична)",
+            "phrasesDe": [
+                "Haftung übernehmen.",
+                "Beschränkte Haftung (GmbH).",
+                "Schadenshaftung."
+            ],
+            "phrasesUk": [
+                "Брати на себе відповідальність.",
+                "Обмежена відповідальність (GmbH).",
+                "Відповідальність за збитки."
+            ]
+        },
+        {
+            "wordDe": "Urteil",
+            "wordUk": "Вирок / Судження",
+            "phrasesDe": [
+                "Ein gerechtes Urteil.",
+                "Das Urteil verkünden.",
+                "Sich ein Urteil bilden."
+            ],
+            "phrasesUk": [
+                "Справедливий вирок.",
+                "Оголосити вирок.",
+                "Сформувати власне судження."
+            ]
+        },
+        {
+            "wordDe": "Verhandlung",
+            "wordUk": "Переговори / Судове засідання",
+            "phrasesDe": [
+                "In Verhandlung treten.",
+                "Mündliche Verhandlung.",
+                "Verhandlungsergebnisse."
+            ],
+            "phrasesUk": [
+                "Вступити в переговори.",
+                "Усне слухання (засідання).",
+                "Результати переговорів."
+            ]
+        },
+        {
+            "wordDe": "Bürger",
+            "wordUk": "Громадянин",
+            "phrasesDe": [
+                "Rechte der Bürger.",
+                "Engagierte Bürger.",
+                "Mündige Bürger."
+            ],
+            "phrasesUk": [
+                "Права громадян.",
+                "Активні громадяни.",
+                "Свідомі (повнолітні) громадяни."
+            ]
+        },
+        {
+            "wordDe": "Staatsbürgerschaft",
+            "wordUk": "Громадянство",
+            "phrasesDe": [
+                "Die deutsche Staatsbürgerschaft.",
+                "Antrag auf Staatsbürgerschaft.",
+                "Zweite Staatsbürgerschaft."
+            ],
+            "phrasesUk": [
+                "Німецьке громадянство.",
+                "Заява на громадянство.",
+                "Друге громадянство."
+            ]
+        },
+        {
+            "wordDe": "Grenze",
+            "wordUk": "Кордон / Межа",
+            "phrasesDe": [
+                "Über die Grenze gehen.",
+                "Grenzkontrollen.",
+                "An die Grenze kommen."
+            ],
+            "phrasesUk": [
+                "Перейти через кордон.",
+                "Прикордонний контроль.",
+                "Підійти до межі."
+            ]
+        },
+        {
+            "wordDe": "Diplomatie",
+            "wordUk": "Дипломатія",
+            "phrasesDe": [
+                "Erfolg durch Diplomatie.",
+                "Geheime Diplomatie.",
+                "Diplomatische Beziehungen."
+            ],
+            "phrasesUk": [
+                "Успіх завдяки дипломатії.",
+                "Таємна дипломатія.",
+                "Дипломатичні відносини."
+            ]
+        },
+        {
+            "wordDe": "Sanktion",
+            "wordUk": "Санкція",
+            "phrasesDe": [
+                "Wirtschaftliche Sanktionen.",
+                "Sanktionen verhängen.",
+                "Folgen von Sanktionen."
+            ],
+            "phrasesUk": [
+                "Економічні санкції.",
+                "Запровадити санкції.",
+                "Наслідки санкцій."
+            ]
+        },
+        {
+            "wordDe": "Frieden",
+            "wordUk": "Мир",
+            "phrasesDe": [
+                "Frieden in der Welt.",
+                "Einen Friedensvertrag schließen.",
+                "Für Frieden kämpfen."
+            ],
+            "phrasesUk": [
+                "Мир у світі.",
+                "Укласти мирний договір.",
+                "Боротися за мир."
+            ]
+        },
+        {
+            "wordDe": "Konflikt",
+            "wordUk": "Конфлікт",
+            "phrasesDe": [
+                "Internationaler Konflikt.",
+                "Konflikte lösen.",
+                "Ursache des Konflikts."
+            ],
+            "phrasesUk": [
+                "Міжнародний конфлікт.",
+                "Вирішувати конфлікти.",
+                "Причина конфлікту."
+            ]
+        },
+        {
+            "wordDe": "Sicherheitspolitik",
+            "wordUk": "Політика безпеки",
+            "phrasesDe": [
+                "Fokus auf Sicherheitspolitik.",
+                "Europäische Sicherheitspolitik.",
+                "Experte für Sicherheitspolitik."
+            ],
+            "phrasesUk": [
+                "Фокус на політиці безпеки.",
+                "Європейська політика безпеки.",
+                "Експерт з політики безпеки."
+            ]
+        },
+        {
+            "wordDe": "Überwachung",
+            "wordUk": "Спостереження / Нагляд",
+            "phrasesDe": [
+                "Staatliche Überwachung.",
+                "Videoüberwachung.",
+                "Schutz vor Überwachung."
+            ],
+            "phrasesUk": [
+                "Державне спостереження.",
+                "Відеоспостереження.",
+                "Захист від стеження."
+            ]
+        },
+        {
+            "wordDe": "Demonstration",
+            "wordUk": "Демонстрація / Мітинг",
+            "phrasesDe": [
+                "An einer Demonstration teilnehmen.",
+                "Friedliche Demonstration.",
+                "Polizei bei der Demonstration."
+            ],
+            "phrasesUk": [
+                "Брати участь у демонстрації.",
+                "Мирна демонстрація.",
+                "Поліція на мітингу."
+            ]
+        },
+        {
+            "wordDe": "Protest",
+            "wordUk": "Протест",
+            "phrasesDe": [
+                "Gegen die Entscheidung protestieren.",
+                "Starker Protest.",
+                "Protesten auf der Straße."
+            ],
+            "phrasesUk": [
+                "Протестувати проти рішення.",
+                "Сильний протест.",
+                "Протести на вулиці."
+            ]
+        },
+        {
+            "wordDe": "Referendum",
+            "wordUk": "Референдум",
+            "phrasesDe": [
+                "Ein Referendum abhalten.",
+                "Ergebnis des Referendums.",
+                "Kritik am Referendum."
+            ],
+            "phrasesUk": [
+                "Провести референдум.",
+                "Результат референдуму.",
+                "Критика референдуму."
+            ]
+        },
+        {
+            "wordDe": "Gesetzgebung",
+            "wordUk": "Законодавство",
+            "phrasesDe": [
+                "Laufende Gesetzgebung.",
+                "Die deutsche Gesetzgebung.",
+                "Änderung in der Gesetzgebung."
+            ],
+            "phrasesUk": [
+                "Поточне законодавство.",
+                "Німецьке законодавство.",
+                "Зміни в законодавстві."
+            ]
+        },
+        {
+            "wordDe": "Korruption",
+            "wordUk": "Корупція",
+            "phrasesDe": [
+                "Kampf gegen Korruption.",
+                "Vorwurf der Korruption.",
+                "Korruption verhindern."
+            ],
+            "phrasesUk": [
+                "Боротьба з корупцією.",
+                "Звинувачення в корупції.",
+                "Запобігти корупції."
+            ]
+        },
+        {
+            "wordDe": "Bestechung",
+            "wordUk": "Хабарництво",
+            "phrasesDe": [
+                "Wegen Bestechung angeklagt.",
+                "Bestechung ablehnen.",
+                "Problem der Bestechung."
+            ],
+            "phrasesUk": [
+                "Звинувачений у хабарництві.",
+                "Відмовитися від хабаря.",
+                "Проблема хабарництва."
+            ]
+        },
+        {
+            "wordDe": "Asyl",
+            "wordUk": "Притулок",
+            "phrasesDe": [
+                "Asyl beantragen.",
+                "Asylrecht in Deutschland.",
+                "Recht auf Asyl."
+            ],
+            "phrasesUk": [
+                "Просити притулку.",
+                "Право на притулок у Німеччині.",
+                "Право на притулок."
+            ]
+        },
+        {
+            "wordDe": "Staatsgewalt",
+            "wordUk": "Державна влада",
+            "phrasesDe": [
+                "Teilung der Staatsgewalt.",
+                "Ausübung der Staatsgewalt.",
+                "Symbole der Staatsgewalt."
+            ],
+            "phrasesUk": [
+                "Розподіл державної влади.",
+                "Здійснення державної влади.",
+                "Символи державної влади."
+            ]
+        },
+        {
+            "wordDe": "Exekutive",
+            "wordUk": "Виконавча влада",
+            "phrasesDe": [
+                "Rolle der Exekutive.",
+                "Regierung als Exekutive.",
+                "Entscheidungen der Exekutive."
+            ],
+            "phrasesUk": [
+                "Роль виконавчої влади.",
+                "Уряд як виконавча влада.",
+                "Рішення виконавчої влади."
+            ]
+        },
+        {
+            "wordDe": "Legislative",
+            "wordUk": "Законодавча влада",
+            "phrasesDe": [
+                "Das Parlament ist die Legislative.",
+                "Aufgabe der Legislative.",
+                "Kontrolle der Legislative."
+            ],
+            "phrasesUk": [
+                "Парламент — це законодавча влада.",
+                "Завдання законодавчої влади.",
+                "Контроль законодавчої влади."
+            ]
+        },
+        {
+            "wordDe": "Judikative",
+            "wordUk": "Судова влада",
+            "phrasesDe": [
+                "Unabhängigkeit der Judikative.",
+                "Gerichte als Judikative.",
+                "Vertrauen in die Judikative."
+            ],
+            "phrasesUk": [
+                "Незалежність судової влади.",
+                "Суди як судова влада.",
+                "Довіра до судової влади."
+            ]
+        },
+        {
+            "wordDe": "Grundrechte",
+            "wordUk": "Основні права",
+            "phrasesDe": [
+                "Schutz der Grundrechte.",
+                "Was sind Grundrechte?",
+                "Unantastbarkeit der Grundrechte."
+            ],
+            "phrasesUk": [
+                "Захист основних прав.",
+                "Що таке основні права?",
+                "Недоторканність основних прав."
+            ]
+        },
+        {
+            "wordDe": "Menschenwürde",
+            "wordUk": "Людська гідність",
+            "phrasesDe": [
+                "Die Menschenwürde ist unantastbar.",
+                "Schutz der Menschenwürde.",
+                "Wahrung der Menschenwürde."
+            ],
+            "phrasesUk": [
+                "Людська гідність є недоторканною.",
+                "Захист людської гідності.",
+                "Збереження людської гідності."
+            ]
+        },
+        {
+            "wordDe": "Wahlbetrug",
+            "wordUk": "Фальсифікація виборів",
+            "phrasesDe": [
+                "Vorwurf von Wahlbetrug.",
+                "Wahlbetrug verhindern.",
+                "Folgen von Wahlbetrug."
+            ],
+            "phrasesUk": [
+                "Звинувачення у фальсифікації виборів.",
+                "Запобігти фальсифікації виборів.",
+                "Наслідки фальсифікації виборів."
+            ]
+        },
+        {
+            "wordDe": "Koalition",
+            "wordUk": "Коаліція",
+            "phrasesDe": [
+                "Eine Koalition bilden.",
+                "Koalitionsvertrag unterschreiben.",
+                "Bruch der Koalition."
+            ],
+            "phrasesUk": [
+                "Сформувати коаліцію.",
+                "Підписати коаліційну угоду.",
+                "Розпад коаліції."
+            ]
+        },
+        {
+            "wordDe": "Oppositionsführer",
+            "wordUk": "Лідер опозиції",
+            "phrasesDe": [
+                "Der Oppositionsführer spricht.",
+                "Rolle des Oppositionsführers.",
+                "Rede des Oppositionsführers."
+            ],
+            "phrasesUk": [
+                "Лідер опозиції виступає.",
+                "Роль лідера опозиції.",
+                "Промова лідера опозиції."
+            ]
+        }
+    ]
+}

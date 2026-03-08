@@ -1,0 +1,704 @@
+{
+    "Довкілля та Екологія (Просунутий)": [
+        {
+            "wordDe": "Artenvielfalt",
+            "wordUk": "Біорізноманіття (різноманіття видів)",
+            "phrasesDe": [
+                "Erhalt der Artenvielfalt.",
+                "Bedrohung der Artenvielfalt.",
+                "Bedeutung der Artenvielfalt."
+            ],
+            "phrasesUk": [
+                "Збереження біорізноманіття.",
+                "Загроза розмаїттю видів.",
+                "Значення біорізноманіття."
+            ]
+        },
+        {
+            "wordDe": "Ökosystem",
+            "wordUk": "Екосистема",
+            "phrasesDe": [
+                "Ein fragiles Ökosystem.",
+                "Schutz des Ökosystems.",
+                "Störung im Ökosystem."
+            ],
+            "phrasesUk": [
+                "Крихка екосистема.",
+                "Захист екосистеми.",
+                "Порушення в екосистемі."
+            ]
+        },
+        {
+            "wordDe": "Treibhausgase",
+            "wordUk": "Парникові гази",
+            "phrasesDe": [
+                "Ausstoß von Treibhausgasen.",
+                "Reduzierung der Treibhausgase.",
+                "Wirkung von Treibhausgasen."
+            ],
+            "phrasesUk": [
+                "Викиди парникових газів.",
+                "Скорочення парникових газів.",
+                "Дія парникових газів."
+            ]
+        },
+        {
+            "wordDe": "Erderwärmung",
+            "wordUk": "Глобальне потепління",
+            "phrasesDe": [
+                "Folgen der Erderwärmung.",
+                "Stopp der Erderwärmung.",
+                "Anzeichen der Erderwärmung."
+            ],
+            "phrasesUk": [
+                "Наслідки потепління Землі.",
+                "Зупинка глобального потепління.",
+                "Ознаки глобального потепління."
+            ]
+        },
+        {
+            "wordDe": "Ozonschicht",
+            "wordUk": "Озоновий шар",
+            "phrasesDe": [
+                "Schutz der Ozonschicht.",
+                "Loch in der Ozonschicht.",
+                "Bedeutung der Ozonschicht."
+            ],
+            "phrasesUk": [
+                "Захист озонового шару.",
+                "Озонова діра.",
+                "Значення озонового шару."
+            ]
+        },
+        {
+            "wordDe": "Ressourcenschonung",
+            "wordUk": "Ощадливе використання ресурсів",
+            "phrasesDe": [
+                "Prinzip der Ressourcenschonung.",
+                "Maßnahmen zur Ressourcenschonung.",
+                "Vorteile der Ressourcenschonung."
+            ],
+            "phrasesUk": [
+                "Принцип збереження ресурсів.",
+                "Заходи з ощадливості ресурсів.",
+                "Переваги ощадливого використання."
+            ]
+        },
+        {
+            "wordDe": "Erneuerbare Energien",
+            "wordUk": "Відновлювані джерела енергії",
+            "phrasesDe": [
+                "Ausbau erneuerbarer Energien.",
+                "Vorteile erneuerbarer Energien.",
+                "Zukunft mit erneuerbaren Energien."
+            ],
+            "phrasesUk": [
+                "Розбудова відновлюваних джерел енергії.",
+                "Переваги відновлюваної енергетики.",
+                "Майбутнє з відновлюваною енергією."
+            ]
+        },
+        {
+            "wordDe": "Solarenergie",
+            "wordUk": "Сонячна енергія",
+            "phrasesDe": [
+                "Nutzung von Solarenergie.",
+                "Ausbau der Solarenergie.",
+                "Potenzial der Solarenergie."
+            ],
+            "phrasesUk": [
+                "Використання сонячної енергії.",
+                "Розширення використання сонця.",
+                "Потенціал сонячної енергії."
+            ]
+        },
+        {
+            "wordDe": "Windkraft",
+            "wordUk": "Енергія вітру",
+            "phrasesDe": [
+                "Ausbau der Windkraft.",
+                "Kritik an Windkraftanlagen.",
+                "Förderung der Windkraft."
+            ],
+            "phrasesUk": [
+                "Розбудова вітроенергетики.",
+                "Критика вітряків.",
+                "Сприяння енергії вітру."
+            ]
+        },
+        {
+            "wordDe": "Wasserkraft",
+            "wordUk": "Гідроенергетика",
+            "phrasesDe": [
+                "Nutzung der Wasserkraft.",
+                "Potenzial der Wasserkraft.",
+                "Umweltauswirkungen der Wasserkraft."
+            ],
+            "phrasesUk": [
+                "Використання сили води.",
+                "Потенціал гідроенергетики.",
+                "Екологічний вплив ГЕС."
+            ]
+        },
+        {
+            "wordDe": "Biomasse",
+            "wordUk": "Біомаса",
+            "phrasesDe": [
+                "Energie aus Biomasse.",
+                "Nutzung von Biomasse.",
+                "Vorteile der Biomasse."
+            ],
+            "phrasesUk": [
+                "Енергія з біомаси.",
+                "Використання біомаси.",
+                "Переваги біомаси."
+            ]
+        },
+        {
+            "wordDe": "Recycling",
+            "wordUk": "Переробка (ресайклінг)",
+            "phrasesDe": [
+                "Effektives Recycling.",
+                "Recycling von Kunststoffen.",
+                "Vorteile des Recyclings."
+            ],
+            "phrasesUk": [
+                "Ефективна переробка.",
+                "Переробка пластику.",
+                "Переваги ресайклінгу."
+            ]
+        },
+        {
+            "wordDe": "Kreislaufwirtschaft",
+            "wordUk": "Циркулярна економіка / Економіка замкненого циклу",
+            "phrasesDe": [
+                "Prinzip der Kreislaufwirtschaft.",
+                "Maßnahmen zur Kreislaufwirtschaft.",
+                "Zukunft der Kreislaufwirtschaft."
+            ],
+            "phrasesUk": [
+                "Принцип циклічної економіки.",
+                "Заходи для економіки замкненого циклу.",
+                "Майбутнє циркулярної економіки."
+            ]
+        },
+        {
+            "wordDe": "Abfallvermeidung",
+            "wordUk": "Запобігання утворенню відходів",
+            "phrasesDe": [
+                "Strategien zur Abfallvermeidung.",
+                "Wichtigkeit der Abfallvermeidung.",
+                "Abfallvermeidung im Alltag."
+            ],
+            "phrasesUk": [
+                "Стратегії уникнення відходів.",
+                "Важливість запобігання сміттю.",
+                "Уникнення відходів у побуті."
+            ]
+        },
+        {
+            "wordDe": "Schadstoffbelastung",
+            "wordUk": "Забруднення шкідливими речовинами",
+            "phrasesDe": [
+                "Hohe Schadstoffbelastung.",
+                "Messung der Schadstoffbelastung.",
+                "Folgen der Schadstoffbelastung."
+            ],
+            "phrasesUk": [
+                "Високий рівень забруднення.",
+                "Вимірювання шкідливих речовин.",
+                "Наслідки забруднення."
+            ]
+        },
+        {
+            "wordDe": "Feinstaub",
+            "wordUk": "Дрібнодисперсний пил (файнштауб)",
+            "phrasesDe": [
+                "Belastung durch Feinstaub.",
+                "Messung von Feinstaub.",
+                "Gefahr durch Feinstaub."
+            ],
+            "phrasesUk": [
+                "Навантаження пилом.",
+                "Вимірювання дрібного пилу.",
+                "Небезпека від файнштаубу."
+            ]
+        },
+        {
+            "wordDe": "Lärmbelästigung",
+            "wordUk": "Шумове забруднення",
+            "phrasesDe": [
+                "Schutz vor Lärmbelästigung.",
+                "Ursachen für Lärmbelästigung.",
+                "Folgen von Lärmbelästigung."
+            ],
+            "phrasesUk": [
+                "Захист від шуму.",
+                "Причини шумового забруднення.",
+                "Наслідки впливу шуму."
+            ]
+        },
+        {
+            "wordDe": "Gewässerschutz",
+            "wordUk": "Охорона водних ресурсів",
+            "phrasesDe": [
+                "Maßnahmen zum Gewässerschutz.",
+                "Bedeutung des Gewässerschutzes.",
+                "Gesetze zum Gewässerschutz."
+            ],
+            "phrasesUk": [
+                "Заходи з охорони водойм.",
+                "Значення захисту вод.",
+                "Закони про охорону водних ресурсів."
+            ]
+        },
+        {
+            "wordDe": "Trinkwasserqualität",
+            "wordUk": "Якість питної води",
+            "phrasesDe": [
+                "Sicherung der Trinkwasserqualität.",
+                "Kontrolle der Trinkwasserqualität.",
+                "Gefahr für die Trinkwasserqualität."
+            ],
+            "phrasesUk": [
+                "Забезпечення якості питної води.",
+                "Контроль якості води.",
+                "Загроза якості питної води."
+            ]
+        },
+        {
+            "wordDe": "Bodenversiegelung",
+            "wordUk": "Запечатування ґрунту (асфальтування/забудова)",
+            "phrasesDe": [
+                "Stopp der Bodenversiegelung.",
+                "Folgen der Bodenversiegelung.",
+                "Vermeidung von Bodenversiegelung."
+            ],
+            "phrasesUk": [
+                "Зупинка забудови відкритих ґрунтів.",
+                "Наслідки асфальтування поверхонь.",
+                "Уникнення запечатування ґрунту."
+            ]
+        },
+        {
+            "wordDe": "Entwaldung",
+            "wordUk": "Знеліснення / Вирубка лісів",
+            "phrasesDe": [
+                "Stopp der Entwaldung.",
+                "Ursachen für Entwaldung.",
+                "Folgen der Entwaldung."
+            ],
+            "phrasesUk": [
+                "Зупинка вирубки лісів.",
+                "Причини знеліснення.",
+                "Наслідки вирубки лісів."
+            ]
+        },
+        {
+            "wordDe": "Aufforstung",
+            "wordUk": "Відновлення лісів / Лісорозведення",
+            "phrasesDe": [
+                "Maßnahmen zur Aufforstung.",
+                "Vorteile der Aufforstung.",
+                "Aufforstungsprojekte."
+            ],
+            "phrasesUk": [
+                "Заходи з відновлення лісів.",
+                "Переваги висадки нових лісів.",
+                "Проєкти з лісорозведення."
+            ]
+        },
+        {
+            "wordDe": "Biodiversität",
+            "wordUk": "Біорізноманіття",
+            "phrasesDe": [
+                "Verlust der Biodiversität.",
+                "Schutz der Biodiversität.",
+                "Bedeutung der Biodiversität."
+            ],
+            "phrasesUk": [
+                "Втрата біорізноманіття.",
+                "Захист біорізноманіття.",
+                "Значення біорізноманіття."
+            ]
+        },
+        {
+            "wordDe": "Massentierhaltung",
+            "wordUk": "Інтенсивне (масове) тваринництво",
+            "phrasesDe": [
+                "Kritik an Massentierhaltung.",
+                "Folgen der Massentierhaltung.",
+                "Alternativen zur Massentierhaltung."
+            ],
+            "phrasesUk": [
+                "Критика масового тваринництва.",
+                "Наслідки промислового розведення тварин.",
+                "Альтернативи масовому тваринництву."
+            ]
+        },
+        {
+            "wordDe": "Artenschutz",
+            "wordUk": "Захист видів",
+            "phrasesDe": [
+                "Erfolg im Artenschutz.",
+                "Maßnahmen zum Artenschutz.",
+                "Gesetze zum Artenschutz."
+            ],
+            "phrasesUk": [
+                "Успіх у захисті видів.",
+                "Заходи із захисту тварин і рослин.",
+                "Закони про охорону видів."
+            ]
+        },
+        {
+            "wordDe": "Umweltbewusstsein",
+            "wordUk": "Екологічна свідомість",
+            "phrasesDe": [
+                "Förderung des Umweltbewusstseins.",
+                "Mangel an Umweltbewusstsein.",
+                "Wachsende Umweltbewusstsein."
+            ],
+            "phrasesUk": [
+                "Сприяння екологічній свідомості.",
+                "Брак еко-свідомості.",
+                "Зростаюча екологічна обізнаність."
+            ]
+        },
+        {
+            "wordDe": "Ökobilanz",
+            "wordUk": "Екологічний баланс / Еко-аудит (продукту)",
+            "phrasesDe": [
+                "Erstellung einer Ökobilanz.",
+                "Eine gute Ökobilanz.",
+                "Ökobilanz von Elektroautos."
+            ],
+            "phrasesUk": [
+                "Складання екологічного балансу.",
+                "Гарний еко-показник.",
+                "Екологічний баланс електромобілів."
+            ]
+        },
+        {
+            "wordDe": "Klimaneutralität",
+            "wordUk": "Кліматична нейтральність",
+            "phrasesDe": [
+                "Weg zur Klimaneutralität.",
+                "Ziel der Klimaneutralität.",
+                "Maßnahmen zur Klimaneutralität."
+            ],
+            "phrasesUk": [
+                "Шлях до кліматичної нейтральності.",
+                "Мета — нульовий викид.",
+                "Заходи для кліматичної нейтральності."
+            ]
+        },
+        {
+            "wordDe": "Emissionshandel",
+            "wordUk": "Торгівля квотами на викиди",
+            "phrasesDe": [
+                "Prinzip des Emissionshandels.",
+                "Kritik am Emissionshandel.",
+                "Wirkung des Emissionshandels."
+            ],
+            "phrasesUk": [
+                "Принцип торгівлі викидами.",
+                "Критика системи квот.",
+                "Ефект торгівлі квотами."
+            ]
+        },
+        {
+            "wordDe": "Kohleausstieg",
+            "wordUk": "Відмова від використання вугілля",
+            "phrasesDe": [
+                "Debatte über den Kohleausstieg.",
+                "Fahrplan für den Kohleausstieg.",
+                "Folgen des Kohleausstiegs."
+            ],
+            "phrasesUk": [
+                "Дебати про відмову від вугілля.",
+                "Графік виведення вугільних потужностей.",
+                "Наслідки відмови від вугілля."
+            ]
+        },
+        {
+            "wordDe": "Atomausstieg",
+            "wordUk": "Відмова від атомної енергетики",
+            "phrasesDe": [
+                "Vollzug des Atomausstiegs.",
+                "Diskussion über den Atomausstieg.",
+                "Folgen des Atomausstiegs."
+            ],
+            "phrasesUk": [
+                "Здійснення відмови від атома.",
+                "Дискусія про закриття АЕС.",
+                "Наслідки відмови від атомної енергії."
+            ]
+        },
+        {
+            "wordDe": "E-Mobilität",
+            "wordUk": "Електромобільність",
+            "phrasesDe": [
+                "Förderung der E-Mobilität.",
+                "Infrastruktur für E-Mobilität.",
+                "Zukunft der E-Mobilität."
+            ],
+            "phrasesUk": [
+                "Сприяння електромобільності.",
+                "Інфраструктура для електрокарів.",
+                "Майбутнє електромобільності."
+            ]
+        },
+        {
+            "wordDe": "Öffentlicher Personennahverkehr (ÖPNV)",
+            "wordUk": "Міський громадський транспорт (ГТ)",
+            "phrasesDe": [
+                "Ausbau des ÖPNV.",
+                "Preise im ÖPNV.",
+                "Nutzer des ÖPNV."
+            ],
+            "phrasesUk": [
+                "Розбудова громадського транспорту.",
+                "Ціни в ГТ.",
+                "Користувачі громадського транспорту."
+            ]
+        },
+        {
+            "wordDe": "Carsharing",
+            "wordUk": "Каршерінг (спільне використання авто)",
+            "phrasesDe": [
+                "Nutzung von Carsharing.",
+                "Vorteile des Carsharings.",
+                "Carsharing-Anbieter."
+            ],
+            "phrasesUk": [
+                "Використання каршерінгу.",
+                "Переваги спільного авто.",
+                "Провайдер каршерінгу."
+            ]
+        },
+        {
+            "wordDe": "Fahrradinfrastruktur",
+            "wordUk": "Велосипедна інфраструктура",
+            "phrasesDe": [
+                "Bessere Fahrradinfrastruktur.",
+                "Ausbau der Fahrradwege.",
+                "Sicherheit in der Fahrradinfrastruktur."
+            ],
+            "phrasesUk": [
+                "Краща велоінфраструктура.",
+                "Розбудова велодоріжок.",
+                "Безпека велосипедної мережі."
+            ]
+        },
+        {
+            "wordDe": "Stadtplanung",
+            "wordUk": "Містобудування / Урбаністика",
+            "phrasesDe": [
+                "Nachhaltige Stadtplanung.",
+                "Beteiligung an der Stadtplanung.",
+                "Herausforderungen der Stadtplanung."
+            ],
+            "phrasesUk": [
+                "Стале містобудування.",
+                "Участь у плануванні міста.",
+                "Виклики урбаністики."
+            ]
+        },
+        {
+            "wordDe": "Versiegelung",
+            "wordUk": "Герметизація / Покриття (асфальт тощо)",
+            "phrasesDe": [
+                "Grad der Versiegelung.",
+                "Folgen der Versiegelung.",
+                "Vermeidung von Versiegelung."
+            ],
+            "phrasesUk": [
+                "Ступінь герметизації поверхні.",
+                "Наслідки покриття ґрунту.",
+                "Уникнення заасфальтовування."
+            ]
+        },
+        {
+            "wordDe": "Flächenfraß",
+            "wordUk": "Надмірна розбудова (поглинання територій забудовою)",
+            "phrasesDe": [
+                "Kampf gegen den Flächenfraß.",
+                "Folgen des Flächenfraßes.",
+                "Ursachen für Flächenfraß."
+            ],
+            "phrasesUk": [
+                "Боротьба із розростанням забудови.",
+                "Наслідки поглинання вільних земель.",
+                "Причини надмірної розбудови."
+            ]
+        },
+        {
+            "wordDe": "Landschaftsschutz",
+            "wordUk": "Охорона ландшафту",
+            "phrasesDe": [
+                "Maßnahmen zum Landschaftsschutz.",
+                "Gesetze zum Landschaftsschutz.",
+                "Bedeutung des Landschaftsschutzes."
+            ],
+            "phrasesUk": [
+                "Заходи з охорони ландшафту.",
+                "Закони про охорону природи.",
+                "Значення збереження ландшафту."
+            ]
+        },
+        {
+            "wordDe": "Naturschutzgebiet",
+            "wordUk": "Заповідник / Природоохоронна зона",
+            "phrasesDe": [
+                "Besuch im Naturschutzgebiet.",
+                "Regeln im Naturschutzgebiet.",
+                "Ausweisung eines Naturschutzgebietes."
+            ],
+            "phrasesUk": [
+                "Візит до заповідника.",
+                "Правила в природоохоронній зоні.",
+                "Оголошення території заповідною."
+            ]
+        },
+        {
+            "wordDe": "Wildnis",
+            "wordUk": "Дика природа",
+            "phrasesDe": [
+                "Erhalt der Wildnis.",
+                "Wanderung in der Wildnis.",
+                "Schutz der Wildnis."
+            ],
+            "phrasesUk": [
+                "Збереження дикої природи.",
+                "Похід дикими місцями.",
+                "Захист дикої природи."
+            ]
+        },
+        {
+            "wordDe": "Renaturierung",
+            "wordUk": "Ренатуралізація (відновлення природного стану)",
+            "phrasesDe": [
+                "Maßnahmen zur Renaturierung.",
+                "Erfolg der Renaturierung.",
+                "Renaturierung von Flüssen."
+            ],
+            "phrasesUk": [
+                "Заходи з ренатуралізації.",
+                "Успіх у відновленні природи.",
+                "Відновлення природного річища річок."
+            ]
+        },
+        {
+            "wordDe": "Grundwasserspiegel",
+            "wordUk": "Рівень ґрунтових вод",
+            "phrasesDe": [
+                "Sinken des Grundwasserspiegels.",
+                "Messung des Grundwasserspiegels.",
+                "Gefahr für den Grundwasserspiegel."
+            ],
+            "phrasesUk": [
+                "Падіння рівня ґрунтових вод.",
+                "Вимірювання рівня вод.",
+                "Загроза для ґрунтових вод."
+            ]
+        },
+        {
+            "wordDe": "Überflutung",
+            "wordUk": "Повінь / Затоплення",
+            "phrasesDe": [
+                "Gefahr der Überflutung.",
+                "Schutz vor Überflutung.",
+                "Folgen einer Überflutung."
+            ],
+            "phrasesUk": [
+                "Небезпека затоплення.",
+                "Захист від повеней.",
+                "Наслідки повені."
+            ]
+        },
+        {
+            "wordDe": "Dürre",
+            "wordUk": "Посуха",
+            "phrasesDe": [
+                "Folgen der Dürre.",
+                "Kampf gegen die Dürre.",
+                "Anhaltende Dürre."
+            ],
+            "phrasesUk": [
+                "Наслідки посухи.",
+                "Боротьба з посухою.",
+                "Тривала посуха."
+            ]
+        },
+        {
+            "wordDe": "Ernteausfall",
+            "wordUk": "Неврожай",
+            "phrasesDe": [
+                "Gefahr von Ernteausfällen.",
+                "Ursachen für Ernteausfälle.",
+                "Entschädigung für Ernteausfälle."
+            ],
+            "phrasesUk": [
+                "Загроза неврожаю.",
+                "Причини втрати врожаю.",
+                "Відшкодування за неврожай."
+            ]
+        },
+        {
+            "wordDe": "Lebensmittelverschwendung",
+            "wordUk": "Харчові відходи / Марнотратство їжі",
+            "phrasesDe": [
+                "Stopp der Lebensmittelverschwendung.",
+                "Folgen der Lebensmittelverschwendung.",
+                "Maßnahmen gegen Lebensmittelverschwendung."
+            ],
+            "phrasesUk": [
+                "Зупинка марнотратства їжі.",
+                "Наслідки викидання продуктів.",
+                "Заходи проти харчових відходів."
+            ]
+        },
+        {
+            "wordDe": "Übervölkerung",
+            "wordUk": "Перенаселення",
+            "phrasesDe": [
+                "Gefahr der Übervölkerung.",
+                "Folgen der Übervölkerung.",
+                "Ursachen der Übervölkerung."
+            ],
+            "phrasesUk": [
+                "Небезпека перенаселення.",
+                "Наслідки перенаселення.",
+                "Причини надмірного росту населення."
+            ]
+        },
+        {
+            "wordDe": "Migration",
+            "wordUk": "Міграція (екологічна)",
+            "phrasesDe": [
+                "Klimabedingte Migration.",
+                "Ursachen der Migration.",
+                "Folgen der Migration."
+            ],
+            "phrasesUk": [
+                "Міграція через клімат.",
+                "Причини міграції.",
+                "Наслідки міграції."
+            ]
+        },
+        {
+            "wordDe": "Solidarität",
+            "wordUk": "Екологічна солідарність",
+            "phrasesDe": [
+                "Globale Solidarität.",
+                "Solidarität im Klimaschutz.",
+                "Zeichen der Solidarität."
+            ],
+            "phrasesUk": [
+                "Глобальна солідарність.",
+                "Солідарність у захисті клімату.",
+                "Знак солідарності."
+            ]
+        }
+    ]
+}

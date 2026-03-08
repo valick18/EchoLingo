@@ -1,0 +1,704 @@
+{
+    "Роздрібна Торгівля та Електронна Комерція": [
+        {
+            "wordDe": "Einzelhandel",
+            "wordUk": "Роздрібна торгівля (Ейнцель-гандель)",
+            "phrasesDe": [
+                "Trends im Einzelhandel.",
+                "Lage des Einzelhandels.",
+                "Zukunft des Einzelhandels."
+            ],
+            "phrasesUk": [
+                "Тренди в роздрібній торгівлі.",
+                "Становище ритейлу.",
+                "Майбутнє роздрібної торгівлі."
+            ]
+        },
+        {
+            "wordDe": "Online-Handel",
+            "wordUk": "Інтернет-торгівля / Електронна комерція",
+            "phrasesDe": [
+                "Wachstum im Online-Handel.",
+                "Vorteile des Online-Handels.",
+                "Konkurrenz durch Online-Handel."
+            ],
+            "phrasesUk": [
+                "Зростання інтернет-торгівлі.",
+                "Переваги онлайн-продажів.",
+                "Конкуренція з боку e-commerce."
+            ]
+        },
+        {
+            "wordDe": "Warenkorb",
+            "wordUk": "Кошик (для покупок)",
+            "phrasesDe": [
+                "Artikel in den Warenkorb legen.",
+                "Warenkorb bearbeiten.",
+                "Inhalt des Warenkorbs."
+            ],
+            "phrasesUk": [
+                "Покласти товар у кошик.",
+                "Редагувати кошик.",
+                "Вміст кошика."
+            ]
+        },
+        {
+            "wordDe": "Kasse",
+            "wordUk": "Каса / Оформлення замовлення (Checkout)",
+            "phrasesDe": [
+                "Zur Kasse gehen.",
+                "Warteschlange an der Kasse.",
+                "Zahlung an der Kasse."
+            ],
+            "phrasesUk": [
+                "Йти до каси (на оформлення).",
+                "Черга на касі.",
+                "Оплата на касі."
+            ]
+        },
+        {
+            "wordDe": "Zahlungsart",
+            "wordUk": "Спосіб оплати",
+            "phrasesDe": [
+                "Wahl der Zahlungsart.",
+                "Sichere Zahlungsarten.",
+                "Gängige Zahlungsarten."
+            ],
+            "phrasesUk": [
+                "Вибір способу оплати.",
+                "Безпечні способи оплати.",
+                "Популярні методи оплати."
+            ]
+        },
+        {
+            "wordDe": "Rechnungsadresse",
+            "wordUk": "Адреса виставлення рахунку (Білінг-адреса)",
+            "phrasesDe": [
+                "Angabe der Rechnungsadresse.",
+                "Änderung der Rechnungsadresse.",
+                "Rechnungsadresse prüfen."
+            ],
+            "phrasesUk": [
+                "Зазначення адреси для рахунку.",
+                "Зміна платіжної адреси.",
+                "Перевірити білінг-адресу."
+            ]
+        },
+        {
+            "wordDe": "Lieferadresse",
+            "wordUk": "Адреса доставки",
+            "phrasesDe": [
+                "Eingabe der Lieferadresse.",
+                "Abweichende Lieferadresse.",
+                "Lieferadresse speichern."
+            ],
+            "phrasesUk": [
+                "Введення адреси доставки.",
+                "Інша адреса доставки.",
+                "Зберегти адресу доставки."
+            ]
+        },
+        {
+            "wordDe": "Versandkosten",
+            "wordUk": "Витрати на доставку (Шипінг)",
+            "phrasesDe": [
+                "Höhe der Versandkosten.",
+                "Versandkostenfrei bestellen.",
+                "Berechnung der Versandkosten."
+            ],
+            "phrasesUk": [
+                "Розмір витрат на доставку.",
+                "Замовити з безкоштовною доставкою.",
+                "Розрахунок вартості доставки."
+            ]
+        },
+        {
+            "wordDe": "Lieferzeit",
+            "wordUk": "Термін доставки (Delivery time)",
+            "phrasesDe": [
+                "Dauer der Lieferzeit.",
+                "Verzögerung der Lieferzeit.",
+                "Angabe der Lieferzeit."
+            ],
+            "phrasesUk": [
+                "Тривалість доставки.",
+                "Затримка терміну доставки.",
+                "Зазначення часу доставки."
+            ]
+        },
+        {
+            "wordDe": "Widerrufsrecht",
+            "wordUk": "Право на відкликання замовлення / повернення (Відерруфс-рехт)",
+            "phrasesDe": [
+                "Belehrung über das Widerrufsrecht.",
+                "Nutzung des Widerrufsrechts.",
+                "Frist für das Widerrufsrecht."
+            ],
+            "phrasesUk": [
+                "Інструктаж про право на повернення.",
+                "Використання права на відмову.",
+                "Термін дії права на відкликання."
+            ]
+        },
+        {
+            "wordDe": "Rücksendung",
+            "wordUk": "Зворотна доставка / Повернення",
+            "phrasesDe": [
+                "Kosten der Rücksendung.",
+                "Abwicklung der Rücksendung.",
+                "Grund für die Rücksendung."
+            ],
+            "phrasesUk": [
+                "Вартість зворотного пересилання.",
+                "Оформлення повернення.",
+                "Причина повернення товару."
+            ]
+        },
+        {
+            "wordDe": "Gutschrift",
+            "wordUk": "Повернення коштів на рахунок / Кредит-нота",
+            "phrasesDe": [
+                "Erhalt einer Gutschrift.",
+                "Dauer bis zur Gutschrift.",
+                "Bestätigung der Gutschrift."
+            ],
+            "phrasesUk": [
+                "Отримання коштів на рахунок.",
+                "Термін до зарахування коштів.",
+                "Підтвердження повернення грошей."
+            ]
+        },
+        {
+            "wordDe": "Rabatt",
+            "wordUk": "Знижка",
+            "phrasesDe": [
+                "Gewährung eines Rabatts.",
+                "Höhe des Rabatts.",
+                "Rabattcode eingeben."
+            ],
+            "phrasesUk": [
+                "Надання знижки.",
+                "Розмір знижки.",
+                "Ввести промокод на знижку."
+            ]
+        },
+        {
+            "wordDe": "Gutschein",
+            "wordUk": "Ваучер / Подарунковий сертифікат (Гутшайн)",
+            "phrasesDe": [
+                "Einlösung eines Gutscheins.",
+                "Gültigkeit des Gutscheins.",
+                "Wert des Gutscheins."
+            ],
+            "phrasesUk": [
+                "Погашення ваучера (сертифіката).",
+                "Термін дії сертифіката.",
+                "Номінал подарункового купона."
+            ]
+        },
+        {
+            "wordDe": "Sonderangebot",
+            "wordUk": "Спеціальна пропозиція / Акція",
+            "phrasesDe": [
+                "Nur für kurze Zeit: Sonderangebot.",
+                "Suche nach Sonderangeboten.",
+                "Vorteile des Sonderangebots."
+            ],
+            "phrasesUk": [
+                "Лише на короткий час: спецпропозиція.",
+                "Пошук акційних товарів.",
+                "Переваги спеціальної пропозиції."
+            ]
+        },
+        {
+            "wordDe": "Sortiment",
+            "wordUk": "Асортимент",
+            "phrasesDe": [
+                "Breites Sortiment.",
+                "Erweiterung des Sortiments.",
+                "Auswahl im Sortiment."
+            ],
+            "phrasesUk": [
+                "Широкий асортимент.",
+                "Розширення асортименту.",
+                "Вибір в асортименті."
+            ]
+        },
+        {
+            "wordDe": "Vorratsmenge",
+            "wordUk": "Запас (товару) / Кількість на складі",
+            "phrasesDe": [
+                "Prüfung der Vorratsmenge.",
+                "Geringe Vorratsmenge.",
+                "Verfügbare Vorratsmenge."
+            ],
+            "phrasesUk": [
+                "Перевірка кількості на складі.",
+                "Малий запас.",
+                "Доступна кількість товару."
+            ]
+        },
+        {
+            "wordDe": "Lieferbarkeit",
+            "wordUk": "Наявність (для замовлення) / Можливість поставки",
+            "phrasesDe": [
+                "Status der Lieferbarkeit.",
+                "Sofortige Lieferbarkeit.",
+                "Garantie der Lieferbarkeit."
+            ],
+            "phrasesUk": [
+                "Статус наявності.",
+                "Миттєва готовність до відправки.",
+                "Гарантія наявності товару."
+            ]
+        },
+        {
+            "wordDe": "Bestellung",
+            "wordUk": "Замовлення",
+            "phrasesDe": [
+                "Aufgabe einer Bestellung.",
+                "Bestellung verfolgen.",
+                "Änderung der Bestellung."
+            ],
+            "phrasesUk": [
+                "Оформлення замовлення.",
+                "Відстежувати замовлення.",
+                "Зміна замовлення."
+            ]
+        },
+        {
+            "wordDe": "Kundenkonto",
+            "wordUk": "Обліковий запис клієнта / Особистий кабінет",
+            "phrasesDe": [
+                "Login ins Kundenkonto.",
+                "Erstellung eines Kundenkontos.",
+                "Daten im Kundenkonto."
+            ],
+            "phrasesUk": [
+                "Вхід в особистий кабінет.",
+                "Створення акаунта.",
+                "Дані в обліковому записі."
+            ]
+        },
+        {
+            "wordDe": "Passwort",
+            "wordUk": "Пароль",
+            "phrasesDe": [
+                "Sicheres Passwort wählen.",
+                "Passwort vergessen.",
+                "Passwort ändern."
+            ],
+            "phrasesUk": [
+                "Вибрати безпечний пароль.",
+                "Забув пароль.",
+                "Змінити пароль."
+            ]
+        },
+        {
+            "wordDe": "Datenschutz",
+            "wordUk": "Захист даних",
+            "phrasesDe": [
+                "Beachtung des Datenschutzes.",
+                "Verletzung des Datenschutzes.",
+                "Datenschutzerklärung."
+            ],
+            "phrasesUk": [
+                "Дотримання захисту даних.",
+                "Порушення приватності даних.",
+                "Політика конфіденційності."
+            ]
+        },
+        {
+            "wordDe": "Sicherheit",
+            "wordUk": "Безпека",
+            "phrasesDe": [
+                "Sicherheit beim Bezahlen.",
+                "Sicherheit der Daten.",
+                "Zertifikat für Sicherheit."
+            ],
+            "phrasesUk": [
+                "Безпека при оплаті.",
+                "Безпека даних.",
+                "Сертифікат безпеки."
+            ]
+        },
+        {
+            "wordDe": "Verschlüsselung",
+            "wordUk": "Шифрування",
+            "phrasesDe": [
+                "SSL-Verschlüsselung.",
+                "Sichere Verschlüsselung.",
+                "Bedeutung der Verschlüsselung."
+            ],
+            "phrasesUk": [
+                "SSL-шифрування.",
+                "Безпечне кодування.",
+                "Значення шифрування."
+            ]
+        },
+        {
+            "wordDe": "Bewertung",
+            "wordUk": "Відгук / Рейтинг / Оцінка",
+            "phrasesDe": [
+                "Abgabe einer Bewertung.",
+                "Lesen der Bewertungen.",
+                "Sterne-Bewertung."
+            ],
+            "phrasesUk": [
+                "Залишити відгук.",
+                "Читання відгуків.",
+                "Зоряний рейтинг."
+            ]
+        },
+        {
+            "wordDe": "Rezension",
+            "wordUk": "Рецензія / Текстовий відгук",
+            "phrasesDe": [
+                "Eine ehrliche Rezension.",
+                "Rezension verfassen.",
+                "Einfluss von Rezensionen."
+            ],
+            "phrasesUk": [
+                "Чесний відгук.",
+                "Написати рецензію.",
+                "Вплив відгуків."
+            ]
+        },
+        {
+            "wordDe": "Kundenservice",
+            "wordUk": "Служба підтримки / Сервіс для клієнтів",
+            "phrasesDe": [
+                "Kontakt zum Kundenservice.",
+                "Hilfe vom Kundenservice.",
+                "Qualität des Kundenservices."
+            ],
+            "phrasesUk": [
+                "Контакт із підтримкою.",
+                "Допомога від сервісної служби.",
+                "Якість клієнтського сервісу."
+            ]
+        },
+        {
+            "wordDe": "Hotline",
+            "wordUk": "Гаряча лінія",
+            "phrasesDe": [
+                "Anruf bei der Hotline.",
+                "Erreichbarkeit der Hotline.",
+                "Wartezeit bei der Hotline."
+            ],
+            "phrasesUk": [
+                "Дзвінок на гарячу лінію.",
+                "Доступність гарячої лінії.",
+                "Час очікування на лінії."
+            ]
+        },
+        {
+            "wordDe": "FAQ",
+            "wordUk": "Часті запитання (FAQ)",
+            "phrasesDe": [
+                "Blick in die FAQ.",
+                "Antworten in der FAQ.",
+                "Häufig gestellte Fragen (FAQ)."
+            ],
+            "phrasesUk": [
+                "Подивитися розділ FAQ.",
+                "Відповіді в чапитах.",
+                "Часті запитання."
+            ]
+        },
+        {
+            "wordDe": "Newsletter",
+            "wordUk": "Інформаційна розсилка / Ньюзлеттер",
+            "phrasesDe": [
+                "Anmeldung zum Newsletter.",
+                "Bestätigung des Newsletters.",
+                "Newsletter abbestellen."
+            ],
+            "phrasesUk": [
+                "Підписка на розсилку.",
+                "Підтвердження підписки.",
+                "Скасувати розсилку новин."
+            ]
+        },
+        {
+            "wordDe": "Marketing",
+            "wordUk": "Маркетинг",
+            "phrasesDe": [
+                "Gezieltes Marketing.",
+                "Strategie im Marketing.",
+                "Erfolg des Marketings."
+            ],
+            "phrasesUk": [
+                "Цільовий маркетинг.",
+                "Стратегія в маркетингу.",
+                "Успіх маркетингу."
+            ]
+        },
+        {
+            "wordDe": "Branding",
+            "wordUk": "Брендінг",
+            "phrasesDe": [
+                "Wichtigkeit von Branding.",
+                "Aufbau von Branding.",
+                "Identität durch Branding."
+            ],
+            "phrasesUk": [
+                "Важливість брендінгу.",
+                "Розбудова бренду.",
+                "Ідентичність через брендінг."
+            ]
+        },
+        {
+            "wordDe": "Konvertierungsrate",
+            "wordUk": "Коефіцієнт конверсії (Conversion rate)",
+            "phrasesDe": [
+                "Steigerung der Konvertierungsrate.",
+                "Analyse der Konvertierungsrate.",
+                "Ziel bei der Konvertierungsrate."
+            ],
+            "phrasesUk": [
+                "Збільшення конверсії.",
+                "Аналіз коефіцієнта конверсії.",
+                "Ціль за показником конверсії."
+            ]
+        },
+        {
+            "wordDe": "SEO (Suchmaschinenoptimierung)",
+            "wordUk": "Пошукова оптимізація (SEO)",
+            "phrasesDe": [
+                "Maßnahmen zur SEO.",
+                "Erfolg durch SEO.",
+                "SEO-Strategie."
+            ],
+            "phrasesUk": [
+                "Заходи з SEO-оптимізації.",
+                "Успіх завдяки SEO.",
+                "Стратегія пошукового просування."
+            ]
+        },
+        {
+            "wordDe": "SEA (Suchmaschinenwerbung)",
+            "wordUk": "Реклама в пошукових системах (SEA)",
+            "phrasesDe": [
+                "Budget für SEA.",
+                "Gezielte SEA.",
+                "Vorteile von SEA."
+            ],
+            "phrasesUk": [
+                "Бюджет на рекламу в пошуку.",
+                "Цільова реклама (SEA).",
+                "Переваги пошукової реклами."
+            ]
+        },
+        {
+            "wordDe": "Social Media",
+            "wordUk": "Соціальні мережі",
+            "phrasesDe": [
+                "Präsenz in Social Media.",
+                "Marketing über Social Media.",
+                "Interaktion in Social Media."
+            ],
+            "phrasesUk": [
+                "Присутність у соцмережах.",
+                "Маркетинг через соцмережі.",
+                "Взаємодія в соціальних мережах."
+            ]
+        },
+        {
+            "wordDe": "Affiliate-Marketing",
+            "wordUk": "Партнерський маркетинг (Афілейт)",
+            "phrasesDe": [
+                "Einnahmen durch Affiliate-Marketing.",
+                "Partner im Affiliate-Marketing.",
+                "Konzept des Affiliate-Marketings."
+            ],
+            "phrasesUk": [
+                "Доходи від партнерського маркетингу.",
+                "Партнери в афілейт-програмі.",
+                "Концепція партнерського маркетингу."
+            ]
+        },
+        {
+            "wordDe": "Omnichannel",
+            "wordUk": "Омніканальність / Багатоканальні продажі",
+            "phrasesDe": [
+                "Strategie Omnichannel.",
+                "Vorteile von Omnichannel.",
+                "Herausforderung Omnichannel."
+            ],
+            "phrasesUk": [
+                "Стратегія омніканальності.",
+                "Переваги багатоканального підходу.",
+                "Виклик омніканальних продажів."
+            ]
+        },
+        {
+            "wordDe": "Multichannel",
+            "wordUk": "Мультиканальність",
+            "phrasesDe": [
+                "Verschiedene Wege beim Multichannel.",
+                "Konzept des Multichannel.",
+                "Nutzen von Multichannel."
+            ],
+            "phrasesUk": [
+                "Різні канали при мультиканальності.",
+                "Концепція мультиканального маркетингу.",
+                "Користь мультиканальності."
+            ]
+        },
+        {
+            "wordDe": "Customer-Journey",
+            "wordUk": "Шлях клієнта / Клієнтський досвід (Customer Journey)",
+            "phrasesDe": [
+                "Analyse der Customer-Journey.",
+                "Schritte in der Customer-Journey.",
+                "Optimierung der Customer-Journey."
+            ],
+            "phrasesUk": [
+                "Аналіз шляху клієнта.",
+                "Етапи клієнтського досвіду.",
+                "Оптимізація шляху покупця."
+            ]
+        },
+        {
+            "wordDe": "User-Experience (UX)",
+            "wordUk": "Користувацький досвід (UX)",
+            "phrasesDe": [
+                "Verbesserung der User-Experience.",
+                "Fokus auf User-Experience.",
+                "Design der User-Experience."
+            ],
+            "phrasesUk": [
+                "Покращення користувацького досвіду.",
+                "Фокус на UX.",
+                "Проєктування досвіду користувача."
+            ]
+        },
+        {
+            "wordDe": "User-Interface (UI)",
+            "wordUk": "Інтерфейс користувача (UI)",
+            "phrasesDe": [
+                "Gestaltung des User-Interfaces.",
+                "Benutzerfreundliches User-Interface.",
+                "Elemente des User-Interfaces."
+            ],
+            "phrasesUk": [
+                "Оформлення інтерфейсу користувача.",
+                "Зручний інтерфейс.",
+                "Елементи UI."
+            ]
+        },
+        {
+            "wordDe": "Lagerhaltung",
+            "wordUk": "Складське зберігання",
+            "phrasesDe": [
+                "Moderne Lagerhaltung.",
+                "Kosten der Lagerhaltung.",
+                "Effizienz der Lagerhaltung."
+            ],
+            "phrasesUk": [
+                "Сучасне складське зберігання.",
+                "Витрати на склад.",
+                "Ефективність тримання запасів."
+            ]
+        },
+        {
+            "wordDe": "Künstliche Intelligenz (KI)",
+            "wordUk": "Штучний інтелект (ШІ)",
+            "phrasesDe": [
+                "Einsatz von KI im Handel.",
+                "Vorteile von KI.",
+                "Zukunft mit KI."
+            ],
+            "phrasesUk": [
+                "Використання ШІ в торгівлі.",
+                "Переваги штучного інтелекту.",
+                "Майбутнє з ШІ."
+            ]
+        },
+        {
+            "wordDe": "Big Data",
+            "wordUk": "Великі дані (Big Data)",
+            "phrasesDe": [
+                "Analyse von Big Data.",
+                "Nutzen von Big Data.",
+                "Bedeutung von Big Data."
+            ],
+            "phrasesUk": [
+                "Аналіз великих даних.",
+                "Користь від Big Data.",
+                "Значення масивів даних."
+            ]
+        },
+        {
+            "wordDe": "Algorithmus",
+            "wordUk": "Алгоритм",
+            "phrasesDe": [
+                "Optimierung durch Algorithmen.",
+                "Funktion des Algorithmus.",
+                "Einfluss von Algorithmen."
+            ],
+            "phrasesUk": [
+                "Оптимізація за допомогою алгоритмів.",
+                "Функція алгоритму.",
+                "Вплив алгоритмів."
+            ]
+        },
+        {
+            "wordDe": "Personalisierung",
+            "wordUk": "Персоналізація",
+            "phrasesDe": [
+                "Gezielte Personalisierung.",
+                "Vorteile der Personalisierung.",
+                "Maßnahmen zur Personalisierung."
+            ],
+            "phrasesUk": [
+                "Цільова персоналізація.",
+                "Переваги індивідуального підходу.",
+                "Заходи з персоналізації."
+            ]
+        },
+        {
+            "wordDe": "Abonnement",
+            "wordUk": "Абонемент / Підписка (Е-комерція)",
+            "phrasesDe": [
+                "Modell des Abonnements.",
+                "Vorteile eines Abonnements.",
+                "Kündigung des Abonnements."
+            ],
+            "phrasesUk": [
+                "Модель підписки.",
+                "Переваги регулярного замовлення.",
+                "Скасування підписки."
+            ]
+        },
+        {
+            "wordDe": "Plattform",
+            "wordUk": "Платформа (торговельна)",
+            "phrasesDe": [
+                "Verkauf über eine Plattform.",
+                "Dominanz der Plattformen.",
+                "Wahl der Plattform."
+            ],
+            "phrasesUk": [
+                "Продаж через платформу.",
+                "Домінування маркетплейсів.",
+                "Вибір торгової платформи."
+            ]
+        },
+        {
+            "wordDe": "Marktplatz",
+            "wordUk": "Маркетплейс",
+            "phrasesDe": [
+                "Präsenz auf dem Marktplatz.",
+                "Handel auf dem Marktplatz.",
+                "Vorteile des Marktplatzes."
+            ],
+            "phrasesUk": [
+                "Присутність на маркетплейсі.",
+                "Торгівля на маркетплейсі.",
+                "Переваги торгового майданчика."
+            ]
+        }
+    ]
+}

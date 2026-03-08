@@ -1,0 +1,144 @@
+{
+    "Основи та Вітання": [
+        {
+            "wordDe": "Hallo",
+            "wordUk": "Привіт",
+            "phrasesDe": [
+                "Hallo, wie geht es dir?",
+                "Hallo, ich bin Mark.",
+                "Hallo, schön dich zu sehen."
+            ],
+            "phrasesUk": [
+                "Привіт, як справи?",
+                "Привіт, я Марк.",
+                "Привіт, радий тебе бачити."
+            ]
+        },
+        {
+            "wordDe": "Guten Morgen",
+            "wordUk": "Доброго ранку",
+            "phrasesDe": [
+                "Guten Morgen, Herr Schmidt.",
+                "Ich wünsche Ihnen einen guten Morgen.",
+                "Guten Morgen, Schatz."
+            ],
+            "phrasesUk": [
+                "Доброго ранку, пане Шмідт.",
+                "Бажаю вам доброго ранку.",
+                "Доброго ранку, дорогий/дорога."
+            ]
+        },
+        {
+            "wordDe": "Guten Tag",
+            "wordUk": "Добрий день",
+            "phrasesDe": [
+                "Guten Tag, Herr Weber.",
+                "Schönen guten Tag.",
+                "Guten Tag, wie kann ich helfen?"
+            ],
+            "phrasesUk": [
+                "Добрий день, пане Вебер.",
+                "Доброго дня.",
+                "Добрий день, як я можу допомогти?"
+            ]
+        },
+        {
+            "wordDe": "Guten Abend",
+            "wordUk": "Добрий вечір",
+            "phrasesDe": [
+                "Guten Abend allerseits.",
+                "Guten Abend, was möchten Sie trinken?",
+                "Ich wünsche einen schönen Abend."
+            ],
+            "phrasesUk": [
+                "Добрий вечір усім.",
+                "Добрий вечір, що б ви хотіли випити?",
+                "Бажаю гарного вечора."
+            ]
+        },
+        {
+            "wordDe": "Danke",
+            "wordUk": "Дякую",
+            "phrasesDe": [
+                "Vielen Dank!",
+                "Danke für die Hilfe.",
+                "Ich danke Ihnen."
+            ],
+            "phrasesUk": [
+                "Дуже дякую!",
+                "Дякую за допомогу.",
+                "Я дякую Вам."
+            ]
+        },
+        {
+            "wordDe": "Bitte",
+            "wordUk": "Будь ласка",
+            "phrasesDe": [
+                "Bitte sehr.",
+                "Wie bitte?",
+                "Ein Kaffee, bitte."
+            ],
+            "phrasesUk": [
+                "Будь ласка.",
+                "Що, перепрошую?",
+                "Кави, будь ласка."
+            ]
+        },
+        {
+            "wordDe": "Entschuldigung",
+            "wordUk": "Вибачте",
+            "phrasesDe": [
+                "Entschuldigung, wo ist der Bahnhof?",
+                "Entschuldigung, ich habe eine Frage.",
+                "Oh, Entschuldigung!"
+            ],
+            "phrasesUk": [
+                "Вибачте, де вокзал?",
+                "Вибачте, у мене є питання.",
+                "Ой, вибачте!"
+            ]
+        },
+        {
+            "wordDe": "Ja",
+            "wordUk": "Так",
+            "phrasesDe": [
+                "Ja, gerne.",
+                "Ja, das stimmt.",
+                "Ja, ich komme."
+            ],
+            "phrasesUk": [
+                "Так, залюбки.",
+                "Так, це правда.",
+                "Так, я йду."
+            ]
+        },
+        {
+            "wordDe": "Nein",
+            "wordUk": "Ні",
+            "phrasesDe": [
+                "Nein, danke.",
+                "Nein, das ist nicht wahr.",
+                "Nein, ich kann nicht."
+            ],
+            "phrasesUk": [
+                "Ні, дякую.",
+                "Ні, це неправда.",
+                "Ні, я не можу."
+            ]
+        },
+        {
+            "wordDe": "Vielleicht",
+            "wordUk": "Можливо",
+            "phrasesDe": [
+                "Vielleicht morgen.",
+                "Vielleicht hast du recht.",
+                "Ich weiß es nicht, vielleicht."
+            ],
+            "phrasesUk": [
+                "Можливо завтра.",
+                "Можливо, ти правий.",
+                "Я не знаю, можливо."
+            ]
+        }
+    ]
+}

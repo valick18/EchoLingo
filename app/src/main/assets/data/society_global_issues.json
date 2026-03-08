@@ -1,0 +1,704 @@
+{
+    "Суспільство та Глобальні Проблеми": [
+        {
+            "wordDe": "Demokratie",
+            "wordUk": "Демократія",
+            "phrasesDe": [
+                "Werte der Demokratie.",
+                "In einer Demokratie leben.",
+                "Schutz der Demokratie."
+            ],
+            "phrasesUk": [
+                "Цінності демократії.",
+                "Жити в умовах демократії.",
+                "Захист демократії."
+            ]
+        },
+        {
+            "wordDe": "Menschenrechte",
+            "wordUk": "Права людини",
+            "phrasesDe": [
+                "Einhaltung der Menschenrechte.",
+                "Verletzung der Menschenrechte.",
+                "Erklärung der Menschenrechte."
+            ],
+            "phrasesUk": [
+                "Дотримання прав людини.",
+                "Порушення прав людини.",
+                "Декларація прав людини."
+            ]
+        },
+        {
+            "wordDe": "Gleichberechtigung",
+            "wordUk": "Рівноправність",
+            "phrasesDe": [
+                "Kampf um Gleichberechtigung.",
+                "Gleichberechtigung von Mann und Frau.",
+                "Gesetz zur Gleichberechtigung."
+            ],
+            "phrasesUk": [
+                "Боротьба за рівноправність.",
+                "Рівноправність чоловіків та жінок.",
+                "Закон про рівноправність."
+            ]
+        },
+        {
+            "wordDe": "Grundgesetz",
+            "wordUk": "Основний закон / Конституція (Грундгезец)",
+            "phrasesDe": [
+                "Schutz durch das Grundgesetz.",
+                "Artikel im Grundgesetz.",
+                "Werte des Grundgesetzes."
+            ],
+            "phrasesUk": [
+                "Захист основним законом.",
+                "Стаття в конституції.",
+                "Цінності основного закону."
+            ]
+        },
+        {
+            "wordDe": "Freiheit",
+            "wordUk": "Свобода",
+            "phrasesDe": [
+                "Die Freiheit des Einzelnen.",
+                "Religionsfreiheit.",
+                "Meinungsfreiheit."
+            ],
+            "phrasesUk": [
+                "Свобода особистості.",
+                "Свобода віросповідання.",
+                "Свобода думки."
+            ]
+        },
+        {
+            "wordDe": "Migration",
+            "wordUk": "Міграція",
+            "phrasesDe": [
+                "Ursachen der Migration.",
+                "Migration und Integration.",
+                "Flüchtlingsströme."
+            ],
+            "phrasesUk": [
+                "Причини міграції.",
+                "Міграція та інтеграція.",
+                "Потоки біженців."
+            ]
+        },
+        {
+            "wordDe": "Integration",
+            "wordUk": "Інтеграція",
+            "phrasesDe": [
+                "Erfolgreiche Integration.",
+                "Herausforderung der Integration.",
+                "Integration in den Arbeitsmarkt."
+            ],
+            "phrasesUk": [
+                "Успішна інтеграція.",
+                "Виклик інтеграції.",
+                "Інтеграція в ринок праці."
+            ]
+        },
+        {
+            "wordDe": "Vielfalt",
+            "wordUk": "Різноманіття / Мультикультурність (Фільфальт)",
+            "phrasesDe": [
+                "Kulturelle Vielfalt.",
+                "Stärke durch Vielfalt.",
+                "Vielfalt in der Gesellschaft."
+            ],
+            "phrasesUk": [
+                "Культурне різноманіття.",
+                "Сила через розмаїття.",
+                "Різноманіття в суспільстві."
+            ]
+        },
+        {
+            "wordDe": "Armut",
+            "wordUk": "Бідність",
+            "phrasesDe": [
+                "Kampf gegen Armut.",
+                "Kinderarmut.",
+                "Armutsgrenze."
+            ],
+            "phrasesUk": [
+                "Боротьба з бідністю.",
+                "Дитяча бідність.",
+                "Межа бідності."
+            ]
+        },
+        {
+            "wordDe": "Wohlstand",
+            "wordUk": "Добробут / Багатство",
+            "phrasesDe": [
+                "Wohlstand für alle.",
+                "Zunehmender Wohlstand.",
+                "Wohlstandsgesellschaft."
+            ],
+            "phrasesUk": [
+                "Добробут для всіх.",
+                "Зростання добробуту.",
+                "Суспільство добробуту."
+            ]
+        },
+        {
+            "wordDe": "Umweltschutz",
+            "wordUk": "Захист довкілля",
+            "phrasesDe": [
+                "Bedeutung des Umweltschutzes.",
+                "Maßnahmen zum Umweltschutz.",
+                "Umweltschutzorganisation."
+            ],
+            "phrasesUk": [
+                "Значення захисту довкілля.",
+                "Заходи із захисту середовища.",
+                "Організація із захисту природи."
+            ]
+        },
+        {
+            "wordDe": "Klimawandel",
+            "wordUk": "Зміна клімату",
+            "phrasesDe": [
+                "Folgen des Klimawandels.",
+                "Kampf gegen den Klimawandel.",
+                "Ursachen des Klimawandels."
+            ],
+            "phrasesUk": [
+                "Наслыдки зміни клімату.",
+                "Боротьба зі зміною клімату.",
+                "Причини зміни клімату."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltigkeit",
+            "wordUk": "Сталий розвиток / Екологічність (Нахгальтігкейт)",
+            "phrasesDe": [
+                "Prinzip der Nachhaltigkeit.",
+                "Fokus auf Nachhaltigkeit.",
+                "Nachhaltiges Leben."
+            ],
+            "phrasesUk": [
+                "Принцип сталого розвитку.",
+                "Фокус на екологічності.",
+                "Екологічне життя."
+            ]
+        },
+        {
+            "wordDe": "Globalisierung",
+            "wordUk": "Глобалізація",
+            "phrasesDe": [
+                "Vorteile der Globalisierung.",
+                "Kritik an der Globalisierung.",
+                "Vernetzte Welt."
+            ],
+            "phrasesUk": [
+                "Переваги глобалізації.",
+                "Критика глобалізації.",
+                "Взаємопов'язаний світ."
+            ]
+        },
+        {
+            "wordDe": "Solidarität",
+            "wordUk": "Солідарність",
+            "phrasesDe": [
+                "Zeichen der Solidarität.",
+                "Soziale Solidarität.",
+                "Solidarität zeigen."
+            ],
+            "phrasesUk": [
+                "Знак солідарності.",
+                "Соціальна солідарність.",
+                "Виявляти солідарність."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Soziale Gerechtigkeit.",
+                "Streben nach Gerechtigkeit.",
+                "Gefühl für Gerechtigkeit."
+            ],
+            "phrasesUk": [
+                "Соціальна справедливість.",
+                "Прагнення до справедливості.",
+                "Почуття справедливості."
+            ]
+        },
+        {
+            "wordDe": "Frieden",
+            "wordUk": "Мир",
+            "phrasesDe": [
+                "Erhalt des Friedens.",
+                "Friedensnobelpreis.",
+                "Friedensverhandlungen."
+            ],
+            "phrasesUk": [
+                "Збереження миру.",
+                "Нобелівська премія миру.",
+                "Переговори про мир."
+            ]
+        },
+        {
+            "wordDe": "Terrorismus",
+            "wordUk": "Тероризм",
+            "phrasesDe": [
+                "Kampf gegen den Terrorismus.",
+                "Gefahr von Terrorismus.",
+                "Opfer von Terrorismus."
+            ],
+            "phrasesUk": [
+                "Боротьба з тероризмом.",
+                "Загроза тероризму.",
+                "Жертви тероризму."
+            ]
+        },
+        {
+            "wordDe": "Konflikt",
+            "wordUk": "Конфлікт",
+            "phrasesDe": [
+                "Internationaler Konflikt.",
+                "Konfliktlösung.",
+                "Ursachen des Konflikts."
+            ],
+            "phrasesUk": [
+                "Міжнародний конфлікт.",
+                "Вирішення конфлікту.",
+                "Причини конфлікту."
+            ]
+        },
+        {
+            "wordDe": "Diplomatie",
+            "wordUk": "Дипломатія",
+            "phrasesDe": [
+                "Mittel der Diplomatie.",
+                "Diplomatische Beziehungen.",
+                "Diplomatische Lösung."
+            ],
+            "phrasesUk": [
+                "Засоби дипломатії.",
+                "Дипломатичні відносини.",
+                "Дипломатичне рішення."
+            ]
+        },
+        {
+            "wordDe": "Bürgerrecht",
+            "wordUk": "Громадянське право",
+            "phrasesDe": [
+                "Schutz der Bürgerrechte.",
+                "Bürgerrechtsbewegung.",
+                "Kampf um Bürgerrechte."
+            ],
+            "phrasesUk": [
+                "Захист громадянських прав.",
+                "Рух за громадянські права.",
+                "Боротьба за права громадян."
+            ]
+        },
+        {
+            "wordDe": "Wahlrecht",
+            "wordUk": "Виборче право",
+            "phrasesDe": [
+                "Allgemeines Wahlrecht.",
+                "Ausübung des Wahlrechts.",
+                "Frauenwahlrecht."
+            ],
+            "phrasesUk": [
+                "Загальне виборче право.",
+                "Здійснення виборчого права.",
+                "Виборче право для жінок."
+            ]
+        },
+        {
+            "wordDe": "Partei",
+            "wordUk": "Партія",
+            "phrasesDe": [
+                "Politische Partei.",
+                "Mitglied einer Partei sein.",
+                "Wahl einer Partei."
+            ],
+            "phrasesUk": [
+                "Політична партія.",
+                "Бути членом партії.",
+                "Вибір партії."
+            ]
+        },
+        {
+            "wordDe": "Regierung",
+            "wordUk": "Уряд / Правління",
+            "phrasesDe": [
+                "Die aktuelle Regierung.",
+                "Regierung bilden.",
+                "Kritik an der Regierung."
+            ],
+            "phrasesUk": [
+                "Поточний уряд.",
+                "Сформувати уряд.",
+                "Критика уряду."
+            ]
+        },
+        {
+            "wordDe": "Opposition",
+            "wordUk": "Опозиція",
+            "phrasesDe": [
+                "Rolle der Opposition.",
+                "Arbeit in der Opposition.",
+                "Forderung der Opposition."
+            ],
+            "phrasesUk": [
+                "Роль опозиції.",
+                "Робота в опозиції.",
+                "Вимога опозиції."
+            ]
+        },
+        {
+            "wordDe": "Zivilgesellschaft",
+            "wordUk": "Громадянське суспільство",
+            "phrasesDe": [
+                "Starke Zivilgesellschaft.",
+                "Engagement in der Zivilgesellschaft.",
+                "Rolle der Zivilgesellschaft."
+            ],
+            "phrasesUk": [
+                "Сильне громадянське суспільство.",
+                "Активність у громадянському суспільстві.",
+                "Роль громадянського суспільства."
+            ]
+        },
+        {
+            "wordDe": "Ehrenamt",
+            "wordUk": "Почесна посада / Волонтерство",
+            "phrasesDe": [
+                "Tätigkeit im Ehrenamt.",
+                "Engagement im Ehrenamt.",
+                "Bedeutung des Ehrenamts."
+            ],
+            "phrasesUk": [
+                "Діяльність на волонтерських засадах.",
+                "Активність у волонтерстві.",
+                "Значення громадської діяльності."
+            ]
+        },
+        {
+            "wordDe": "Spende",
+            "wordUk": "Пожертва / Донат",
+            "phrasesDe": [
+                "Eine großzügige Spende.",
+                "Spenden sammeln.",
+                "Zweck der Spende."
+            ],
+            "phrasesUk": [
+                "Щедра пожертва.",
+                "Збирати донати.",
+                "Мета пожертви."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Soziale Gerechtigkeit.",
+                "Kampf um Gerechtigkeit.",
+                "Sinn für Gerechtigkeit."
+            ],
+            "phrasesUk": [
+                "Соціальна справедливість.",
+                "Боротьба за справедливість.",
+                "Почуття справедливості."
+            ]
+        },
+        {
+            "wordDe": "Diskriminierung",
+            "wordUk": "Дискримінація",
+            "phrasesDe": [
+                "Schutz vor Diskriminierung.",
+                "Formen der Diskriminierung.",
+                "Gegen Diskriminierung kämpfen."
+            ],
+            "phrasesUk": [
+                "Захист від дискримінації.",
+                "Форми дискримінації.",
+                "Боротися проти дискримінації."
+            ]
+        },
+        {
+            "wordDe": "Rassismus",
+            "wordUk": "Расизм",
+            "phrasesDe": [
+                "Kampf gegen Rassismus.",
+                "Opfer von Rassismus.",
+                "Rassismus im Alltag."
+            ],
+            "phrasesUk": [
+                "Боротьба з расизмом.",
+                "Жертви расизму.",
+                "Повсякденний расизм."
+            ]
+        },
+        {
+            "wordDe": "Toleranz",
+            "wordUk": "Толерантність / Терпимість",
+            "phrasesDe": [
+                "Null Toleranz.",
+                "Mehr Toleranz brauchen.",
+                "Toleranz gegenüber anderen."
+            ],
+            "phrasesUk": [
+                "Нульова толерантність.",
+                "Потребувати більше толерантності.",
+                "Толерантність до інших."
+            ]
+        },
+        {
+            "wordDe": "Akzeptanz",
+            "wordUk": "Прийняття / Акцептанс",
+            "phrasesDe": [
+                "Gesellschaftliche Akzeptanz.",
+                "Mangel an Akzeptanz.",
+                "Akzeptanz finden."
+            ],
+            "phrasesUk": [
+                "Суспільне прийняття.",
+                "Брак прийняття.",
+                "Знайти розуміння (прийняття)."
+            ]
+        },
+        {
+            "wordDe": "Inklusion",
+            "wordUk": "Інклюзія",
+            "phrasesDe": [
+                "Förderung der Inklusion.",
+                "Ziel der Inklusion.",
+                "Inklusion an Schulen."
+            ],
+            "phrasesUk": [
+                "Сприяння інклюзії.",
+                "Мета інклюзії.",
+                "Інклюзія в школах."
+            ]
+        },
+        {
+            "wordDe": "Barrierefreiheit",
+            "wordUk": "Доступність / Безбар'єрність",
+            "phrasesDe": [
+                "Forderung nach Barrierefreiheit.",
+                "Barrierefreiheit im Internet.",
+                "Maßnahmen zur Barrierefreiheit."
+            ],
+            "phrasesUk": [
+                "Вимога безбар'єрності.",
+                "Доступність в інтернеті.",
+                "Заходи для створення безбар'єрного простору."
+            ]
+        },
+        {
+            "wordDe": "Bildungsgerechtigkeit",
+            "wordUk": "Справедливість у сфері освіти",
+            "phrasesDe": [
+                "Forderung nach Bildungsgerechtigkeit.",
+                "Mangel an Bildungsgerechtigkeit.",
+                "Chancen für alle."
+            ],
+            "phrasesUk": [
+                "Вимога справедливості в освіті.",
+                "Брак рівних можливостей в освіті.",
+                "Шанси для всіх."
+            ]
+        },
+        {
+            "wordDe": "Fachkräftemangel",
+            "wordUk": "Дефіцит кадрів / Нестача фахівців",
+            "phrasesDe": [
+                "Folgen des Fachkräftemangels.",
+                "Kampf gegen Fachkräftemangel.",
+                "Gründe für Fachkräftemangel."
+            ],
+            "phrasesUk": [
+                "Наслідки дефіциту кадрів.",
+                "Боротьба з нестачею фахівців.",
+                "Причини дефіциту фахівців."
+            ]
+        },
+        {
+            "wordDe": "Digitalisierung",
+            "wordUk": "Цифровізація",
+            "phrasesDe": [
+                "Chancen der Digitalisierung.",
+                "Digitalisierung der Schulen.",
+                "Fokus auf Digitalisierung."
+            ],
+            "phrasesUk": [
+                "Шанси цифровізації.",
+                "Цифровізація шкіл.",
+                "Фокус на цифровізації."
+            ]
+        },
+        {
+            "wordDe": "Energiekrise",
+            "wordUk": "Енергетична криза",
+            "phrasesDe": [
+                "Ursachen der Energiekrise.",
+                "Bewältigung der Energiekrise.",
+                "Folgen der Energiekrise."
+            ],
+            "phrasesUk": [
+                "Причини енергетичної кризи.",
+                "Подолання енергетичної кризи.",
+                "Наслідки енергетичної кризи."
+            ]
+        },
+        {
+            "wordDe": "Inflation",
+            "wordUk": "Інфляція",
+            "phrasesDe": [
+                "Hohe Inflation.",
+                "Bekämpfung der Inflation.",
+                "Folgen der Inflation."
+            ],
+            "phrasesUk": [
+                "Висока інфляція.",
+                "Боротьба з інфляцією.",
+                "Наслідки інфляції."
+            ]
+        },
+        {
+            "wordDe": "Wirtschaftswachstum",
+            "wordUk": "Економічне зростання",
+            "phrasesDe": [
+                "Stetiges Wirtschaftswachstum.",
+                "Förderung von Wirtschaftswachstum.",
+                "Grenzen des Wirtschaftswachstums."
+            ],
+            "phrasesUk": [
+                "Стале економічне зростання.",
+                "Стимулювання економічного зростання.",
+                "Межі економічного зростання."
+            ]
+        },
+        {
+            "wordDe": "Arbeitslosigkeit",
+            "wordUk": "Безробіття",
+            "phrasesDe": [
+                "Bekämpfung der Arbeitslosigkeit.",
+                "Jugendarbeitslosigkeit.",
+                "Quote der Arbeitslosigkeit."
+            ],
+            "phrasesUk": [
+                "Боротьба з безробіттям.",
+                "Безробіття серед молоді.",
+                "Показник безробіття."
+            ]
+        },
+        {
+            "wordDe": "Mindestlohn",
+            "wordUk": "Мінімальна заробітна плата",
+            "phrasesDe": [
+                "Einführung des Mindestlohns.",
+                "Höhe des Mindestlohns.",
+                "Vorteile des Mindestlohns."
+            ],
+            "phrasesUk": [
+                "Запровадження мінімальної зарплати.",
+                "Розмір мінімальної зарплати.",
+                "Переваги мінімальної зарплати."
+            ]
+        },
+        {
+            "wordDe": "Rente",
+            "wordUk": "Пенсія",
+            "phrasesDe": [
+                "Sicherung der Rente.",
+                "Höhe der Rente.",
+                "Eintritt in die Rente."
+            ],
+            "phrasesUk": [
+                "Гарантування пенсії.",
+                "Розмір пенсії.",
+                "Вихід на пенсію."
+            ]
+        },
+        {
+            "wordDe": "Gesundheitssystem",
+            "wordUk": "Система охорони здоров'я",
+            "phrasesDe": [
+                "Reform des Gesundheitssystems.",
+                "Kosten im Gesundheitssystem.",
+                "Qualität im Gesundheitssystem."
+            ],
+            "phrasesUk": [
+                "Реформа системи охорони здоров'я.",
+                "Витрати в охороні здоров'я.",
+                "Якість у системі охорони здоров'я."
+            ]
+        },
+        {
+            "wordDe": "Pflegenotstand",
+            "wordUk": "Криза в сфері догляду",
+            "phrasesDe": [
+                "Folgen des Pflegenotstands.",
+                "Kampf gegen Pflegenotstand.",
+                "Gründe für Pflegenotstand."
+            ],
+            "phrasesUk": [
+                "Наслідки кризи в сфері догляду.",
+                "Боротьба з дефіцитом кадрів у догляді.",
+                "Причини кризи в догляді."
+            ]
+        },
+        {
+            "wordDe": "Demografischer Wandel",
+            "wordUk": "Демографічні зміни",
+            "phrasesDe": [
+                "Folgen des demografischen Wandels.",
+                "Herausforderung durch demografischen Wandel.",
+                "Anpassung an demografischen Wandel."
+            ],
+            "phrasesUk": [
+                "Наслідки демографічних змін.",
+                "Виклик через демографічні зміни.",
+                "Адаптація до демографічних змін."
+            ]
+        },
+        {
+            "wordDe": "Infrastruktur",
+            "wordUk": "Інфраструктура",
+            "phrasesDe": [
+                "Ausbau der Infrastruktur.",
+                "Marode Infrastruktur.",
+                "Investition in Infrastruktur."
+            ],
+            "phrasesUk": [
+                "Розбудова інфраструктури.",
+                "Застаріла інфраструктура.",
+                "Інвестиції в інфраструктуру."
+            ]
+        },
+        {
+            "wordDe": "Verkehrswende",
+            "wordUk": "Транспортна реформа / Зміна парадигми транспорту",
+            "phrasesDe": [
+                "Ziele der Verkehrswende.",
+                "Fokus auf Verkehrswende.",
+                "Maßnahmen zur Verkehrswende."
+            ],
+            "phrasesUk": [
+                "Цілі транспортної реформи.",
+                "Фокус на зміні транспортної системи.",
+                "Заходи для транспортної реформи."
+            ]
+        },
+        {
+            "wordDe": "Energiewende",
+            "wordUk": "Енергетичний перехід / Реформа енергетики",
+            "phrasesDe": [
+                "Erfolg der Energiewende.",
+                "Kosten der Energiewende.",
+                "Maßnahmen zur Energiewende."
+            ],
+            "phrasesUk": [
+                "Успіх енергетичної реформи.",
+                "Вартість енергетичного переходу.",
+                "Заходи для енергетичної реформи."
+            ]
+        }
+    ]
+}

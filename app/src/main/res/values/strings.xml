@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Німецька мова</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_pause">Пауза</string>
+    <string name="btn_resume">Продовжити</string>
+    <string name="btn_check">Перевірити</string>
+    <string name="label_choose_topic">Виберіть тему</string>
+    <string name="label_learn_word">Вивчення слова</string>
+    <string name="label_repeat_phrase">Повторення фрази</string>
+    <string name="label_translation">Переклад</string>
+    <string name="label_oral_quiz">Усне опитування (4с)</string>
+    <string name="msg_well_done">Чудово спрацьовано! 🎉</string>
+    <string name="msg_correct">Правильно! 🎉</string>
+    <string name="msg_wrong">Неправильно. Правильно: %1$s</string>
+    <string name="quiz_question">Як буде: \"%1$s\"?</string>
+    <string name="text_loading_de">Завантаження...</string>
+    <string name="text_loading_uk">Завантаження...</string>
+    <string name="btn_learned">Я це знаю</string>
+    <string name="btn_view_learned">Вивчені слова</string>
+    <string name="btn_repeat_learned">Повторити вивчене</string>
+    <string name="label_total_learned">Вивчено всього: %1$d</string>
+    <string name="label_learned_list">Ваші вивчені слова</string>
+    <string name="msg_learned_success">Відмічено як вивчене</string>
+    <string name="msg_all_learned">Ви вивчили всі слова в цій темі! 🎉</string>
+    <string name="msg_no_learned">Ви ще не позначили жодного слова як вивчене.</string>
+    <string name="cb_show_quiz">Включати опитування</string>
+    <string name="btn_select_words">Вибрати слова</string>
+    <string name="btn_play_selected">Слухати вибране</string>
+    <string name="label_selection_mode">Вибір слів</string>
+    <string name="btn_reset_selection">Скинути всі</string>
+    <string name="msg_no_selected">Ви ще не вибрали жодного слова.</string>
+</resources>

@@ -1,0 +1,704 @@
+{
+    "Просунуті Дієслова (Список 1)": [
+        {
+            "wordDe": "gewährleisten",
+            "wordUk": "гарантувати / забезпечувати",
+            "phrasesDe": [
+                "Sicherheit gewährleisten.",
+                "Qualität gewährleisten.",
+                "Einhaltung gewährleisten."
+            ],
+            "phrasesUk": [
+                "Гарантувати безпеку.",
+                "Забезпечувати якість.",
+                "Гарантувати дотримання."
+            ]
+        },
+        {
+            "wordDe": "beeinträchtigen",
+            "wordUk": "негативно впливати / шкодити / обмежувати",
+            "phrasesDe": [
+                "Die Gesundheit beeinträchtigen.",
+                "Die Sicht beeinträchtigen.",
+                "Den Erfolg beeinträchtigen."
+            ],
+            "phrasesUk": [
+                "Шкодити здоров'ю.",
+                "Обмежувати видимість.",
+                "Заважати успіху."
+            ]
+        },
+        {
+            "wordDe": "berücksichtigen",
+            "wordUk": "враховувати / брати до уваги",
+            "phrasesDe": [
+                "Interessen berücksichtigen.",
+                "Fakten berücksichtigen.",
+                "Wünsche berücksichtigen."
+            ],
+            "phrasesUk": [
+                "Враховувати інтереси.",
+                "Брати до уваги факти.",
+                "Враховувати побажання."
+            ]
+        },
+        {
+            "wordDe": "hervorheben",
+            "wordUk": "підкреслювати / виділяти",
+            "phrasesDe": [
+                "Vorteile hervorheben.",
+                "Unterschiede hervorheben.",
+                "Bedeutung hervorheben."
+            ],
+            "phrasesUk": [
+                "Підкреслювати переваги.",
+                "Виділяти відмінності.",
+                "Наголошувати на значенні."
+            ]
+        },
+        {
+            "wordDe": "veranschaulichen",
+            "wordUk": "наочно пояснювати / ілюструвати",
+            "phrasesDe": [
+                "Ein Beispiel veranschaulichen.",
+                "Den Prozess veranschaulichen.",
+                "Die Theorie veranschaulichen."
+            ],
+            "phrasesUk": [
+                "Наочно пояснити приклад.",
+                "Проілюструвати процес.",
+                "Наочно продемонструвати теорію."
+            ]
+        },
+        {
+            "wordDe": "unterstützen",
+            "wordUk": "підтримувати",
+            "phrasesDe": [
+                "Ein Projekt unterstützen.",
+                "Jemanden unterstützen.",
+                "Die Idee unterstützen."
+            ],
+            "phrasesUk": [
+                "Підтримувати проєкт.",
+                "Підтримувати когось.",
+                "Підтримувати ідею."
+            ]
+        },
+        {
+            "wordDe": "vernachlässigen",
+            "wordUk": "нехтувати / занедбувати",
+            "phrasesDe": [
+                "Pflichten vernachlässigen.",
+                "Die Gesundheit vernachlässigen.",
+                "Details vernachlässigen."
+            ],
+            "phrasesUk": [
+                "Нехтувати обов'язками.",
+                "Занедбувати здоров'я.",
+                "Нехтувати деталями."
+            ]
+        },
+        {
+            "wordDe": "voraussetzen",
+            "wordUk": "припускати / вимагати (як умову)",
+            "phrasesDe": [
+                "Wissen voraussetzen.",
+                "Erfolg voraussetzen.",
+                "Gute Noten voraussetzen."
+            ],
+            "phrasesUk": [
+                "Вимагати знань (як попередню умову).",
+                "Припускати успіх.",
+                "Вимагати хороших оцінок."
+            ]
+        },
+        {
+            "wordDe": "widerspiegeln",
+            "wordUk": "відображати / віддзеркалювати",
+            "phrasesDe": [
+                "Die Realität widerspiegeln.",
+                "Gefühle widerspiegeln.",
+                "Werte widerspiegeln."
+            ],
+            "phrasesUk": [
+                "Відображати реальність.",
+                "Відображати почуття.",
+                "Віддзеркалювати цінності."
+            ]
+        },
+        {
+            "wordDe": "vermitteln",
+            "wordUk": "посередничати / передавати (знання) / сприяти",
+            "phrasesDe": [
+                "Wissen vermitteln.",
+                "Einen Eindruck vermitteln.",
+                "Einen Kompromiss vermitteln."
+            ],
+            "phrasesUk": [
+                "Передавати знання.",
+                "Справляти враження.",
+                "Сприяти компромісу."
+            ]
+        },
+        {
+            "wordDe": "empfehlen",
+            "wordUk": "рекомендувати",
+            "phrasesDe": [
+                "Ein Buch empfehlen.",
+                "Jemanden empfehlen.",
+                "Vorsicht empfehlen."
+            ],
+            "phrasesUk": [
+                "Рекомендувати книгу.",
+                "Рекомендувати когось.",
+                "Радити обережність."
+            ]
+        },
+        {
+            "wordDe": "beurteilen",
+            "wordUk": "оцінювати / судити про",
+            "phrasesDe": [
+                "Die Lage beurteilen.",
+                "Leistung beurteilen.",
+                "Menschen beurteilen."
+            ],
+            "phrasesUk": [
+                "Оцінювати ситуацію.",
+                "Оцінювати результативність.",
+                "Судити про людей."
+            ]
+        },
+        {
+            "wordDe": "entfalten",
+            "wordUk": "розгортати / розкривати (потенціал)",
+            "phrasesDe": [
+                "Talent entfalten.",
+                "Wirkung entfalten.",
+                "Einen Plan entfalten."
+            ],
+            "phrasesUk": [
+                "Розкривати талант.",
+                "Проявляти дію (ефект).",
+                "Розгортати план."
+            ]
+        },
+        {
+            "wordDe": "bewahren",
+            "wordUk": "зберігати / оберігати",
+            "phrasesDe": [
+                "Die Ruhe bewahren.",
+                "Traditionen bewahren.",
+                "Geheimnisse bewahren."
+            ],
+            "phrasesUk": [
+                "Зберігати спокій.",
+                "Зберігати традиції.",
+                "Зберігати таємниці."
+            ]
+        },
+        {
+            "wordDe": "steuern",
+            "wordUk": "керувати / управляти / регулювати",
+            "phrasesDe": [
+                "Ein Auto steuern.",
+                "Prozesse steuern.",
+                "Gefühle steuern."
+            ],
+            "phrasesUk": [
+                "Керувати автомобілем.",
+                "Керувати процесами.",
+                "Керувати почуттями."
+            ]
+        },
+        {
+            "wordDe": "vermeiden",
+            "wordUk": "уникати",
+            "phrasesDe": [
+                "Fehler vermeiden.",
+                "Stress vermeiden.",
+                "Konflikte vermeiden."
+            ],
+            "phrasesUk": [
+                "Уникати помилок.",
+                "Уникати стресу.",
+                "Уникати конфліктів."
+            ]
+        },
+        {
+            "wordDe": "erfordern",
+            "wordUk": "потребувати / вимагати",
+            "phrasesDe": [
+                "Geduld erfordern.",
+                "Mut erfordern.",
+                "Zeit erfordern."
+            ],
+            "phrasesUk": [
+                "Потребувати терпіння.",
+                "Вимагати мужності.",
+                "Потребувати часу."
+            ]
+        },
+        {
+            "wordDe": "gestalten",
+            "wordUk": "надавати форми / оформлювати / організовувати",
+            "phrasesDe": [
+                "Die Zukunft gestalten.",
+                "Einen Raum gestalten.",
+                "Den Abend gestalten."
+            ],
+            "phrasesUk": [
+                "Формувати майбутнє.",
+                "Оформлювати приміщення.",
+                "Організовувати вечір."
+            ]
+        },
+        {
+            "wordDe": "anerkennen",
+            "wordUk": "визнавати",
+            "phrasesDe": [
+                "Leistung anerkennen.",
+                "Einen Staat anerkennen.",
+                "Tatsachen anerkennen."
+            ],
+            "phrasesUk": [
+                "Визнавати досягнення.",
+                "Визнавати державу.",
+                "Визнавати факти."
+            ]
+        },
+        {
+            "wordDe": "behaupten",
+            "wordUk": "стверджувати",
+            "phrasesDe": [
+                "Das Gegenteil behaupten.",
+                "Seine Meinung behaupten.",
+                "Sich behaupten."
+            ],
+            "phrasesUk": [
+                "Стверджувати зворотне.",
+                "Відстоювати свою думку.",
+                "Ствердити себе (захистити позицію)."
+            ]
+        },
+        {
+            "wordDe": "bestreiten",
+            "wordUk": "заперечувати / оскаржувати",
+            "phrasesDe": [
+                "Den Vorwurf bestreiten.",
+                "Kosten bestreiten.",
+                "Weg bestreiten."
+            ],
+            "phrasesUk": [
+                "Заперечувати звинувачення.",
+                "Покривати витрати.",
+                "Долати шлях."
+            ]
+        },
+        {
+            "wordDe": "erläutern",
+            "wordUk": "пояснювати / давати роз'яснення",
+            "phrasesDe": [
+                "Einen Sachverhalt erläutern.",
+                "Den Plan erläutern.",
+                "Gründe erläutern."
+            ],
+            "phrasesUk": [
+                "Роз'яснювати обставини справи.",
+                "Пояснювати план.",
+                "Роз'яснювати причини."
+            ]
+        },
+        {
+            "wordDe": "begründen",
+            "wordUk": "обґрунтовувати",
+            "phrasesDe": [
+                "Eine Entscheidung begründen.",
+                "Die Wahl begründen.",
+                "Die Ablehnung begründen."
+            ],
+            "phrasesUk": [
+                "Обґрунтовувати рішення.",
+                "Обґрунтовувати вибір.",
+                "Обґрунтовувати відмову."
+            ]
+        },
+        {
+            "wordDe": "überzeugen",
+            "wordUk": "переконувати",
+            "phrasesDe": [
+                "Jemanden überzeugen.",
+                "Von einer Idee überzeugen.",
+                "Sich überzeugen."
+            ],
+            "phrasesUk": [
+                "Переконувати когось.",
+                "Переконувати в ідеї.",
+                "Переконатися самому."
+            ]
+        },
+        {
+            "wordDe": "widerlegen",
+            "wordUk": "спростовувати",
+            "phrasesDe": [
+                "Eine Theorie widerlegen.",
+                "Argumente widerlegen.",
+                "Vorwürfe widerlegen."
+            ],
+            "phrasesUk": [
+                "Спростовувати теорію.",
+                "Спростовувати аргументи.",
+                "Спростовувати звинувачення."
+            ]
+        },
+        {
+            "wordDe": "einhalten",
+            "wordUk": "дотримуватися (правил, термінів)",
+            "phrasesDe": [
+                "Regeln einhalten.",
+                "Termine einhalten.",
+                "Versprechen einhalten."
+            ],
+            "phrasesUk": [
+                "Дотримуватися правил.",
+                "Дотримуватися термінів.",
+                "Стримати обіцянку."
+            ]
+        },
+        {
+            "wordDe": "verstoßen",
+            "wordUk": "порушувати (закон, правила)",
+            "phrasesDe": [
+                "Gegen Gesetze verstoßen.",
+                "Gegen Regeln verstoßen.",
+                "Gegen die guten Sitten verstoßen."
+            ],
+            "phrasesUk": [
+                "Порушувати закони.",
+                "Порушувати правила.",
+                "Порушувати добрі звичаї (мораль)."
+            ]
+        },
+        {
+            "wordDe": "fördern",
+            "wordUk": "сприяти / стимулювати / добувати (копалини)",
+            "phrasesDe": [
+                "Talente fördern.",
+                "Die Wirtschaft fördern.",
+                "Erdöl fördern."
+            ],
+            "phrasesUk": [
+                "Сприяти розвитку талантів.",
+                "Стимулювати економіку.",
+                "Видобувати нафту."
+            ]
+        },
+        {
+            "wordDe": "fordern",
+            "wordUk": "вимагати (Фордерн)",
+            "phrasesDe": [
+                "Gerechtigkeit fordern.",
+                "Rechenschaft fordern.",
+                "Einsatz fordern."
+            ],
+            "phrasesUk": [
+                "Вимагати справедливості.",
+                "Вимагати звіту.",
+                "Вимагати зусиль."
+            ]
+        },
+        {
+            "wordDe": "auffordern",
+            "wordUk": "закликати / просити (офіційно)",
+            "phrasesDe": [
+                "Zum Handeln auffordern.",
+                "Zum Tanzen auffordern.",
+                "Zur Ruhe auffordern."
+            ],
+            "phrasesUk": [
+                "Закликати до дії.",
+                "Запросити до танцю.",
+                "Закликати до спокою."
+            ]
+        },
+        {
+            "wordDe": "erlauben",
+            "wordUk": "дозволяти",
+            "phrasesDe": [
+                "Zutritt erlauben.",
+                "Sich einen Scherz erlauben.",
+                "Die Zeit erlaubt es."
+            ],
+            "phrasesUk": [
+                "Дозволяти вхід.",
+                "Дозволити собі жарт.",
+                "Час це дозволяє."
+            ]
+        },
+        {
+            "wordDe": "verbieten",
+            "wordUk": "забороняти",
+            "phrasesDe": [
+                "Das Rauchen verbieten.",
+                "Den Umgang verbieten.",
+                "Sich den Mund verbieten."
+            ],
+            "phrasesUk": [
+                "Забороняти куріння.",
+                "Забороняти спілкування.",
+                "Не давати (собі) говорити."
+            ]
+        },
+        {
+            "wordDe": "verpflichten",
+            "wordUk": "зобов'язувати",
+            "phrasesDe": [
+                "Jemanden verpflichten.",
+                "Sich verpflichten.",
+                "Vertraglich verpflichten."
+            ],
+            "phrasesUk": [
+                "Зобов'язувати когось.",
+                "Брати на себе зобов'язання.",
+                "Зобов'язувати за договором."
+            ]
+        },
+        {
+            "wordDe": "entlasten",
+            "wordUk": "розвантажувати / знімати провину",
+            "phrasesDe": [
+                "Das Budget entlasten.",
+                "Jemanden entlasten.",
+                "Die Umwelt entlasten."
+            ],
+            "phrasesUk": [
+                "Розвантажувати бюджет.",
+                "Знімати провину з когось.",
+                "Зменшити навантаження на довкілля."
+            ]
+        },
+        {
+            "wordDe": "belasten",
+            "wordUk": "навантажувати / обтяжувати / звинувачувати",
+            "phrasesDe": [
+                "Die Umwelt belasten.",
+                "Das Budget belasten.",
+                "Zeugen belasten."
+            ],
+            "phrasesUk": [
+                "Забруднювати довкілля.",
+                "Обтяжувати бюджет.",
+                "Показання свідків обтяжують провину."
+            ]
+        },
+        {
+            "wordDe": "beschleunigen",
+            "wordUk": "прискорювати",
+            "phrasesDe": [
+                "Den Prozess beschleunigen.",
+                "Das Tempo beschleunigen.",
+                "Die Entwicklung beschleunigen."
+            ],
+            "phrasesUk": [
+                "Прискорювати процес.",
+                "Прискорювати темп.",
+                "Прискорювати розвиток."
+            ]
+        },
+        {
+            "wordDe": "verzögern",
+            "wordUk": "затримувати / сповільнювати",
+            "phrasesDe": [
+                "Die Abfahrt verzögern.",
+                "Die Entscheidung verzögern.",
+                "Die Lieferung verzögern."
+            ],
+            "phrasesUk": [
+                "Затримувати відправлення.",
+                "Відкладати (сповільнювати) рішення.",
+                "Затримувати доставку."
+            ]
+        },
+        {
+            "wordDe": "verändern",
+            "wordUk": "змінювати",
+            "phrasesDe": [
+                "Die Welt verändern.",
+                "Sich verändern.",
+                "Den Plan verändern."
+            ],
+            "phrasesUk": [
+                "Змінювати світ.",
+                "Змінюватися самому.",
+                "Змінювати план."
+            ]
+        },
+        {
+            "wordDe": "anpassen",
+            "wordUk": "адаптувати / підганяти (одяг)",
+            "phrasesDe": [
+                "Den Plan anpassen.",
+                "Sich der Situation anpassen.",
+                "Kleidung anpassen."
+            ],
+            "phrasesUk": [
+                "Адаптувати план.",
+                "Пристосовуватися до ситуації.",
+                "Підганяти одяг."
+            ]
+        },
+        {
+            "wordDe": "ergänzen",
+            "wordUk": "доповнювати",
+            "phrasesDe": [
+                "Einen Satz ergänzen.",
+                "Sich ergänzen.",
+                "Informationen ergänzen."
+            ],
+            "phrasesUk": [
+                "Доповнити речення.",
+                "Доповнювати один одного.",
+                "Доповнювати інформацію."
+            ]
+        },
+        {
+            "wordDe": "ersetzen",
+            "wordUk": "замінювати",
+            "phrasesDe": [
+                "Ein Gerät ersetzen.",
+                "Jemanden ersetzen.",
+                "Verluste ersetzen."
+            ],
+            "phrasesUk": [
+                "Замінити пристрій.",
+                "Замінити когось.",
+                "Відшкодувати (замінити) втрати."
+            ]
+        },
+        {
+            "wordDe": "bewirken",
+            "wordUk": "спричиняти / викликати (результат)",
+            "phrasesDe": [
+                "Wunder bewirken.",
+                "Veränderungen bewirken.",
+                "Einen Umschwung bewirken."
+            ],
+            "phrasesUk": [
+                "Творити дива.",
+                "Викликати зміни.",
+                "Спричинити злам (переломний момент)."
+            ]
+        },
+        {
+            "wordDe": "verursachen",
+            "wordUk": "спричиняти / бути причиною (зазвичай негативного)",
+            "phrasesDe": [
+                "Einen Unfall verursachen.",
+                "Kosten verursachen.",
+                "Schmerzen verursachen."
+            ],
+            "phrasesUk": [
+                "Спричинити аварію.",
+                "Викликати витрати.",
+                "Завдавати болю."
+            ]
+        },
+        {
+            "wordDe": "beeinflussen",
+            "wordUk": "впливати",
+            "phrasesDe": [
+                "Die Meinung beeinflussen.",
+                "Das Wetter beeinflussen.",
+                "Sich beeinflussen lassen."
+            ],
+            "phrasesUk": [
+                "Впливати на думку.",
+                "Впливати на погоду.",
+                "Піддаватися впливу."
+            ]
+        },
+        {
+            "wordDe": "vermeiden",
+            "wordUk": "уникати / запобігати",
+            "phrasesDe": [
+                "Gefahren vermeiden.",
+                "Missverständnisse vermeiden.",
+                "Probleme vermeiden."
+            ],
+            "phrasesUk": [
+                "Уникати небезпек.",
+                "Уникати непорозумінь.",
+                "Уникати проблем."
+            ]
+        },
+        {
+            "wordDe": "verwalten",
+            "wordUk": "управляти / адмініструвати",
+            "phrasesDe": [
+                "Ein Erbe verwalten.",
+                "Daten verwalten.",
+                "Ein Gebäude verwalten."
+            ],
+            "phrasesUk": [
+                "Управляти спадщиною.",
+                "Керувати даними.",
+                "Адмініструвати будівлю."
+            ]
+        },
+        {
+            "wordDe": "ausführen",
+            "wordUk": "виконувати / експортувати",
+            "phrasesDe": [
+                "Einen Befehl ausführen.",
+                "Waren ausführen.",
+                "Einen Plan ausführen."
+            ],
+            "phrasesUk": [
+                "Виконувати наказ.",
+                "Експортувати товари.",
+                "Виконувати план."
+            ]
+        },
+        {
+            "wordDe": "umsetzen",
+            "wordUk": "реалізовувати / втілювати (план, ідею)",
+            "phrasesDe": [
+                "Eine Idee umsetzen.",
+                "Reformen umsetzen.",
+                "Pläne umsetzen."
+            ],
+            "phrasesUk": [
+                "Втілювати ідею.",
+                "Реалізовувати реформи.",
+                "Втілювати плани."
+            ]
+        },
+        {
+            "wordDe": "durchführen",
+            "wordUk": "проводити / здійснювати",
+            "phrasesDe": [
+                "Eine Untersuchung durchführen.",
+                "Ein Experiment durchführen.",
+                "Verhandlungen durchführen."
+            ],
+            "phrasesUk": [
+                "Проводити дослідження.",
+                "Проводити експеримент.",
+                "Вести переговори."
+            ]
+        },
+        {
+            "wordDe": "einleiten",
+            "wordUk": "ініціювати / розпочинати / вводити",
+            "phrasesDe": [
+                "Maßnahmen einleiten.",
+                "Ein Verfahren einleiten.",
+                "Einen Brief einleiten."
+            ],
+            "phrasesUk": [
+                "Вживати заходів (ініціювати).",
+                "Розпочати провадження.",
+                "Починати лист."
+            ]
+        }
+    ]
+}

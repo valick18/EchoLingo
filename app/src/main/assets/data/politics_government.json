@@ -1,0 +1,704 @@
+{
+    "Політика та Уряд": [
+        {
+            "wordDe": "Staatsoberhaupt",
+            "wordUk": "Глава держави",
+            "phrasesDe": [
+                "Der Bundespräsident ist das Staatsoberhaupt.",
+                "Wahl des Staatsoberhaupts.",
+                "Aufgaben des Staatsoberhaupts."
+            ],
+            "phrasesUk": [
+                "Федеральний президент є главою держави.",
+                "Вибори глави держави.",
+                "Обов'язки глави держави."
+            ]
+        },
+        {
+            "wordDe": "Regierungschef",
+            "wordUk": "Глава уряду",
+            "phrasesDe": [
+                "Der Bundeskanzler ist der Regierungschef.",
+                "Befugnisse des Regierungschefs.",
+                "Wahl des Regierungschefs."
+            ],
+            "phrasesUk": [
+                "Федеральний канцлер є главою уряду.",
+                "Повноваження глави уряду.",
+                "Вибори глави уряду."
+            ]
+        },
+        {
+            "wordDe": "Bundestag",
+            "wordUk": "Бундестаг / Парламент Німеччини",
+            "phrasesDe": [
+                "Sitzung des Bundestages.",
+                "Abgeordnete im Bundestag.",
+                "Debatte im Bundestag."
+            ],
+            "phrasesUk": [
+                "Засідання Бундестагу.",
+                "Депутати в Бундестазі.",
+                "Дебати в Бундестазі."
+            ]
+        },
+        {
+            "wordDe": "Bundesrat",
+            "wordUk": "Бундесрат / Представництво федеральних земель",
+            "phrasesDe": [
+                "Zustimmung des Bundesrates.",
+                "Vertreter im Bundesrat.",
+                "Sitzung des Bundesrates."
+            ],
+            "phrasesUk": [
+                "Згода Бундесрату.",
+                "Представники в Бундесраті.",
+                "Засідання Бундесрату."
+            ]
+        },
+        {
+            "wordDe": "Gesetzgebung",
+            "wordUk": "Законодавство",
+            "phrasesDe": [
+                "Prozess der Gesetzgebung.",
+                "Zuständigkeit der Gesetzgebung.",
+                "Änderung der Gesetzgebung."
+            ],
+            "phrasesUk": [
+                "Процес законотворчості.",
+                "Компетенція законодавчої влади.",
+                "Зміна законодавства."
+            ]
+        },
+        {
+            "wordDe": "Verfassung",
+            "wordUk": "Конституція",
+            "phrasesDe": [
+                "Schutz der Verfassung.",
+                "Artikel der Verfassung.",
+                "Änderung der Verfassung."
+            ],
+            "phrasesUk": [
+                "Захист конституції.",
+                "Стаття конституції.",
+                "Зміна конституції."
+            ]
+        },
+        {
+            "wordDe": "Grundrechte",
+            "wordUk": "Основні права",
+            "phrasesDe": [
+                "Einhaltung der Grundrechte.",
+                "Verletzung der Grundrechte.",
+                "Katalog der Grundrechte."
+            ],
+            "phrasesUk": [
+                "Дотримання основних прав.",
+                "Порушення основних прав.",
+                "Перелік основних прав."
+            ]
+        },
+        {
+            "wordDe": "Gewaltenteilung",
+            "wordUk": "Розподіл влади",
+            "phrasesDe": [
+                "Prinzip der Gewaltenteilung.",
+                "Exekutive, Legislative und Judikative.",
+                "Wichtigkeit der Gewaltenteilung."
+            ],
+            "phrasesUk": [
+                "Принцип розподілу влади.",
+                "Виконавча, законодавча та судова влада.",
+                "Важливість розподілу влади."
+            ]
+        },
+        {
+            "wordDe": "Rechtsstaat",
+            "wordUk": "Правова держава",
+            "phrasesDe": [
+                "Deutschland ist ein Rechtsstaat.",
+                "Prinzipien des Rechtsstaats.",
+                "Gefahr für den Rechtsstaat."
+            ],
+            "phrasesUk": [
+                "Німеччина — це правова держава.",
+                "Принципи правової держави.",
+                "Загроза для правової держави."
+            ]
+        },
+        {
+            "wordDe": "Wahlbeteiligung",
+            "wordUk": "Явка на виборах",
+            "phrasesDe": [
+                "Eine hohe Wahlbeteiligung.",
+                "Sorge über geringe Wahlbeteiligung.",
+                "Analyse der Wahlbeteiligung."
+            ],
+            "phrasesUk": [
+                "Висока явка на виборах.",
+                "Занепокоєння низькою явкою.",
+                "Аналіз явки на виборах."
+            ]
+        },
+        {
+            "wordDe": "Stimmzettel",
+            "wordUk": "Виборчий бюлетень",
+            "phrasesDe": [
+                "Abgabe des Stimmzettels.",
+                "Ungültiger Stimmzettel.",
+                "Ausfüllen des Stimmzettels."
+            ],
+            "phrasesUk": [
+                "Подання виборчого бюлетеня.",
+                "Недійсний бюлетень.",
+                "Заповнення виборчого бюлетеня."
+            ]
+        },
+        {
+            "wordDe": "Koalition",
+            "wordUk": "Коаліція",
+            "phrasesDe": [
+                "Bildung einer Koalition.",
+                "Koalitionsvertrag.",
+                "Bruch der Koalition."
+            ],
+            "phrasesUk": [
+                "Формування коаліції.",
+                "Коаліційна угода.",
+                "Розпад коаліції."
+            ]
+        },
+        {
+            "wordDe": "Ministerium",
+            "wordUk": "Міністерство",
+            "phrasesDe": [
+                "Das Innenministerium.",
+                "Leitung des Ministeriums.",
+                "Aufgaben des Ministeriums."
+            ],
+            "phrasesUk": [
+                "Міністерство внутрішніх справ.",
+                "Керівництво міністерства.",
+                "Завдання міністерства."
+            ]
+        },
+        {
+            "wordDe": "Abgeordneter",
+            "wordUk": "Депутат",
+            "phrasesDe": [
+                "Ein gewählter Abgeordneter.",
+                "Rede des Abgeordneten.",
+                "Büro des Abgeordneten."
+            ],
+            "phrasesUk": [
+                "Обраний депутат.",
+                "Промова депутата.",
+                "Офіс депутата."
+            ]
+        },
+        {
+            "wordDe": "Wahlkreis",
+            "wordUk": "Виборчий округ",
+            "phrasesDe": [
+                "Ergebnisse im Wahlkreis.",
+                "Kandidat für den Wahlkreis.",
+                "Besuch im Wahlkreis."
+            ],
+            "phrasesUk": [
+                "Результати в окрузі.",
+                "Кандидат від виборчого округу.",
+                "Візит до округу."
+            ]
+        },
+        {
+            "wordDe": "Mandat",
+            "wordUk": "Мандат",
+            "phrasesDe": [
+                "Ein direktes Mandat gewinnen.",
+                "Verlust des Mandats.",
+                "Dauer des Mandats."
+            ],
+            "phrasesUk": [
+                "Виграти прямий мандат.",
+                "Втрата мандата.",
+                "Тривалість дії мандата."
+            ]
+        },
+        {
+            "wordDe": "Ausschuss",
+            "wordUk": "Комітет / Комісія",
+            "phrasesDe": [
+                "Sitzung des Ausschusses.",
+                "Mitglieder im Ausschuss.",
+                "Bericht des Ausschusses."
+            ],
+            "phrasesUk": [
+                "Засідання комітету.",
+                "Члени комісії.",
+                "Звіт комітету."
+            ]
+        },
+        {
+            "wordDe": "Referendum",
+            "wordUk": "Референдум",
+            "phrasesDe": [
+                "Durchführung eines Referendums.",
+                "Ergebnis des Referendums.",
+                "Forderung nach einem Referendum."
+            ],
+            "phrasesUk": [
+                "Проведення референдуму.",
+                "Результат референдуму.",
+                "Вимога проведення референдуму."
+            ]
+        },
+        {
+            "wordDe": "Diplomatie",
+            "wordUk": "Дипломатія",
+            "phrasesDe": [
+                "Erfolg der Diplomatie.",
+                "Diplomatische Beziehungen.",
+                "Vorteile der Diplomatie."
+            ],
+            "phrasesUk": [
+                "Успіх дипломатії.",
+                "Дипломатичні відносини.",
+                "Переваги дипломатії."
+            ]
+        },
+        {
+            "wordDe": "Botschaft",
+            "wordUk": "Посольство",
+            "phrasesDe": [
+                "Besuch in der Botschaft.",
+                "Aufgabe der Botschaft.",
+                "Deutche Botschaft in Kiew."
+            ],
+            "phrasesUk": [
+                "Візит до посольства.",
+                "Завдання посольства.",
+                "Посольство Німеччини в Києві."
+            ]
+        },
+        {
+            "wordDe": "Völkerrecht",
+            "wordUk": "Міжнародне право",
+            "phrasesDe": [
+                "Einhaltung des Völkerrechts.",
+                "Verletzung des Völkerrechts.",
+                "Prinzipien des Völkerrechts."
+            ],
+            "phrasesUk": [
+                "Дотримання міжнародного права.",
+                "Порушення міжнародного права.",
+                "Принципи міжнародного права."
+            ]
+        },
+        {
+            "wordDe": "Sanktion",
+            "wordUk": "Санкція",
+            "phrasesDe": [
+                "Verhängung von Sanktionen.",
+                "Wirkung der Sanktionen.",
+                "Wirtschaftliche Sanktionen."
+            ],
+            "phrasesUk": [
+                "Запровадження санкцій.",
+                "Дія санкцій.",
+                "Економічні санкції."
+            ]
+        },
+        {
+            "wordDe": "Bündnis",
+            "wordUk": "Альянс / Союз",
+            "phrasesDe": [
+                "Ein militärisches Bündnis.",
+                "Verpflichtungen im Bündnis.",
+                "Partner im Bündnis."
+            ],
+            "phrasesUk": [
+                "Військовий альянс.",
+                "Зобов'язання в союзі.",
+                "Партнери по альянсу."
+            ]
+        },
+        {
+            "wordDe": "Staatshaushalt",
+            "wordUk": "Державний бюджет",
+            "phrasesDe": [
+                "Debatte über den Staatshaushalt.",
+                "Lücke im Staatshaushalt.",
+                "Ausgaben im Staatshaushalt."
+            ],
+            "phrasesUk": [
+                "Дебати про держбюджет.",
+                "Діра в державному бюджеті.",
+                "Витрати в бюджеті."
+            ]
+        },
+        {
+            "wordDe": "Steuerreform",
+            "wordUk": "Податкова реформа",
+            "phrasesDe": [
+                "Pläne für eine Steuerreform.",
+                "Kritik an der Steuerreform.",
+                "Vorteile der Steuerreform."
+            ],
+            "phrasesUk": [
+                "Плани податкової реформи.",
+                "Критика податкової реформи.",
+                "Переваги податкової реформи."
+            ]
+        },
+        {
+            "wordDe": "Sozialstaat",
+            "wordUk": "Соціальна держава",
+            "phrasesDe": [
+                "Deutschland als Sozialstaat.",
+                "Leistungen des Sozialstaats.",
+                "Zukunft des Sozialstaats."
+            ],
+            "phrasesUk": [
+                "Німецька соціальна держава.",
+                "Послуги соціальної держави.",
+                "Майбутнє соціальної держави."
+            ]
+        },
+        {
+            "wordDe": "Bürokratie",
+            "wordUk": "Бюрократія",
+            "phrasesDe": [
+                "Kampf gegen Bürokratie.",
+                "Zu viel Bürokratie.",
+                "Abbau von Bürokratie."
+            ],
+            "phrasesUk": [
+                "Боротьба з бюрократією.",
+                "Забагато бюрократії.",
+                "Скорочення бюрократії."
+            ]
+        },
+        {
+            "wordDe": "Korruption",
+            "wordUk": "Корупція",
+            "phrasesDe": [
+                "Bekämpfung der Korruption.",
+                "Verdacht auf Korruption.",
+                "Opfer von Korruption."
+            ],
+            "phrasesUk": [
+                "Боротьба з корупцією.",
+                "Підозра в корупції.",
+                "Жертви корупції."
+            ]
+        },
+        {
+            "wordDe": "Lobbyismus",
+            "wordUk": "Лобізм",
+            "phrasesDe": [
+                "Einfluss von Lobbyismus.",
+                "Kritik am Lobbyismus.",
+                "Transparenz im Lobbyismus."
+            ],
+            "phrasesUk": [
+                "Вплив лобізму.",
+                "Критика лобізму.",
+                "Прозорість у лобізмі."
+            ]
+        },
+        {
+            "wordDe": "Demonstration",
+            "wordUk": "Демонстрація",
+            "phrasesDe": [
+                "Teilnahme an einer Demonstration.",
+                "Friedliche Demonstration.",
+                "Verlauf der Demonstration."
+            ],
+            "phrasesUk": [
+                "Участь у демонстрації.",
+                "Мирна демонстрація.",
+                "Хід демонстрації."
+            ]
+        },
+        {
+            "wordDe": "Protest",
+            "wordUk": "Протест",
+            "phrasesDe": [
+                "Ein offener Protest.",
+                "Formen des Protests.",
+                "Protest gegen das Gesetz."
+            ],
+            "phrasesUk": [
+                "Відкритий протест.",
+                "Форми протесту.",
+                "Протест проти закону."
+            ]
+        },
+        {
+            "wordDe": "Zivilcourage",
+            "wordUk": "Громадянська мужність",
+            "phrasesDe": [
+                "Mehr Zivilcourage zeigen.",
+                "Wichtigkeit der Zivilcourage.",
+                "Beispiel für Zivilcourage."
+            ],
+            "phrasesUk": [
+                "Виявляти більше громадянської мужності.",
+                "Важливість громадянської мужності.",
+                "Приклад громадянської відваги."
+            ]
+        },
+        {
+            "wordDe": "Meinungsfreiheit",
+            "wordUk": "Свобода думки / слова",
+            "phrasesDe": [
+                "Schutz der Meinungsfreiheit.",
+                "Grenzen der Meinungsfreiheit.",
+                "Grundrecht der Meinungsfreiheit."
+            ],
+            "phrasesUk": [
+                "Захист свободи слова.",
+                "Межі свободи слова.",
+                "Основне право на свободу думки."
+            ]
+        },
+        {
+            "wordDe": "Pressefreiheit",
+            "wordUk": "Свобода преси",
+            "phrasesDe": [
+                "Bedeutung der Pressefreiheit.",
+                "Verletzung der Pressefreiheit.",
+                "Garantie der Pressefreiheit."
+            ],
+            "phrasesUk": [
+                "Значення свободи преси.",
+                "Порушення свободи преси.",
+                "Гарантія свободи преси."
+            ]
+        },
+        {
+            "wordDe": "Staatsbürgerschaft",
+            "wordUk": "Громадянство",
+            "phrasesDe": [
+                "Beantragung der Staatsbürgerschaft.",
+                "Verlust der Staatsbürgerschaft.",
+                "Doppelte Staatsbürgerschaft."
+            ],
+            "phrasesUk": [
+                "Подача заяви на громадянство.",
+                "Втрата громадянства.",
+                "Подвійне громадянство."
+            ]
+        },
+        {
+            "wordDe": "Einwanderung",
+            "wordUk": "Іміграція",
+            "phrasesDe": [
+                "Debatte über Einwanderung.",
+                "Gesetz zur Einwanderung.",
+                "Vorteile der Einwanderung."
+            ],
+            "phrasesUk": [
+                "Дебати про іміграцію.",
+                "Закон про іміграцію.",
+                "Переваги іміграції."
+            ]
+        },
+        {
+            "wordDe": "Integration",
+            "wordUk": "Інтеграція",
+            "phrasesDe": [
+                "Erfolgreiche Integration.",
+                "Herausforderung der Integration.",
+                "Integration in die Gesellschaft."
+            ],
+            "phrasesUk": [
+                "Успішна інтеграція.",
+                "Виклик інтеграції.",
+                "Інтеграція в суспільство."
+            ]
+        },
+        {
+            "wordDe": "Asylrecht",
+            "wordUk": "Право на притулок",
+            "phrasesDe": [
+                "Schutz durch das Asylrecht.",
+                "Änderung des Asylrechts.",
+                "Bedeutung des Asylrechts."
+            ],
+            "phrasesUk": [
+                "Захист правом на притулок.",
+                "Зміна права на притулок.",
+                "Значення права на притулок."
+            ]
+        },
+        {
+            "wordDe": "Gleichstellung",
+            "wordUk": "Рівноправність / Забезпечення рівних прав",
+            "phrasesDe": [
+                "Gleichstellung von Mann und Frau.",
+                "Beauftragte für Gleichstellung.",
+                "Fortschritte in der Gleichstellung."
+            ],
+            "phrasesUk": [
+                "Рівноправність чоловіка та жінки.",
+                "Уповноважений з питань рівноправності.",
+                "Прогрес у забезпеченні рівних прав."
+            ]
+        },
+        {
+            "wordDe": "Inklusion",
+            "wordUk": "Інклюзія",
+            "phrasesDe": [
+                "Förderung der Inklusion.",
+                "Inklusion in der Schule.",
+                "Ziel der Inklusion."
+            ],
+            "phrasesUk": [
+                "Сприяння інклюзії.",
+                "Інклюзія в школі.",
+                "Мета інклюзії."
+            ]
+        },
+        {
+            "wordDe": "Umweltpolitik",
+            "wordUk": "Екологічна політика",
+            "phrasesDe": [
+                "Ziele der Umweltpolitik.",
+                "Kritik an der Umweltpolitik.",
+                "Erfolge der Umweltpolitik."
+            ],
+            "phrasesUk": [
+                "Цілі екологічної політики.",
+                "Критика екологічної політики.",
+                "Успіхи екологічної політики."
+            ]
+        },
+        {
+            "wordDe": "Energiewende",
+            "wordUk": "Енергетичний перехід",
+            "phrasesDe": [
+                "Herausforderung Energiewende.",
+                "Kosten der Energiewende.",
+                "Maßnahmen zur Energiewende."
+            ],
+            "phrasesUk": [
+                "Виклик енергетичного переходу.",
+                "Вартість енергетичної реформи.",
+                "Заходи для енергетичного переходу."
+            ]
+        },
+        {
+            "wordDe": "Klimaschutz",
+            "wordUk": "Захист клімату",
+            "phrasesDe": [
+                "Globaler Klimaschutz.",
+                "Maßnahmen zum Klimaschutz.",
+                "Verantwortung für Klimaschutz."
+            ],
+            "phrasesUk": [
+                "Глобальний захист клімату.",
+                "Заходи для захисту клімату.",
+                "Відповідальність за захист клімату."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltigkeit",
+            "wordUk": "Сталий розвиток",
+            "phrasesDe": [
+                "Prinzip der Nachhaltigkeit.",
+                "Fokus auf Nachhaltigkeit.",
+                "Nachhaltiges Handeln."
+            ],
+            "phrasesUk": [
+                "Принцип сталого розвитку.",
+                "Фокус на екологічності.",
+                "Екологічно свідомі дії."
+            ]
+        },
+        {
+            "wordDe": "Abrüstung",
+            "wordUk": "Роззброєння",
+            "phrasesDe": [
+                "Forderung nach Abrüstung.",
+                "Verträge zur Abrüstung.",
+                "Prozess der Abrüstung."
+            ],
+            "phrasesUk": [
+                "Вимога роззброєння.",
+                "Договори про роззброєння.",
+                "Процес роззброєння."
+            ]
+        },
+        {
+            "wordDe": "Friedenssicherung",
+            "wordUk": "Миротворчість / Підтримання миру",
+            "phrasesDe": [
+                "Mission zur Friedenssicherung.",
+                "Maßnahmen zur Friedenssicherung.",
+                "Verantwortung der UNO."
+            ],
+            "phrasesUk": [
+                "Місія з підтримання миру.",
+                "Заходи для миротворчості.",
+                "Відповідальність ООН."
+            ]
+        },
+        {
+            "wordDe": "Solidarität",
+            "wordUk": "Солідарність",
+            "phrasesDe": [
+                "Zeichen der Solidarität.",
+                "Europäische Solidarität.",
+                "Solidarität zeigen."
+            ],
+            "phrasesUk": [
+                "Знак солідарності.",
+                "Європейська солідарність.",
+                "Виявляти солідарність."
+            ]
+        },
+        {
+            "wordDe": "Rechtsbehelf",
+            "wordUk": "Засіб правового захисту (апеляція тощо)",
+            "phrasesDe": [
+                "Einen Rechtsbehelf einlegen.",
+                "Frist für den Rechtsbehelf.",
+                "Mögliche Rechtsbehelfe."
+            ],
+            "phrasesUk": [
+                "Подати апеляцію (засіб захисту).",
+                "Термін для оскарження.",
+                "Можливі засоби правового захисту."
+            ]
+        },
+        {
+            "wordDe": "Immunität",
+            "wordUk": "Імунітет (депутатський)",
+            "phrasesDe": [
+                "Aufhebung der Immunität.",
+                "Schutz durch Immunität.",
+                "Abgeordnetenimmunität."
+            ],
+            "phrasesUk": [
+                "Скасування імунітету.",
+                "Захист імунітетом.",
+                "Депутатська недоторканність."
+            ]
+        },
+        {
+            "wordDe": "Veto",
+            "wordUk": "Вето",
+            "phrasesDe": [
+                "Ein Veto einlegen.",
+                "Macht des Vetos.",
+                "Recht auf Veto."
+            ],
+            "phrasesUk": [
+                "Накласти вето.",
+                "Сила права вето.",
+                "Право на вето."
+            ]
+        }
+    ]
+}

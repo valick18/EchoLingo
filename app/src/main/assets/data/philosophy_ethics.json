@@ -1,0 +1,704 @@
+{
+    "Філософія та Етика": [
+        {
+            "wordDe": "Existenzialismus",
+            "wordUk": "Екзистенціалізм",
+            "phrasesDe": [
+                "Themen des Existenzialismus.",
+                "Sinn im Existenzialismus.",
+                "Bekannte Existenzialisten."
+            ],
+            "phrasesUk": [
+                "Теми екзистенціалізму.",
+                "Сенс в екзистенціалізмі.",
+                "Відомі екзистенціалісти."
+            ]
+        },
+        {
+            "wordDe": "Erkenntnistheorie",
+            "wordUk": "Епістемологія (теорія пізнання)",
+            "phrasesDe": [
+                "Grundlagen der Erkenntnistheorie.",
+                "Fragen der Erkenntnistheorie.",
+                "Wichtige Erkenntnistheoretiker."
+            ],
+            "phrasesUk": [
+                "Основи епістемології.",
+                "Питання теорії пізнання.",
+                "Важливі епістемологи."
+            ]
+        },
+        {
+            "wordDe": "Metaphysik",
+            "wordUk": "Метафізика",
+            "phrasesDe": [
+                "Fragen der Metaphysik.",
+                "Kritik an der Metaphysik.",
+                "Themen der Metaphysik."
+            ],
+            "phrasesUk": [
+                "Питання метафізики.",
+                "Критика метафізики.",
+                "Теми метафізики."
+            ]
+        },
+        {
+            "wordDe": "Logik",
+            "wordUk": "Логіка",
+            "phrasesDe": [
+                "Regeln der Logik.",
+                "Mathematische Logik.",
+                "Fehler in der Logik."
+            ],
+            "phrasesUk": [
+                "Правила логіки.",
+                "Математична логіка.",
+                "Помилка в логіці."
+            ]
+        },
+        {
+            "wordDe": "Vernunft",
+            "wordUk": "Розум / Свідомість (Фернунфт)",
+            "phrasesDe": [
+                "Kritik der reinen Vernunft.",
+                "Stimme der Vernunft.",
+                "Sieg der Vernunft."
+            ],
+            "phrasesUk": [
+                "Критика чистого розуму.",
+                "Голос розуму.",
+                "Перемога розуму."
+            ]
+        },
+        {
+            "wordDe": "Bewusstsein",
+            "wordUk": "Свідомість",
+            "phrasesDe": [
+                "Das menschliche Bewusstsein.",
+                "Ebenen des Bewusstseins.",
+                "Erweiterung des Bewusstseins."
+            ],
+            "phrasesUk": [
+                "Людська свідомість.",
+                "Рівні свідомості.",
+                "Розширення свідомості."
+            ]
+        },
+        {
+            "wordDe": "Moralität",
+            "wordUk": "Моральність / Мораль",
+            "phrasesDe": [
+                "Fragen der Moralität.",
+                "Prinzipien der Moralität.",
+                "Moralität des Handelns."
+            ],
+            "phrasesUk": [
+                "Питання моральності.",
+                "Принципи моралі.",
+                "Моральність дій."
+            ]
+        },
+        {
+            "wordDe": "Ethik",
+            "wordUk": "Етика",
+            "phrasesDe": [
+                "Angewandte Ethik.",
+                "Ethik in der Politik.",
+                "Fragen der Ethik."
+            ],
+            "phrasesUk": [
+                "Прикладна етика.",
+                "Етика в політиці.",
+                "Питання етики."
+            ]
+        },
+        {
+            "wordDe": "Werte",
+            "wordUk": "Цінності",
+            "phrasesDe": [
+                "Gesellschaftliche Werte.",
+                "Wandel der Werte.",
+                "Verlust der Werte."
+            ],
+            "phrasesUk": [
+                "Суспільні цінності.",
+                "Зміна цінностей.",
+                "Втрата цінностей."
+            ]
+        },
+        {
+            "wordDe": "Normen",
+            "wordUk": "Норми",
+            "phrasesDe": [
+                "Soziale Normen.",
+                "Einhaltung der Normen.",
+                "Änderung der Normen."
+            ],
+            "phrasesUk": [
+                "Соціальні норми.",
+                "Дотримання норм.",
+                "Зміна норм."
+            ]
+        },
+        {
+            "wordDe": "Freier Wille",
+            "wordUk": "Свобода волі",
+            "phrasesDe": [
+                "Glaube an den freien Willen.",
+                "Existenz des freien Willens.",
+                "Grenzen des freien Willens."
+            ],
+            "phrasesUk": [
+                "Віра у вільну волю.",
+                "Існування свободи волі.",
+                "Межі вільної волі."
+            ]
+        },
+        {
+            "wordDe": "Determinismus",
+            "wordUk": "Детермінізм",
+            "phrasesDe": [
+                "Konzept des Determinismus.",
+                "Kritik am Determinismus.",
+                "Formen des Determinismus."
+            ],
+            "phrasesUk": [
+                "Концепція детермінізму.",
+                "Критика детермінізму.",
+                "Форми детермінізму."
+            ]
+        },
+        {
+            "wordDe": "Humanismus",
+            "wordUk": "Гуманізм",
+            "phrasesDe": [
+                "Werte des Humanismus.",
+                "Geist des Humanismus.",
+                "Moderne Humanisten."
+            ],
+            "phrasesUk": [
+                "Цінності гуманізму.",
+                "Дух гуманізму.",
+                "Сучасні гуманісти."
+            ]
+        },
+        {
+            "wordDe": "Aufklärung",
+            "wordUk": "Просвітництво",
+            "phrasesDe": [
+                "Zeitalter der Aufklärung.",
+                "Ideen der Aufklärung.",
+                "Erbe der Aufklärung."
+            ],
+            "phrasesUk": [
+                "Епоха Просвітництва.",
+                "Ідеї Просвітництва.",
+                "Спадщина Просвітництва."
+            ]
+        },
+        {
+            "wordDe": "Rationalismus",
+            "wordUk": "Раціоналізм",
+            "phrasesDe": [
+                "Prinzipien des Rationalismus.",
+                "Kritik am Rationalismus.",
+                "Bekannte Rationalisten."
+            ],
+            "phrasesUk": [
+                "Принципи раціоналізму.",
+                "Критика раціоналізму.",
+                "Відомі раціоналісти."
+            ]
+        },
+        {
+            "wordDe": "Empirismus",
+            "wordUk": "Емпіризм",
+            "phrasesDe": [
+                "Ansatz des Empirismus.",
+                "Vertreter des Empirismus.",
+                "Empirismus und Wissenschaft."
+            ],
+            "phrasesUk": [
+                "Підхід емпіризму.",
+                "Представники емпіризму.",
+                "Емпіризм та наука."
+            ]
+        },
+        {
+            "wordDe": "Idealismus",
+            "wordUk": "Ідеалізм",
+            "phrasesDe": [
+                "Deutscher Idealismus.",
+                "Themen des Idealismus.",
+                "Kritik am Idealismus."
+            ],
+            "phrasesUk": [
+                "Німецький ідеалізм.",
+                "Теми ідеалізму.",
+                "Критика ідеалізму."
+            ]
+        },
+        {
+            "wordDe": "Materialismus",
+            "wordUk": "Матеріалізм",
+            "phrasesDe": [
+                "Historischer Materialismus.",
+                "Vertreter des Materialismus.",
+                "Kritik am Materialismus."
+            ],
+            "phrasesUk": [
+                "Історичний матеріалізм.",
+                "Представники матеріалізму.",
+                "Критика матеріалізму."
+            ]
+        },
+        {
+            "wordDe": "Nihilismus",
+            "wordUk": "Нігілізм",
+            "phrasesDe": [
+                "Gefahr des Nihilismus.",
+                "Themen des Nihilismus.",
+                "Umgang mit dem Nihilismus."
+            ],
+            "phrasesUk": [
+                "Небезпека нігілізму.",
+                "Теми нігілізму.",
+                "Поводження з нігілізмом."
+            ]
+        },
+        {
+            "wordDe": "Pessimismus",
+            "wordUk": "Песимізм",
+            "phrasesDe": [
+                "Philosophischer Pessimismus.",
+                "Ursachen für Pessimismus.",
+                "Überwindung von Pessimismus."
+            ],
+            "phrasesUk": [
+                "Філософський песимізм.",
+                "Причини песимізму.",
+                "Подолання песимізму."
+            ]
+        },
+        {
+            "wordDe": "Optimismus",
+            "wordUk": "Оптимізм",
+            "phrasesDe": [
+                "Gesunder Optimismus.",
+                "Gründe für Optimismus.",
+                "Macht des Optimismus."
+            ],
+            "phrasesUk": [
+                "Здоровий оптимізм.",
+                "Причини для оптимізму.",
+                "Сила оптимізму."
+            ]
+        },
+        {
+            "wordDe": "Tugend",
+            "wordUk": "Чеснота / Доброчесність (Тугенд)",
+            "phrasesDe": [
+                "Eine seltene Tugend.",
+                "Katalog der Tugenden.",
+                "Tugendhaftes Leben."
+            ],
+            "phrasesUk": [
+                "Рідкісна чеснота.",
+                "Перелік чеснот.",
+                "Доброчесне життя."
+            ]
+        },
+        {
+            "wordDe": "Laster",
+            "wordUk": "Порок / Шкідлива звичка",
+            "phrasesDe": [
+                "Ein gefährliches Laster.",
+                "Kampf gegen das Laster.",
+                "Sklave seines Lasters sein."
+            ],
+            "phrasesUk": [
+                "Небезпечний порок.",
+                "Боротьба з пороком.",
+                "Бути рабом своєї шкідливої звички."
+            ]
+        },
+        {
+            "wordDe": "Glück",
+            "wordUk": "Щастя",
+            "phrasesDe": [
+                "Suche nach dem Glück.",
+                "Definition von Glück.",
+                "Moment des Glücks."
+            ],
+            "phrasesUk": [
+                "Пошук щастя.",
+                "Визначення щастя.",
+                "Момент щастя."
+            ]
+        },
+        {
+            "wordDe": "Leid",
+            "wordUk": "Страждання / Лихо",
+            "phrasesDe": [
+                "Ursache für das Leid.",
+                "Umgang mit dem Leid.",
+                "Ende des Leids."
+            ],
+            "phrasesUk": [
+                "Причина страждання.",
+                "Поводження зі стражданням.",
+                "Кінець лиха."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Sinn für Gerechtigkeit.",
+                "Streben nach Gerechtigkeit.",
+                "Gefühl der Gerechtigkeit."
+            ],
+            "phrasesUk": [
+                "Почуття справедливості.",
+                "Прагнення до справедливості.",
+                "Відчуття справедливості."
+            ]
+        },
+        {
+            "wordDe": "Pflicht",
+            "wordUk": "Обов'язок",
+            "phrasesDe": [
+                "Erfüllung der Pflicht.",
+                "Moralische Pflicht.",
+                "Sinn für Pflicht."
+            ],
+            "phrasesUk": [
+                "Виконання обов'язку.",
+                "Моральний обов'язок.",
+                "Почуття обов'язку."
+            ]
+        },
+        {
+            "wordDe": "Verantwortung",
+            "wordUk": "Відповідальність",
+            "phrasesDe": [
+                "Übernahme von Verantwortung.",
+                "Verantwortung für das Handeln.",
+                "Mangel an Verantwortung."
+            ],
+            "phrasesUk": [
+                "Взяття відповідальності.",
+                "Відповідальність за вчинки.",
+                "Брак відповідальності."
+            ]
+        },
+        {
+            "wordDe": "Gewissen",
+            "wordUk": "Совість",
+            "phrasesDe": [
+                "Ein schlechtes Gewissen haben.",
+                "Stimme des Gewissens.",
+                "Gegen sein Gewissen handeln."
+            ],
+            "phrasesUk": [
+                "Мати нечисту совість.",
+                "Голос совісті.",
+                "Діяти всупереч своїй совісті."
+            ]
+        },
+        {
+            "wordDe": "Würde",
+            "wordUk": "Гідність",
+            "phrasesDe": [
+                "Die Würde des Menschen.",
+                "Wahrung der Würde.",
+                "Verlust der Würde."
+            ],
+            "phrasesUk": [
+                "Гідність людини.",
+                "Збереження гідності.",
+                "Втрата гідності."
+            ]
+        },
+        {
+            "wordDe": "Transzendenz",
+            "wordUk": "Трансцендентність / Потойбічне",
+            "phrasesDe": [
+                "Suche nach der Transzendenz.",
+                "Wesen der Transzendenz.",
+                "Glaube an die Transzendenz."
+            ],
+            "phrasesUk": [
+                "Пошук трансцендентного.",
+                "Суть потойбічного.",
+                "Віра в трансцендентність."
+            ]
+        },
+        {
+            "wordDe": "Immanenz",
+            "wordUk": "Іманентність / Внутрішня притаманність",
+            "phrasesDe": [
+                "Prinzip der Immanenz.",
+                "Immanente Kritik.",
+                "Immanenz Gottes."
+            ],
+            "phrasesUk": [
+                "Принцип іманентності.",
+                "Внутрішня (іманентна) критика.",
+                "Іманентність Бога."
+            ]
+        },
+        {
+            "wordDe": "Dualismus",
+            "wordUk": "Дуалізм",
+            "phrasesDe": [
+                "Konzept des Dualismus.",
+                "Dualismus von Körper und Geist.",
+                "Kritik am Dualismus."
+            ],
+            "phrasesUk": [
+                "Концепція дуалізму.",
+                "Дуалізм тіла та духу.",
+                "Критика дуалізму."
+            ]
+        },
+        {
+            "wordDe": "Monismus",
+            "wordUk": "Монізм",
+            "phrasesDe": [
+                "Prinzip des Monismus.",
+                "Formen des Monismus.",
+                "Kritik am Monismus."
+            ],
+            "phrasesUk": [
+                "Принцип монізму.",
+                "Форми монізму.",
+                "Критика монізму."
+            ]
+        },
+        {
+            "wordDe": "Dialektik",
+            "wordUk": "Діалектика",
+            "phrasesDe": [
+                "Gesetze der Dialektik.",
+                "Meister der Dialektik.",
+                "Anwendung der Dialektik."
+            ],
+            "phrasesUk": [
+                "Закони діалектики.",
+                "Майстер діалектики.",
+                "Застосування діалектики."
+            ]
+        },
+        {
+            "wordDe": "Phänomenologie",
+            "wordUk": "Феноменологія",
+            "phrasesDe": [
+                "Ansatz der Phänomenologie.",
+                "Themen der Phänomenologie.",
+                "Bekannte Phänomenologen."
+            ],
+            "phrasesUk": [
+                "Підхід феноменології.",
+                "Теми феноменології.",
+                "Відомі феноменологи."
+            ]
+        },
+        {
+            "wordDe": "Hermeneutik",
+            "wordUk": "Герменевтика (мистецтво тлумачення)",
+            "phrasesDe": [
+                "Methoden der Hermeneutik.",
+                "Ziel der Hermeneutik.",
+                "Bedeutung der Hermeneutik."
+            ],
+            "phrasesUk": [
+                "Методи герменевтики.",
+                "Мета тлумачення.",
+                "Значення герменевтики."
+            ]
+        },
+        {
+            "wordDe": "Utilitarismus",
+            "wordUk": "Утилітаризм",
+            "phrasesDe": [
+                "Prinzip des Utilitarismus.",
+                "Kritik am Utilitarismus.",
+                "Vorteile des Utilitarismus."
+            ],
+            "phrasesUk": [
+                "Принцип утилітаризму.",
+                "Критика утилітаризму.",
+                "Переваги утилітаризму."
+            ]
+        },
+        {
+            "wordDe": "Deontologie",
+            "wordUk": "Деонтологія (етика обов'язку)",
+            "phrasesDe": [
+                "Ansatz der Deontologie.",
+                "Deontologische Ethik.",
+                "Pflichten in der Deontologie."
+            ],
+            "phrasesUk": [
+                "Підхід деонтології.",
+                "Деонтологічна етика.",
+                "Обов'язки в деонтології."
+            ]
+        },
+        {
+            "wordDe": "Atheismus",
+            "wordUk": "Атеїзм",
+            "phrasesDe": [
+                "Argumente für den Atheismus.",
+                "Geschichte des Atheismus.",
+                "Formen des Atheismus."
+            ],
+            "phrasesUk": [
+                "Аргументи на користь атеїзму.",
+                "Історія атеїзму.",
+                "Форми атеїзму."
+            ]
+        },
+        {
+            "wordDe": "Theismus",
+            "wordUk": "Теїзм",
+            "phrasesDe": [
+                "Glaube an den Theismus.",
+                "Formen des Theismus.",
+                "Theologische Grundlagen."
+            ],
+            "phrasesUk": [
+                "Віра в теїзм.",
+                "Форми теїзму.",
+                "Теологічні засади."
+            ]
+        },
+        {
+            "wordDe": "Agnostizismus",
+            "wordUk": "Агностицизм",
+            "phrasesDe": [
+                "Position des Agnostizismus.",
+                "Kritik am Agnostizismus.",
+                "Unterschied zum Atheismus."
+            ],
+            "phrasesUk": [
+                "Позиція агностицизму.",
+                "Критика агностицизму.",
+                "Відмінність від атеїзму."
+            ]
+        },
+        {
+            "wordDe": "Subjektivität",
+            "wordUk": "Суб'єктивність",
+            "phrasesDe": [
+                "Falle der Subjektivität.",
+                "Einfluss der Subjektivität.",
+                "Wahrnehmung der Subjektivität."
+            ],
+            "phrasesUk": [
+                "Пастка суб'єктивності.",
+                "Вплив суб'єктивності.",
+                "Сприйняття суб'єктивності."
+            ]
+        },
+        {
+            "wordDe": "Objektivität",
+            "wordUk": "Об'єктивність",
+            "phrasesDe": [
+                "Suche nach Objektivität.",
+                "Ideal der Objektivität.",
+                "Mangel an Objektivität."
+            ],
+            "phrasesUk": [
+                "Пошук об'єктивності.",
+                "Ідеал об'єктивності.",
+                "Брак об'єктивності."
+            ]
+        },
+        {
+            "wordDe": "Relativismus",
+            "wordUk": "Релятивізм",
+            "phrasesDe": [
+                "Moralischer Relativismus.",
+                "Kritik am Relativismus.",
+                "Konzept des Relativismus."
+            ],
+            "phrasesUk": [
+                "Моральний релятивізм.",
+                "Критика релятивізму.",
+                "Концепція релятивізму."
+            ]
+        },
+        {
+            "wordDe": "Absolutismus",
+            "wordUk": "Абсолютизм",
+            "phrasesDe": [
+                "Moralischer Absolutismus.",
+                "Philosophischer Absolutismus.",
+                "Konzept des Absolutismus."
+            ],
+            "phrasesUk": [
+                "Моральний абсолютизм.",
+                "Філософський абсолютизм.",
+                "Концепція абсолютизму."
+            ]
+        },
+        {
+            "wordDe": "Paradoxon",
+            "wordUk": "Парадокс",
+            "phrasesDe": [
+                "Ein logisches Paradoxon.",
+                "Lösung des Paradoxons.",
+                "Beispiel für ein Paradoxon."
+            ],
+            "phrasesUk": [
+                "Логічний парадокс.",
+                "Вирішення парадоксу.",
+                "Приклад парадоксу."
+            ]
+        },
+        {
+            "wordDe": "Dogmatismus",
+            "wordUk": "Догматизм",
+            "phrasesDe": [
+                "Gefahr des Dogmatismus.",
+                "Kritik am Dogmatismus.",
+                "Mangel an Dogmatismus."
+            ],
+            "phrasesUk": [
+                "Небезпека догматизму.",
+                "Критика догматизму.",
+                "Брак догматизму (як позитив)."
+            ]
+        },
+        {
+            "wordDe": "Skeptizismus",
+            "wordUk": "Скептицизм",
+            "phrasesDe": [
+                "Methodischer Skeptizismus.",
+                "Gewebe des Skeptizismus.",
+                "Vorteile des Skeptizismus."
+            ],
+            "phrasesUk": [
+                "Методичний скептицизм.",
+                "Тенета скептицизму.",
+                "Переваги скептицизму."
+            ]
+        },
+        {
+            "wordDe": "Stoizismus",
+            "wordUk": "Стоїцизм",
+            "phrasesDe": [
+                "Ruhe des Stoizismus.",
+                "Übung des Stoizismus.",
+                "Lehren der Stoiker."
+            ],
+            "phrasesUk": [
+                "Спокій стоїцизму.",
+                "Практика стоїцизму.",
+                "Вчення стоїків."
+            ]
+        }
+    ]
+}

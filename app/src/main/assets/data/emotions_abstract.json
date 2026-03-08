@@ -1,0 +1,704 @@
+{
+    "Емоції та Абстрактні Стани": [
+        {
+            "wordDe": "Zufriedenheit",
+            "wordUk": "Задоволення / Задоволеність",
+            "phrasesDe": [
+                "Tiefe Zufriedenheit.",
+                "Zufriedenheit im Beruf.",
+                "Gefühl der Zufriedenheit."
+            ],
+            "phrasesUk": [
+                "Глибоке задоволення.",
+                "Задоволеність у роботі.",
+                "Почуття задоволення."
+            ]
+        },
+        {
+            "wordDe": "Enttäuschung",
+            "wordUk": "Розчарування",
+            "phrasesDe": [
+                "Eine bittere Enttäuschung.",
+                "Enttäuschung über das Ergebnis.",
+                "Gefahr der Enttäuschung."
+            ],
+            "phrasesUk": [
+                "Гірке розчарування.",
+                "Розчарування результатом.",
+                "Загроза розчарування."
+            ]
+        },
+        {
+            "wordDe": "Begeisterung",
+            "wordUk": "Захоплення / Ентузіазм",
+            "phrasesDe": [
+                "Voller Begeisterung.",
+                "Begeisterung zeigen.",
+                "Ansteckende Begeisterung."
+            ],
+            "phrasesUk": [
+                "Повний захоплення.",
+                "Виявляти ентузіазм.",
+                "Заразливе захоплення."
+            ]
+        },
+        {
+            "wordDe": "Verzweiflung",
+            "wordUk": "Відчай",
+            "phrasesDe": [
+                "In Verzweiflung sein.",
+                "Moment der Verzweiflung.",
+                "Aus Verzweiflung handeln."
+            ],
+            "phrasesUk": [
+                "Бути у відчаї.",
+                "Момент відчаю.",
+                "Діяти з відчаю."
+            ]
+        },
+        {
+            "wordDe": "Leidenschaft",
+            "wordUk": "Пристрасть / Захоплення",
+            "phrasesDe": [
+                "Große Leidenschaft.",
+                "Leidenschaft für Musik.",
+                "Leidenschaftlich sein."
+            ],
+            "phrasesUk": [
+                "Велика пристрасть.",
+                "Захоплення музикою.",
+                "Бути пристрасним."
+            ]
+        },
+        {
+            "wordDe": "Einsamkeit",
+            "wordUk": "Самотність",
+            "phrasesDe": [
+                "Gefühl der Einsamkeit.",
+                "Einsamkeit überwinden.",
+                "In Einsamkeit leben."
+            ],
+            "phrasesUk": [
+                "Відчуття самотності.",
+                "Побороти самотність.",
+                "Жити в самотності."
+            ]
+        },
+        {
+            "wordDe": "Geborgenheit",
+            "wordUk": "Захищеність / Затишок (відчуття безпеки)",
+            "phrasesDe": [
+                "Gefühl von Geborgenheit.",
+                "Geborgenheit finden.",
+                "Wärme und Geborgenheit."
+            ],
+            "phrasesUk": [
+                "Відчуття захищеності.",
+                "Знайти затишок.",
+                "Тепло та безпека."
+            ]
+        },
+        {
+            "wordDe": "Sehnsucht",
+            "wordUk": "Туга / Палке бажання / Ностальгія",
+            "phrasesDe": [
+                "Sehnsucht nach der Heimat.",
+                "Große Sehnsucht.",
+                "Voller Sehnsucht."
+            ],
+            "phrasesUk": [
+                "Туга за батьківщиною.",
+                "Велике бажання (туга).",
+                "Сповнений туги."
+            ]
+        },
+        {
+            "wordDe": "Ehrgeiz",
+            "wordUk": "Амбіційність / Честолюбство",
+            "phrasesDe": [
+                "Gesunder Ehrgeiz.",
+                "Viel Ehrgeiz zeigen.",
+                "Mangel an Ehrgeiz."
+            ],
+            "phrasesUk": [
+                "Здорова амбіційність.",
+                "Виявляти багато честолюбства.",
+                "Брак амбіцій."
+            ]
+        },
+        {
+            "wordDe": "Neid",
+            "wordUk": "Заздрість",
+            "phrasesDe": [
+                "Aus Neid handeln.",
+                "Neid auf jemanden.",
+                "Keinen Neid empfinden."
+            ],
+            "phrasesUk": [
+                "Діяти через заздрість.",
+                "Заздрість до когось.",
+                "Не відчувати заздрощів."
+            ]
+        },
+        {
+            "wordDe": "Hoffnung",
+            "wordUk": "Надія",
+            "phrasesDe": [
+                "Voller Hoffnung.",
+                "Hoffnung auf Frieden.",
+                "Die Hoffnung stirbt zuletzt."
+            ],
+            "phrasesUk": [
+                "Сповнений надії.",
+                "Надія на мир.",
+                "Надія вмирає останньою."
+            ]
+        },
+        {
+            "wordDe": "Geduld",
+            "wordUk": "Терпіння",
+            "phrasesDe": [
+                "Viel Geduld haben.",
+                "Geduld verlieren.",
+                "Mit Geduld ans Ziel."
+            ],
+            "phrasesUk": [
+                "Мати багато терпіння.",
+                "Втрачати терпіння.",
+                "З терпінням до мети."
+            ]
+        },
+        {
+            "wordDe": "Gerechtigkeit",
+            "wordUk": "Справедливість",
+            "phrasesDe": [
+                "Sinn für Gerechtigkeit.",
+                "Kampf um Gerechtigkeit.",
+                "Soziale Gerechtigkeit."
+            ],
+            "phrasesUk": [
+                "Почуття справедливості.",
+                "Боротьба за справедливість.",
+                "Соціальна справедливість."
+            ]
+        },
+        {
+            "wordDe": "Freiheit",
+            "wordUk": "Свобода",
+            "phrasesDe": [
+                "In Freiheit leben.",
+                "Freiheit des Wortes.",
+                "Wunsch nach Freiheit."
+            ],
+            "phrasesUk": [
+                "Жити на волі.",
+                "Свобода слова.",
+                "Бажання свободи."
+            ]
+        },
+        {
+            "wordDe": "Frieden",
+            "wordUk": "Мир / Спокій",
+            "phrasesDe": [
+                "In Frieden leben.",
+                "Frieden schließen.",
+                "Innerer Frieden."
+            ],
+            "phrasesUk": [
+                "Жити в мирі.",
+                "Укласти мир.",
+                "Внутрішній спокій."
+            ]
+        },
+        {
+            "wordDe": "Verantwortung",
+            "wordUk": "Відповідальність",
+            "phrasesDe": [
+                "Verantwortung übernehmen.",
+                "Hohe Verantwortung.",
+                "Gefühl der Verantwortung."
+            ],
+            "phrasesUk": [
+                "Брати на себе відповідальність.",
+                "Висока відповідальність.",
+                "Почуття відповідальності."
+            ]
+        },
+        {
+            "wordDe": "Ehrlichkeit",
+            "wordUk": "Чесність",
+            "phrasesDe": [
+                "Wert der Ehrlichkeit.",
+                "Ehrlichkeit ist wichtig.",
+                "Absolute Ehrlichkeit."
+            ],
+            "phrasesUk": [
+                "Цінність чесності.",
+                "Чесність — це важливо.",
+                "Абсолютна чесність."
+            ]
+        },
+        {
+            "wordDe": "Respekt",
+            "wordUk": "Повага",
+            "phrasesDe": [
+                "Respekt vor anderen.",
+                "Respekt verdienen.",
+                "Respektvoller Umgang."
+            ],
+            "phrasesUk": [
+                "Повага до інших.",
+                "Заслуговувати на повагу.",
+                "Шанобливе спілкування."
+            ]
+        },
+        {
+            "wordDe": "Mut",
+            "wordUk": "Мужність / Сміливість",
+            "phrasesDe": [
+                "Viel Mut brauchen.",
+                "Mut fassen.",
+                "Ein Beweis von Mut."
+            ],
+            "phrasesUk": [
+                "Потребувати багато мужності.",
+                "Зібратися з духом.",
+                "Доказ сміливості."
+            ]
+        },
+        {
+            "wordDe": "Demut",
+            "wordUk": "Смирення / Покірність / Скромність",
+            "phrasesDe": [
+                "Voller Demut.",
+                "Zeichen der Demut.",
+                "Demut zeigen."
+            ],
+            "phrasesUk": [
+                "Сповнений смирення.",
+                "Знак покірності.",
+                "Виявляти скромність."
+            ]
+        },
+        {
+            "wordDe": "Stolz",
+            "wordUk": "Гордість",
+            "phrasesDe": [
+                "Gesunder Stolz.",
+                "Stolz auf seine Arbeit.",
+                "Verletzter Stolz."
+            ],
+            "phrasesUk": [
+                "Здорова гордість.",
+                "Пишатися своєю роботою.",
+                "Поранена гордість."
+            ]
+        },
+        {
+            "wordDe": "Zorn",
+            "wordUk": "Гнів / Лють",
+            "phrasesDe": [
+                "Gerechter Zorn.",
+                "Zorn unterdrücken.",
+                "Vor Zorn beben."
+            ],
+            "phrasesUk": [
+                "Справедливий гнів.",
+                "Придушувати лють.",
+                "Тремтіти від гніву."
+            ]
+        },
+        {
+            "wordDe": "Hass",
+            "wordUk": "Ненависть",
+            "phrasesDe": [
+                "Hass empfinden.",
+                "Blind vor Hass.",
+                "Gegen Hass kämpfen."
+            ],
+            "phrasesUk": [
+                "Відчувати ненависть.",
+                "Сліпий від ненависті.",
+                "Боротися проти ненависті."
+            ]
+        },
+        {
+            "wordDe": "Liebe",
+            "wordUk": "Любов",
+            "phrasesDe": [
+                "Wahre Liebe.",
+                "Liebe zum Detail.",
+                "Aus Liebe handeln."
+            ],
+            "phrasesUk": [
+                "Справжня любов.",
+                "Любов до деталей.",
+                "Діяти з любові."
+            ]
+        },
+        {
+            "wordDe": "Mitleid",
+            "wordUk": "Співчуття / Жалість",
+            "phrasesDe": [
+                "Mitleid haben.",
+                "Aus Mitleid.",
+                "Kein Mitleid empfinden."
+            ],
+            "phrasesUk": [
+                "Співчувати (мати жалість).",
+                "Із співчуття.",
+                "Не відчувати жалю."
+            ]
+        },
+        {
+            "wordDe": "Gleichgültigkeit",
+            "wordUk": "Байдужість",
+            "phrasesDe": [
+                "Gefahr der Gleichgültigkeit.",
+                "Gleichgültigkeit zeigen.",
+                "Absolute Gleichgültigkeit."
+            ],
+            "phrasesUk": [
+                "Загроза байдужості.",
+                "Виявляти байдужість.",
+                "Абсолютна байдужість."
+            ]
+        },
+        {
+            "wordDe": "Langeweile",
+            "wordUk": "Нудьга",
+            "phrasesDe": [
+                "Aus Langeweile.",
+                "Gegen Langeweile kämpfen.",
+                "Vor Langeweile sterben."
+            ],
+            "phrasesUk": [
+                "Від нудьги.",
+                "Боротися з нудьгою.",
+                "Помирати від нудьги."
+            ]
+        },
+        {
+            "wordDe": "Neugier",
+            "wordUk": "Допитливість / Цікавість",
+            "phrasesDe": [
+                "Gesunde Neugier.",
+                "Neugier wecken.",
+                "Voller Neugier."
+            ],
+            "phrasesUk": [
+                "Здорова допитливість.",
+                "Будити цікавість.",
+                "Сповнений цікавості."
+            ]
+        },
+        {
+            "wordDe": "Skepsis",
+            "wordUk": "Скепсис / Сумнів",
+            "phrasesDe": [
+                "Gesunde Skepsis.",
+                "Skepsis äußern.",
+                "Mit Skepsis betrachten."
+            ],
+            "phrasesUk": [
+                "Здоровий скепсис.",
+                "Висловлювати сумнів.",
+                "Розглядати зі скепсисом."
+            ]
+        },
+        {
+            "wordDe": "Verwirrung",
+            "wordUk": "Замішання / Плутанина",
+            "phrasesDe": [
+                "Völlige Verwirrung.",
+                "Verwirrung stiften.",
+                "Moment der Verwirrung."
+            ],
+            "phrasesUk": [
+                "Повне замішання.",
+                "Сіяти плутанину.",
+                "Момент замішання."
+            ]
+        },
+        {
+            "wordDe": "Gewissheit",
+            "wordUk": "Впевненість / Визначеність",
+            "phrasesDe": [
+                "Absolute Gewissheit.",
+                "Endlich Gewissheit haben.",
+                "Nach Gewissheit suchen."
+            ],
+            "phrasesUk": [
+                "Абсолютна впевненість.",
+                "Нарешті мати визначеність.",
+                "Шукати впевненості."
+            ]
+        },
+        {
+            "wordDe": "Sinn",
+            "wordUk": "Сенс / Чуття",
+            "phrasesDe": [
+                "Sinn des Lebens.",
+                "Ohne Sinn.",
+                "Sinn für Humor."
+            ],
+            "phrasesUk": [
+                "Сенс життя.",
+                "Без сенсу.",
+                "Почуття гумору."
+            ]
+        },
+        {
+            "wordDe": "Zweck",
+            "wordUk": "Мета / Ціль / Призначення",
+            "phrasesDe": [
+                "Ein klarer Zweck.",
+                "Mittel zum Zweck.",
+                "Zweck erfüllen."
+            ],
+            "phrasesUk": [
+                "Чітка мета.",
+                "Засіб для досягнення мети.",
+                "Виконувати призначення."
+            ]
+        },
+        {
+            "wordDe": "Vernunft",
+            "wordUk": "Розум / Здоровий глузд",
+            "phrasesDe": [
+                "Stimme der Vernunft.",
+                "Vernunft annehmen.",
+                "Gegen die Vernunft."
+            ],
+            "phrasesUk": [
+                "Голос розуму.",
+                "Схаменутися (прийняти розум).",
+                "Всупереч здоровому глузду."
+            ]
+        },
+        {
+            "wordDe": "Logik",
+            "wordUk": "Логіка",
+            "phrasesDe": [
+                "Klare Logik.",
+                "Einer Logik folgen.",
+                "Mangel an Logik."
+            ],
+            "phrasesUk": [
+                "Чітка логіка.",
+                "Дотримуватися логіки.",
+                "Брак логіки."
+            ]
+        },
+        {
+            "wordDe": "Intuition",
+            "wordUk": "Інтуїція",
+            "phrasesDe": [
+                "Auf die Intuition hören.",
+                "Weibliche Intuition.",
+                "Starke Intuition."
+            ],
+            "phrasesUk": [
+                "Слухати інтуїцію.",
+                "Жіноча інтуїція.",
+                "Сильна інтуїція."
+            ]
+        },
+        {
+            "wordDe": "Idealismus",
+            "wordUk": "Ідеалізм",
+            "phrasesDe": [
+                "Jugendlicher Idealismus.",
+                "Idealismus bewahren.",
+                "Kritik am Idealismus."
+            ],
+            "phrasesUk": [
+                "Юнацький ідеалізм.",
+                "Зберігати ідеалізм.",
+                "Критикувати ідеалізм."
+            ]
+        },
+        {
+            "wordDe": "Realismus",
+            "wordUk": "Реалізм",
+            "phrasesDe": [
+                "Gesunder Realismus.",
+                "Realismus zeigen.",
+                "Fokus auf Realismus."
+            ],
+            "phrasesUk": [
+                "Здоровий реалізм.",
+                "Виявляти реалізм.",
+                "Фокус на реалізмі."
+            ]
+        },
+        {
+            "wordDe": "Optimismus",
+            "wordUk": "Оптимізм",
+            "phrasesDe": [
+                "Unerschütterlicher Optimismus.",
+                "Optimismus verbreiten.",
+                "Grund für Optimismus."
+            ],
+            "phrasesUk": [
+                "Непохитний оптимізм.",
+                "Поширювати оптимізм.",
+                "Причина для оптимізму."
+            ]
+        },
+        {
+            "wordDe": "Pessimismus",
+            "wordUk": "Песимізм",
+            "phrasesDe": [
+                "Hang zum Pessimismus.",
+                "Pessimismus bekämpfen.",
+                "Schwarzer Pessimismus."
+            ],
+            "phrasesUk": [
+                "Схильність до песимізму.",
+                "Боротися з песимізмом.",
+                "Чорний песимізм."
+            ]
+        },
+        {
+            "wordDe": "Harmonie",
+            "wordUk": "Гармонія",
+            "phrasesDe": [
+                "In Harmonie leben.",
+                "Suche nach Harmonie.",
+                "Harmonie der Farben."
+            ],
+            "phrasesUk": [
+                "Жити в гармонії.",
+                "Пошук гармонії.",
+                "Гармонія кольорів."
+            ]
+        },
+        {
+            "wordDe": "Chaos",
+            "wordUk": "Хаос",
+            "phrasesDe": [
+                "Völliges Chaos.",
+                "Chaos im Kopf.",
+                "Chaos bändigen."
+            ],
+            "phrasesUk": [
+                "Повний хаос.",
+                "Хаос у голові.",
+                "Приборкати хаос."
+            ]
+        },
+        {
+            "wordDe": "Ordnung",
+            "wordUk": "Порядок",
+            "phrasesDe": [
+                "In Ordnung bringen.",
+                "Gesetz und Ordnung.",
+                "Sinn für Ordnung."
+            ],
+            "phrasesUk": [
+                "Привести до ладу (в порядок).",
+                "Закон і порядок.",
+                "Почуття порядку."
+            ]
+        },
+        {
+            "wordDe": "Schicksal",
+            "wordUk": "Доля (приречення)",
+            "phrasesDe": [
+                "An das Schicksal glauben.",
+                "Ein hartes Schicksal.",
+                "Wendung des Schicksals."
+            ],
+            "phrasesUk": [
+                "Вірити в долю.",
+                "Важка доля.",
+                "Поворот долі."
+            ]
+        },
+        {
+            "wordDe": "Zufall",
+            "wordUk": "Випадок",
+            "phrasesDe": [
+                "Ein glücklicher Zufall.",
+                "Durch Zufall.",
+                "Nichts dem Zufall überlassen."
+            ],
+            "phrasesUk": [
+                "Щасливий випадок.",
+                "Випадково.",
+                "Нічого не залишати на випадок."
+            ]
+        },
+        {
+            "wordDe": "Erfolg",
+            "wordUk": "Успіх",
+            "phrasesDe": [
+                "Viel Erfolg!",
+                "Geheimnis des Erfolgs.",
+                "Ein großer Erfolg."
+            ],
+            "phrasesUk": [
+                "Бажаю успіху!",
+                "Секрет успіху.",
+                "Великий успіх."
+            ]
+        },
+        {
+            "wordDe": "Scheitern",
+            "wordUk": "Невдача / Поразка / Крах",
+            "phrasesDe": [
+                "Angst vor dem Scheitern.",
+                "Grandioses Scheitern.",
+                "Scheitern als Chance."
+            ],
+            "phrasesUk": [
+                "Страх перед невдачею.",
+                "Грандіозний крах.",
+                "Невдача як шанс."
+            ]
+        },
+        {
+            "wordDe": "Erinnerung",
+            "wordUk": "Спогад / Пам'ять",
+            "phrasesDe": [
+                "Eine schöne Erinnerung.",
+                "Zur Erinnerung an...",
+                "Erinnerungen wecken."
+            ],
+            "phrasesUk": [
+                "Гарний спогад.",
+                "На згадку про...",
+                "Будити спогади."
+            ]
+        },
+        {
+            "wordDe": "Vergessen",
+            "wordUk": "Забуття",
+            "phrasesDe": [
+                "Gegen das Vergessen.",
+                "In Vergessenheit geraten.",
+                "Vergessen ist menschlich."
+            ],
+            "phrasesUk": [
+                "Проти забуття.",
+                "Піти в небуття (бути забутим).",
+                "Забувати — це по-людськи."
+            ]
+        },
+        {
+            "wordDe": "Zukunft",
+            "wordUk": "Майбутнє",
+            "phrasesDe": [
+                "Blick in die Zukunft.",
+                "Zukunft gestalten.",
+                "In der nahen Zukunft."
+            ],
+            "phrasesUk": [
+                "Погляд у майбутнє.",
+                "Формувати майбутнє.",
+                "У найближчому майбутньому."
+            ]
+        }
+    ]
+}

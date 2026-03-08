@@ -1,0 +1,144 @@
+{
+    "Сім'я": [
+        {
+            "wordDe": "Mutter",
+            "wordUk": "Мати",
+            "phrasesDe": [
+                "Meine Mutter ist Ärztin.",
+                "Das ist meine Mutter.",
+                "Ich liebe meine Mutter."
+            ],
+            "phrasesUk": [
+                "Моя мати - лікарка.",
+                "Це моя мати.",
+                "Я люблю свою маму."
+            ]
+        },
+        {
+            "wordDe": "Vater",
+            "wordUk": "Батько",
+            "phrasesDe": [
+                "Mein Vater arbeitet viel.",
+                "Wo ist dein Vater?",
+                "Mein Vater kocht heute."
+            ],
+            "phrasesUk": [
+                "Мій батько багато працює.",
+                "Де твій батько?",
+                "Мій батько сьогодні готує."
+            ]
+        },
+        {
+            "wordDe": "Bruder",
+            "wordUk": "Брат",
+            "phrasesDe": [
+                "Ich habe einen Bruder.",
+                "Mein Bruder spielt Fußball.",
+                "Wo wohnt dein Bruder?"
+            ],
+            "phrasesUk": [
+                "У мене є брат.",
+                "Мій брат грає у футбол.",
+                "Де живе твій брат?"
+            ]
+        },
+        {
+            "wordDe": "Schwester",
+            "wordUk": "Сестра",
+            "phrasesDe": [
+                "Meine Schwester lernt Deutsch.",
+                "Ich habe zwei Schwestern.",
+                "Meine Schwester wohnt in Wien."
+            ],
+            "phrasesUk": [
+                "Моя сестра вивчає німецьку.",
+                "У мене дві сестри.",
+                "Моя сестра живе у Відні."
+            ]
+        },
+        {
+            "wordDe": "Oma",
+            "wordUk": "Бабуся",
+            "phrasesDe": [
+                "Meine Oma ist 80.",
+                "Besuchst du deine Oma?",
+                "Oma backt Kuchen."
+            ],
+            "phrasesUk": [
+                "Моїй бабусі 80.",
+                "Ти відвідуєш свою бабусю?",
+                "Бабуся пече пиріг."
+            ]
+        },
+        {
+            "wordDe": "Opa",
+            "wordUk": "Дідусь",
+            "phrasesDe": [
+                "Mein Opa erzählt Geschichten.",
+                "Wo wohnt dein Opa?",
+                "Mein Opa spaziert im Garten."
+            ],
+            "phrasesUk": [
+                "Мій дідусь розповідає історії.",
+                "Де живе твій дідусь?",
+                "Мій дідусь гуляє в саду."
+            ]
+        },
+        {
+            "wordDe": "Kind",
+            "wordUk": "Дитина",
+            "phrasesDe": [
+                "Das Kind spielt.",
+                "Haben Sie ein Kind?",
+                "Das Kind schläft."
+            ],
+            "phrasesUk": [
+                "Дитина грається.",
+                "У Вас є дитина?",
+                "Дитина спить."
+            ]
+        },
+        {
+            "wordDe": "Enkel",
+            "wordUk": "Онук",
+            "phrasesDe": [
+                "Mein Enkel besucht mich.",
+                "Ich habe drei Enkel.",
+                "Der Enkel lernt schnell."
+            ],
+            "phrasesUk": [
+                "Онук відвідує мене.",
+                "У мене троє онуків.",
+                "Онук вчиться швидко."
+            ]
+        },
+        {
+            "wordDe": "Tante",
+            "wordUk": "Тітка",
+            "phrasesDe": [
+                "Meine Tante wohnt in Berlin.",
+                "Das ist meine Tante.",
+                "Besuchst du deine Tante?"
+            ],
+            "phrasesUk": [
+                "Моя тітка живе в Берліні.",
+                "Це моя тітка.",
+                "Ти відвідуєш тітку?"
+            ]
+        },
+        {
+            "wordDe": "Onkel",
+            "wordUk": "Дядько",
+            "phrasesDe": [
+                "Mein Onkel ist Lehrer.",
+                "Das ist mein Onkel.",
+                "Mein Onkel kocht gut."
+            ],
+            "phrasesUk": [
+                "Мій дядько - вчитель.",
+                "Це мій дядько.",
+                "Мій дядько добре готує."
+            ]
+        }
+    ]
+}

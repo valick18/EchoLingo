@@ -1,0 +1,704 @@
+{
+    "Загальний словник": [
+        {
+            "wordDe": "Sonne",
+            "wordUk": "Сонце",
+            "phrasesDe": [
+                "Die Sonne scheint heute.",
+                "Ich liebe die Sonne.",
+                "Die Sonne geht auf."
+            ],
+            "phrasesUk": [
+                "Сьогодні світить сонце.",
+                "Я люблю сонце.",
+                "Сонце сходить."
+            ]
+        },
+        {
+            "wordDe": "Mond",
+            "wordUk": "Місяць (небесне тіло)",
+            "phrasesDe": [
+                "Der Mond ist voll.",
+                "Wir sehen den Mond.",
+                "Das Licht des Mondes."
+            ],
+            "phrasesUk": [
+                "Місяць повний.",
+                "Ми бачимо місяць.",
+                "Світло місяця."
+            ]
+        },
+        {
+            "wordDe": "Haus",
+            "wordUk": "Будинок",
+            "phrasesDe": [
+                "Unser Haus ist groß.",
+                "Gehen wir nach Hause?",
+                "Das ist mein Haus."
+            ],
+            "phrasesUk": [
+                "Наш будинок великий.",
+                "Підемо додому?",
+                "Це мій будинок."
+            ]
+        },
+        {
+            "wordDe": "Tisch",
+            "wordUk": "Стіл",
+            "phrasesDe": [
+                "Der Tisch ist aus Holz.",
+                "Setz dich an den Tisch.",
+                "Das Buch liegt auf dem Tisch."
+            ],
+            "phrasesUk": [
+                "Стіл дерев'яний.",
+                "Сідай за стіл.",
+                "Книга лежить на столі."
+            ]
+        },
+        {
+            "wordDe": "Stuhl",
+            "wordUk": "Стілець",
+            "phrasesDe": [
+                "Bequemer Stuhl.",
+                "Setz dich auf den Stuhl.",
+                "Wo ist der Stuhl?"
+            ],
+            "phrasesUk": [
+                "Зручний стілець.",
+                "Сідай на стілець.",
+                "Де стілець?"
+            ]
+        },
+        {
+            "wordDe": "Fenster",
+            "wordUk": "Вікно",
+            "phrasesDe": [
+                "Mach das Fenster auf.",
+                "Das Fenster ist sauber.",
+                "Ich schaue aus dem Fenster."
+            ],
+            "phrasesUk": [
+                "Відчини вікно.",
+                "Вікно чисте.",
+                "Я дивлюся у вікно."
+            ]
+        },
+        {
+            "wordDe": "Tür",
+            "wordUk": "Двері",
+            "phrasesDe": [
+                "Mach die Tür zu.",
+                "Jemand klopft an die Tür.",
+                "Die Tür ist offen."
+            ],
+            "phrasesUk": [
+                "Зачиніть двері.",
+                "Хтось стукає в двері.",
+                "Двері відчинені."
+            ]
+        },
+        {
+            "wordDe": "Schule",
+            "wordUk": "Школа",
+            "phrasesDe": [
+                "Ich gehe zur Schule.",
+                "Die Schule ist aus.",
+                "Meine Schule ist alt."
+            ],
+            "phrasesUk": [
+                "Я йду до школи.",
+                "Школа закінчилася.",
+                "Моя школа стара."
+            ]
+        },
+        {
+            "wordDe": "Buch",
+            "wordUk": "Книга",
+            "phrasesDe": [
+                "Ein spannendes Buch.",
+                "Gib mir das Buch.",
+                "Ich lese ein Buch."
+            ],
+            "phrasesUk": [
+                "Захоплююча книга.",
+                "Дай мені книгу.",
+                "Я читаю книгу."
+            ]
+        },
+        {
+            "wordDe": "Auto",
+            "wordUk": "Автомобіль",
+            "phrasesDe": [
+                "Das Auto fährt schnell.",
+                "Wo ist dein Auto?",
+                "Ein neues Auto."
+            ],
+            "phrasesUk": [
+                "Машина їде швидко.",
+                "Де твоє авто?",
+                "Нова машина."
+            ]
+        },
+        {
+            "wordDe": "Fahrrad",
+            "wordUk": "Велосипед",
+            "phrasesDe": [
+                "Ich fahre gerne Fahrrad.",
+                "Mein Fahrrad ist kaputt.",
+                "Ein rotes Fahrrad."
+            ],
+            "phrasesUk": [
+                "Я люблю їздити на велосипеді.",
+                "Мій велосипед зламаний.",
+                "Червоний велосипед."
+            ]
+        },
+        {
+            "wordDe": "Zug",
+            "wordUk": "Поїзд",
+            "phrasesDe": [
+                "Der Zug hat Verspätung.",
+                "Nimmst du den Zug?",
+                "Der Zug fährt jetzt ab."
+            ],
+            "phrasesUk": [
+                "Поїзд запізнюється.",
+                "Ти поїдеш поїздом?",
+                "Поїзд зараз відправляється."
+            ]
+        },
+        {
+            "wordDe": "Flugzeug",
+            "wordUk": "Літак",
+            "phrasesDe": [
+                "Das Flugzeug landet.",
+                "Reisen mit dem Flugzeug.",
+                "Ich sehe ein Flugzeug."
+            ],
+            "phrasesUk": [
+                "Літак приземляється.",
+                "Подорожувати літаком.",
+                "Я бачу літак."
+            ]
+        },
+        {
+            "wordDe": "Stadt",
+            "wordUk": "Місто",
+            "phrasesDe": [
+                "Die Stadt ist laut.",
+                "Wir gehen in die Stadt.",
+                "Eine schöne Stadt."
+            ],
+            "phrasesUk": [
+                "Місто шумне.",
+                "Ми йдемо в місто.",
+                "Гарне місто."
+            ]
+        },
+        {
+            "wordDe": "Dorf",
+            "wordUk": "Село",
+            "phrasesDe": [
+                "Ich wohne in einem Dorf.",
+                "Das Dorf ist ruhig.",
+                "Ein kleines Dorf."
+            ],
+            "phrasesUk": [
+                "Я живу в селі.",
+                "Село спокійне.",
+                "Маленьке село."
+            ]
+        },
+        {
+            "wordDe": "Land",
+            "wordUk": "Країна / Земля",
+            "phrasesDe": [
+                "Deutschland ist ein Land.",
+                "Auf dem Land leben.",
+                "Ein fremdes Land."
+            ],
+            "phrasesUk": [
+                "Німеччина - це країна.",
+                "Жити в сільській місцевості.",
+                "Чужа країна."
+            ]
+        },
+        {
+            "wordDe": "Wasser",
+            "wordUk": "Вода",
+            "phrasesDe": [
+                "Ein Glas Wasser.",
+                "Ist das Wasser kalt?",
+                "Wir trinken Wasser."
+            ],
+            "phrasesUk": [
+                "Склянка води.",
+                "Вода холодна?",
+                "Ми п'ємо воду."
+            ]
+        },
+        {
+            "wordDe": "Brot",
+            "wordUk": "Хліб",
+            "phrasesDe": [
+                "Frisches Brot.",
+                "Ich kaufe Brot.",
+                "Brot mit Käse."
+            ],
+            "phrasesUk": [
+                "Свіжий хліб.",
+                "Я купую хліб.",
+                "Хліб із сиром."
+            ]
+        },
+        {
+            "wordDe": "Milch",
+            "wordUk": "Молоко",
+            "phrasesDe": [
+                "Trinkst du Milch?",
+                "Milch im Kaffee.",
+                "Frische Milch."
+            ],
+            "phrasesUk": [
+                "Ти п'єш молоко?",
+                "Молоко в каві.",
+                "Свіже молоко."
+            ]
+        },
+        {
+            "wordDe": "Apfel",
+            "wordUk": "Яблуко",
+            "phrasesDe": [
+                "Ein roter Apfel.",
+                "Ich esse einen Apfel.",
+                "Süßer Apfel."
+            ],
+            "phrasesUk": [
+                "Червоне яблуко.",
+                "Я їм яблуко.",
+                "Солодке яблуко."
+            ]
+        },
+        {
+            "wordDe": "Kaffee",
+            "wordUk": "Кава",
+            "phrasesDe": [
+                "Heißer Kaffee.",
+                "Möchten Sie Kaffee?",
+                "Ich trinke Kaffee."
+            ],
+            "phrasesUk": [
+                "Гаряча кава.",
+                "Хочете кави?",
+                "Я п'ю каву."
+            ]
+        },
+        {
+            "wordDe": "Tee",
+            "wordUk": "Чай",
+            "phrasesDe": [
+                "Eine Tasse Tee.",
+                "Schwarzer Tee.",
+                "Tee mit Zitrone."
+            ],
+            "phrasesUk": [
+                "Чашка чаю.",
+                "Чорний чай.",
+                "Чай з лимоном."
+            ]
+        },
+        {
+            "wordDe": "Essen",
+            "wordUk": "Їжа / Їсти",
+            "phrasesDe": [
+                "Leckeres Essen.",
+                "Das Essen ist fertig.",
+                "Wir gehen essen."
+            ],
+            "phrasesUk": [
+                "Смачна їжа.",
+                "Їжа готова.",
+                "Ми йдемо їсти."
+            ]
+        },
+        {
+            "wordDe": "Trinken",
+            "wordUk": "Пити / Напій",
+            "phrasesDe": [
+                "Viel trinken ist wichtig.",
+                "Was möchten Sie trinken?",
+                "Ein kaltes Trinken."
+            ],
+            "phrasesUk": [
+                "Важливо багато пити.",
+                "Що б Ви хотіли випити?",
+                "Холодний напій."
+            ]
+        },
+        {
+            "wordDe": "Kochen",
+            "wordUk": "Готувати",
+            "phrasesDe": [
+                "Ich koche gerne.",
+                "Was kochst du heute?",
+                "Kochen macht Spaß."
+            ],
+            "phrasesUk": [
+                "Я люблю готувати.",
+                "Що ти сьогодні готуєш?",
+                "Готувати - це весело."
+            ]
+        },
+        {
+            "wordDe": "Schlafen",
+            "wordUk": "Спати",
+            "phrasesDe": [
+                "Ich muss schlafen.",
+                "Gut schlafen.",
+                "Er schläft noch."
+            ],
+            "phrasesUk": [
+                "Мені треба спати.",
+                "Добре спати.",
+                "Він ще спить."
+            ]
+        },
+        {
+            "wordDe": "Arbeiten",
+            "wordUk": "Працювати",
+            "phrasesDe": [
+                "Ich arbeite bei Bosch.",
+                "Viel arbeiten.",
+                "Wo arbeitest du?"
+            ],
+            "phrasesUk": [
+                "Я працюю в Bosch.",
+                "Багато працювати.",
+                "Де ти працюєш?"
+            ]
+        },
+        {
+            "wordDe": "Lernen",
+            "wordUk": "Вчитися",
+            "phrasesDe": [
+                "Ich lerne Deutsch.",
+                "In der Schule lernen.",
+                "Viel lernen."
+            ],
+            "phrasesUk": [
+                "Я вивчаю німецьку.",
+                "Вчитися в школі.",
+                "Багато вчитися."
+            ]
+        },
+        {
+            "wordDe": "Lesen",
+            "wordUk": "Читати",
+            "phrasesDe": [
+                "Ich lese ein Buch.",
+                "Gerne lesen.",
+                "Liest du die Zeitung?"
+            ],
+            "phrasesUk": [
+                "Я читаю книгу.",
+                "Охоче читати.",
+                "Ти читаєш газету?"
+            ]
+        },
+        {
+            "wordDe": "Schreiben",
+            "wordUk": "Писати",
+            "phrasesDe": [
+                "Einen Brief schreiben.",
+                "Ich schreibe dir.",
+                "Richtig schreiben."
+            ],
+            "phrasesUk": [
+                "Писати листа.",
+                "Я пишу тобі.",
+                "Писати правильно."
+            ]
+        },
+        {
+            "wordDe": "Sehen",
+            "wordUk": "Бачити / Дивитися",
+            "phrasesDe": [
+                "Ich sehe dich.",
+                "Einen Film sehen.",
+                "Wir sehen uns."
+            ],
+            "phrasesUk": [
+                "Я бачу тебе.",
+                "Дивитися фільм.",
+                "Побачимося."
+            ]
+        },
+        {
+            "wordDe": "Hören",
+            "wordUk": "Чути / Слухати",
+            "phrasesDe": [
+                "Musik hören.",
+                "Hörst du mich?",
+                "Ich höre zu."
+            ],
+            "phrasesUk": [
+                "Слухати музику.",
+                "Ти мене чуєш?",
+                "Я слухаю."
+            ]
+        },
+        {
+            "wordDe": "Sprechen",
+            "wordUk": "Говорити",
+            "phrasesDe": [
+                "Deutsch sprechen.",
+                "Kann ich mit dir sprechen?",
+                "Langsam sprechen."
+            ],
+            "phrasesUk": [
+                "Говорити німецькою.",
+                "Можу я з тобою поговорити?",
+                "Говорити повільно."
+            ]
+        },
+        {
+            "wordDe": "Fragen",
+            "wordUk": "Питати",
+            "phrasesDe": [
+                "Darf ich etwas fragen?",
+                "Den Lehrer fragen.",
+                "Ich frage dich."
+            ],
+            "phrasesUk": [
+                "Можна щось запитати?",
+                "Запитати вчителя.",
+                "Я питаю тебе."
+            ]
+        },
+        {
+            "wordDe": "Antworten",
+            "wordUk": "Відповідати",
+            "phrasesDe": [
+                "Bitte antworten Sie.",
+                "Ich antworte dir.",
+                "Eine gute Antwort."
+            ],
+            "phrasesUk": [
+                "Будь ласка, дайте відповідь.",
+                "Я відповідаю тобі.",
+                "Хороша відповідь."
+            ]
+        },
+        {
+            "wordDe": "Helfen",
+            "wordUk": "Допомагати",
+            "phrasesDe": [
+                "Kann ich helfen?",
+                "Hilf mir bitte.",
+                "Gerne helfen."
+            ],
+            "phrasesUk": [
+                "Можу я допомогти?",
+                "Допоможи мені, будь ласка.",
+                "Охоче допомагати."
+            ]
+        },
+        {
+            "wordDe": "Laufen",
+            "wordUk": "Бігти / Йти",
+            "phrasesDe": [
+                "Schnell laufen.",
+                "Wir laufen im Park.",
+                "Lauf weg!"
+            ],
+            "phrasesUk": [
+                "Швидко бігти.",
+                "Ми бігаємо в парку.",
+                "Тікай!"
+            ]
+        },
+        {
+            "wordDe": "Gehen",
+            "wordUk": "Йти",
+            "phrasesDe": [
+                "Nach Hause gehen.",
+                "Wir gehen jetzt.",
+                "Gehst du mit?"
+            ],
+            "phrasesUk": [
+                "Йти додому.",
+                "Ми вже йдемо.",
+                "Ти підеш з нами?"
+            ]
+        },
+        {
+            "wordDe": "Kommen",
+            "wordUk": "Приходити",
+            "phrasesDe": [
+                "Wann kommst du?",
+                "Ich komme gleich.",
+                "Komm her."
+            ],
+            "phrasesUk": [
+                "Коли ти прийдеш?",
+                "Я зараз прийду.",
+                "Йди сюди."
+            ]
+        },
+        {
+            "wordDe": "Warten",
+            "wordUk": "Чекати",
+            "phrasesDe": [
+                "Auf den Bus warten.",
+                "Warte hier.",
+                "Wir warten."
+            ],
+            "phrasesUk": [
+                "Чекати на автобус.",
+                "Чекай тут.",
+                "Ми чекаємо."
+            ]
+        },
+        {
+            "wordDe": "Kaufen",
+            "wordUk": "Купувати",
+            "phrasesDe": [
+                "Ich kaufe ein Brot.",
+                "Wo kaufst du ein?",
+                "Ein neues Auto kaufen."
+            ],
+            "phrasesUk": [
+                "Я купую хліб.",
+                "Де ти робиш покупки?",
+                "Купити нову машину."
+            ]
+        },
+        {
+            "wordDe": "Verkaufen",
+            "wordUk": "Продавати",
+            "phrasesDe": [
+                "Das Auto verkaufen.",
+                "Ich verkaufe mein Haus.",
+                "Viel verkaufen."
+            ],
+            "phrasesUk": [
+                "Продати машину.",
+                "Я продаю свій будинок.",
+                "Багато продавати."
+            ]
+        },
+        {
+            "wordDe": "Suchen",
+            "wordUk": "Шукати",
+            "phrasesDe": [
+                "Ich suche meinen Schlüssel.",
+                "Was suchst du?",
+                "Arbeit suchen."
+            ],
+            "phrasesUk": [
+                "Я шукаю свій ключ.",
+                "Що ти шукаєш?",
+                "Шукати роботу."
+            ]
+        },
+        {
+            "wordDe": "Finden",
+            "wordUk": "Знаходити",
+            "phrasesDe": [
+                "Hast du den Schlüssel gefunden?",
+                "Ich finde das gut.",
+                "Nichts finden."
+            ],
+            "phrasesUk": [
+                "Ти знайшов ключ?",
+                "Я вважаю це хорошим.",
+                "Нічого не знайти."
+            ]
+        },
+        {
+            "wordDe": "Geben",
+            "wordUk": "Давати",
+            "phrasesDe": [
+                "Gib mir die Hand.",
+                "Ich gebe dir das Buch.",
+                "Geld geben."
+            ],
+            "phrasesUk": [
+                "Дай мені руку.",
+                "Я даю тобі книгу.",
+                "Давати гроші."
+            ]
+        },
+        {
+            "wordDe": "Nehmen",
+            "wordUk": "Брати",
+            "phrasesDe": [
+                "Nimm das.",
+                "Ich nehme den Kaffee.",
+                "Platz nehmen."
+            ],
+            "phrasesUk": [
+                "Візьми це.",
+                "Я візьму каву.",
+                "Сідайте (займіть місце)."
+            ]
+        },
+        {
+            "wordDe": "Haben",
+            "wordUk": "Мати",
+            "phrasesDe": [
+                "Ich habe Zeit.",
+                "Haben Sie Kinder?",
+                "Viel Glück haben."
+            ],
+            "phrasesUk": [
+                "У мене є час.",
+                "У Вас є діти?",
+                "Мати удачу."
+            ]
+        },
+        {
+            "wordDe": "Sein",
+            "wordUk": "Бути",
+            "phrasesDe": [
+                "Ich bin glücklich.",
+                "Wer bist du?",
+                "Es ist spät."
+            ],
+            "phrasesUk": [
+                "Я щасливий.",
+                "Хто ти?",
+                "Вже пізно."
+            ]
+        },
+        {
+            "wordDe": "Werden",
+            "wordUk": "Ставати",
+            "phrasesDe": [
+                "Ich werde Arzt.",
+                "Es wird kalt.",
+                "Was willst du werden?"
+            ],
+            "phrasesUk": [
+                "Я стану лікарем.",
+                "Стає холодно.",
+                "Ким ти хочеш стати?"
+            ]
+        },
+        {
+            "wordDe": "Wissen",
+            "wordUk": "Знати",
+            "phrasesDe": [
+                "Ich weiß es nicht.",
+                "Weißt du das?",
+                "Bescheid wissen."
+            ],
+            "phrasesUk": [
+                "Я цього не знаю.",
+                "Ти це знаєш?",
+                "Бути в курсі."
+            ]
+        }
+    ]
+}

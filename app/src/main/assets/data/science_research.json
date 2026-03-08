@@ -1,0 +1,704 @@
+{
+    "Наука та Дослідження": [
+        {
+            "wordDe": "Forschung",
+            "wordUk": "Дослідження",
+            "phrasesDe": [
+                "Medizinische Forschung.",
+                "Stand der Forschung.",
+                "Forschung und Entwicklung."
+            ],
+            "phrasesUk": [
+                "Медичні дослідження.",
+                "Стан досліджень.",
+                "Дослідження та розробка (R&D)."
+            ]
+        },
+        {
+            "wordDe": "Wissenschaft",
+            "wordUk": "Наука",
+            "phrasesDe": [
+                "Moderne Wissenschaft.",
+                "Glauben an die Wissenschaft.",
+                "Wissenschaftliche Erkenntnis."
+            ],
+            "phrasesUk": [
+                "Сучасна наука.",
+                "Віра в науку.",
+                "Наукове пізнання (відкриття)."
+            ]
+        },
+        {
+            "wordDe": "Hypothese",
+            "wordUk": "Гіпотеза",
+            "phrasesDe": [
+                "Eine gewagte Hypothese.",
+                "Hypothese aufstellen.",
+                "Bestätigung der Hypothese."
+            ],
+            "phrasesUk": [
+                "Смілива гіпотеза.",
+                "Висунути гіпотезу.",
+                "Підтвердження гіпотези."
+            ]
+        },
+        {
+            "wordDe": "Theorie",
+            "wordUk": "Теорія",
+            "phrasesDe": [
+                "Wissenschaftliche Theorie.",
+                "In der Theorie.",
+                "Theorie und Praxis."
+            ],
+            "phrasesUk": [
+                "Наукова теорія.",
+                "В теорії.",
+                "Теорія та практика."
+            ]
+        },
+        {
+            "wordDe": "Experiment",
+            "wordUk": "Експеримент",
+            "phrasesDe": [
+                "Ein riskantes Experiment.",
+                "Experiment durchführen.",
+                "Ergebnis des Experiments."
+            ],
+            "phrasesUk": [
+                "Ризикований експеримент.",
+                "Проводити експеримент.",
+                "Результат експерименту."
+            ]
+        },
+        {
+            "wordDe": "Analyse",
+            "wordUk": "Аналіз",
+            "phrasesDe": [
+                "Detaillierte Analyse.",
+                "Analyse der Daten.",
+                "Chemische Analyse."
+            ],
+            "phrasesUk": [
+                "Детальний аналіз.",
+                "Аналіз даних.",
+                "Хімічний аналіз."
+            ]
+        },
+        {
+            "wordDe": "Erkenntnis",
+            "wordUk": "Пізнання / Висновок / Відкриття",
+            "phrasesDe": [
+                "Wichtige Erkenntnis.",
+                "Zu einer Erkenntnis kommen.",
+                "Wissenschaftliche Erkenntnisse."
+            ],
+            "phrasesUk": [
+                "Важливе відкриття (висновок).",
+                "Прийти до висновку.",
+                "Наукові здобутки (знання)."
+            ]
+        },
+        {
+            "wordDe": "Innovation",
+            "wordUk": "Інновація / Нововведення",
+            "phrasesDe": [
+                "Technische Innovation.",
+                "Geist der Innovation.",
+                "Förderung von Innovationen."
+            ],
+            "phrasesUk": [
+                "Технічна інновація.",
+                "Дух інновацій.",
+                "Сприяння інноваціям."
+            ]
+        },
+        {
+            "wordDe": "Technologie",
+            "wordUk": "Технологія",
+            "phrasesDe": [
+                "Moderne Technologie.",
+                "Einsatz von Technologie.",
+                "Hochtechnologie."
+            ],
+            "phrasesUk": [
+                "Сучасна технологія.",
+                "Використання технологій.",
+                "Високі технології (High-Tech)."
+            ]
+        },
+        {
+            "wordDe": "Labor",
+            "wordUk": "Лабораторія",
+            "phrasesDe": [
+                "Im Labor arbeiten.",
+                "Ausstattung des Labors.",
+                "Chemisches Labor."
+            ],
+            "phrasesUk": [
+                "Працювати в лабораторії.",
+                "Оснащення лабораторії.",
+                "Хімічна лабораторія."
+            ]
+        },
+        {
+            "wordDe": "Datenbank",
+            "wordUk": "База даних",
+            "phrasesDe": [
+                "Zugriff auf die Datenbank.",
+                "Datenbank aktualisieren.",
+                "Große Datenbank."
+            ],
+            "phrasesUk": [
+                "Доступ до бази даних.",
+                "Оновити базу даних.",
+                "Велика база даних."
+            ]
+        },
+        {
+            "wordDe": "Statistik",
+            "wordUk": "Статистика",
+            "phrasesDe": [
+                "Offizielle Statistik.",
+                "Laut der Statistik.",
+                "Statistik führen."
+            ],
+            "phrasesUk": [
+                "Офіційна статистика.",
+                "Згідно зі статистикою.",
+                "Вести статистику."
+            ]
+        },
+        {
+            "wordDe": "Präzision",
+            "wordUk": "Точність / Прецизійність",
+            "phrasesDe": [
+                "Höchste Präzision.",
+                "Präzision der Messung.",
+                "Mangel an Präzision."
+            ],
+            "phrasesUk": [
+                "Найвища точність.",
+                "Точність вимірювання.",
+                "Брак точності."
+            ]
+        },
+        {
+            "wordDe": "Messung",
+            "wordUk": "Вимірювання",
+            "phrasesDe": [
+                "Genaue Messung.",
+                "Messung durchführen.",
+                "Messung der Temperatur."
+            ],
+            "phrasesUk": [
+                "Точне вимірювання.",
+                "Проводити вимірювання.",
+                "Вимірювання температури."
+            ]
+        },
+        {
+            "wordDe": "Verfahren",
+            "wordUk": "Метод / Процедура / Процес",
+            "phrasesDe": [
+                "Wissenschaftliches Verfahren.",
+                "Neues Verfahren testen.",
+                "Standardisiertes Verfahren."
+            ],
+            "phrasesUk": [
+                "Науковий метод.",
+                "Тестувати новий метод.",
+                "Стандартизована процедура."
+            ]
+        },
+        {
+            "wordDe": "Phänomen",
+            "wordUk": "Феномен / Явища",
+            "phrasesDe": [
+                "Ein seltenes Phänomen.",
+                "Naturphänomen.",
+                "Phänomen erklären."
+            ],
+            "phrasesUk": [
+                "Рідкісний феномен.",
+                "Природне явище.",
+                "Пояснити феномен."
+            ]
+        },
+        {
+            "wordDe": "Substanz",
+            "wordUk": "Речовина / Субстанція",
+            "phrasesDe": [
+                "Gefährliche Substanz.",
+                "Chemische Substanz.",
+                "Wirkung der Substanz."
+            ],
+            "phrasesUk": [
+                "Небезпечна речовина.",
+                "Хімічна субстанція.",
+                "Дія речовини."
+            ]
+        },
+        {
+            "wordDe": "Materie",
+            "wordUk": "Матерія",
+            "phrasesDe": [
+                "Aufbau der Materie.",
+                "Dunkle Materie.",
+                "In die Materie eintauchen."
+            ],
+            "phrasesUk": [
+                "Будова матерії.",
+                "Темна матерія.",
+                "Зануритися в суть справи (матерію)."
+            ]
+        },
+        {
+            "wordDe": "Energie",
+            "wordUk": "Енергія",
+            "phrasesDe": [
+                "Erneuerbare Energien.",
+                "Mangel an Energie.",
+                "Energiequelle."
+            ],
+            "phrasesUk": [
+                "Відновлювані джерела енергії.",
+                "Брак енергії.",
+                "Джерело енергії."
+            ]
+        },
+        {
+            "wordDe": "Evolution",
+            "wordUk": "Еволюція",
+            "phrasesDe": [
+                "Theorie der Evolution.",
+                "Stufen der Evolution.",
+                "Biologische Evolution."
+            ],
+            "phrasesUk": [
+                "Теорія еволюції.",
+                "Етапи еволюції.",
+                "Біологічна еволюція."
+            ]
+        },
+        {
+            "wordDe": "Genetik",
+            "wordUk": "Генетика",
+            "phrasesDe": [
+                "Fortschritte in der Genetik.",
+                "Moderne Genetik.",
+                "Einfluss der Genetik."
+            ],
+            "phrasesUk": [
+                "Прогрес у генетиці.",
+                "Сучасна генетика.",
+                "Вплив генетики."
+            ]
+        },
+        {
+            "wordDe": "Kosmos",
+            "wordUk": "Космос / Всесвіт",
+            "phrasesDe": [
+                "Erkundung des Kosmos.",
+                "Geheimnisse des Kosmos.",
+                "Blick in den Kosmos."
+            ],
+            "phrasesUk": [
+                "Дослідження космосу.",
+                "Таємниці всесвіту.",
+                "Погляд у космос."
+            ]
+        },
+        {
+            "wordDe": "Astronomie",
+            "wordUk": "Астрономія",
+            "phrasesDe": [
+                "Interesse an Astronomie.",
+                "Moderne Astronomie.",
+                "Astronomie-Studium."
+            ],
+            "phrasesUk": [
+                "Інтерес до астрономії.",
+                "Сучасна астрономія.",
+                "Вивчення астрономії."
+            ]
+        },
+        {
+            "wordDe": "Physik",
+            "wordUk": "Фізика",
+            "phrasesDe": [
+                "Gesetze der Physik.",
+                "Quantenphysik.",
+                "Nobelpreis für Physik."
+            ],
+            "phrasesUk": [
+                "Закони фізики.",
+                "Квантова фізика.",
+                "Нобелівська премія з фізики."
+            ]
+        },
+        {
+            "wordDe": "Chemie",
+            "wordUk": "Хімія",
+            "phrasesDe": [
+                "Organische Chemie.",
+                "Labor für Chemie.",
+                "Chemie der Elemente."
+            ],
+            "phrasesUk": [
+                "Органічна хімія.",
+                "Хімічна лабораторія.",
+                "Хімія елементів."
+            ]
+        },
+        {
+            "wordDe": "Biologie",
+            "wordUk": "Біологія",
+            "phrasesDe": [
+                "Meeresbiologie.",
+                "Biologie des Menschen.",
+                "Studium der Biologie."
+            ],
+            "phrasesUk": [
+                "Морська біологія.",
+                "Біологія людини.",
+                "Навчання на біолога."
+            ]
+        },
+        {
+            "wordDe": "Mathematik",
+            "wordUk": "Математика",
+            "phrasesDe": [
+                "Logik der Mathematik.",
+                "Angewandte Mathematik.",
+                "Mathematik-Lehrer."
+            ],
+            "phrasesUk": [
+                "Логіка математики.",
+                "Прикладна математика.",
+                "Вчитель математики."
+            ]
+        },
+        {
+            "wordDe": "Philosophie",
+            "wordUk": "Філософія",
+            "phrasesDe": [
+                "Griechische Philosophie.",
+                "Philosophie des Lebens.",
+                "Sinn für Philosophie."
+            ],
+            "phrasesUk": [
+                "Грецька філософія.",
+                "Філософія життя.",
+                "Хист до філософії."
+            ]
+        },
+        {
+            "wordDe": "Soziologie",
+            "wordUk": "Соціологія",
+            "phrasesDe": [
+                "Moderne Soziologie.",
+                "Soziologische Studie.",
+                "Themen der Soziologie."
+            ],
+            "phrasesUk": [
+                "Сучасна соціологія.",
+                "Соціологічне дослідження.",
+                "Теми соціології."
+            ]
+        },
+        {
+            "wordDe": "Psychologie",
+            "wordUk": "Психологія",
+            "phrasesDe": [
+                "Klinische Psychologie.",
+                "Wissen über Psychologie.",
+                "Psychologie der Massen."
+            ],
+            "phrasesUk": [
+                "Клінічна психологія.",
+                "Знання з психології.",
+                "Психологія мас."
+            ]
+        },
+        {
+            "wordDe": "Akademie",
+            "wordUk": "Академія",
+            "phrasesDe": [
+                "Wissenschaftliche Akademie.",
+                "Mitglied der Akademie.",
+                "Kunstakademie."
+            ],
+            "phrasesUk": [
+                "Наукова академія.",
+                "Член академії.",
+                "Академія мистецтв."
+            ]
+        },
+        {
+            "wordDe": "Studiengang",
+            "wordUk": "Спеціальність / Курс навчання",
+            "phrasesDe": [
+                "Ein neuer Studiengang.",
+                "Studiengang wählen.",
+                "Dauer des Studiengangs."
+            ],
+            "phrasesUk": [
+                "Новий курс навчання.",
+                "Вибрати спеціальність.",
+                "Тривалість навчання."
+            ]
+        },
+        {
+            "wordDe": "Promotion",
+            "wordUk": "Здобуття докторського ступеня (Промóція)",
+            "phrasesDe": [
+                "Die Promotion abschließen.",
+                "Thema der Promotion.",
+                "Erfolg bei der Promotion."
+            ],
+            "phrasesUk": [
+                "Завершити отримання докторського ступеня.",
+                "Тема дисертації (промоції).",
+                "Успіх при захисті."
+            ]
+        },
+        {
+            "wordDe": "Habilitation",
+            "wordUk": "Габілітація (вищий науковий ступінь)",
+            "phrasesDe": [
+                "Weg zur Habilitation.",
+                "Thema der Habilitation.",
+                "Habilitationsschrift."
+            ],
+            "phrasesUk": [
+                "Шлях до габілітації.",
+                "Тема габілітації.",
+                "Габілітаційна робота."
+            ]
+        },
+        {
+            "wordDe": "Publikation",
+            "wordUk": "Публікація / Видання",
+            "phrasesDe": [
+                "Wissenschaftliche Publikation.",
+                "Liste der Publikationen.",
+                "Erste Publikation."
+            ],
+            "phrasesUk": [
+                "Наукова публікація.",
+                "Список видань.",
+                "Перша публікація."
+            ]
+        },
+        {
+            "wordDe": "Zitieren",
+            "wordUk": "Цитувати",
+            "phrasesDe": [
+                "Richtig zitieren.",
+                "Quellen zitieren.",
+                "Zitierregeln."
+            ],
+            "phrasesUk": [
+                "Правильно цитувати.",
+                "Цитувати джерела.",
+                "Правила цитування."
+            ]
+        },
+        {
+            "wordDe": "Quelle",
+            "wordUk": "Джерело",
+            "phrasesDe": [
+                "Zuverlässige Quelle.",
+                "Primärquelle.",
+                "Quellenangabe."
+            ],
+            "phrasesUk": [
+                "Надійне джерело.",
+                "Першоджерело.",
+                "Зазначення джерел."
+            ]
+        },
+        {
+            "wordDe": "Kongress",
+            "wordUk": "Конгрес",
+            "phrasesDe": [
+                "Wissenschaftlicher Kongress.",
+                "Teilnahme am Kongress.",
+                "Eröffnung des Kongresses."
+            ],
+            "phrasesUk": [
+                "Науковий конгрес.",
+                "Участь у конгресі.",
+                "Відкриття конгресу."
+            ]
+        },
+        {
+            "wordDe": "Vortrag",
+            "wordUk": "Доповідь / Лекція",
+            "phrasesDe": [
+                "Einen Vortrag halten.",
+                "Einen interessanten Vortrag hören.",
+                "Vortragsreihe."
+            ],
+            "phrasesUk": [
+                "Виголосити доповідь.",
+                "Слухати цікаву лекцію.",
+                "Цикл доповідей."
+            ]
+        },
+        {
+            "wordDe": "Diskussion",
+            "wordUk": "Дискусія / Обговорення",
+            "phrasesDe": [
+                "Hitzige Diskussion.",
+                "Teilnahme an der Diskussion.",
+                "Diskussionsrunde."
+            ],
+            "phrasesUk": [
+                "Палка дискусія.",
+                "Участь в обговоренні.",
+                "Дискусійна група (круглий стіл)."
+            ]
+        },
+        {
+            "wordDe": "Hypothetisch",
+            "wordUk": "Гіпотетичний / Припустимий",
+            "phrasesDe": [
+                "Ein hypothetischer Fall.",
+                "Hypothetisch gesprochen.",
+                "Hypothetische Frage."
+            ],
+            "phrasesUk": [
+                "Гіпотетичний випадок.",
+                "Гіпотетично кажучи.",
+                "Гіпотетичне питання."
+            ]
+        },
+        {
+            "wordDe": "Empirisch",
+            "wordUk": "Емпіричний (базований на досвіді/даних)",
+            "phrasesDe": [
+                "Empirische Daten.",
+                "Empirische Forschung.",
+                "Empirisch belegt."
+            ],
+            "phrasesUk": [
+                "Емпіричні дані.",
+                "Емпіричне дослідження.",
+                "Доведено емпірично (досвідом)."
+            ]
+        },
+        {
+            "wordDe": "Theoretisch",
+            "wordUk": "Теоретичний / Теоретично",
+            "phrasesDe": [
+                "Theoretisches Wissen.",
+                "Theoretisch möglich.",
+                "Theoretische Grundlage."
+            ],
+            "phrasesUk": [
+                "Теоретичні знання.",
+                "Теоретично можливо.",
+                "Теоретичне підґрунтя."
+            ]
+        },
+        {
+            "wordDe": "Systematisch",
+            "wordUk": "Систематичний / Системно",
+            "phrasesDe": [
+                "Systematische Untersuchung.",
+                "Systematisch vorgehen.",
+                "Systematische Fehler."
+            ],
+            "phrasesUk": [
+                "Систематичне обстеження.",
+                "Діяти системно.",
+                "Систематичні помилки."
+            ]
+        },
+        {
+            "wordDe": "Objektivität",
+            "wordUk": "Об'єктивність",
+            "phrasesDe": [
+                "Wahrung der Objektivität.",
+                "Mangel an Objektivität.",
+                "Absolute Objektivität."
+            ],
+            "phrasesUk": [
+                "Збереження об'єктивності.",
+                "Брак об'єктивності.",
+                "Абсолютна об'єктивність."
+            ]
+        },
+        {
+            "wordDe": "Subjektivität",
+            "wordUk": "Суб'єктивність",
+            "phrasesDe": [
+                "Einfluss der Subjektivität.",
+                "Vermeidung von Subjektivität.",
+                "Subjektive Meinung."
+            ],
+            "phrasesUk": [
+                "Вплив суб'єктивності.",
+                "Уникнення суб'єктивності.",
+                "Суб'єктивна думка."
+            ]
+        },
+        {
+            "wordDe": "Ethik",
+            "wordUk": "Етика",
+            "phrasesDe": [
+                "Wissenschaftliche Ethik.",
+                "Ethikkommission.",
+                "Fragen der Ethik."
+            ],
+            "phrasesUk": [
+                "Наукова етика.",
+                "Комісія з етики.",
+                "Питання етики."
+            ]
+        },
+        {
+            "wordDe": "Moral",
+            "wordUk": "Мораль",
+            "phrasesDe": [
+                "Hohe Moral.",
+                "Moralische Bedenken.",
+                "Gegen die Moral."
+            ],
+            "phrasesUk": [
+                "Висока мораль.",
+                "Моральні сумніви.",
+                "Проти моралі."
+            ]
+        },
+        {
+            "wordDe": "Verbreitung",
+            "wordUk": "Поширення",
+            "phrasesDe": [
+                "Verbreitung von Wissen.",
+                "Verbreitung der Ergebnisse.",
+                "Große Verbreitung."
+            ],
+            "phrasesUk": [
+                "Поширення знань.",
+                "Поширення результатів.",
+                "Велике поширення."
+            ]
+        },
+        {
+            "wordDe": "Transfer",
+            "wordUk": "Передача (трансфер) / Застосування",
+            "phrasesDe": [
+                "Wissenstransfer.",
+                "Transfer in die Praxis.",
+                "Technologietransfer."
+            ],
+            "phrasesUk": [
+                "Передача знань.",
+                "Застосування на практиці.",
+                "Трансфер технологій."
+            ]
+        }
+    ]
+}

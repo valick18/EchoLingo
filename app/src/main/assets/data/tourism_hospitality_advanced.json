@@ -1,0 +1,704 @@
+{
+    "Туризм та Гостинність (Просунутий)": [
+        {
+            "wordDe": "Beherbergung",
+            "wordUk": "Розміщення (готельне) / Проживання",
+            "phrasesDe": [
+                "Kosten der Beherbergung.",
+                "Art der Beherbergung.",
+                "Beherbergungsbetrieb."
+            ],
+            "phrasesUk": [
+                "Вартість проживання.",
+                "Вид розміщення.",
+                "Підприємство готельного типу."
+            ]
+        },
+        {
+            "wordDe": "Verpflegung",
+            "wordUk": "Харчування",
+            "phrasesDe": [
+                "Art der Verpflegung.",
+                "Vollpension oder Halbpension.",
+                "Kosten für Verpflegung."
+            ],
+            "phrasesUk": [
+                "Вид харчування.",
+                "Повний пансіон чи напівпансіон.",
+                "Витрати на харчування."
+            ]
+        },
+        {
+            "wordDe": "Pauschalreise",
+            "wordUk": "Пакетний тур",
+            "phrasesDe": [
+                "Buchung einer Pauschalreise.",
+                "Vorteile der Pauschalreise.",
+                "Leistungen der Pauschalreise."
+            ],
+            "phrasesUk": [
+                "Бронювання пакетного туру.",
+                "Переваги пакетного туру.",
+                "Послуги в межах пакетного туру."
+            ]
+        },
+        {
+            "wordDe": "Individualreise",
+            "wordUk": "Індивідуальна подорож",
+            "phrasesDe": [
+                "Planung einer Individualreise.",
+                "Vorteile der Individualreise.",
+                "Kosten der Individualreise."
+            ],
+            "phrasesUk": [
+                "Планування індивідуальної подорожі.",
+                "Переваги власної подорожі.",
+                "Вартість індивідуального туру."
+            ]
+        },
+        {
+            "wordDe": "Reiseveranstalter",
+            "wordUk": "Туроператор",
+            "phrasesDe": [
+                "Wahl des Reiseveranstalters.",
+                "Haftung des Reiseveranstalters.",
+                "Angebot des Reiseveranstalters."
+            ],
+            "phrasesUk": [
+                "Вибір туроператора.",
+                "Відповідальність туроператора.",
+                "Пропозиція туроператора."
+            ]
+        },
+        {
+            "wordDe": "Reisebüro",
+            "wordUk": "Турагентство",
+            "phrasesDe": [
+                "Besuch im Reisebüro.",
+                "Beratung im Reisebüro.",
+                "Buchung über ein Reisebüro."
+            ],
+            "phrasesUk": [
+                "Візит до турагентства.",
+                "Консультація в турагентстві.",
+                "Бронювання через агентство."
+            ]
+        },
+        {
+            "wordDe": "Buchungsbestätigung",
+            "wordUk": "Підтвердження бронювання",
+            "phrasesDe": [
+                "Erhalt der Buchungsbestätigung.",
+                "Prüfung der Buchungsbestätigung.",
+                "Ausdruck der Buchungsbestätigung."
+            ],
+            "phrasesUk": [
+                "Отримання підтвердження бронювання.",
+                "Перевірка підтвердження.",
+                "Друк підтвердження бронювання."
+            ]
+        },
+        {
+            "wordDe": "Stornierung",
+            "wordUk": "Скасування (бронювання) / Сторнування",
+            "phrasesDe": [
+                "Kosten einer Stornierung.",
+                "Frist für die Stornierung.",
+                "Bedingungen der Stornierung."
+            ],
+            "phrasesUk": [
+                "Вартість скасування.",
+                "Термін для сторнування.",
+                "Умови скасування."
+            ]
+        },
+        {
+            "wordDe": "Umbuchung",
+            "wordUk": "Перебронювання / Зміна броні",
+            "phrasesDe": [
+                "Möglichkeit der Umbuchung.",
+                "Kosten einer Umbuchung.",
+                "Antrag auf Umbuchung."
+            ],
+            "phrasesUk": [
+                "Можливість перебронювання.",
+                "Вартість зміни броні.",
+                "Запит на перебронювання."
+            ]
+        },
+        {
+            "wordDe": "Frühbucherrabatt",
+            "wordUk": "Знижка за раннє бронювання",
+            "phrasesDe": [
+                "Nutzung des Frühbucherrabatts.",
+                "Höhe des Frühbucherrabatts.",
+                "Vorteile des Frühbucherrabatts."
+            ],
+            "phrasesUk": [
+                "Використання знижки за раннє бронювання.",
+                "Розмір знижки.",
+                "Переваги раннього бронювання."
+            ]
+        },
+        {
+            "wordDe": "Last-Minute-Angebot",
+            "wordUk": "Гаряча пропозиція (Last Minute)",
+            "phrasesDe": [
+                "Suche nach Last-Minute-Angeboten.",
+                "Buchung eines Last-Minute-Angebots.",
+                "Vorteile von Last Minute."
+            ],
+            "phrasesUk": [
+                "Пошук гарячих турів.",
+                "Бронювання гарячої пропозиції.",
+                "Переваги Last Minute."
+            ]
+        },
+        {
+            "wordDe": "Reiseversicherung",
+            "wordUk": "Страхування подорожі",
+            "phrasesDe": [
+                "Abschluss einer Reiseversicherung.",
+                "Umfang der Reiseversicherung.",
+                "Kosten der Reiseversicherung."
+            ],
+            "phrasesUk": [
+                "Укладення туристичного страхування.",
+                "Обсяг страховки.",
+                "Вартість страхування подорожі."
+            ]
+        },
+        {
+            "wordDe": "Rücktrittsversicherung",
+            "wordUk": "Страхування від невиїзду / від скасування",
+            "phrasesDe": [
+                "Wichtigkeit der Rücktrittsversicherung.",
+                "Kosten der Rücktrittsversicherung.",
+                "Bedingungen der Rücktrittsversicherung."
+            ],
+            "phrasesUk": [
+                "Важливість страхування від скасування.",
+                "Вартість страховки від невиїзду.",
+                "Умови страхового захисту."
+            ]
+        },
+        {
+            "wordDe": "Reisepass",
+            "wordUk": "Закордонний паспорт",
+            "phrasesDe": [
+                "Gültigkeit des Reisepasses.",
+                "Beantragung des Reisepasses.",
+                "Kopie des Reisepasses."
+            ],
+            "phrasesUk": [
+                "Термін дії паспорта.",
+                "Оформлення закордонного паспорта.",
+                "Копія паспорта."
+            ]
+        },
+        {
+            "wordDe": "Visum",
+            "wordUk": "Віза",
+            "phrasesDe": [
+                "Beantragung eines Visums.",
+                "Kosten für das Visum.",
+                "Dauer der Visumerteilung."
+            ],
+            "phrasesUk": [
+                "Оформлення візи.",
+                "Вартість візи.",
+                "Термін видачі візи."
+            ]
+        },
+        {
+            "wordDe": "Zollbestimmungen",
+            "wordUk": "Митні правила",
+            "phrasesDe": [
+                "Einhaltung der Zollbestimmungen.",
+                "Kenntnis der Zollbestimmungen.",
+                "Verletzung der Zollbestimmungen."
+            ],
+            "phrasesUk": [
+                "Дотримання митних правил.",
+                "Знання митних правил.",
+                "Порушення митних правил."
+            ]
+        },
+        {
+            "wordDe": "Anreise",
+            "wordUk": "Прибуття / Доїзд",
+            "phrasesDe": [
+                "Zeitpunkt der Anreise.",
+                "Art der Anreise.",
+                "Probleme bei der Anreise."
+            ],
+            "phrasesUk": [
+                "Час прибуття.",
+                "Спосіб доїзду.",
+                "Проблеми під час прибуття."
+            ]
+        },
+        {
+            "wordDe": "Abreise",
+            "wordUk": "Від'їзд",
+            "phrasesDe": [
+                "Zeitpunkt der Abreise.",
+                "Vorbereitung der Abreise.",
+                "Check-out vor der Abreise."
+            ],
+            "phrasesUk": [
+                "Час від'їзду.",
+                "Підготовка до від'їзду.",
+                "Чек-аут перед від'їздом."
+            ]
+        },
+        {
+            "wordDe": "Transfer",
+            "wordUk": "Трансфер",
+            "phrasesDe": [
+                "Transfer zum Hotel.",
+                "Kosten für den Transfer.",
+                "Dauer des Transfers."
+            ],
+            "phrasesUk": [
+                "Трансфер до готелю.",
+                "Вартість трансферу.",
+                "Тривалість трансферу."
+            ]
+        },
+        {
+            "wordDe": "Unterkunft",
+            "wordUk": "Житло / Помешкання / Проживання (Унтеркунфт)",
+            "phrasesDe": [
+                "Eine gemütliche Unterkunft.",
+                "Wahl der Unterkunft.",
+                "Bewertung der Unterkunft."
+            ],
+            "phrasesUk": [
+                "Затишне помешкання.",
+                "Вибір житла.",
+                "Відгук про проживання."
+            ]
+        },
+        {
+            "wordDe": "Sterne-Kategorie",
+            "wordUk": "Категорія (зірковість) готелю",
+            "phrasesDe": [
+                "Hotel der 5-Sterne-Kategorie.",
+                "Bedeutung der Sterne-Kategorie.",
+                "Unterschiede in der Sterne-Kategorie."
+            ],
+            "phrasesUk": [
+                "Готель п'ятизіркової категорії.",
+                "Значення кількості зірок.",
+                "Різниця між категоріями."
+            ]
+        },
+        {
+            "wordDe": "Rezeption",
+            "wordUk": "Рецепція",
+            "phrasesDe": [
+                "Anmeldung an der Rezeption.",
+                "Frage an der Rezeption.",
+                "Öffnungszeiten der Rezeption."
+            ],
+            "phrasesUk": [
+                "Реєстрація на рецепції.",
+                "Запитання на стійці реєстрації.",
+                "Години роботи рецепції."
+            ]
+        },
+        {
+            "wordDe": "Check-in",
+            "wordUk": "Реєстрація заїзду (Чек-ін)",
+            "phrasesDe": [
+                "Zeit für den Check-in.",
+                "Unterlagen für den Check-in.",
+                "Probleme beim Check-in."
+            ],
+            "phrasesUk": [
+                "Час заїзду.",
+                "Документи для чек-іну.",
+                "Проблеми при реєстрації."
+            ]
+        },
+        {
+            "wordDe": "Check-out",
+            "wordUk": "Виписка з готелю (Чек-аут)",
+            "phrasesDe": [
+                "Zeit für den Check-out.",
+                "Bezahlung beim Check-out.",
+                "Später Check-out."
+            ],
+            "phrasesUk": [
+                "Час виїзду.",
+                "Оплата при чек-ауті.",
+                "Пізній виїзд."
+            ]
+        },
+        {
+            "wordDe": "Doppelzimmer",
+            "wordUk": "Двомісний номер",
+            "phrasesDe": [
+                "Buchung eines Doppelzimmers.",
+                "Ausstattung des Doppelzimmers.",
+                "Preis für ein Doppelzimmer."
+            ],
+            "phrasesUk": [
+                "Бронювання двомісного номера.",
+                "Оснащення двомісного номера.",
+                "Ціна за двомісний номер."
+            ]
+        },
+        {
+            "wordDe": "Einzelzimmer",
+            "wordUk": "Одномісний номер",
+            "phrasesDe": [
+                "Buchung eines Einzelzimmers.",
+                "Zuschlag für das Einzelzimmer.",
+                "Verfügbarkeit von Einzelzimmern."
+            ],
+            "phrasesUk": [
+                "Бронювання одномісного номера.",
+                "Доплата за одномісне розміщення.",
+                "Наявність одномісних номерів."
+            ]
+        },
+        {
+            "wordDe": "Suite",
+            "wordUk": "Люкс / Сюїта",
+            "phrasesDe": [
+                "Übernachtung in einer Suite.",
+                "Luxus in der Suite.",
+                "Preis der Suite."
+            ],
+            "phrasesUk": [
+                "Ночівля в люксі.",
+                "Розкіш у сюїті.",
+                "Вартість люкса."
+            ]
+        },
+        {
+            "wordDe": "Halbpension",
+            "wordUk": "Напівпансіон (сніданок + вечеря)",
+            "phrasesDe": [
+                "Buchung mit Halbpension.",
+                "Vorteile der Halbpension.",
+                "Leistungen der Halbpension."
+            ],
+            "phrasesUk": [
+                "Бронювання з напівпансіоном.",
+                "Переваги напівпансіону.",
+                "Послуги при напівпансіоні."
+            ]
+        },
+        {
+            "wordDe": "Vollpension",
+            "wordUk": "Повний пансіон (триразове харчування)",
+            "phrasesDe": [
+                "Vorteile der Vollpension.",
+                "Kosten der Vollpension.",
+                "Wahl der Vollpension."
+            ],
+            "phrasesUk": [
+                "Переваги повного пансіону.",
+                "Вартість повного пансіону.",
+                "Вибір триразового харчування."
+            ]
+        },
+        {
+            "wordDe": "All-inclusive",
+            "wordUk": "Все включено (All inclusive)",
+            "phrasesDe": [
+                "Urlaub All-inclusive.",
+                "Leistungen bei All-inclusive.",
+                "Vorteile von All-inclusive."
+            ],
+            "phrasesUk": [
+                "Відпустка \"все включено\".",
+                "Послуги при All inclusive.",
+                "Переваги системи \"все включено\"."
+            ]
+        },
+        {
+            "wordDe": "Buffet",
+            "wordUk": "Шведський стіл / Буфет",
+            "phrasesDe": [
+                "Frühstück am Buffet.",
+                "Auswahl am Buffet.",
+                "Abendessen-Buffet."
+            ],
+            "phrasesUk": [
+                "Сніданок (шведський стіл).",
+                "Вибір на буфеті.",
+                "Вечеря у форматі шведського столу."
+            ]
+        },
+        {
+            "wordDe": "Zimmerservice",
+            "wordUk": "Обслуговування в номерах",
+            "phrasesDe": [
+                "Bestellung beim Zimmerservice.",
+                "Preise beim Zimmerservice.",
+                "Qualität des Zimmerservices."
+            ],
+            "phrasesUk": [
+                "Замовлення в зброю сервісу.",
+                "Ціни на обслуговування в номері.",
+                "Якість рум-сервісу."
+            ]
+        },
+        {
+            "wordDe": "Minibar",
+            "wordUk": "Міні-бар",
+            "phrasesDe": [
+                "Getränke aus der Minibar.",
+                "Preise der Minibar.",
+                "Auffüllen der Minibar."
+            ],
+            "phrasesUk": [
+                "Напої з міні-бару.",
+                "Ціни в міні-барі.",
+                "Поповнення міні-бару."
+            ]
+        },
+        {
+            "wordDe": "Wellnessbereich",
+            "wordUk": "Велнес-зона (СПА)",
+            "phrasesDe": [
+                "Entspannung im Wellnessbereich.",
+                "Nutzung des Wellnessbereichs.",
+                "Angebote im Wellnessbereich."
+            ],
+            "phrasesUk": [
+                "Відпочинок у велнес-зоні.",
+                "Користування СПА-зоною.",
+                "Пропозиції у велнес-центрі."
+            ]
+        },
+        {
+            "wordDe": "Sehenswürdigkeit",
+            "wordUk": "Визначне місце / Пам'ятка",
+            "phrasesDe": [
+                "Besuch einer Sehenswürdigkeit.",
+                "Berühmte Sehenswürdigkeiten.",
+                "Führung zu den Sehenswürdigkeiten."
+            ],
+            "phrasesUk": [
+                "Відвідування визначного місця.",
+                "Знамениті пам'ятки.",
+                "Екскурсія до визначних місць."
+            ]
+        },
+        {
+            "wordDe": "Stadtrundfahrt",
+            "wordUk": "Оглядова екскурсія містом",
+            "phrasesDe": [
+                "Teilnahme an einer Stadtrundfahrt.",
+                "Dauer der Stadtrundfahrt.",
+                "Ticket für die Stadtrundfahrt."
+            ],
+            "phrasesUk": [
+                "Участь в оглядовій екскурсії.",
+                "Тривалість екскурсії містом.",
+                "Квиток на оглядовий тур."
+            ]
+        },
+        {
+            "wordDe": "Reiseleiter",
+            "wordUk": "Гід / Екскурсовод",
+            "phrasesDe": [
+                "Erklärungen des Reiseleiters.",
+                "Frage an den Reiseleiter.",
+                "Kompetenz des Reiseleiters."
+            ],
+            "phrasesUk": [
+                "Пояснення гіда.",
+                "Запитання до екскурсовода.",
+                "Компетентність гіда."
+            ]
+        },
+        {
+            "wordDe": "Ausflugsziel",
+            "wordUk": "Місце для екскурсії / Мета поїздки",
+            "phrasesDe": [
+                "Ein beliebtes Ausflugsziel.",
+                "Wahl des Ausflugsziels.",
+                "Fahrt zum Ausflugsziel."
+            ],
+            "phrasesUk": [
+                "Популярне місце для екскурсій.",
+                "Вибір мети поїздки.",
+                "Поїздка до місця відпочинку."
+            ]
+        },
+        {
+            "wordDe": "Wanderweg",
+            "wordUk": "Пішохідний маршрут / Стежка",
+            "phrasesDe": [
+                "Markierung des Wanderwegs.",
+                "Länge des Wanderwegs.",
+                "Schwierigkeit des Wanderwegs."
+            ],
+            "phrasesUk": [
+                "Маркування стежки.",
+                "Довжина маршруту.",
+                "Складність пішохідної стежки."
+            ]
+        },
+        {
+            "wordDe": "Kurort",
+            "wordUk": "Курорт / Оздоровче місце",
+            "phrasesDe": [
+                "Aufenthalt im Kurort.",
+                "Bedeutung des Kurorts.",
+                "Beliebte Kurorte."
+            ],
+            "phrasesUk": [
+                "Перебування на курорті.",
+                "Значення оздоровчого місця.",
+                "Популярні курорти."
+            ]
+        },
+        {
+            "wordDe": "Kurtaxe",
+            "wordUk": "Курортний збір",
+            "phrasesDe": [
+                "Bezahlung der Kurtaxe.",
+                "Höhe der Kurtaxe.",
+                "Befreiung von der Kurtaxe."
+            ],
+            "phrasesUk": [
+                "Оплата курортного збору.",
+                "Розмір збору.",
+                "Звільнення від оплати збору."
+            ]
+        },
+        {
+            "wordDe": "Hauptsaison",
+            "wordUk": "Високий сезон / Пік сезону",
+            "phrasesDe": [
+                "Urlaub in der Hauptsaison.",
+                "Preise in der Hauptsaison.",
+                "Andrang in der Hauptsaison."
+            ],
+            "phrasesUk": [
+                "Відпустка в розпал сезону.",
+                "Ціни у високий сезон.",
+                "Наплив людей у пік сезону."
+            ]
+        },
+        {
+            "wordDe": "Nebensaison",
+            "wordUk": "Низький сезон / Міжсезоння",
+            "phrasesDe": [
+                "Urlaub in der Nebensaison.",
+                "Vorteile der Nebensaison.",
+                "Angebote in der Nebensaison."
+            ],
+            "phrasesUk": [
+                "Відпустка в низький сезон.",
+                "Переваги міжсезоння.",
+                "Пропозиції в низький сезон."
+            ]
+        },
+        {
+            "wordDe": "Reisekasse",
+            "wordUk": "Бюджет на подорож / Гроші в дорогу",
+            "phrasesDe": [
+                "Planung der Reisekasse.",
+                "Füllen der Reisekasse.",
+                "Ausgaben aus der Reisekasse."
+            ],
+            "phrasesUk": [
+                "Планування бюджету подорожі.",
+                "Наповнення дорожньої каси.",
+                "Витрати з бюджету поїздки."
+            ]
+        },
+        {
+            "wordDe": "Währungsumrechnung",
+            "wordUk": "Конвертація валют",
+            "phrasesDe": [
+                "Kurs der Währungsumrechnung.",
+                "Gebühren für die Währungsumrechnung.",
+                "App für Währungsumrechnung."
+            ],
+            "phrasesUk": [
+                "Курс конвертації валют.",
+                "Комісія за обмін валюти.",
+                "Додаток для конвертації."
+            ]
+        },
+        {
+            "wordDe": "Sprachbarriere",
+            "wordUk": "Мовний бар'єр",
+            "phrasesDe": [
+                "Überwindung der Sprachbarriere.",
+                "Angst vor der Sprachbarriere.",
+                "Umgang mit der Sprachbarriere."
+            ],
+            "phrasesUk": [
+                "Подолання мовного бар'єру.",
+                "Страх перед мовним бар'єром.",
+                "Поводження при мовному бар'єрі."
+            ]
+        },
+        {
+            "wordDe": "Gastfreundschaft",
+            "wordUk": "Гостинність",
+            "phrasesDe": [
+                "Traditionelle Gastfreundschaft.",
+                "Erfahrung von Gastfreundschaft.",
+                "Bedeutung der Gastfreundschaft."
+            ],
+            "phrasesUk": [
+                "Традиційна гостинність.",
+                "Досвід гостинності.",
+                "Значення гостинності."
+            ]
+        },
+        {
+            "wordDe": "Reisebericht",
+            "wordUk": "Звіт про подорож / Тревелог",
+            "phrasesDe": [
+                "Verfassen eines Reiseberichts.",
+                "Lesen eines Reiseberichts.",
+                "Bilder im Reisebericht."
+            ],
+            "phrasesUk": [
+                "Написання звіту про поїздку.",
+                "Читання тревелогу.",
+                "Фото у звіті про подорож."
+            ]
+        },
+        {
+            "wordDe": "Souvenir",
+            "wordUk": "Сувенір",
+            "phrasesDe": [
+                "Kauf eines Souvenirs.",
+                "Typische Souvenirs.",
+                "Souvenirs aus dem Urlaub."
+            ],
+            "phrasesUk": [
+                "Купівля сувеніра.",
+                "Типові сувеніри.",
+                "Сувеніри з відпустки."
+            ]
+        },
+        {
+            "wordDe": "Fernweh",
+            "wordUk": "Жага до мандрів / Туга за далекими краями (Фернве)",
+            "phrasesDe": [
+                "Gefühl von Fernweh.",
+                "Mittel gegen Fernweh.",
+                "Ursache für Fernweh."
+            ],
+            "phrasesUk": [
+                "Відчуття жаги до мандрів.",
+                "Засіб від туги за світом.",
+                "Причина потягу в далекі краї."
+            ]
+        }
+    ]
+}

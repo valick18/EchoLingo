@@ -1,0 +1,284 @@
+{
+    "Технології та Медіа": [
+        {
+            "wordDe": "Internet",
+            "wordUk": "Інтернет",
+            "phrasesDe": [
+                "Ich surfe im Internet.",
+                "Das Internet ist langsam.",
+                "Kein Internet hier."
+            ],
+            "phrasesUk": [
+                "Я сиджу в інтернеті.",
+                "Інтернет повільний.",
+                "Тут немає інтернету."
+            ]
+        },
+        {
+            "wordDe": "Computer",
+            "wordUk": "Комп'ютер",
+            "phrasesDe": [
+                "Schalte den Computer an.",
+                "Mein Computer ist neu.",
+                "Ein schneller Computer."
+            ],
+            "phrasesUk": [
+                "Увімкни комп'ютер.",
+                "Мій комп'ютер новий.",
+                "Швидкий комп'ютер."
+            ]
+        },
+        {
+            "wordDe": "Software",
+            "wordUk": "Програмне забезпечення",
+            "phrasesDe": [
+                "Installiere die Software.",
+                "Diese Software ist gut.",
+                "Software-Update."
+            ],
+            "phrasesUk": [
+                "Встанови програмне забезпечення.",
+                "Це ПЗ хороше.",
+                "Оновлення ПЗ."
+            ]
+        },
+        {
+            "wordDe": "Daten",
+            "wordUk": "Дані",
+            "phrasesDe": [
+                "Wichtige Daten.",
+                "Daten speichern.",
+                "Meine Daten sind sicher."
+            ],
+            "phrasesUk": [
+                "Важливі дані.",
+                "Зберегти дані.",
+                "Мої дані в безпеці."
+            ]
+        },
+        {
+            "wordDe": "Sicherheit",
+            "wordUk": "Безпека",
+            "phrasesDe": [
+                "Sicherheit im Internet.",
+                "Passwort für Sicherheit.",
+                "Totale Sicherheit."
+            ],
+            "phrasesUk": [
+                "Безпека в інтернеті.",
+                "Пароль для безпеки.",
+                "Повна безпека."
+            ]
+        },
+        {
+            "wordDe": "Handy / Smartphone",
+            "wordUk": "Смартфон",
+            "phrasesDe": [
+                "Wo ist mein Handy?",
+                "Ein neues Smartphone.",
+                "Handy laden."
+            ],
+            "phrasesUk": [
+                "Де мій телефон?",
+                "Новий смартфон.",
+                "Зарядити телефон."
+            ]
+        },
+        {
+            "wordDe": "App",
+            "wordUk": "Додаток",
+            "phrasesDe": [
+                "Lade die App herunter.",
+                "Eine nützliche App.",
+                "Wie heißt die App?"
+            ],
+            "phrasesUk": [
+                "Завантаж додаток.",
+                "Корисний додаток.",
+                "Як називається додаток?"
+            ]
+        },
+        {
+            "wordDe": "Netzwerk",
+            "wordUk": "Мережа",
+            "phrasesDe": [
+                "Das Netzwerk ist stabil.",
+                "Soziales Netzwerk.",
+                "Im Netzwerk arbeiten."
+            ],
+            "phrasesUk": [
+                "Мережа стабільна.",
+                "Соціальна мережа.",
+                "Працювати в мережі."
+            ]
+        },
+        {
+            "wordDe": "Fernsehen",
+            "wordUk": "Телебачення",
+            "phrasesDe": [
+                "Ich schaue Fernsehen.",
+                "Was kommt im Fernsehen?",
+                "Fernsehen macht müde."
+            ],
+            "phrasesUk": [
+                "Я дивлюся телевізор.",
+                "Що показують по телевізору?",
+                "Перегляд ТБ втомлює."
+            ]
+        },
+        {
+            "wordDe": "Nachrichten",
+            "wordUk": "Новини",
+            "phrasesDe": [
+                "Hörst du die Nachrichten?",
+                "Wichtige Nachrichten.",
+                "Nachrichten aus aller Welt."
+            ],
+            "phrasesUk": [
+                "Ти чуєш новини?",
+                "Важливі новини.",
+                "Новини з усього світу."
+            ]
+        },
+        {
+            "wordDe": "Kamera",
+            "wordUk": "Камера",
+            "phrasesDe": [
+                "Mach ein Foto mit der Kamera.",
+                "Die Kamera ist teuer.",
+                "Eine digitale Kamera."
+            ],
+            "phrasesUk": [
+                "Зроби фото камерою.",
+                "Камера дорога.",
+                "Цифрова камера."
+            ]
+        },
+        {
+            "wordDe": "Bildschirm",
+            "wordUk": "Екран",
+            "phrasesDe": [
+                "Ein großer Bildschirm.",
+                "Schau auf den Bildschirm.",
+                "Der Bildschirm ist sauber."
+            ],
+            "phrasesUk": [
+                "Великий екран.",
+                "Подивися на екран.",
+                "Екран чистий."
+            ]
+        },
+        {
+            "wordDe": "Tastatur",
+            "wordUk": "Клавіатура",
+            "phrasesDe": [
+                "Schreibe auf der Tastatur.",
+                "Wo ist die Tastatur?",
+                "Eine neue Tastatur."
+            ],
+            "phrasesUk": [
+                "Пиши на клавіатурі.",
+                "Де клавіатура?",
+                "Нова клавіатура."
+            ]
+        },
+        {
+            "wordDe": "Maus",
+            "wordUk": "Мишка",
+            "phrasesDe": [
+                "Klicke mit der Maus.",
+                "Die Computermaus.",
+                "Wo liegt die Maus?"
+            ],
+            "phrasesUk": [
+                "Клікни мишкою.",
+                "Комп'ютерна миша.",
+                "Де лежить мишка?"
+            ]
+        },
+        {
+            "wordDe": "Kabel",
+            "wordUk": "Кабель",
+            "phrasesDe": [
+                "Das Kabel ist zu kurz.",
+                "Verbinde das Kabel.",
+                "Ein HDMI-Kabel."
+            ],
+            "phrasesUk": [
+                "Кабель занадто короткий.",
+                "Під'єднай кабель.",
+                "HDMI-кабель."
+            ]
+        },
+        {
+            "wordDe": "Batterie",
+            "wordUk": "Батарейка",
+            "phrasesDe": [
+                "Die Batterie ist leer.",
+                "Wechsle die Batterie.",
+                "Wo sind Batterien?"
+            ],
+            "phrasesUk": [
+                "Батарейка розрядилася.",
+                "Заміни батарейку.",
+                "Де батарейки?"
+            ]
+        },
+        {
+            "wordDe": "Signal",
+            "wordUk": "Сигнал",
+            "phrasesDe": [
+                "Gutes Signal.",
+                "Kein Signal hier.",
+                "Das Signal ist schwach."
+            ],
+            "phrasesUk": [
+                "Гарний сигнал.",
+                "Тут немає сигналу.",
+                "Сигнал слабкий."
+            ]
+        },
+        {
+            "wordDe": "Webseite",
+            "wordUk": "Веб-сайт",
+            "phrasesDe": [
+                "Besuchen Sie unsere Webseite.",
+                "Eine schöne Webseite.",
+                "Die Webseite lädt nicht."
+            ],
+            "phrasesUk": [
+                "Відвідайте наш сайт.",
+                "Гарний сайт.",
+                "Сайт не завантажується."
+            ]
+        },
+        {
+            "wordDe": "E-Mail",
+            "wordUk": "Електронна пошта",
+            "phrasesDe": [
+                "Ich schreibe eine E-Mail.",
+                "Hast du die E-Mail gelesen?",
+                "Schick mir eine E-Mail."
+            ],
+            "phrasesUk": [
+                "Я пишу електронний лист.",
+                "Ти прочитав імейл?",
+                "Надішли мені імейл."
+            ]
+        },
+        {
+            "wordDe": "Passwort",
+            "wordUk": "Пароль",
+            "phrasesDe": [
+                "Gib dein Passwort ein.",
+                "Mein Passwort ist geheim.",
+                "Passwort vergessen?"
+            ],
+            "phrasesUk": [
+                "Введи свій пароль.",
+                "Мій пароль секретний.",
+                "Забули пароль?"
+            ]
+        }
+    ]
+}

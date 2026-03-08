@@ -1,0 +1,704 @@
+{
+    "Культура та Мистецтво": [
+        {
+            "wordDe": "Kultur",
+            "wordUk": "Культура",
+            "phrasesDe": [
+                "Deutsche Kultur.",
+                "Interkultureller Dialog.",
+                "Kulturerbe schützen."
+            ],
+            "phrasesUk": [
+                "Німецька культура.",
+                "Міжкультурний діалог.",
+                "Захищати культурну спадщину."
+            ]
+        },
+        {
+            "wordDe": "Kunst",
+            "wordUk": "Мистецтво",
+            "phrasesDe": [
+                "Moderne Kunst.",
+                "Ein Werk der Kunst.",
+                "Kunstgalerie besuchen."
+            ],
+            "phrasesUk": [
+                "Сучасне мистецтво.",
+                "Твір мистецтва.",
+                "Відвідати художню галерею."
+            ]
+        },
+        {
+            "wordDe": "Künstler",
+            "wordUk": "Митець / Художник",
+            "phrasesDe": [
+                "Ein bekannter Künstler.",
+                "Das Leben eines Künstlers.",
+                "Künstlerische Freiheit."
+            ],
+            "phrasesUk": [
+                "Відомий митець.",
+                "Життя художника.",
+                "Творча свобода."
+            ]
+        },
+        {
+            "wordDe": "Gemälde",
+            "wordUk": "Картина / Полотно",
+            "phrasesDe": [
+                "Ein wertvolles Gemälde.",
+                "Gemälde bewundern.",
+                "Ölgemälde."
+            ],
+            "phrasesUk": [
+                "Цінна картина.",
+                "Милуватися картиною.",
+                "Картина олією."
+            ]
+        },
+        {
+            "wordDe": "Skulptur",
+            "wordUk": "Скульптура",
+            "phrasesDe": [
+                "Eine antike Skulptur.",
+                "Skulpturen aus Stein.",
+                "Skulpturengarten."
+            ],
+            "phrasesUk": [
+                "Антична скульптура.",
+                "Скульптури з каменю.",
+                "Сад скульптур."
+            ]
+        },
+        {
+            "wordDe": "Architektur",
+            "wordUk": "Архітектура",
+            "phrasesDe": [
+                "Moderne Architektur.",
+                "Gotische Architektur.",
+                "Architektur studieren."
+            ],
+            "phrasesUk": [
+                "Сучасна архітектура.",
+                "Готична архітектура.",
+                "Вивчати архітектуру."
+            ]
+        },
+        {
+            "wordDe": "Literatur",
+            "wordUk": "Література",
+            "phrasesDe": [
+                "Klassische Literatur.",
+                "Weltliteratur.",
+                "Literaturpreis gewinnen."
+            ],
+            "phrasesUk": [
+                "Класична література.",
+                "Світова література.",
+                "Виграти літературну премію."
+            ]
+        },
+        {
+            "wordDe": "Roman",
+            "wordUk": "Роман",
+            "phrasesDe": [
+                "Ein spannender Roman.",
+                "Historischer Roman.",
+                "Einen Roman schreiben."
+            ],
+            "phrasesUk": [
+                "Захопливий роман.",
+                "Історичний роман.",
+                "Писати роман."
+            ]
+        },
+        {
+            "wordDe": "Gedicht",
+            "wordUk": "Вірш",
+            "phrasesDe": [
+                "Ein schönes Gedicht.",
+                "Gedichte rezitieren.",
+                "Goethes Gedichte."
+            ],
+            "phrasesUk": [
+                "Гарний вірш.",
+                "Декламувати вірші.",
+                "Вірші Гете."
+            ]
+        },
+        {
+            "wordDe": "Musik",
+            "wordUk": "Музика",
+            "phrasesDe": [
+                "Klassische Musik.",
+                "Musik hören.",
+                "Lieblingsmusik."
+            ],
+            "phrasesUk": [
+                "Класична музика.",
+                "Слухати музику.",
+                "Улюблена музика."
+            ]
+        },
+        {
+            "wordDe": "Konzert",
+            "wordUk": "Концерт",
+            "phrasesDe": [
+                "Ein Konzert besuchen.",
+                "Live-Konzert.",
+                "Rockkonzert."
+            ],
+            "phrasesUk": [
+                "Відвідати концерт.",
+                "Живий концерт.",
+                "Рок-концерт."
+            ]
+        },
+        {
+            "wordDe": "Theater",
+            "wordUk": "Театр",
+            "phrasesDe": [
+                "Ins Theater gehen.",
+                "Modernes Theater.",
+                "Theaterstück sehen."
+            ],
+            "phrasesUk": [
+                "Йти в театр.",
+                "Сучасний театр.",
+                "Дивитися театральну п'єсу."
+            ]
+        },
+        {
+            "wordDe": "Oper",
+            "wordUk": "Опера",
+            "phrasesDe": [
+                "In die Oper gehen.",
+                "Eine berühmte Oper.",
+                "Opernsänger."
+            ],
+            "phrasesUk": [
+                "Йти в оперу.",
+                "Відома опера.",
+                "Оперний співак."
+            ]
+        },
+        {
+            "wordDe": "Film",
+            "wordUk": "Фільм",
+            "phrasesDe": [
+                "Einen Film schauen.",
+                "Dokumentarfilm.",
+                "Spielfilm."
+            ],
+            "phrasesUk": [
+                "Дивитися фільм.",
+                "Документальний фільм.",
+                "Художній фільм."
+            ]
+        },
+        {
+            "wordDe": "Kino",
+            "wordUk": "Кінотеатр",
+            "phrasesDe": [
+                "Ins Kino gehen.",
+                "Open-Air-Kino.",
+                "Kinokarte kaufen."
+            ],
+            "phrasesUk": [
+                "Йти в кіно.",
+                "Кінотеатр просто неба.",
+                "Купити квиток у кіно."
+            ]
+        },
+        {
+            "wordDe": "Geschichte",
+            "wordUk": "Історія",
+            "phrasesDe": [
+                "Deutsche Geschichte.",
+                "Eine lange Geschichte.",
+                "Geschichte studieren."
+            ],
+            "phrasesUk": [
+                "Німецька історія.",
+                "Довга історія.",
+                "Вивчати історію."
+            ]
+        },
+        {
+            "wordDe": "Tradition",
+            "wordUk": "Традиція",
+            "phrasesDe": [
+                "Alte Traditionen.",
+                "Tradition bewahren.",
+                "Brauch und Tradition."
+            ],
+            "phrasesUk": [
+                "Старі традиції.",
+                "Зберігати традицію.",
+                "Звичай і традиція."
+            ]
+        },
+        {
+            "wordDe": "Feiertag",
+            "wordUk": "Свято (вихідний)",
+            "phrasesDe": [
+                "Nationaler Feiertag.",
+                "Frohe Feiertage!",
+                "Gesetzlicher Feiertag."
+            ],
+            "phrasesUk": [
+                "Національне свято.",
+                "Веселих свят!",
+                "Офіційне свято."
+            ]
+        },
+        {
+            "wordDe": "Religion",
+            "wordUk": "Релігія",
+            "phrasesDe": [
+                "Verschiedene Religionen.",
+                "Religionsfreiheit.",
+                "Religiöse Feste."
+            ],
+            "phrasesUk": [
+                "Різні релігії.",
+                "Свобода віросповідання.",
+                "Релігійні свята."
+            ]
+        },
+        {
+            "wordDe": "Museum",
+            "wordUk": "Музей",
+            "phrasesDe": [
+                "Ein Museum besuchen.",
+                "Technisches Museum.",
+                "Eintritt ins Museum."
+            ],
+            "phrasesUk": [
+                "Відвідати музей.",
+                "Технічний музей.",
+                "Вхід до музею."
+            ]
+        },
+        {
+            "wordDe": "Ausstellung",
+            "wordUk": "Виставка",
+            "phrasesDe": [
+                "Eine neue Ausstellung.",
+                "Fotoausstellung.",
+                "Kunstaustellung."
+            ],
+            "phrasesUk": [
+                "Нова виставка.",
+                "Фотовиставка.",
+                "Художня виставка."
+            ]
+        },
+        {
+            "wordDe": "Galerie",
+            "wordUk": "Галерея",
+            "phrasesDe": [
+                "Besuch in der Galerie.",
+                "Moderne Galerie.",
+                "Galeriebesitzer."
+            ],
+            "phrasesUk": [
+                "Візит до галереї.",
+                "Сучасна галерея.",
+                "Власник галереї."
+            ]
+        },
+        {
+            "wordDe": "Instrument",
+            "wordUk": "Інструмент (музичний)",
+            "phrasesDe": [
+                "Ein Instrument spielen.",
+                "Musikinstrument wählen.",
+                "Klavier ist ein Instrument."
+            ],
+            "phrasesUk": [
+                "Грати на інструменті.",
+                "Вибрати музичний інструмент.",
+                "Піаніно — це інструмент."
+            ]
+        },
+        {
+            "wordDe": "Bühne",
+            "wordUk": "Сцена",
+            "phrasesDe": [
+                "Auf der Bühne stehen.",
+                "Hinter der Bühne.",
+                "Bühnenbild."
+            ],
+            "phrasesUk": [
+                "Стояти на сцені.",
+                "За сценою.",
+                "Декорація (сценічний образ)."
+            ]
+        },
+        {
+            "wordDe": "Publikum",
+            "wordUk": "Публіка / Глядачі",
+            "phrasesDe": [
+                "Ein begeistertes Publikum.",
+                "Vor Publikum sprechen.",
+                "Publikumsreaktion."
+            ],
+            "phrasesUk": [
+                "Захоплена публіка.",
+                "Виступати перед публікою.",
+                "Реакція публіки."
+            ]
+        },
+        {
+            "wordDe": "Applaus",
+            "wordUk": "Аплодисменти",
+            "phrasesDe": [
+                "Viel Applaus bekommen.",
+                "Tosender Applaus.",
+                "Applaus für den Künstler."
+            ],
+            "phrasesUk": [
+                "Отримати багато аплодисментів.",
+                "Грім аплодисментів.",
+                "Оплески для митця."
+            ]
+        },
+        {
+            "wordDe": "Kreativität",
+            "wordUk": "Креативність / Творчість",
+            "phrasesDe": [
+                "Kreativität fördern.",
+                "Freiraum für Kreativität.",
+                "Kreative Ideen."
+            ],
+            "phrasesUk": [
+                "Сприяти креативності.",
+                "Простір для творчості.",
+                "Креативні ідеї."
+            ]
+        },
+        {
+            "wordDe": "Inspiration",
+            "wordUk": "Натхнення",
+            "phrasesDe": [
+                "Inspiration finden.",
+                "Quelle der Inspiration.",
+                "Ein Moment der Inspiration."
+            ],
+            "phrasesUk": [
+                "Знайти натхнення.",
+                "Джерело натхнення.",
+                "Момент натхнення."
+            ]
+        },
+        {
+            "wordDe": "Schriftsteller",
+            "wordUk": "Письменник",
+            "phrasesDe": [
+                "Ein berühmter Schriftsteller.",
+                "Beruf Schriftsteller.",
+                "Schriftstellerverband."
+            ],
+            "phrasesUk": [
+                "Знаменитий письменник.",
+                "Професія письменник.",
+                "Спілка письменників."
+            ]
+        },
+        {
+            "wordDe": "Dichter",
+            "wordUk": "Поет",
+            "phrasesDe": [
+                "Dichter und Denker.",
+                "Ein bekannter Dichter.",
+                "Lyrisches Werk."
+            ],
+            "phrasesUk": [
+                "Поети та мислителі.",
+                "Відомий поет.",
+                "Ліричний твір."
+            ]
+        },
+        {
+            "wordDe": "Komponist",
+            "wordUk": "Композитор",
+            "phrasesDe": [
+                "Ein klassischer Komponist.",
+                "Das Werk eines Komponisten.",
+                "Komposition."
+            ],
+            "phrasesUk": [
+                "Класичний композитор.",
+                "Твір композитора.",
+                "Композиція."
+            ]
+        },
+        {
+            "wordDe": "Dirigent",
+            "wordUk": "Диригент",
+            "phrasesDe": [
+                "Der Dirigent des Orchesters.",
+                "Unter der Leitung des Dirigenten.",
+                "Berühmte Dirigenten."
+            ],
+            "phrasesUk": [
+                "Диригент оркестру.",
+                "Під керівництвом диригента.",
+                "Знамениті диригенти."
+            ]
+        },
+        {
+            "wordDe": "Orchester",
+            "wordUk": "Оркестр",
+            "phrasesDe": [
+                "Ein großes Orchester.",
+                "Philharmonisches Orchester.",
+                "Mitglied im Orchester."
+            ],
+            "phrasesUk": [
+                "Великий оркестр.",
+                "Філармонічний оркестр.",
+                "Член оркестру."
+            ]
+        },
+        {
+            "wordDe": "Bauwerk",
+            "wordUk": "Споруда / Будівля",
+            "phrasesDe": [
+                "Ein imposantes Bauwerk.",
+                "Historische Bauwerke.",
+                "Weltbekanntes Bauwerk."
+            ],
+            "phrasesUk": [
+                "Імпозантна споруда.",
+                "Історичні будівлі.",
+                "Всесвітньо відома споруда."
+            ]
+        },
+        {
+            "wordDe": "Denkmal",
+            "wordUk": "Пам'ятник",
+            "phrasesDe": [
+                "Ein Denkmal setzen.",
+                "Nationales Denkmal.",
+                "Denkmalpflege."
+            ],
+            "phrasesUk": [
+                "Поставити пам'ятник.",
+                "Національний пам'ятник.",
+                "Охорона пам'яток."
+            ]
+        },
+        {
+            "wordDe": "Erbe",
+            "wordUk": "Спадщина / Спадкоємець",
+            "phrasesDe": [
+                "Kulturelles Erbe.",
+                "Mein Erbe.",
+                "Erbe antreten."
+            ],
+            "phrasesUk": [
+                "Культурна спадщина.",
+                "Моя спадщина.",
+                "Вступити у спадок."
+            ]
+        },
+        {
+            "wordDe": "Brauch",
+            "wordUk": "Звичай",
+            "phrasesDe": [
+                "Ein alter Brauch.",
+                "Lokale Bräuche.",
+                "Nach altem Brauch."
+            ],
+            "phrasesUk": [
+                "Старий звичай.",
+                "Місцеві звичаї.",
+                "За старим звичаєм."
+            ]
+        },
+        {
+            "wordDe": "Feste",
+            "wordUk": "Свята (урочистості)",
+            "phrasesDe": [
+                "Religiöse Feste.",
+                "Feste feiern wie sie fallen.",
+                "Volksfest."
+            ],
+            "phrasesUk": [
+                "Релігійні свята.",
+                "Святкувати свята, коли вони приходять.",
+                "Народне свято."
+            ]
+        },
+        {
+            "wordDe": "Tanz",
+            "wordUk": "Танець",
+            "phrasesDe": [
+                "Ein schöner Tanz.",
+                "Volkstanz.",
+                "Tanzen gehen."
+            ],
+            "phrasesUk": [
+                "Гарний танець.",
+                "Народний танець.",
+                "Йти танцювати."
+            ]
+        },
+        {
+            "wordDe": "Folklore",
+            "wordUk": "Фольклор",
+            "phrasesDe": [
+                "Deutsche Folklore.",
+                "Musik aus der Folklore.",
+                "Pflege der Folklore."
+            ],
+            "phrasesUk": [
+                "Німецький фольклор.",
+                "Музика з фольклору.",
+                "Збереження фольклору."
+            ]
+        },
+        {
+            "wordDe": "Mythologie",
+            "wordUk": "Міфологія",
+            "phrasesDe": [
+                "Griechische Mythologie.",
+                "Nordische Mythologie.",
+                "Sagen und Mythen."
+            ],
+            "phrasesUk": [
+                "Грецька міфологія.",
+                "Нордична міфологія.",
+                "Легенди та міфи."
+            ]
+        },
+        {
+            "wordDe": "Legende",
+            "wordUk": "Легенда",
+            "phrasesDe": [
+                "Eine alte Legende.",
+                "Lebende Legende.",
+                "Der Kern der Legende."
+            ],
+            "phrasesUk": [
+                "Стара легенда.",
+                "Жива легенда.",
+                "Суть легенди."
+            ]
+        },
+        {
+            "wordDe": "Märchen",
+            "wordUk": "Казка",
+            "phrasesDe": [
+                "Grimms Märchen.",
+                "Ein Märchen erzählen.",
+                "Wie im Märchen."
+            ],
+            "phrasesUk": [
+                "Казки братів Грімм.",
+                "Розповісти казку.",
+                "Як у казці."
+            ]
+        },
+        {
+            "wordDe": "Fassade",
+            "wordUk": "Фасад",
+            "phrasesDe": [
+                "Vorkriegs-Fassade.",
+                "Die Fassade renovieren.",
+                "Hinter der Fassade."
+            ],
+            "phrasesUk": [
+                "Довоєнний фасад.",
+                "Ремонтувати фасад.",
+                "За фасадом."
+            ]
+        },
+        {
+            "wordDe": "Stil",
+            "wordUk": "Стиль",
+            "phrasesDe": [
+                "Ein eleganter Stil.",
+                "Kleidungsstil.",
+                "Stilbruch."
+            ],
+            "phrasesUk": [
+                "Елегантний стиль.",
+                "Стиль одягу.",
+                "Порушення стилю (стилістичний дисонанс)."
+            ]
+        },
+        {
+            "wordDe": "Ästhetik",
+            "wordUk": "Естетика",
+            "phrasesDe": [
+                "Gefühl für Ästhetik.",
+                "Moderne Ästhetik.",
+                "Ästhetische Bildung."
+            ],
+            "phrasesUk": [
+                "Почуття естетики.",
+                "Сучасна естетика.",
+                "Естетичне виховання."
+            ]
+        },
+        {
+            "wordDe": "Handwerk",
+            "wordUk": "Ремесло",
+            "phrasesDe": [
+                "Traditionelles Handwerk.",
+                "Sein Handwerk beherrschen.",
+                "Goldenes Handwerk."
+            ],
+            "phrasesUk": [
+                "Традиційне ремесло.",
+                "Володіти своїм ремеслом.",
+                "Золоте ремесло."
+            ]
+        },
+        {
+            "wordDe": "Meisterwerk",
+            "wordUk": "Шедевр",
+            "phrasesDe": [
+                "Ein echtes Meisterwerk.",
+                "Das Meisterwerk eines Genies.",
+                "Meisterwerk der Malerei."
+            ],
+            "phrasesUk": [
+                "Справжній шедевр.",
+                "Шедевр генія.",
+                "Шедевр живопису."
+            ]
+        },
+        {
+            "wordDe": "Atelier",
+            "wordUk": "Ательє / Майстерня",
+            "phrasesDe": [
+                "Im Atelier arbeiten.",
+                "Ein helles Atelier.",
+                "Besuch im Künstleratelier."
+            ],
+            "phrasesUk": [
+                "Працювати в майстерні.",
+                "Світле ательє.",
+                "Візит до майстерні художника."
+            ]
+        },
+        {
+            "wordDe": "Vernissage",
+            "wordUk": "Вернісаж",
+            "phrasesDe": [
+                "Einladung zur Vernissage.",
+                "Eröffnung der Ausstellung.",
+                "Sekt bei der Vernissage."
+            ],
+            "phrasesUk": [
+                "Запрошення на вернісаж.",
+                "Відкриття виставки.",
+                "Шампанське на вернісажі."
+            ]
+        }
+    ]
+}

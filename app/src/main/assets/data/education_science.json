@@ -1,0 +1,284 @@
+{
+    "Освіта та Наука": [
+        {
+            "wordDe": "Universität",
+            "wordUk": "Університет",
+            "phrasesDe": [
+                "Ich studiere an der Universität.",
+                "Die Universität ist groß.",
+                "Wo ist die Universität?"
+            ],
+            "phrasesUk": [
+                "Я навчаюся в університеті.",
+                "Університет великий.",
+                "Де університет?"
+            ]
+        },
+        {
+            "wordDe": "Student",
+            "wordUk": "Студент",
+            "phrasesDe": [
+                "Er ist ein fleißiger Student.",
+                "Bist du Student?",
+                "Viele Studenten sind hier."
+            ],
+            "phrasesUk": [
+                "Він старанний студент.",
+                "Ти студент?",
+                "Тут багато студентів."
+            ]
+        },
+        {
+            "wordDe": "Professor",
+            "wordUk": "Професор",
+            "phrasesDe": [
+                "Der Professor erklärt gut.",
+                "Fragen Sie den Professor.",
+                "Ein bekannter Professor."
+            ],
+            "phrasesUk": [
+                "Професор добре пояснює.",
+                "Запитайте професора.",
+                "Відомий професор."
+            ]
+        },
+        {
+            "wordDe": "Forschung",
+            "wordUk": "Дослідження",
+            "phrasesDe": [
+                "Wissenschaftliche Forschung.",
+                "Er arbeitet in der Forschung.",
+                "Forschung ist wichtig."
+            ],
+            "phrasesUk": [
+                "Наукове дослідження.",
+                "Він працює в галузі досліджень.",
+                "Дослідження - це важливо."
+            ]
+        },
+        {
+            "wordDe": "Wissenschaft",
+            "wordUk": "Наука",
+            "phrasesDe": [
+                "Ich liebe die Wissenschaft.",
+                "Moderne Wissenschaft.",
+                "Wissenschaft macht Spaß."
+            ],
+            "phrasesUk": [
+                "Я люблю науку.",
+                "Сучасна наука.",
+                "Наука - це весело."
+            ]
+        },
+        {
+            "wordDe": "Bibliothek",
+            "wordUk": "Бібліотека",
+            "phrasesDe": [
+                "In der Bibliothek lesen.",
+                "Wo ist die Bibliothek?",
+                "Eine große Bibliothek."
+            ],
+            "phrasesUk": [
+                "Читати в бібліотеці.",
+                "Де бібліотека?",
+                "Велика бібліотека."
+            ]
+        },
+        {
+            "wordDe": "Prüfung",
+            "wordUk": "Іспит / Екзамен",
+            "phrasesDe": [
+                "Ich habe eine schwere Prüfung.",
+                "Viel Glück bei der Prüfung!",
+                "Die Prüfung ist morgen."
+            ],
+            "phrasesUk": [
+                "У мене важкий іспит.",
+                "Успіхів на іспиті!",
+                "Іспит завтра."
+            ]
+        },
+        {
+            "wordDe": "Lernen",
+            "wordUk": "Вчитися",
+            "phrasesDe": [
+                "Wir lernen zusammen.",
+                "Viel lernen hilft.",
+                "Was lernst du?"
+            ],
+            "phrasesUk": [
+                "Ми вчимося разом.",
+                "Багато вчитися допомагає.",
+                "Що ти вивчаєш?"
+            ]
+        },
+        {
+            "wordDe": "Wissen",
+            "wordUk": "Знання",
+            "phrasesDe": [
+                "Wissen ist Macht.",
+                "Viel Wissen haben.",
+                "Neues Wissen sammeln."
+            ],
+            "phrasesUk": [
+                "Знання - це сила.",
+                "Мати багато знань.",
+                "Збирати нові знання."
+            ]
+        },
+        {
+            "wordDe": "Erfahrung",
+            "wordUk": "Досвід",
+            "phrasesDe": [
+                "Ich habe viel Erfahrung.",
+                "Eine neue Erfahrung.",
+                "Erfahrung sammeln."
+            ],
+            "phrasesUk": [
+                "У мене багато досвіду.",
+                "Новий досвід.",
+                "Набиратися досвіду."
+            ]
+        },
+        {
+            "wordDe": "Theorie",
+            "wordUk": "Теорія",
+            "phrasesDe": [
+                "Eine interessante Theorie.",
+                "Theorie und Praxis.",
+                "Das ist nur Theorie."
+            ],
+            "phrasesUk": [
+                "Цікава теорія.",
+                "Теорія і практика.",
+                "Це лише теорія."
+            ]
+        },
+        {
+            "wordDe": "Experiment",
+            "wordUk": "Експеримент",
+            "phrasesDe": [
+                "Ein gefährliches Experiment.",
+                "Wir machen ein Experiment.",
+                "Ergebnisse des Experiments."
+            ],
+            "phrasesUk": [
+                "Небезпечний експеримент.",
+                "Ми проводимо експеримент.",
+                "Результати експерименту."
+            ]
+        },
+        {
+            "wordDe": "Mathematik",
+            "wordUk": "Математика",
+            "phrasesDe": [
+                "Mathe ist schwer.",
+                "Ich mag Mathematik.",
+                "Eine Matheaufgabe."
+            ],
+            "phrasesUk": [
+                "Математика - це важко.",
+                "Я люблю математику.",
+                "Математична задача."
+            ]
+        },
+        {
+            "wordDe": "Physik",
+            "wordUk": "Фізика",
+            "phrasesDe": [
+                "Die Gesetze der Physik.",
+                "Physik ist spannend.",
+                "Ein Physiklehrer."
+            ],
+            "phrasesUk": [
+                "Закони фізики.",
+                "Фізика - це захоплююче.",
+                "Вчитель фізики."
+            ]
+        },
+        {
+            "wordDe": "Chemie",
+            "wordUk": "Хімія",
+            "phrasesDe": [
+                "Chemie im Labor.",
+                "Ich lerne Chemie.",
+                "Chemische Reaktion."
+            ],
+            "phrasesUk": [
+                "Хімія в лабораторії.",
+                "Я вивчаю хімію.",
+                "Хімічна реакція."
+            ]
+        },
+        {
+            "wordDe": "Biologie",
+            "wordUk": "Біологія",
+            "phrasesDe": [
+                "Tiere in der Biologie.",
+                "Biologieunterricht.",
+                "Ich mag Biologie."
+            ],
+            "phrasesUk": [
+                "Тварини в біології.",
+                "Урок біології.",
+                "Я люблю біологію."
+            ]
+        },
+        {
+            "wordDe": "Geschichte",
+            "wordUk": "Історія",
+            "phrasesDe": [
+                "Die Geschichte der Welt.",
+                "Geschichte ist interessant.",
+                "Ein Geschichtsbuch."
+            ],
+            "phrasesUk": [
+                "Історія світу.",
+                "Історія - це цікаво.",
+                "Книга з історії."
+            ]
+        },
+        {
+            "wordDe": "Geographie",
+            "wordUk": "Географія",
+            "phrasesDe": [
+                "Länder in Geographie.",
+                "Wo liegt das?",
+                "Geographische Karte."
+            ],
+            "phrasesUk": [
+                "Країни в географії.",
+                "Де це знаходиться?",
+                "Географічна карта."
+            ]
+        },
+        {
+            "wordDe": "Informatik",
+            "wordUk": "Інформатика",
+            "phrasesDe": [
+                "Programmieren in Informatik.",
+                "Ich studiere Informatik.",
+                "Moderne Informatik."
+            ],
+            "phrasesUk": [
+                "Програмування в інформатиці.",
+                "Я вивчаю інформатику.",
+                "Сучасна інформатика."
+            ]
+        },
+        {
+            "wordDe": "Abschluss",
+            "wordUk": "Закінчення / Диплом",
+            "phrasesDe": [
+                "Herzlichen Glückwunsch zum Abschluss!",
+                "Ich habe meinen Abschluss.",
+                "Ein guter Abschluss."
+            ],
+            "phrasesUk": [
+                "Вітаю із закінченням!",
+                "У мене є диплом.",
+                "Хороше закінчення (навчання)."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Кулінарне Мистецтво": [
+        {
+            "wordDe": "Kulinarik",
+            "wordUk": "Кулінарія / Кулінарне мистецтво",
+            "phrasesDe": [
+                "Welt der Kulinarik.",
+                "Trends in der Kulinarik.",
+                "Gipfel der Kulinarik."
+            ],
+            "phrasesUk": [
+                "Світ кулінарії.",
+                "Тренди в кулінарному мистецтві.",
+                "Вершина кулінарії."
+            ]
+        },
+        {
+            "wordDe": "Spezialität",
+            "wordUk": "Спеціалітет / Фірмова страва",
+            "phrasesDe": [
+                "Lokale Spezialität.",
+                "Eine süße Spezialität.",
+                "Verkostung der Spezialität."
+            ],
+            "phrasesUk": [
+                "Місцева фірмова страва.",
+                "Солодкий спеціалітет.",
+                "Дегустація фірмової страви."
+            ]
+        },
+        {
+            "wordDe": "Gourmet",
+            "wordUk": "Гурман",
+            "phrasesDe": [
+                "Essen für Gourmets.",
+                "Küche für Gourmets.",
+                "Ein echter Gourmet."
+            ],
+            "phrasesUk": [
+                "Їжа для гурманів.",
+                "Кухня для гурманів.",
+                "Справжній гурман."
+            ]
+        },
+        {
+            "wordDe": "Feinkost",
+            "wordUk": "Делікатеси",
+            "phrasesDe": [
+                "Laden für Feinkost.",
+                "Wahl von Feinkost.",
+                "Preise für Feinkost."
+            ],
+            "phrasesUk": [
+                "Магазин делікатесів.",
+                "Вибір делікатесів.",
+                "Ціни на делікатеси."
+            ]
+        },
+        {
+            "wordDe": "Gewürz",
+            "wordUk": "Спеція / Пряність",
+            "phrasesDe": [
+                "Duft der Gewürze.",
+                "Wahl der Gewürze.",
+                "Mischung von Gewürzen."
+            ],
+            "phrasesUk": [
+                "Аромат спецій.",
+                "Вибір прянощів.",
+                "Суміш спецій."
+            ]
+        },
+        {
+            "wordDe": "Aroma",
+            "wordUk": "Аромат / Смак (Арома)",
+            "phrasesDe": [
+                "Entfaltung des Aromas.",
+                "Ein feines Aroma.",
+                "Mangel an Aroma."
+            ],
+            "phrasesUk": [
+                "Розкриття аромату.",
+                "Тонкий аромат.",
+                "Брак смаку (аромату)."
+            ]
+        },
+        {
+            "wordDe": "Zutat",
+            "wordUk": "Інгредієнт / Складник (Цутат)",
+            "phrasesDe": [
+                "Frische Zutaten.",
+                "Liste der Zutaten.",
+                "Wahl der Zutaten."
+            ],
+            "phrasesUk": [
+                "Свіжі інгредієнти.",
+                "Список складників.",
+                "Вибір інгредієнтів."
+            ]
+        },
+        {
+            "wordDe": "Rezeptur",
+            "wordUk": "Рецептура / Рецепт (офіційно)",
+            "phrasesDe": [
+                "Geheime Rezeptur.",
+                "Änderung der Rezeptur.",
+                "Grundlage der Rezeptur."
+            ],
+            "phrasesUk": [
+                "Секретна рецептура.",
+                "Зміна рецепта (складу).",
+                "Основа рецептури."
+            ]
+        },
+        {
+            "wordDe": "Zubereitung",
+            "wordUk": "Приготування",
+            "phrasesDe": [
+                "Art der Zubereitung.",
+                "Dauer der Zubereitung.",
+                "Schritte der Zubereitung."
+            ],
+            "phrasesUk": [
+                "Спосіб приготування.",
+                "Тривалість приготування.",
+                "Етапи приготування."
+            ]
+        },
+        {
+            "wordDe": "Garmethode",
+            "wordUk": "Метод термічної обробки",
+            "phrasesDe": [
+                "Schonende Garmethode.",
+                "Wahl der Garmethode.",
+                "Vorteile der Garmethode."
+            ],
+            "phrasesUk": [
+                "Щадний метод приготування.",
+                "Вибір термічної обробки.",
+                "Переваги методу готування."
+            ]
+        },
+        {
+            "wordDe": "Dünsten",
+            "wordUk": "Тушкування / Пасерування (Dünsten)",
+            "phrasesDe": [
+                "Gemüse dünsten.",
+                "Vorteile beim Dünsten.",
+                "Dauer beim Dünsten."
+            ],
+            "phrasesUk": [
+                "Тушкувати овочі.",
+                "Переваги тушкування.",
+                "Тривалість пасерування."
+            ]
+        },
+        {
+            "wordDe": "Blanchieren",
+            "wordUk": "Бланшування",
+            "phrasesDe": [
+                "Gemüse kurz blanchieren.",
+                "Zweck des Blanchierens.",
+                "Dauer beim Blanchieren."
+            ],
+            "phrasesUk": [
+                "Коротко бланшувати овочі.",
+                "Мета бланшування.",
+                "Час бланшування."
+            ]
+        },
+        {
+            "wordDe": "Flambieren",
+            "wordUk": "Фламбування (підпалювання страви)",
+            "phrasesDe": [
+                "Speisen flambieren.",
+                "Kunst des Flambierens.",
+                "Gefahr beim Flambieren."
+            ],
+            "phrasesUk": [
+                "Фламбувати страви.",
+                "Мистецтво фламбування.",
+                "Небезпека при фламбуванні."
+            ]
+        },
+        {
+            "wordDe": "Marinieren",
+            "wordUk": "Маринування",
+            "phrasesDe": [
+                "Fleisch marinieren.",
+                "Dauer des Marinierens.",
+                "Zutaten zum Marinieren."
+            ],
+            "phrasesUk": [
+                "Маринувати м'ясо.",
+                "Тривалість маринування.",
+                "Інгредієнти для маринаду."
+            ]
+        },
+        {
+            "wordDe": "Degustation",
+            "wordUk": "Дегустація",
+            "phrasesDe": [
+                "Einladung zur Degustation.",
+                "Ablauf der Degustation.",
+                "Ort der Degustation."
+            ],
+            "phrasesUk": [
+                "Запрошення на дегустацію.",
+                "Перебіг дегустації.",
+                "Місце проведення дегустації."
+            ]
+        },
+        {
+            "wordDe": "Sommelier",
+            "wordUk": "Сомелье",
+            "phrasesDe": [
+                "Beratung durch einen Sommelier.",
+                "Wissen des Sommeliers.",
+                "Ausbildung zum Sommelier."
+            ],
+            "phrasesUk": [
+                "Консультація сомельє.",
+                "Знання сомельє.",
+                "Навчання на сомельє."
+            ]
+        },
+        {
+            "wordDe": "Rebsorte",
+            "wordUk": "Сорт винограду",
+            "phrasesDe": [
+                "Wahl der Rebsorte.",
+                "Anbau der Rebsorte.",
+                "Charakter der Rebsorte."
+            ],
+            "phrasesUk": [
+                "Вибір сорту винограду.",
+                "Вирощування сорту.",
+                "Характер сорту винограду."
+            ]
+        },
+        {
+            "wordDe": "Jahrgang",
+            "wordUk": "Рік урожаю / Міллезим",
+            "phrasesDe": [
+                "Ein guter Jahrgang.",
+                "Preis des Jahrgangs.",
+                "Bedeutung des Jahrgangs."
+            ],
+            "phrasesUk": [
+                "Гарний рік урожаю.",
+                "Ціна міллезиму.",
+                "Значення року урожаю."
+            ]
+        },
+        {
+            "wordDe": "Bouquet",
+            "wordUk": "Букет (вина)",
+            "phrasesDe": [
+                "Das Bouquet des Weins.",
+                "Entfaltung des Bouquets.",
+                "Noten im Bouquet."
+            ],
+            "phrasesUk": [
+                "Букет вина.",
+                "Розкриття букета.",
+                "Ноти в букеті."
+            ]
+        },
+        {
+            "wordDe": "Nachgeschmack",
+            "wordUk": "Післясмак",
+            "phrasesDe": [
+                "Ein langer Nachgeschmack.",
+                "Angenehmer Nachgeschmack.",
+                "Bitterer Nachgeschmack."
+            ],
+            "phrasesUk": [
+                "Тривалий післясмак.",
+                "Приємний післясмак.",
+                "Гіркий післясмак."
+            ]
+        },
+        {
+            "wordDe": "Patisserie",
+            "wordUk": "Кондитерська / Патіссерія",
+            "phrasesDe": [
+                "Kunst der Patisserie.",
+                "Besuch einer Patisserie.",
+                "Werk der Patisserie."
+            ],
+            "phrasesUk": [
+                "Мистецтво кондитерської справи.",
+                "Візит до патіссерії.",
+                "Виріб кондитера."
+            ]
+        },
+        {
+            "wordDe": "Confiserie",
+            "wordUk": "Цукерня / Виробництво солодощів (Конфізері)",
+            "phrasesDe": [
+                "Laden für Confiserie.",
+                "Handarbeit in der Confiserie.",
+                "Wahl in der Confiserie."
+            ],
+            "phrasesUk": [
+                "Магазин солодощів.",
+                "Ручна робота в цукерні.",
+                "Вибір у конфізерії."
+            ]
+        },
+        {
+            "wordDe": "Kulinarische Reise",
+            "wordUk": "Гастрономічна подорож",
+            "phrasesDe": [
+                "Planung einer kulinarischen Reise.",
+                "Ziele für eine kulinarische Reise.",
+                "Erlebnis einer kulinarischen Reise."
+            ],
+            "phrasesUk": [
+                "Планування гастроподорожі.",
+                "Цілі для кулінарної мандрівки.",
+                "Враження від гастрономічної поїздки."
+            ]
+        },
+        {
+            "wordDe": "Fusion-Küche",
+            "wordUk": "Ф'южн-кухня (поєднання стилів)",
+            "phrasesDe": [
+                "Trend zur Fusion-Küche.",
+                "Gerichte der Fusion-Küche.",
+                "Ideen der Fusion-Küche."
+            ],
+            "phrasesUk": [
+                "Тренд на ф'южн-кухню.",
+                "Страви кухні ф'южн.",
+                "Ідеї поєднання стилів."
+            ]
+        },
+        {
+            "wordDe": "Veganismus",
+            "wordUk": "Веганство",
+            "phrasesDe": [
+                "Trend zum Veganismus.",
+                "Prinzipien des Veganismus.",
+                "Vorteile des Veganismus."
+            ],
+            "phrasesUk": [
+                "Тренд на веганство.",
+                "Принципи веганства.",
+                "Переваги веганства."
+            ]
+        },
+        {
+            "wordDe": "Vegetarismus",
+            "wordUk": "Вегетаріанство",
+            "phrasesDe": [
+                "Formen des Vegetarismus.",
+                "Gründe für Vegetarismus.",
+                "Verbreitung von Vegetarismus."
+            ],
+            "phrasesUk": [
+                "Форми вегетаріанства.",
+                "Причини вегетаріанства.",
+                "Поширеність вегетаріанства."
+            ]
+        },
+        {
+            "wordDe": "Rohkost",
+            "wordUk": "Сироїдіння / Сирі продукти",
+            "phrasesDe": [
+                "Ernährung mit Rohkost.",
+                "Vorteile von Rohkost.",
+                "Kritik an Rohkost."
+            ],
+            "phrasesUk": [
+                "Харчування сирими продуктами.",
+                "Переваги сироїдіння.",
+                "Критика сироїдіння."
+            ]
+        },
+        {
+            "wordDe": "Superfood",
+            "wordUk": "Суперфуд (продукти з високою цінністю)",
+            "phrasesDe": [
+                "Hype um Superfood.",
+                "Beispiele für Superfood.",
+                "Wirkung von Superfood."
+            ],
+            "phrasesUk": [
+                "Хайп навколо суперфудів.",
+                "Приклади суперфудів.",
+                "Дія суперфудів."
+            ]
+        },
+        {
+            "wordDe": "Bio-Produkte",
+            "wordUk": "Біо-продукти / Органічні продукти",
+            "phrasesDe": [
+                "Kauf von Bio-Produkten.",
+                "Siegel für Bio-Produkte.",
+                "Preise für Bio-Produkte."
+            ],
+            "phrasesUk": [
+                "Купівля органічних продуктів.",
+                "Маркування біо-продуктів.",
+                "Ціни на органіку."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltiger Anbau",
+            "wordUk": "Стале (екологічне) вирощування",
+            "phrasesDe": [
+                "Vorteile von nachhaltigem Anbau.",
+                "Methoden für nachhaltigen Anbau.",
+                "Zukunft des nachhaltigen Anbaus."
+            ],
+            "phrasesUk": [
+                "Переваги сталого вирощування.",
+                "Методи екологічного землеробства.",
+                "Майбутнє сталого господарства."
+            ]
+        },
+        {
+            "wordDe": "Regionalität",
+            "wordUk": "Регіональність / Локальність (продуктів)",
+            "phrasesDe": [
+                "Trend zur Regionalität.",
+                "Bedeutung der Regionalität.",
+                "Vorteile der Regionalität."
+            ],
+            "phrasesUk": [
+                "Тренд на локальні продукти.",
+                "Значення регіональності.",
+                "Переваги локальних товарів."
+            ]
+        },
+        {
+            "wordDe": "Saisonalität",
+            "wordUk": "Сезонність",
+            "phrasesDe": [
+                "Vorteile der Saisonalität.",
+                "Bedeutung der Saisonalität.",
+                "Küche und Saisonalität."
+            ],
+            "phrasesUk": [
+                "Переваги сезонності.",
+                "Значення сезонних продуктів.",
+                "Кухня та сезонність."
+            ]
+        },
+        {
+            "wordDe": "Haltbarkeit",
+            "wordUk": "Термін придатності / Тривалість зберігання",
+            "phrasesDe": [
+                "Datum der Haltbarkeit.",
+                "Prüfung der Haltbarkeit.",
+                "Verlängerung der Haltbarkeit."
+            ],
+            "phrasesUk": [
+                "Дата придатності.",
+                "Перевірка терміну зберігання.",
+                "Продовження терміну придатності."
+            ]
+        },
+        {
+            "wordDe": "Konservierung",
+            "wordUk": "Консервація / Збереження",
+            "phrasesDe": [
+                "Methoden der Konservierung.",
+                "Zusätze zur Konservierung.",
+                "Zweck der Konservierung."
+            ],
+            "phrasesUk": [
+                "Методи консервації.",
+                "Добавки для збереження.",
+                "Мета консервації."
+            ]
+        },
+        {
+            "wordDe": "Gefriertrocknung",
+            "wordUk": "Ліофілізація / Сублімація",
+            "phrasesDe": [
+                "Vorgang der Gefriertrocknung.",
+                "Vorteile der Gefriertrocknung.",
+                "Nutzung der Gefriertrocknung."
+            ],
+            "phrasesUk": [
+                "Процес ліофілізації.",
+                "Переваги сублімації (сушіння заморожуванням).",
+                "Використання ліофілізованих продуктів."
+            ]
+        },
+        {
+            "wordDe": "Fermentation",
+            "wordUk": "Ферментація / Бродіння",
+            "phrasesDe": [
+                "Prozess der Fermentation.",
+                "Produkte durch Fermentation.",
+                "Gesundheit und Fermentation."
+            ],
+            "phrasesUk": [
+                "Процес ферментації.",
+                "Продукти бродіння.",
+                "Здоров'я та ферментовані продукти."
+            ]
+        },
+        {
+            "wordDe": "Pasteurisierung",
+            "wordUk": "Пастеризація",
+            "phrasesDe": [
+                "Vorteile der Pasteurisierung.",
+                "Bedeutung der Pasteurisierung.",
+                "Verfahren der Pasteurisierung."
+            ],
+            "phrasesUk": [
+                "Переваги пастеризації.",
+                "Значення пастеризації.",
+                "Метод пастеризації."
+            ]
+        },
+        {
+            "wordDe": "Brennwert",
+            "wordUk": "Енергетична цінність / Калорійність (Брен-верт)",
+            "phrasesDe": [
+                "Angabe des Brennwerts.",
+                "Höhe des Brennwerts.",
+                "Berechnung des Brennwerts."
+            ],
+            "phrasesUk": [
+                "Вказання калорійності.",
+                "Величина енергетичної цінності.",
+                "Розрахунок калорій."
+            ]
+        },
+        {
+            "wordDe": "Nährwert",
+            "wordUk": "Поживна цінність",
+            "phrasesDe": [
+                "Tabelle der Nährwerte.",
+                "Bedeutung des Nährwerts.",
+                "Analyse des Nährwerts."
+            ],
+            "phrasesUk": [
+                "Таблиця поживної цінності.",
+                "Значення нутрієнтів.",
+                "Аналіз поживної цінності."
+            ]
+        },
+        {
+            "wordDe": "Kohlenhydrate",
+            "wordUk": "Вуглеводи",
+            "phrasesDe": [
+                "Anteil an Kohlenhydraten.",
+                "Vermeidung von Kohlenhydraten.",
+                "Funktion von Kohlenhydraten."
+            ],
+            "phrasesUk": [
+                "Частка вуглеводів.",
+                "Уникнення вуглеводів.",
+                "Функція вуглеводів."
+            ]
+        },
+        {
+            "wordDe": "Proteine",
+            "wordUk": "Білки / Протеїни",
+            "phrasesDe": [
+                "Quelle für Proteine.",
+                "Bedarf an Proteinen.",
+                "Aufbau durch Proteine."
+            ],
+            "phrasesUk": [
+                "Джерело білків.",
+                "Потреба в протеїнах.",
+                "Побудова (м'язів) за допомогою білків."
+            ]
+        },
+        {
+            "wordDe": "Fettsäuren",
+            "wordUk": "Жирні кислоти",
+            "phrasesDe": [
+                "Gesättigte Fettsäuren.",
+                "Ungesättigte Fettsäuren.",
+                "Bedeutung von Fettsäuren."
+            ],
+            "phrasesUk": [
+                "Насичені жирні кислоти.",
+                "Ненасичені жирні кислоти.",
+                "Значення жирних кислот."
+            ]
+        },
+        {
+            "wordDe": "Vitamine",
+            "wordUk": "Вітаміни",
+            "phrasesDe": [
+                "Mangel an Vitaminen.",
+                "Zufuhr von Vitaminen.",
+                "Liste der Vitamine."
+            ],
+            "phrasesUk": [
+                "Брак вітамінів.",
+                "Прийом вітамінів.",
+                "Список вітамінів."
+            ]
+        },
+        {
+            "wordDe": "Mineralstoffe",
+            "wordUk": "Мінеральні речовини",
+            "phrasesDe": [
+                "Bedarf an Mineralstoffen.",
+                "Quellen für Mineralstoffe.",
+                "Mangel an Mineralstoffen."
+            ],
+            "phrasesUk": [
+                "Потреба в мінералах.",
+                "Джерела мінеральних речовин.",
+                "Брак мінералів."
+            ]
+        },
+        {
+            "wordDe": "Antioxidantien",
+            "wordUk": "Антиоксиданти",
+            "phrasesDe": [
+                "Wirkung von Antioxidantien.",
+                "Vorkommen von Antioxidantien.",
+                "Schutz durch Antioxidantien."
+            ],
+            "phrasesUk": [
+                "Дія антиоксидантів.",
+                "Наявність антиоксидантів (у продуктах).",
+                "Захист антиоксидантами."
+            ]
+        },
+        {
+            "wordDe": "Zusatzstoffe",
+            "wordUk": "Харчові добавки (Е-шки тощо)",
+            "phrasesDe": [
+                "Liste der Zusatzstoffe.",
+                "Kritik an Zusatzstoffen.",
+                "Vermeidung von Zusatzstoffen."
+            ],
+            "phrasesUk": [
+                "Список добавок.",
+                "Критика харчових добавок.",
+                "Уникнення добавок."
+            ]
+        },
+        {
+            "wordDe": "Allergen",
+            "wordUk": "Алерген",
+            "phrasesDe": [
+                "Kennzeichnung von Allergenen.",
+                "Gefahr durch Allergene.",
+                "Liste der Allergene."
+            ],
+            "phrasesUk": [
+                "Маркування алергенів.",
+                "Небезпека від алергенів.",
+                "Список алергенів."
+            ]
+        },
+        {
+            "wordDe": "Intoleranz",
+            "wordUk": "Непереносимість (Лактозна тощо)",
+            "phrasesDe": [
+                "Laktose-Intoleranz.",
+                "Anzeichen von Intoleranz.",
+                "Umgang mit Intoleranz."
+            ],
+            "phrasesUk": [
+                "Лактозна непереносимість.",
+                "Ознаки непереносимості.",
+                "Що робити при непереносимості."
+            ]
+        },
+        {
+            "wordDe": "Gourmet-Restaurant",
+            "wordUk": "Гастрономічний ресторан / Ресторан вишуканої кухні",
+            "phrasesDe": [
+                "Besuch im Gourmet-Restaurant.",
+                "Preise im Gourmet-Restaurant.",
+                "Menü im Gourmet-Restaurant."
+            ],
+            "phrasesUk": [
+                "Візит до гастрономічного ресторану.",
+                "Ціни у вишуканому ресторані.",
+                "Меню в гурман-ресторані."
+            ]
+        },
+        {
+            "wordDe": "Michelin-Stern",
+            "wordUk": "Зірка Мішлен",
+            "phrasesDe": [
+                "Erhalt eines Michelin-Sterns.",
+                "Bedeutung des Michelin-Sterns.",
+                "Suche nach Michelin-Sternen."
+            ],
+            "phrasesUk": [
+                "Отримання зірки Мішлен.",
+                "Значення зірки Мішлен.",
+                "Пошук мішленівських зірок."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,690 @@
+{
+    "Дієслова (Пакет 2)": [
+        {
+            "wordDe": "Verstehen",
+            "wordUk": "Розуміти",
+            "phrasesDe": [
+                "Ich verstehe dich.",
+                "Verstehen Sie?",
+                "Alles verstehen."
+            ],
+            "phrasesUk": [
+                "Я тебе розумію.",
+                "Ви розумієте?",
+                "Все розуміти."
+            ]
+        },
+        {
+            "wordDe": "Helfen",
+            "wordUk": "Допомагати",
+            "phrasesDe": [
+                "Kannst du mir helfen?",
+                "Hilfe brauchen.",
+                "Er hilft gern."
+            ],
+            "phrasesUk": [
+                "Можеш мені допомогти?",
+                "Потребувати допомоги.",
+                "Він охоче допомагає."
+            ]
+        },
+        {
+            "wordDe": "Sprechen",
+            "wordUk": "Розмовляти",
+            "phrasesDe": [
+                "Wir sprechen Deutsch.",
+                "Langsam sprechen.",
+                "Mit wem sprichst du?"
+            ],
+            "phrasesUk": [
+                "Ми розмовляємо німецькою.",
+                "Розмовляти повільно.",
+                "З ким ти розмовляєш?"
+            ]
+        },
+        {
+            "wordDe": "Schreiben",
+            "wordUk": "Писати",
+            "phrasesDe": [
+                "Einen Brief schreiben.",
+                "Schreib das auf!",
+                "Wie schreibt man das?"
+            ],
+            "phrasesUk": [
+                "Писати листа.",
+                "Запиши це!",
+                "Як це пишеться?"
+            ]
+        },
+        {
+            "wordDe": "Lesen",
+            "wordUk": "Читати",
+            "phrasesDe": [
+                "Ein Buch lesen.",
+                "Laut lesen.",
+                "Ich lese gern."
+            ],
+            "phrasesUk": [
+                "Читати книгу.",
+                "Читати вголос.",
+                "Я люблю читати."
+            ]
+        },
+        {
+            "wordDe": "Arbeiten",
+            "wordUk": "Працювати",
+            "phrasesDe": [
+                "Wo arbeitest du?",
+                "Viel arbeiten.",
+                "Hart arbeiten."
+            ],
+            "phrasesUk": [
+                "Де ти працюєш?",
+                "Багато працювати.",
+                "Важко працювати."
+            ]
+        },
+        {
+            "wordDe": "Warten",
+            "wordUk": "Чекати",
+            "phrasesDe": [
+                "Warte mal!",
+                "Auf den Bus warten.",
+                "Ich warte schon lange."
+            ],
+            "phrasesUk": [
+                "Зачекай-но!",
+                "Чекати на автобус.",
+                "Я вже давно чекаю."
+            ]
+        },
+        {
+            "wordDe": "Laufen",
+            "wordUk": "Бігти / Йти",
+            "phrasesDe": [
+                "Schnell laufen.",
+                "Wir laufen im Park.",
+                "Die Zeit läuft."
+            ],
+            "phrasesUk": [
+                "Швидко бігти.",
+                "Ми гуляємо (бігаємо) у парку.",
+                "Час іде."
+            ]
+        },
+        {
+            "wordDe": "Fahren",
+            "wordUk": "Їхати",
+            "phrasesDe": [
+                "Mit dem Auto fahren.",
+                "Fährst du mit?",
+                "Nach Hause fahren."
+            ],
+            "phrasesUk": [
+                "Їхати на машині.",
+                "Ти поїдеш з нами?",
+                "Їхати додому."
+            ]
+        },
+        {
+            "wordDe": "Schlafen",
+            "wordUk": "Спати",
+            "phrasesDe": [
+                "Gut schlafen.",
+                "Ich muss schlafen.",
+                "Wie hast du geschlafen?"
+            ],
+            "phrasesUk": [
+                "Добре спати.",
+                "Мені треба спати.",
+                "Як ти спав?"
+            ]
+        },
+        {
+            "wordDe": "Kochen",
+            "wordUk": "Готувати (їжу)",
+            "phrasesDe": [
+                "Suppe kochen.",
+                "Was kochst du heute?",
+                "Kochen macht Spaß."
+            ],
+            "phrasesUk": [
+                "Готувати суп.",
+                "Що ти сьогодні готуєш?",
+                "Готувати — це весело."
+            ]
+        },
+        {
+            "wordDe": "Putzen",
+            "wordUk": "Чистити / Прибирати",
+            "phrasesDe": [
+                "Zähne putzen.",
+                "Das Fenster putzen.",
+                "Schuhe putzen."
+            ],
+            "phrasesUk": [
+                "Чистити зуби.",
+                "Мити вікно.",
+                "Чистити взуття."
+            ]
+        },
+        {
+            "wordDe": "Schwimmen",
+            "wordUk": "Плавати",
+            "phrasesDe": [
+                "Im Meer schwimmen.",
+                "Kannst du schwimmen?",
+                "Schwimmen gehen."
+            ],
+            "phrasesUk": [
+                "Плавати в морі.",
+                "Ти вмієш плавати?",
+                "Йти плавати."
+            ]
+        },
+        {
+            "wordDe": "Singen",
+            "wordUk": "Співати",
+            "phrasesDe": [
+                "Ein Lied singen.",
+                "Schön singen.",
+                "Im Chor singen."
+            ],
+            "phrasesUk": [
+                "Співати пісню.",
+                "Гарно співати.",
+                "Співати в хорі."
+            ]
+        },
+        {
+            "wordDe": "Tanzen",
+            "wordUk": "Танцювати",
+            "phrasesDe": [
+                "Die ganze Nacht tanzen.",
+                "Lass uns tanzen!",
+                "Tanzen lernen."
+            ],
+            "phrasesUk": [
+                "Танцювати всю ніч.",
+                "Давай танцювати!",
+                "Вчитися танцювати."
+            ]
+        },
+        {
+            "wordDe": "Lachen",
+            "wordUk": "Сміятися",
+            "phrasesDe": [
+                "Viel lachen.",
+                "Warum lachst du?",
+                "Über einen Witz lachen."
+            ],
+            "phrasesUk": [
+                "Багато сміятися.",
+                "Чому ти смієшся?",
+                "Сміятися з жарту."
+            ]
+        },
+        {
+            "wordDe": "Weinen",
+            "wordUk": "Плакати",
+            "phrasesDe": [
+                "Bitte nicht weinen!",
+                "Sie weint vor Glück.",
+                "Leise weinen."
+            ],
+            "phrasesUk": [
+                "Будь ласка, не плач!",
+                "Вона плаче від щастя.",
+                "Тихо плакати."
+            ]
+        },
+        {
+            "wordDe": "Besuchen",
+            "wordUk": "Відвідувати",
+            "phrasesDe": [
+                "Freunde besuchen.",
+                "Ein Museum besuchen.",
+                "Besuch uns bald!"
+            ],
+            "phrasesUk": [
+                "Відвідувати друзів.",
+                "Відвідати музей.",
+                "Завітай до нас скоро!"
+            ]
+        },
+        {
+            "wordDe": "Verkaufen",
+            "wordUk": "Продавати",
+            "phrasesDe": [
+                "Das Auto verkaufen.",
+                "Was verkaufen Sie?",
+                "Alles verkaufen."
+            ],
+            "phrasesUk": [
+                "Продати машину.",
+                "Що Ви продаєте?",
+                "Все продати."
+            ]
+        },
+        {
+            "wordDe": "Suchen",
+            "wordUk": "Шукати",
+            "phrasesDe": [
+                "Einen Job suchen.",
+                "Was suchst du?",
+                "Den Schlüssel suchen."
+            ],
+            "phrasesUk": [
+                "Шукати роботу.",
+                "Що ти шукаєш?",
+                "Шукати ключ."
+            ]
+        },
+        {
+            "wordDe": "Finden",
+            "wordUk": "Знаходити",
+            "phrasesDe": [
+                "Ich finde das gut.",
+                "Lösung finden.",
+                "Wo hast du das gefunden?"
+            ],
+            "phrasesUk": [
+                "Я вважаю це добрим.",
+                "Знайти рішення.",
+                "Де ти це знайшов?"
+            ]
+        },
+        {
+            "wordDe": "Wissen",
+            "wordUk": "Знати",
+            "phrasesDe": [
+                "Ich weiß es.",
+                "Wer weiß das?",
+                "Bescheid wissen."
+            ],
+            "phrasesUk": [
+                "Я це знаю.",
+                "Хто це знає?",
+                "Бути в курсі."
+            ]
+        },
+        {
+            "wordDe": "Glauben",
+            "wordUk": "Вірити / Думати",
+            "phrasesDe": [
+                "Ich glaube dir.",
+                "An Gott glauben.",
+                "Ich glaube schon."
+            ],
+            "phrasesUk": [
+                "Я тобі вірю.",
+                "Вірити в Бога.",
+                "Я так думаю."
+            ]
+        },
+        {
+            "wordDe": "Hoffen",
+            "wordUk": "Сподіватися",
+            "phrasesDe": [
+                "Ich hoffe doch!",
+                "Auf Hilfe hoffen.",
+                "Das Beste hoffen."
+            ],
+            "phrasesUk": [
+                "Сподіваюся!",
+                "Сподіватися на допомогу.",
+                "Сподіватися на найкраще."
+            ]
+        },
+        {
+            "wordDe": "Lieben",
+            "wordUk": "Любити",
+            "phrasesDe": [
+                "Ich liebe dich.",
+                "Das Leben lieben.",
+                "Musik lieben."
+            ],
+            "phrasesUk": [
+                "Я тебе кохаю.",
+                "Любити життя.",
+                "Любити музику."
+            ]
+        },
+        {
+            "wordDe": "Hassen",
+            "wordUk": "Ненавидіти",
+            "phrasesDe": [
+                "Montage hassen.",
+                "Warum hasst du ihn?",
+                "Lügen hassen."
+            ],
+            "phrasesUk": [
+                "Ненавидіти понеділки.",
+                "Чому ти його ненавидиш?",
+                "Ненавидіти брехню."
+            ]
+        },
+        {
+            "wordDe": "Feiern",
+            "wordUk": "Святкувати",
+            "phrasesDe": [
+                "Geburtstag feiern.",
+                "Lass uns feiern!",
+                "Viel feiern."
+            ],
+            "phrasesUk": [
+                "Святкувати день народження.",
+                "Давай святкувати!",
+                "Багато святкувати."
+            ]
+        },
+        {
+            "wordDe": "Gewinnen",
+            "wordUk": "Перемагати",
+            "phrasesDe": [
+                "Das Spiel gewinnen.",
+                "Im Lotto gewinnen.",
+                "Er gewinnt immer."
+            ],
+            "phrasesUk": [
+                "Виграти гру.",
+                "Виграти в лотерею.",
+                "Він завжди перемагає."
+            ]
+        },
+        {
+            "wordDe": "Verlieren",
+            "wordUk": "Програвати / Втрачати",
+            "phrasesDe": [
+                "Das Spiel verlieren.",
+                "Keine Zeit verlieren.",
+                "Den Schlüssel verlieren."
+            ],
+            "phrasesUk": [
+                "Програти гру.",
+                "Не втрачати часу.",
+                "Загубити ключ."
+            ]
+        },
+        {
+            "wordDe": "Bezahlen",
+            "wordUk": "Оплачувати",
+            "phrasesDe": [
+                "Die Rechnung bezahlen.",
+                "Ich bezahle bar.",
+                "Wie möchten Sie bezahlen?"
+            ],
+            "phrasesUk": [
+                "Оплатити рахунок.",
+                "Я плачу готівкою.",
+                "Як Ви бажаєте оплатити?"
+            ]
+        },
+        {
+            "wordDe": "Bestellen",
+            "wordUk": "Замовляти",
+            "phrasesDe": [
+                "Pizza bestellen.",
+                "Ich habe das online bestellt.",
+                "Einen Tisch bestellen."
+            ],
+            "phrasesUk": [
+                "Замовити піцу.",
+                "Я замовив це онлайн.",
+                "Замовити столик."
+            ]
+        },
+        {
+            "wordDe": "Probieren",
+            "wordUk": "Пробувати / Приміряти",
+            "phrasesDe": [
+                "Das Essen probieren.",
+                "Die Jacke probieren.",
+                "Versuchen Sie mal."
+            ],
+            "phrasesUk": [
+                "Спробувати їжу.",
+                "Приміряти куртку.",
+                "Спробуйте-но."
+            ]
+        },
+        {
+            "wordDe": "Anrufen",
+            "wordUk": "Дзвонити",
+            "phrasesDe": [
+                "Ruf mich an!",
+                "Dich anrufen.",
+                "Mutter anrufen."
+            ],
+            "phrasesUk": [
+                "Подзвони мені!",
+                "Подзвонити тобі.",
+                "Подзвонити мамі."
+            ]
+        },
+        {
+            "wordDe": "Vergessen",
+            "wordUk": "Забувати",
+            "phrasesDe": [
+                "Nicht vergessen!",
+                "Ich habe es fast vergessen.",
+                "Namen vergessen."
+            ],
+            "phrasesUk": [
+                "Не забудь!",
+                "Я ледь не забув.",
+                "Забути ім'я."
+            ]
+        },
+        {
+            "wordDe": "Erinnern",
+            "wordUk": "Нагадувати / Пам'ятати",
+            "phrasesDe": [
+                "Erinnerst du dich?",
+                "Daran erinnern.",
+                "Erinner mich morgen!"
+            ],
+            "phrasesUk": [
+                "Ти пам'ятаєш?",
+                "Пам'ятати про це.",
+                "Нагадай мені завтра!"
+            ]
+        },
+        {
+            "wordDe": "Erklären",
+            "wordUk": "Пояснювати",
+            "phrasesDe": [
+                "Kannst du das erklären?",
+                "Lass es mich erklären.",
+                "Regeln erklären."
+            ],
+            "phrasesUk": [
+                "Можеш це пояснити?",
+                "Дозволь мені пояснити це.",
+                "Пояснювати правила."
+            ]
+        },
+        {
+            "wordDe": "Entscheiden",
+            "wordUk": "Вирішувати",
+            "phrasesDe": [
+                "Du musst dich entscheiden.",
+                "Ich habe mich entschieden.",
+                "Dich umentscheiden."
+            ],
+            "phrasesUk": [
+                "Ти повинен вирішити.",
+                "Я вирішив.",
+                "Змінити рішення."
+            ]
+        },
+        {
+            "wordDe": "Wiederholen",
+            "wordUk": "Повторювати",
+            "phrasesDe": [
+                "Kannst du das wiederholen?",
+                "Bitte wiederholen.",
+                "Alles wiederholen."
+            ],
+            "phrasesUk": [
+                "Можеш це повторити?",
+                "Будь ласка, повторіть.",
+                "Все повторити."
+            ]
+        },
+        {
+            "wordDe": "Üben",
+            "wordUk": "Тренуватися / Вправлятися",
+            "phrasesDe": [
+                "Klavier üben.",
+                "Wir müssen üben.",
+                "Regelmäßig üben."
+            ],
+            "phrasesUk": [
+                "Тренуватися грати на піаніно.",
+                "Нам треба тренуватися.",
+                "Регулярно вправлятися."
+            ]
+        },
+        {
+            "wordDe": "Planen",
+            "wordUk": "Планувати",
+            "phrasesDe": [
+                "Urlaub planen.",
+                "Was planst du?",
+                "Die Zukunft planen."
+            ],
+            "phrasesUk": [
+                "Планувати відпустку.",
+                "Що ти плануєш?",
+                "Планувати майбутнє."
+            ]
+        },
+        {
+            "wordDe": "Nutzen",
+            "wordUk": "Використовувати",
+            "phrasesDe": [
+                "Die Chance nutzen.",
+                "Apps nutzen.",
+                "Zeit sinnvoll nutzen."
+            ],
+            "phrasesUk": [
+                "Використати шанс.",
+                "Користуватися додатками.",
+                "Використовувати час з користю."
+            ]
+        },
+        {
+            "wordDe": "Ändern",
+            "wordUk": "Змінювати",
+            "phrasesDe": [
+                "Das Passwort ändern.",
+                "Was kann man ändern?",
+                "Die Meinung ändern."
+            ],
+            "phrasesUk": [
+                "Змінити пароль.",
+                "Що можна змінити?",
+                "Змінити думку."
+            ]
+        },
+        {
+            "wordDe": "Wählen",
+            "wordUk": "Вибирати / Голосувати",
+            "phrasesDe": [
+                "Eine Nummer wählen.",
+                "Wählen gehen.",
+                "Die beste Option wählen."
+            ],
+            "phrasesUk": [
+                "Набрати номер.",
+                "Йти голосувати.",
+                "Вибрати найкращий варіант."
+            ]
+        },
+        {
+            "wordDe": "Schließen",
+            "wordUk": "Закривати",
+            "phrasesDe": [
+                "Die Tür schließen.",
+                "Das Fenster schließen.",
+                "Das Konto schließen."
+            ],
+            "phrasesUk": [
+                "Закрити двері.",
+                "Закрити вікно.",
+                "Закрити рахунок."
+            ]
+        },
+        {
+            "wordDe": "Öffnen",
+            "wordUk": "Відкривати",
+            "phrasesDe": [
+                "Das Fenster öffnen.",
+                "Das Geschäft öffnet um 8.",
+                "Die Augen öffnen."
+            ],
+            "phrasesUk": [
+                "Відкрити вікно.",
+                "Магазин відкривається о 8.",
+                "Відкрити очі."
+            ]
+        },
+        {
+            "wordDe": "Drücken",
+            "wordUk": "Натискати / Тиснути",
+            "phrasesDe": [
+                "Den Knopf drücken.",
+                "Dich fest drücken.",
+                "Drück mal hier."
+            ],
+            "phrasesUk": [
+                "Натиснути кнопку.",
+                "Міцно тебе обійняти (притиснути).",
+                "Натисни тут."
+            ]
+        },
+        {
+            "wordDe": "Ziehen",
+            "wordUk": "Тягнути",
+            "phrasesDe": [
+                "An der Tür ziehen.",
+                "Konsequenzen ziehen.",
+                "Zieh fester!"
+            ],
+            "phrasesUk": [
+                "Тягнути двері.",
+                "Робити висновки (тягнути наслідки).",
+                "Тягни сильніше!"
+            ]
+        },
+        {
+            "wordDe": "Bringen",
+            "wordUk": "Приносити",
+            "phrasesDe": [
+                "Bring mir Wasser.",
+                "Glück bringen.",
+                "Das bringt nichts."
+            ],
+            "phrasesUk": [
+                "Принеси мені води.",
+                "Приносити удачу.",
+                "Це нічого не дасть."
+            ]
+        },
+        {
+            "wordDe": "Nehmen",
+            "wordUk": "Брати",
+            "phrasesDe": [
+                "Nimm das!",
+                "Medikamente nehmen.",
+                "Platz nehmen."
+            ],
+            "phrasesUk": [
+                "Візьми це!",
+                "Приймати ліки.",
+                "Сідати (займати місце)."
+            ]
+        }
+    ]
+}

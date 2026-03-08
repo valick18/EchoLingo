@@ -1,0 +1,284 @@
+{
+    "Подорожі": [
+        {
+            "wordDe": "Reise",
+            "wordUk": "Подорож",
+            "phrasesDe": [
+                "Gute Reise!",
+                "Ich plane eine Reise.",
+                "Eine weite Reise."
+            ],
+            "phrasesUk": [
+                "Гарної подорожі!",
+                "Я планую подорож.",
+                "Далека подорож."
+            ]
+        },
+        {
+            "wordDe": "Flugzeug",
+            "wordUk": "Літак",
+            "phrasesDe": [
+                "Das Flugzeug landet.",
+                "Reisen mit dem Flugzeug.",
+                "Ich sehe ein Flugzeug."
+            ],
+            "phrasesUk": [
+                "Літак приземляється.",
+                "Подорожувати літаком.",
+                "Я бачу літак."
+            ]
+        },
+        {
+            "wordDe": "Bahnhof",
+            "wordUk": "Вокзал",
+            "phrasesDe": [
+                "Wo ist der Bahnhof?",
+                "Wir treffen uns am Bahnhof.",
+                "Der Zug am Bahnhof."
+            ],
+            "phrasesUk": [
+                "Де вокзал?",
+                "Ми зустрінемося на вокзалі.",
+                "Поїзд на вокзалі."
+            ]
+        },
+        {
+            "wordDe": "Flugsticket",
+            "wordUk": "Авіаквиток",
+            "phrasesDe": [
+                "Hast du das Ticket?",
+                "Das Ticket ist teuer.",
+                "Flugticket buchen."
+            ],
+            "phrasesUk": [
+                "У тебе є квиток?",
+                "Квиток дорогий.",
+                "Забронювати квиток."
+            ]
+        },
+        {
+            "wordDe": "Hotel",
+            "wordUk": "Готель",
+            "phrasesDe": [
+                "Ich buche ein Hotel.",
+                "Wo ist das Hotel?",
+                "Ein schönes Hotel."
+            ],
+            "phrasesUk": [
+                "Я бронюю готель.",
+                "Де готель?",
+                "Гарний готель."
+            ]
+        },
+        {
+            "wordDe": "Koffer",
+            "wordUk": "Валіза",
+            "phrasesDe": [
+                "Pack den Koffer.",
+                "Mein Koffer ist schwer.",
+                "Wo ist der Koffer?"
+            ],
+            "phrasesUk": [
+                "Пакуй валізу.",
+                "Моя валіза важка.",
+                "Де валіза?"
+            ]
+        },
+        {
+            "wordDe": "Reisepass",
+            "wordUk": "Закордонний паспорт",
+            "phrasesDe": [
+                "Vergiss deinen Pass nicht.",
+                "Hier ist mein Reisepass.",
+                "Wo ist der Pass?"
+            ],
+            "phrasesUk": [
+                "Не забудь паспорт.",
+                "Ось мій закордонний паспорт.",
+                "Де паспорт?"
+            ]
+        },
+        {
+            "wordDe": "Ausland",
+            "wordUk": "За кордон",
+            "phrasesDe": [
+                "Ins Ausland reisen.",
+                "Ich lebe im Ausland.",
+                "Urlaub im Ausland."
+            ],
+            "phrasesUk": [
+                "Їхати за кордон.",
+                "Я живу за кордоном.",
+                "Відпустка за кордоном."
+            ]
+        },
+        {
+            "wordDe": "Grenze",
+            "wordUk": "Кордон",
+            "phrasesDe": [
+                "An der Grenze warten.",
+                "Die Grenze überqueren.",
+                "Offene Grenzen."
+            ],
+            "phrasesUk": [
+                "Чекати на кордоні.",
+                "Перетинати кордон.",
+                "Відкриті кордони."
+            ]
+        },
+        {
+            "wordDe": "Landkarte",
+            "wordUk": "Карта",
+            "phrasesDe": [
+                "Schau auf die Karte.",
+                "Wo ist die Landkarte?",
+                "Eine digitale Karte."
+            ],
+            "phrasesUk": [
+                "Подивися на карту.",
+                "Де карта?",
+                "Цифрова карта."
+            ]
+        },
+        {
+            "wordDe": "Stadtplan",
+            "wordUk": "План міста",
+            "phrasesDe": [
+                "Ich brauche einen Stadtplan.",
+                "Hast du einen Plan?",
+                "Den Stadtplan lesen."
+            ],
+            "phrasesUk": [
+                "Мені потрібен план міста.",
+                "У тебе є план?",
+                "Читати план міста."
+            ]
+        },
+        {
+            "wordDe": "Sehenswürdigkeit",
+            "wordUk": "Визначна пам'ятка",
+            "phrasesDe": [
+                "Viele Sehenswürdigkeiten.",
+                "Was ist die beste Sehenswürdigkeit?",
+                "Eine berühmte Sehenswürdigkeit."
+            ],
+            "phrasesUk": [
+                "Багато визначних місць.",
+                "Яка найкраща пам'ятка?",
+                "Відома пам'ятка."
+            ]
+        },
+        {
+            "wordDe": "Strand",
+            "wordUk": "Пляж",
+            "phrasesDe": [
+                "Am Strand liegen.",
+                "Schöner Sandstrand.",
+                "Gehen wir zum Strand."
+            ],
+            "phrasesUk": [
+                "Лежати на пляжі.",
+                "Гарний піщаний пляж.",
+                "Підемо на пляж."
+            ]
+        },
+        {
+            "wordDe": "Berge",
+            "wordUk": "Гори",
+            "phrasesDe": [
+                "In die Berge gehen.",
+                "Hohe Berge.",
+                "Wandern in den Bergen."
+            ],
+            "phrasesUk": [
+                "Йти в гори.",
+                "Високі гори.",
+                "Похід у гори."
+            ]
+        },
+        {
+            "wordDe": "Wandern",
+            "wordUk": "Піший туризм / Похід",
+            "phrasesDe": [
+                "Ich wandere gerne.",
+                "Wandern macht Spaß.",
+                "Wir gehen wandern."
+            ],
+            "phrasesUk": [
+                "Я люблю ходити в походи.",
+                "Йти в похід - це весело.",
+                "Ми йдемо в похід."
+            ]
+        },
+        {
+            "wordDe": "Taxi",
+            "wordUk": "Таксі",
+            "phrasesDe": [
+                "Nimm ein Taxi.",
+                "Wo ist der Taxistand?",
+                "Taxi rufen."
+            ],
+            "phrasesUk": [
+                "Візьми таксі.",
+                "Де стоянка таксі?",
+                "Викликати таксі."
+            ]
+        },
+        {
+            "wordDe": "Bus",
+            "wordUk": "Автобус",
+            "phrasesDe": [
+                "Wann kommt der Bus?",
+                "Fahr mit dem Bus.",
+                "Der Bus ist voll."
+            ],
+            "phrasesUk": [
+                "Коли приїде автобус?",
+                "Їдь автобусом.",
+                "Автобус повний."
+            ]
+        },
+        {
+            "wordDe": "Straßenbahn",
+            "wordUk": "Трамвай",
+            "phrasesDe": [
+                "Die Straßenbahn kommt.",
+                "Nimm die Straßenbahn.",
+                "Wo fährt die Bahn?"
+            ],
+            "phrasesUk": [
+                "Трамвай приїжджає.",
+                "Сідай на трамвай.",
+                "Куди їде трамвай?"
+            ]
+        },
+        {
+            "wordDe": "U-Bahn",
+            "wordUk": "Метро",
+            "phrasesDe": [
+                "Mit der U-Bahn fahren.",
+                "Wo ist die U-Bahn Station?",
+                "Die U-Bahn ist schnell."
+            ],
+            "phrasesUk": [
+                "Їхати на метро.",
+                "Де станція метро?",
+                "Метро - це швидко."
+            ]
+        },
+        {
+            "wordDe": "Abfahrt",
+            "wordUk": "Відправлення",
+            "phrasesDe": [
+                "Wann ist die Abfahrt?",
+                "Pünktliche Abfahrt.",
+                "Vor der Abfahrt."
+            ],
+            "phrasesUk": [
+                "Коли відправлення?",
+                "Вчасне відправлення.",
+                "Перед відправленням."
+            ]
+        }
+    ]
+}

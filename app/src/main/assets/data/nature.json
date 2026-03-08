@@ -1,0 +1,144 @@
+{
+    "Природа та Тварини": [
+        {
+            "wordDe": "Hund",
+            "wordUk": "Собака",
+            "phrasesDe": [
+                "Der Hund bellt.",
+                "Mein Hund ist süß.",
+                "Ein großer Hund."
+            ],
+            "phrasesUk": [
+                "Собака гавкає.",
+                "Мій пес милий.",
+                "Великий собака."
+            ]
+        },
+        {
+            "wordDe": "Katze",
+            "wordUk": "Кішка",
+            "phrasesDe": [
+                "Die Katze schläft.",
+                "Ich mag Katzen.",
+                "Schwarze Katze."
+            ],
+            "phrasesUk": [
+                "Кішка спить.",
+                "Я люблю кішок.",
+                "Чорна кішка."
+            ]
+        },
+        {
+            "wordDe": "Vogel",
+            "wordUk": "Птах",
+            "phrasesDe": [
+                "Der Vogel singt.",
+                "Vögel fliegen.",
+                "Ein kleiner Vogel."
+            ],
+            "phrasesUk": [
+                "Птах співає.",
+                "Птахи літають.",
+                "Маленький птах."
+            ]
+        },
+        {
+            "wordDe": "Wald",
+            "wordUk": "Ліс",
+            "phrasesDe": [
+                "Im Wald spazieren.",
+                "Der Wald ist grün.",
+                "Dunkler Wald."
+            ],
+            "phrasesUk": [
+                "Гуляти в лісі.",
+                "Ліс зелений.",
+                "Темний ліс."
+            ]
+        },
+        {
+            "wordDe": "Blume",
+            "wordUk": "Квітка",
+            "phrasesDe": [
+                "Schöne Blume.",
+                "Die Blume duftet.",
+                "Gieß die Blumen."
+            ],
+            "phrasesUk": [
+                "Гарна квітка.",
+                "Квітка пахне.",
+                "Полий квіти."
+            ]
+        },
+        {
+            "wordDe": "Baum",
+            "wordUk": "Дерево",
+            "phrasesDe": [
+                "Hoher Baum.",
+                "Äpfel am Baum.",
+                "Der Baum wächst."
+            ],
+            "phrasesUk": [
+                "Високе дерево.",
+                "Яблука на дереві.",
+                "Дерево росте."
+            ]
+        },
+        {
+            "wordDe": "Regen",
+            "wordUk": "Дощ",
+            "phrasesDe": [
+                "Es regnet heute.",
+                "Ich mag Regen.",
+                "Regenwetter."
+            ],
+            "phrasesUk": [
+                "Сьогодні йде дощ.",
+                "Я люблю дощ.",
+                "Дощова погода."
+            ]
+        },
+        {
+            "wordDe": "Schnee",
+            "wordUk": "Сніг",
+            "phrasesDe": [
+                "Weißer Schnee.",
+                "Es schneit draußen.",
+                "Ich baue einen Schneemann."
+            ],
+            "phrasesUk": [
+                "Білий сніг.",
+                "На вулиці йде сніг.",
+                "Я ліплю сніговика."
+            ]
+        },
+        {
+            "wordDe": "Sonne",
+            "wordUk": "Сонце",
+            "phrasesDe": [
+                "Heiße Sonne.",
+                "Die Sonne scheint.",
+                "Sonnenschein."
+            ],
+            "phrasesUk": [
+                "Гаряче сонце.",
+                "Сонце світить.",
+                "Сонячне світло."
+            ]
+        },
+        {
+            "wordDe": "Meer",
+            "wordUk": "Море",
+            "phrasesDe": [
+                "Am Meer Urlaub machen.",
+                "Das Meer ist blau.",
+                "Ich liebe das Meer."
+            ],
+            "phrasesUk": [
+                "Відпочивати на морі.",
+                "Море синє.",
+                "Я люблю море."
+            ]
+        }
+    ]
+}

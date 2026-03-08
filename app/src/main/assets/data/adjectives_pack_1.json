@@ -1,0 +1,284 @@
+{
+    "Прикметники": [
+        {
+            "wordDe": "Schön",
+            "wordUk": "Гарний",
+            "phrasesDe": [
+                "Ein schöner Tag.",
+                "Du bist schön.",
+                "Das ist schön."
+            ],
+            "phrasesUk": [
+                "Гарний день.",
+                "Ти гарна.",
+                "Це гарно."
+            ]
+        },
+        {
+            "wordDe": "Groß",
+            "wordUk": "Великий",
+            "phrasesDe": [
+                "Ein großes Haus.",
+                "Er ist groß.",
+                "Große Augen."
+            ],
+            "phrasesUk": [
+                "Великий будинок.",
+                "Він великий.",
+                "Великі очі."
+            ]
+        },
+        {
+            "wordDe": "Klein",
+            "wordUk": "Маленький",
+            "phrasesDe": [
+                "Ein kleines Geschenk.",
+                "Die Welt ist klein.",
+                "Klein aber fein."
+            ],
+            "phrasesUk": [
+                "Маленький подарунок.",
+                "Світ маленький.",
+                "Маленький, але гарний."
+            ]
+        },
+        {
+            "wordDe": "Gut",
+            "wordUk": "Добрий / Гарний",
+            "phrasesDe": [
+                "Ein guter Freund.",
+                "Alles gut.",
+                "Das schmeckt gut."
+            ],
+            "phrasesUk": [
+                "Хороший друг.",
+                "Все добре.",
+                "Це смакує добре."
+            ]
+        },
+        {
+            "wordDe": "Schlecht",
+            "wordUk": "Поганий",
+            "phrasesDe": [
+                "Schlechtes Wetter.",
+                "Mir ist schlecht.",
+                "Das ist nicht schlecht."
+            ],
+            "phrasesUk": [
+                "Погана погода.",
+                "Мені погано.",
+                "Це непогано."
+            ]
+        },
+        {
+            "wordDe": "Neu",
+            "wordUk": "Новий",
+            "phrasesDe": [
+                "Ein neues Auto.",
+                "Ganz neu.",
+                "Was gibt es Neues?"
+            ],
+            "phrasesUk": [
+                "Нова машина.",
+                "Цілком новий.",
+                "Що нового?"
+            ]
+        },
+        {
+            "wordDe": "Alt",
+            "wordUk": "Старий",
+            "phrasesDe": [
+                "Ein altes Haus.",
+                "Wie alt bist du?",
+                "Eine alte Stadt."
+            ],
+            "phrasesUk": [
+                "Старий будинок.",
+                "Скільки тобі років?",
+                "Старе місто."
+            ]
+        },
+        {
+            "wordDe": "Schnell",
+            "wordUk": "Швидкий",
+            "phrasesDe": [
+                "Lauf schnell.",
+                "Ein schnelles Auto.",
+                "Das geht schnell."
+            ],
+            "phrasesUk": [
+                "Біжи швидко.",
+                "Швидка машина.",
+                "Це буде швидко."
+            ]
+        },
+        {
+            "wordDe": "Langsam",
+            "wordUk": "Повільний",
+            "phrasesDe": [
+                "Sprich langsam.",
+                "Ein langsamer Zug.",
+                "Geh langsam."
+            ],
+            "phrasesUk": [
+                "Говори повільно.",
+                "Повільний поїзд.",
+                "Йди повільно."
+            ]
+        },
+        {
+            "wordDe": "Heiß",
+            "wordUk": "Гарячий",
+            "phrasesDe": [
+                "Heißer Kaffee.",
+                "Es ist heiß heute.",
+                "Vorsicht, heiß!"
+            ],
+            "phrasesUk": [
+                "Гаряча кава.",
+                "Сьогодні гаряче.",
+                "Обережно, гаряче!"
+            ]
+        },
+        {
+            "wordDe": "Kalt",
+            "wordUk": "Холодний",
+            "phrasesDe": [
+                "Kaltes Wasser.",
+                "Es ist kalt draußen.",
+                "Mir ist kalt."
+            ],
+            "phrasesUk": [
+                "Холодна вода.",
+                "На вулиці холодно.",
+                "Мені холодно."
+            ]
+        },
+        {
+            "wordDe": "Teuer",
+            "wordUk": "Дорогий",
+            "phrasesDe": [
+                "Ein teures Handy.",
+                "Das ist zu teuer.",
+                "Teure Kleidung."
+            ],
+            "phrasesUk": [
+                "Дорогий телефон.",
+                "Це занадто дорого.",
+                "Дорогий одяг."
+            ]
+        },
+        {
+            "wordDe": "Billig / Günstig",
+            "wordUk": "Дешевий",
+            "phrasesDe": [
+                "Ein billiges Ticket.",
+                "Das ist günstig.",
+                "Billig kaufen."
+            ],
+            "phrasesUk": [
+                "Дешевий квиток.",
+                "Це вигідно.",
+                "Купувати дешево."
+            ]
+        },
+        {
+            "wordDe": "Lustig",
+            "wordUk": "Веселий / Смішний",
+            "phrasesDe": [
+                "Ein lustiger Film.",
+                "Du bist lustig.",
+                "Lustige Geschichte."
+            ],
+            "phrasesUk": [
+                "Веселий фільм.",
+                "Ти смішний.",
+                "Весела історія."
+            ]
+        },
+        {
+            "wordDe": "Traurig",
+            "wordUk": "Сумний",
+            "phrasesDe": [
+                "Ich bin traurig.",
+                "Eine traurige Nachricht.",
+                "Sei nicht traurig."
+            ],
+            "phrasesUk": [
+                "Мені сумно.",
+                "Сумна новина.",
+                "Не сумуй."
+            ]
+        },
+        {
+            "wordDe": "Wichtig",
+            "wordUk": "Важливий",
+            "phrasesDe": [
+                "Das ist wichtig.",
+                "Wichtige Aufgabe.",
+                "Ein wichtiger Termin."
+            ],
+            "phrasesUk": [
+                "Це важливо.",
+                "Важливе завдання.",
+                "Важлива зустріч."
+            ]
+        },
+        {
+            "wordDe": "Klar",
+            "wordUk": "Ясний / Зрозумілий",
+            "phrasesDe": [
+                "Alles klar.",
+                "Ein klarer Tag.",
+                "Bist du dir klar?"
+            ],
+            "phrasesUk": [
+                "Все ясно.",
+                "Ясний день.",
+                "Ти розумієш?"
+            ]
+        },
+        {
+            "wordDe": "Einfach",
+            "wordUk": "Простий",
+            "phrasesDe": [
+                "Ganz einfach.",
+                "Eine einfache Frage.",
+                "Das ist einfach."
+            ],
+            "phrasesUk": [
+                "Дуже просто.",
+                "Просте запитання.",
+                "Це просто."
+            ]
+        },
+        {
+            "wordDe": "Schwer / Schwierig",
+            "wordUk": "Важкий / Складний",
+            "phrasesDe": [
+                "Ein schwerer Koffer.",
+                "Das ist schwierig.",
+                "Schwere Prüfung."
+            ],
+            "phrasesUk": [
+                "Важка валіза.",
+                "Це складно.",
+                "Важкий іспит."
+            ]
+        },
+        {
+            "wordDe": "Voll",
+            "wordUk": "Повний",
+            "phrasesDe": [
+                "Das Glas ist voll.",
+                "Ein voller Bus.",
+                "Ich bin voll."
+            ],
+            "phrasesUk": [
+                "Склянка повна.",
+                "Повний автобус.",
+                "Я ситий (повний)."
+            ]
+        }
+    ]
+}

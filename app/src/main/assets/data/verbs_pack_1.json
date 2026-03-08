@@ -1,0 +1,284 @@
+{
+    "Дієслова": [
+        {
+            "wordDe": "Machen",
+            "wordUk": "Робити",
+            "phrasesDe": [
+                "Was machst du?",
+                "Hausaufgaben machen.",
+                "Das macht Spaß!"
+            ],
+            "phrasesUk": [
+                "Що ти робиш?",
+                "Робити домашнє завдання.",
+                "Це приносить задоволення!"
+            ]
+        },
+        {
+            "wordDe": "Gehen",
+            "wordUk": "Йти",
+            "phrasesDe": [
+                "Ich gehe nach Hause.",
+                "Gehst du mit?",
+                "Schlafen gehen."
+            ],
+            "phrasesUk": [
+                "Я йду додому.",
+                "Ти підеш з нами?",
+                "Йти спати."
+            ]
+        },
+        {
+            "wordDe": "Kommen",
+            "wordUk": "Приходити",
+            "phrasesDe": [
+                "Wann kommst du?",
+                "Ich komme gleich.",
+                "Komm her."
+            ],
+            "phrasesUk": [
+                "Коли ти прийдеш?",
+                "Я зараз прийду.",
+                "Йди сюди."
+            ]
+        },
+        {
+            "wordDe": "Haben",
+            "wordUk": "Мати",
+            "phrasesDe": [
+                "Ich habe Zeit.",
+                "Haben Sie Kinder?",
+                "Viel Glück haben."
+            ],
+            "phrasesUk": [
+                "У мене є час.",
+                "У Вас є діти?",
+                "Мати удачу."
+            ]
+        },
+        {
+            "wordDe": "Sein",
+            "wordUk": "Бути",
+            "phrasesDe": [
+                "Ich bin glücklich.",
+                "Wer bist du?",
+                "Es ist spät."
+            ],
+            "phrasesUk": [
+                "Я щасливий.",
+                "Хто ти?",
+                "Вже пізно."
+            ]
+        },
+        {
+            "wordDe": "Sagen",
+            "wordUk": "Казати",
+            "phrasesDe": [
+                "Was hast du gesagt?",
+                "Sag mir die Wahrheit.",
+                "Er sagt nichts."
+            ],
+            "phrasesUk": [
+                "Що ти сказав?",
+                "Скажи мені правду.",
+                "Він нічого не каже."
+            ]
+        },
+        {
+            "wordDe": "Fragen",
+            "wordUk": "Питати",
+            "phrasesDe": [
+                "Darf ich fragen?",
+                "Frag den Lehrer.",
+                "Ich frage dich."
+            ],
+            "phrasesUk": [
+                "Можна запитати?",
+                "Запитай учителя.",
+                "Я питаю тебе."
+            ]
+        },
+        {
+            "wordDe": "Finden",
+            "wordUk": "Знаходити / вважати",
+            "phrasesDe": [
+                "Wo find ich das?",
+                "Wie findest du das?",
+                "Schlüssel finden."
+            ],
+            "phrasesUk": [
+                "Де я можу це знайти?",
+                "Як тобі це?",
+                "Знайти ключі."
+            ]
+        },
+        {
+            "wordDe": "Geben",
+            "wordUk": "Давати",
+            "phrasesDe": [
+                "Gib mir das.",
+                "Ich gebe dir Recht.",
+                "Geld geben."
+            ],
+            "phrasesUk": [
+                "Дай мені це.",
+                "Я погоджуюся з тобою.",
+                "Давати гроші."
+            ]
+        },
+        {
+            "wordDe": "Nehmen",
+            "wordUk": "Брати",
+            "phrasesDe": [
+                "Nimm Platz.",
+                "Ich nehme den Kaffee.",
+                "Nimm das Messer."
+            ],
+            "phrasesUk": [
+                "Сідай (візьми місце).",
+                "Я візьму каву.",
+                "Візьми ніж."
+            ]
+        },
+        {
+            "wordDe": "Wissen",
+            "wordUk": "Знати",
+            "phrasesDe": [
+                "Ich weiß es nicht.",
+                "Weißt du das?",
+                "Bescheid wissen."
+            ],
+            "phrasesUk": [
+                "Я цього не знаю.",
+                "Ти це знаєш?",
+                "Бути в курсі."
+            ]
+        },
+        {
+            "wordDe": "Denken",
+            "wordUk": "Думати",
+            "phrasesDe": [
+                "Was denkst du?",
+                "Ich denke an dich.",
+                "Nachdenken hilft."
+            ],
+            "phrasesUk": [
+                "Про що ти думаєш?",
+                "Я думаю про тебе.",
+                "Роздуми допомагають."
+            ]
+        },
+        {
+            "wordDe": "Hören",
+            "wordUk": "Чути / Слухати",
+            "phrasesDe": [
+                "Hörst du mich?",
+                "Musik hören.",
+                "Hör auf!"
+            ],
+            "phrasesUk": [
+                "Ти мене чуєш?",
+                "Слухати музику.",
+                "Припини!"
+            ]
+        },
+        {
+            "wordDe": "Sehen",
+            "wordUk": "Бачити",
+            "phrasesDe": [
+                "Ich sehe dich.",
+                "Einen Film sehen.",
+                "Schau mal!"
+            ],
+            "phrasesUk": [
+                "Я бачу тебе.",
+                "Дивитися фільм.",
+                "Подивися!"
+            ]
+        },
+        {
+            "wordDe": "Arbeiten",
+            "wordUk": "Працювати",
+            "phrasesDe": [
+                "Wo arbeitest du?",
+                "Viel arbeiten.",
+                "Hart arbeiten."
+            ],
+            "phrasesUk": [
+                "Де ти працюєш?",
+                "Багато працювати.",
+                "Важко працювати."
+            ]
+        },
+        {
+            "wordDe": "Wohnen",
+            "wordUk": "Жити (мешкати)",
+            "phrasesDe": [
+                "Wo wohnst du?",
+                "Ich wohne in Berlin.",
+                "Zusammen wohnen."
+            ],
+            "phrasesUk": [
+                "Де ти живеш?",
+                "Я живу в Берліні.",
+                "Жити разом."
+            ]
+        },
+        {
+            "wordDe": "Essen",
+            "wordUk": "Їсти",
+            "phrasesDe": [
+                "Was isst du?",
+                "Gerne essen.",
+                "Mittagessen."
+            ],
+            "phrasesUk": [
+                "Що ти їси?",
+                "Любити поїсти.",
+                "Обід."
+            ]
+        },
+        {
+            "wordDe": "Trinken",
+            "wordUk": "Пити",
+            "phrasesDe": [
+                "Ich trinke Tee.",
+                "Was möchten Sie trinken?",
+                "Wasser trinken."
+            ],
+            "phrasesUk": [
+                "Я п'ю чай.",
+                "Що Ви бажаєте випити?",
+                "Пити воду."
+            ]
+        },
+        {
+            "wordDe": "Kaufen",
+            "wordUk": "Купувати",
+            "phrasesDe": [
+                "Brot kaufen.",
+                "Was kaufst du?",
+                "Einkaufen gehen."
+            ],
+            "phrasesUk": [
+                "Купувати хліб.",
+                "Що ти купуєш?",
+                "Йти за покупками."
+            ]
+        },
+        {
+            "wordDe": "Lernen",
+            "wordUk": "Вчитися",
+            "phrasesDe": [
+                "Deutsch lernen.",
+                "Viel lernen.",
+                "In der Schule lernen."
+            ],
+            "phrasesUk": [
+                "Вивчати німецьку.",
+                "Багато вчитися.",
+                "Вчитися в школі."
+            ]
+        }
+    ]
+}

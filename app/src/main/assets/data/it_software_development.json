@@ -1,0 +1,704 @@
+{
+    "ІТ та Розробка ПЗ (Просунутий)": [
+        {
+            "wordDe": "Softwarearchitektur",
+            "wordUk": "Архітектура програмного забезпечення",
+            "phrasesDe": [
+                "Entwurf einer Softwarearchitektur.",
+                "Prinzipien der Softwarearchitektur.",
+                "Wandel der Softwarearchitektur."
+            ],
+            "phrasesUk": [
+                "Проєктування архітектури ПЗ.",
+                "Принципи архітектури програм.",
+                "Зміна архітектури ПЗ."
+            ]
+        },
+        {
+            "wordDe": "Quellcode",
+            "wordUk": "Вихідний код / Сирці",
+            "phrasesDe": [
+                "Analyse des Quellcodes.",
+                "Pflege des Quellcodes.",
+                "Veröffentlichung des Quellcodes."
+            ],
+            "phrasesUk": [
+                "Аналіз вихідного коду.",
+                "Підтримка сирців.",
+                "Публікація вихідного коду."
+            ]
+        },
+        {
+            "wordDe": "Benutzeroberfläche (UI)",
+            "wordUk": "Інтерфейс користувача (UI)",
+            "phrasesDe": [
+                "Gestaltung der Benutzeroberfläche.",
+                "Intuitive Benutzeroberfläche.",
+                "Elemente der Benutzeroberfläche."
+            ],
+            "phrasesUk": [
+                "Оформлення інтерфейсу користувача.",
+                "Інтуїтивно зрозумілий UI.",
+                "Елементи інтерфейсу."
+            ]
+        },
+        {
+            "wordDe": "Anwendungsentwicklung",
+            "wordUk": "Розробка додатків / програм",
+            "phrasesDe": [
+                "Bereich der Anwendungsentwicklung.",
+                "Phasen der Anwendungsentwicklung.",
+                "Trends in der Anwendungsentwicklung."
+            ],
+            "phrasesUk": [
+                "Сфера розробки додатків.",
+                "Фази розробки ПЗ.",
+                "Тренди в розробці програм."
+            ]
+        },
+        {
+            "wordDe": "Datenbankmanagementsystem",
+            "wordUk": "Система управління базами даних (СУБД)",
+            "phrasesDe": [
+                "Wahl des Datenbankmanagementsystems.",
+                "Funktion des Datenbankmanagementsystems.",
+                "Installation eines Datenbankmanagementsystems."
+            ],
+            "phrasesUk": [
+                "Вибір СУБД.",
+                "Функція системи управління базами даних.",
+                "Встановлення СУБД."
+            ]
+        },
+        {
+            "wordDe": "Cloud-Computing",
+            "wordUk": "Хмарні обчислення",
+            "phrasesDe": [
+                "Vorteile von Cloud-Computing.",
+                "Sicherheit im Cloud-Computing.",
+                "Anbieter von Cloud-Computing."
+            ],
+            "phrasesUk": [
+                "Переваги хмарних обчислень.",
+                "Безпека в хмарі.",
+                "Постачальники хмарних послуг."
+            ]
+        },
+        {
+            "wordDe": "Cybersicherheit",
+            "wordUk": "Кібербезпека",
+            "phrasesDe": [
+                "Maßnahmen zur Cybersicherheit.",
+                "Bedeutung der Cybersicherheit.",
+                "Experten für Cybersicherheit."
+            ],
+            "phrasesUk": [
+                "Заходи з кібербезпеки.",
+                "Значення кібербезпеки.",
+                "Експерти з кібербезпеки."
+            ]
+        },
+        {
+            "wordDe": "Verschlüsselung",
+            "wordUk": "Шифрування",
+            "phrasesDe": [
+                "Ende-zu-Ende-Verschlüsselung.",
+                "Methoden der Verschlüsselung.",
+                "Sichere Verschlüsselung."
+            ],
+            "phrasesUk": [
+                "Наскрізне (E2E) шифрування.",
+                "Методи шифрування.",
+                "Безпечне шифрування."
+            ]
+        },
+        {
+            "wordDe": "Schnittstelle (API)",
+            "wordUk": "Програмний інтерфейс (API)",
+            "phrasesDe": [
+                "Nutzung einer API.",
+                "Dokumentation der API.",
+                "Schnittstelle zwischen Systemen."
+            ],
+            "phrasesUk": [
+                "Використання API.",
+                "Документація програмного інтерфейсу.",
+                "Інтерфейс між системами."
+            ]
+        },
+        {
+            "wordDe": "Framework",
+            "wordUk": "Фреймворк / Програмний каркас",
+            "phrasesDe": [
+                "Wahl des Frameworks.",
+                "Vorteile eines Frameworks.",
+                "Entwicklung mit dem Framework."
+            ],
+            "phrasesUk": [
+                "Вибір фреймворку.",
+                "Переваги програмного каркаса.",
+                "Розробка з використанням фреймворку."
+            ]
+        },
+        {
+            "wordDe": "Versionsverwaltung",
+            "wordUk": "Система контролю версій (Гіт тощо)",
+            "phrasesDe": [
+                "Einsatz von Versionsverwaltung.",
+                "Vorteile der Versionsverwaltung.",
+                "Systeme zur Versionsverwaltung."
+            ],
+            "phrasesUk": [
+                "Використання контролю версій.",
+                "Переваги систем контролю версій.",
+                "Системи керування версіями."
+            ]
+        },
+        {
+            "wordDe": "Backend-Entwicklung",
+            "wordUk": "Розробка серверної частини (Бекенд)",
+            "phrasesDe": [
+                "Fokus auf Backend-Entwicklung.",
+                "Technologien in der Backend-Entwicklung.",
+                "Aufgaben der Backend-Entwicklung."
+            ],
+            "phrasesUk": [
+                "Фокус на бекенд-розробці.",
+                "Технології серверної частини.",
+                "Завдання розробки серверної логіки."
+            ]
+        },
+        {
+            "wordDe": "Frontend-Entwicklung",
+            "wordUk": "Розробка клієнтської частини (Фронтенд)",
+            "phrasesDe": [
+                "Trends in der Frontend-Entwicklung.",
+                "Tools für die Frontend-Entwicklung.",
+                "Ziel der Frontend-Entwicklung."
+            ],
+            "phrasesUk": [
+                "Тренди у фронтенд-розробці.",
+                "Інструменти для створення клієнтської частини.",
+                "Мета фронтенд-розробки."
+            ]
+        },
+        {
+            "wordDe": "Fullstack-Entwickler",
+            "wordUk": "Фулстек-розробник",
+            "phrasesDe": [
+                "Suche nach Fullstack-Entwicklern.",
+                "Kenntnisse eines Fullstack-Entwicklers.",
+                "Karriere als Fullstack-Entwickler."
+            ],
+            "phrasesUk": [
+                "Пошук фулстек-розробників.",
+                "Знання фулстек-спеціаліста.",
+                "Кар'єра фулстек-розробника."
+            ]
+        },
+        {
+            "wordDe": "Agile Softwareentwicklung",
+            "wordUk": "Гнучка розробка ПЗ (Agile)",
+            "phrasesDe": [
+                "Prinzipien der agilen Softwareentwicklung.",
+                "Methoden der agilen Softwareentwicklung.",
+                "Vorteile der agilen Entwicklung."
+            ],
+            "phrasesUk": [
+                "Принципи гнучкої розробки.",
+                "Методи Agile-розробки.",
+                "Переваги гнучкої методології."
+            ]
+        },
+        {
+            "wordDe": "Scrum",
+            "wordUk": "Скрам (методологія)",
+            "phrasesDe": [
+                "Einführung von Scrum.",
+                "Rollen in Scrum.",
+                "Vorteile von Scrum."
+            ],
+            "phrasesUk": [
+                "Впровадження Scrum.",
+                "Ролі у Scrum.",
+                "Переваги методики Scrum."
+            ]
+        },
+        {
+            "wordDe": "Sprint",
+            "wordUk": "Спринт (робочий цикл)",
+            "phrasesDe": [
+                "Planung des Sprints.",
+                "Dauer eines Sprints.",
+                "Ergebnis des Sprints."
+            ],
+            "phrasesUk": [
+                "Планування спринту.",
+                "Тривалість одного спринту.",
+                "Результат робочого циклу."
+            ]
+        },
+        {
+            "wordDe": "Automatisierung",
+            "wordUk": "Автоматизація",
+            "phrasesDe": [
+                "Vorteile der Automatisierung.",
+                "Bereiche der Automatisierung.",
+                "Einführung von Automatisierung."
+            ],
+            "phrasesUk": [
+                "Переваги автоматизації.",
+                "Сфери автоматизації.",
+                "Впровадження процесів автоматизації."
+            ]
+        },
+        {
+            "wordDe": "Skalierbarkeit",
+            "wordUk": "Масштабованість",
+            "phrasesDe": [
+                "Forderung nach Skalierbarkeit.",
+                "Mangel an Skalierbarkeit.",
+                "Erreichung der Skalierbarkeit."
+            ],
+            "phrasesUk": [
+                "Вимога масштабованості.",
+                "Брак можливості до розширення.",
+                "Досягнення масштабованості системи."
+            ]
+        },
+        {
+            "wordDe": "Latenzzeit",
+            "wordUk": "Час затримки (Латентність)",
+            "phrasesDe": [
+                "Verringerung der Latenzzeit.",
+                "Analyse der Latenzzeit.",
+                "Einfluss der Latenzzeit."
+            ],
+            "phrasesUk": [
+                "Зменшення часу затримки.",
+                "Аналіз латентності.",
+                "Вплив затримки на роботу."
+            ]
+        },
+        {
+            "wordDe": "Bandbreite",
+            "wordUk": "Пропускна здатність / Ширина каналу",
+            "phrasesDe": [
+                "Erhöhung der Bandbreite.",
+                "Mangel an Bandbreite.",
+                "Nutzung der Bandbreite."
+            ],
+            "phrasesUk": [
+                "Збільшення пропускної здатності.",
+                "Брак ширини каналу.",
+                "Використання каналу зв'язку."
+            ]
+        },
+        {
+            "wordDe": "Rechenzentrum",
+            "wordUk": "Центр обробки даних (ЦОД) / Дата-центр",
+            "phrasesDe": [
+                "Arbeit im Rechenzentrum.",
+                "Sicherheit des Rechenzentrums.",
+                "Kapazität des Rechenzentrums."
+            ],
+            "phrasesUk": [
+                "Робота в дата-центрі.",
+                "Безпека ЦОД.",
+                "Ємність центру обробки даних."
+            ]
+        },
+        {
+            "wordDe": "Virtualisierung",
+            "wordUk": "Віртуалізація",
+            "phrasesDe": [
+                "Vorteile der Virtualisierung.",
+                "Einsatz von Virtualisierung.",
+                "Techniken der Virtualisierung."
+            ],
+            "phrasesUk": [
+                "Переваги віртуалізації.",
+                "Використання віртуалізації.",
+                "Техніки віртуалізації."
+            ]
+        },
+        {
+            "wordDe": "Containerisierung",
+            "wordUk": "Контейнеризація (Docker тощо)",
+            "phrasesDe": [
+                "Vorteile der Containerisierung.",
+                "Tools für die Containerisierung.",
+                "Umsetzung der Containerisierung."
+            ],
+            "phrasesUk": [
+                "Переваги контейнеризації.",
+                "Інструменти для контейнеризації.",
+                "Втілення стратегії контейнерів."
+            ]
+        },
+        {
+            "wordDe": "Maschinelles Lernen",
+            "wordUk": "Машинне навчання",
+            "phrasesDe": [
+                "Ansätze beim maschinellen Lernen.",
+                "Nutzung von maschinellem Lernen.",
+                "Fortschritte im maschinellen Lernen."
+            ],
+            "phrasesUk": [
+                "Підходи в машинному навчанні.",
+                "Використання ML.",
+                "Прогрес у машинному навчанні."
+            ]
+        },
+        {
+            "wordDe": "Künstliches neuronales Netz",
+            "wordUk": "Штучна нейронна мережа",
+            "phrasesDe": [
+                "Training eines neuronalen Netzes.",
+                "Aufbau eines neuronalen Netzes.",
+                "Funktion des neuronalen Netzes."
+            ],
+            "phrasesUk": [
+                "Навчання нейронної мережі.",
+                "Будова нейромережі.",
+                "Функція штучної нейронної мережі."
+            ]
+        },
+        {
+            "wordDe": "Blockchain",
+            "wordUk": "Блокчейн",
+            "phrasesDe": [
+                "Prinzip der Blockchain.",
+                "Nutzung der Blockchain.",
+                "Sperre in der Blockchain."
+            ],
+            "phrasesUk": [
+                "Принцип роботи блокчейну.",
+                "Використання блокчейну.",
+                "Блок у ланцюжку (блокчейні)."
+            ]
+        },
+        {
+            "wordDe": "Kryptowährung",
+            "wordUk": "Криптовалюта",
+            "phrasesDe": [
+                "Zahlung mit Kryptowährung.",
+                "Vorteile der Kryptowährung.",
+                "Handel mit Kryptowährung."
+            ],
+            "phrasesUk": [
+                "Оплата криптовалютою.",
+                "Переваги криптовалют.",
+                "Торгівля криптовалютою."
+            ]
+        },
+        {
+            "wordDe": "Smart Contract",
+            "wordUk": "Смарт-контракт / Розумний контракт",
+            "phrasesDe": [
+                "Erleichterung durch Smart Contract.",
+                "Sicherheit von Smart Contracts.",
+                "Funktion von Smart Contracts."
+            ],
+            "phrasesUk": [
+                "Полегшення через смарт-контракти.",
+                "Безпека розумних контрактів.",
+                "Функція смарт-контрактів."
+            ]
+        },
+        {
+            "wordDe": "Open-Source-Software",
+            "wordUk": "Програмне забезпечення з відкритим кодом",
+            "phrasesDe": [
+                "Vorteile von Open-Source-Software.",
+                "Nutzung von Open-Source-Software.",
+                "Community von Open-Source."
+            ],
+            "phrasesUk": [
+                "Переваги ПЗ з відкритим кодом.",
+                "Використання Open Source.",
+                "Спільнота відкритого ПЗ."
+            ]
+        },
+        {
+            "wordDe": "Proprietäre Software",
+            "wordUk": "Пропрієтарне (закрите) ПЗ",
+            "phrasesDe": [
+                "Kritik an proprietärer Software.",
+                "Kosten für proprietäre Software.",
+                "Nutzung proprietärer Software."
+            ],
+            "phrasesUk": [
+                "Критика закритого ПЗ.",
+                "Вартість пропрієтарних програм.",
+                "Використання закритого ПЗ."
+            ]
+        },
+        {
+            "wordDe": "Lizenzgebühr",
+            "wordUk": "Ліцензійний збір / Роялті",
+            "phrasesDe": [
+                "Bezahlung der Lizenzgebühr.",
+                "Höhe der Lizenzgebühr.",
+                "Berechnung der Lizenzgebühr."
+            ],
+            "phrasesUk": [
+                "Оплата ліцензійного збору.",
+                "Розмір роялті.",
+                "Розрахунок ліцензійного збору."
+            ]
+        },
+        {
+            "wordDe": "Backend-as-a-Service (BaaS)",
+            "wordUk": "Бекенд як сервіс (BaaS)",
+            "phrasesDe": [
+                "Nutzung von BaaS.",
+                "Vorteile von BaaS.",
+                "Anbieter von BaaS."
+            ],
+            "phrasesUk": [
+                "Використання BaaS.",
+                "Переваги бекенда як сервісу.",
+                "Постачальники BaaS."
+            ]
+        },
+        {
+            "wordDe": "DevOps",
+            "wordUk": "DevOps (Девопс)",
+            "phrasesDe": [
+                "Methoden von DevOps.",
+                "Rollen in DevOps.",
+                "Ziele von DevOps."
+            ],
+            "phrasesUk": [
+                "Методи DevOps.",
+                "Ролі в підрозділі DevOps.",
+                "Цілі культури DevOps."
+            ]
+        },
+        {
+            "wordDe": "Kontinuierliche Integration (CI)",
+            "wordUk": "Безперервна інтеграція (CI)",
+            "phrasesDe": [
+                "Prozess der kontinuierlichen Integration.",
+                "Vorteile der CI.",
+                "Tools für die CI."
+            ],
+            "phrasesUk": [
+                "Процес безперервної інтеграції.",
+                "Переваги CI.",
+                "Інструменти для CI."
+            ]
+        },
+        {
+            "wordDe": "Kontinuierliche Auslieferung (CD)",
+            "wordUk": "Безперервна доставка (CD)",
+            "phrasesDe": [
+                "Vorteile der kontinuierlichen Auslieferung.",
+                "Implementierung von CD.",
+                "Konzept der CD."
+            ],
+            "phrasesUk": [
+                "Переваги безперервної доставки.",
+                "Впровадження CD.",
+                "Концепція CD."
+            ]
+        },
+        {
+            "wordDe": "Benutzertest",
+            "wordUk": "Користувацьке тестування",
+            "phrasesDe": [
+                "Durchführung eines Benutzertests.",
+                "Ergebnis des Benutzertests.",
+                "Phasen des Benutzertests."
+            ],
+            "phrasesUk": [
+                "Проведення тестування користувачами.",
+                "Результат користувацького тесту.",
+                "Етапи тестування."
+            ]
+        },
+        {
+            "wordDe": "Bug-Tracking-System",
+            "wordUk": "Система відстеження помилок (Баг-трекер)",
+            "phrasesDe": [
+                "Nutzung eines Bug-Tracking-Systems.",
+                "Vorteile eines Bug-Tracking-Systems.",
+                "Software für Bug-Tracking."
+            ],
+            "phrasesUk": [
+                "Використання баг-трекера.",
+                "Переваги систем відстеження помилок.",
+                "ПЗ для трекінгу багів."
+            ]
+        },
+        {
+            "wordDe": "Fehlerbehebung (Debugging)",
+            "wordUk": "Виправлення помилок (Налагодження / Дебагінг)",
+            "phrasesDe": [
+                "Dauer der Fehlerbehebung.",
+                "Schritte der Fehlerbehebung.",
+                "Methoden zur Fehlerbehebung."
+            ],
+            "phrasesUk": [
+                "Тривалість виправлення помилок.",
+                "Етапи налагождення.",
+                "Методи дебагінгу."
+            ]
+        },
+        {
+            "wordDe": "Patch",
+            "wordUk": "Патч / Виправлення (Патч)",
+            "phrasesDe": [
+                "Einspielen eines Patches.",
+                "Entwicklung eines Patches.",
+                "Notwendigkeit eines Patches."
+            ],
+            "phrasesUk": [
+                "Встановлення патчу.",
+                "Розробка виправлення (патчу).",
+                "Необхідність патчу."
+            ]
+        },
+        {
+            "wordDe": "Update",
+            "wordUk": "Оновлення (Апдейт)",
+            "phrasesDe": [
+                "Installation eines Updates.",
+                "Verfügbarkeit des Updates.",
+                "Funktion des Updates."
+            ],
+            "phrasesUk": [
+                "Встановлення оновлення.",
+                "Доступність апдейту.",
+                "Функція оновлення."
+            ]
+        },
+        {
+            "wordDe": "Upgrade",
+            "wordUk": "Модернізація / Перехід на вищу версію (Апгрейд)",
+            "phrasesDe": [
+                "Kosten für das Upgrade.",
+                "Vorteile des Upgrades.",
+                "Durchführung des Upgrades."
+            ],
+            "phrasesUk": [
+                "Вартість апгрейду.",
+                "Переваги нової версії.",
+                "Проведення модернізації."
+            ]
+        },
+        {
+            "wordDe": "Datenmigration",
+            "wordUk": "Міграція даних",
+            "phrasesDe": [
+                "Prozess der Datenmigration.",
+                "Risiken der Datenmigration.",
+                "Planung der Datenmigration."
+            ],
+            "phrasesUk": [
+                "Процес міграції даних.",
+                "Ризики перенесення даних.",
+                "Планування міграції даних."
+            ]
+        },
+        {
+            "wordDe": "Sicherungsdatei (Backup)",
+            "wordUk": "Резервна копія (Бекап)",
+            "phrasesDe": [
+                "Erstellen einer Sicherungsdatei.",
+                "Wichtigkeit der Sicherungsdatei.",
+                "Wiederherstellung aus der Sicherungsdatei."
+            ],
+            "phrasesUk": [
+                "Створення резервної копії.",
+                "Важливість бекапу.",
+                "Відновлення з резервної копії."
+            ]
+        },
+        {
+            "wordDe": "Wiederherstellung (Recovery)",
+            "wordUk": "Відновлення (Рікавері)",
+            "phrasesDe": [
+                "Dauer der Wiederherstellung.",
+                "Prozess der Wiederherstellung.",
+                "System zur Wiederherstellung."
+            ],
+            "phrasesUk": [
+                "Тривалість відновлення даних.",
+                "Процес рікавері.",
+                "Система відновлення."
+            ]
+        },
+        {
+            "wordDe": "Infrastruktur-as-Code (IaC)",
+            "wordUk": "Інфраструктура як код (IaC)",
+            "phrasesDe": [
+                "Vorteile von Infrastructure-as-Code.",
+                "Einsatz von IaC.",
+                "Prinzipien von IaC."
+            ],
+            "phrasesUk": [
+                "Переваги інфраструктури як кожного.",
+                "Використання IaC.",
+                "Принципи IaC."
+            ]
+        },
+        {
+            "wordDe": "Mikroservices",
+            "wordUk": "Мікросервіси",
+            "phrasesDe": [
+                "Vorteile von Mikroservices.",
+                "Komplexe Architektur mit Mikroservices.",
+                "Wartung von Mikroservices."
+            ],
+            "phrasesUk": [
+                "Переваги мікросервісів.",
+                "Складна архітектура на мікросервісах.",
+                "Обслуговування мікросервісів."
+            ]
+        },
+        {
+            "wordDe": "Serverlose Architektur (Serverless)",
+            "wordUk": "Безсерверна архітектура (Serverless)",
+            "phrasesDe": [
+                "Vorteile serverloser Architektur.",
+                "Kosten serverloser Architektur.",
+                "Nutzung von Serverless."
+            ],
+            "phrasesUk": [
+                "Переваги безсерверної архітектури.",
+                "Вартість Serverless-рішень.",
+                "Використання безсерверних технологій."
+            ]
+        },
+        {
+            "wordDe": "Virtuelle Realität (VR)",
+            "wordUk": "Віртуальна реальність (VR)",
+            "phrasesDe": [
+                "Eintauchen in die virtuelle Realität.",
+                "Brille für virtuelle Realität.",
+                "Anwendung von VR."
+            ],
+            "phrasesUk": [
+                "Занурення у віртуальну реальність.",
+                "Окуляри віртуальної реальності.",
+                "Застосування VR."
+            ]
+        },
+        {
+            "wordDe": "Erweiterte Realität (AR)",
+            "wordUk": "Доповнена реальність (AR)",
+            "phrasesDe": [
+                "Vorteile der erweiterten Realität.",
+                "Nutzung von AR.",
+                "Anwendung der erweiterten Realität."
+            ],
+            "phrasesUk": [
+                "Переваги доповненої реальності.",
+                "Використання AR.",
+                "Застосування доповненої реальності."
+            ]
+        }
+    ]
+}

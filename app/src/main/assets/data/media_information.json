@@ -1,0 +1,704 @@
+{
+    "Медіа та Інформаційне Суспільство": [
+        {
+            "wordDe": "Berichterstattung",
+            "wordUk": "Репортаж / Висвітлення подій / Звітність",
+            "phrasesDe": [
+                "Objektive Berichterstattung.",
+                "Kritik an der Berichterstattung.",
+                "Live-Berichterstattung."
+            ],
+            "phrasesUk": [
+                "Об'єктивне висвітлення подій.",
+                "Критика репортажів.",
+                "Прямий репортаж."
+            ]
+        },
+        {
+            "wordDe": "Pressefreiheit",
+            "wordUk": "Свобода преси",
+            "phrasesDe": [
+                "Schutz der Pressefreiheit.",
+                "Einschränkung der Pressefreiheit.",
+                "Tag der Pressefreiheit."
+            ],
+            "phrasesUk": [
+                "Захист свободи преси.",
+                "Обмеження свободи преси.",
+                "День свободи преси."
+            ]
+        },
+        {
+            "wordDe": "Öffentlichkeit",
+            "wordUk": "Громадськість / Публічність",
+            "phrasesDe": [
+                "An die Öffentlichkeit gehen.",
+                "In der Öffentlichkeit stehen.",
+                "Öffentlichkeitsarbeit."
+            ],
+            "phrasesUk": [
+                "Вийти до громадськості (оприлюднити).",
+                "Бути публічною особою.",
+                "Зв'язки з громадськістю (PR)."
+            ]
+        },
+        {
+            "wordDe": "Meinungsbildung",
+            "wordUk": "Формування думки",
+            "phrasesDe": [
+                "Prozess der Meinungsbildung.",
+                "Einfluss auf die Meinungsbildung.",
+                "Freie Meinungsbildung."
+            ],
+            "phrasesUk": [
+                "Процес формування думки.",
+                "Вплив на формування думки.",
+                "Вільне формування думки."
+            ]
+        },
+        {
+            "wordDe": "Informationsquelle",
+            "wordUk": "Джерело інформації",
+            "phrasesDe": [
+                "Zuverlässige Informationsquelle.",
+                "Vielfalt der Informationsquellen.",
+                "Informationsquelle prüfen."
+            ],
+            "phrasesUk": [
+                "Надійне джерело інформації.",
+                "Різноманіття джерел інформації.",
+                "Перевіряти джерело інформації."
+            ]
+        },
+        {
+            "wordDe": "Nachrichtenagentur",
+            "wordUk": "Агентство новин",
+            "phrasesDe": [
+                "Meldung einer Nachrichtenagentur.",
+                "Große Nachrichtenagenturen.",
+                "Zusammenarbeit mit Nachrichtenagenturen."
+            ],
+            "phrasesUk": [
+                "Повідомлення агентства новин.",
+                "Великі агентства новин.",
+                "Співпраця з агентствами новин."
+            ]
+        },
+        {
+            "wordDe": "Rundfunk",
+            "wordUk": "Радіомовлення / Телерадіомовлення",
+            "phrasesDe": [
+                "Öffentlich-rechtlicher Rundfunk.",
+                "Private Rundfunkanstalten.",
+                "Gebühren für den Rundfunk."
+            ],
+            "phrasesUk": [
+                "Суспільне мовлення.",
+                "Приватні телерадіокомпанії.",
+                "Плата за мовлення (збір)."
+            ]
+        },
+        {
+            "wordDe": "Schlagzeile",
+            "wordUk": "Заголовок / Сенсаційний заголовок",
+            "phrasesDe": [
+                "Große Schlagzeilen.",
+                "In den Schlagzeilen sein.",
+                "Schlagzeilen machen."
+            ],
+            "phrasesUk": [
+                "Великі заголовки.",
+                "Бути на шпальтах (у новинах).",
+                "Створювати сенсацію."
+            ]
+        },
+        {
+            "wordDe": "Recherchieren",
+            "wordUk": "Досліджувати / Проводити розслідування",
+            "phrasesDe": [
+                "Gründlich recherchieren.",
+                "Hintergrundinformationen recherchieren.",
+                "Für einen Artikel recherchieren."
+            ],
+            "phrasesUk": [
+                "Ретельно досліджувати.",
+                "Шукати фонову інформацію.",
+                "Збирати матеріал для статті."
+            ]
+        },
+        {
+            "wordDe": "Veröffentlichung",
+            "wordUk": "Публікація / Оприлюднення",
+            "phrasesDe": [
+                "Datum der Veröffentlichung.",
+                "Eine offizielle Veröffentlichung.",
+                "Veröffentlichung vorbereiten."
+            ],
+            "phrasesUk": [
+                "Дата публікації.",
+                "Офіційне оприлюднення.",
+                "Готувати до друку (публікації)."
+            ]
+        },
+        {
+            "wordDe": "Zensur",
+            "wordUk": "Цензура",
+            "phrasesDe": [
+                "Abschaffung der Zensur.",
+                "Opfer von Zensur.",
+                "Zensur im Internet."
+            ],
+            "phrasesUk": [
+                "Скасування цензури.",
+                "Жертва цензури.",
+                "Цензура в інтернеті."
+            ]
+        },
+        {
+            "wordDe": "Propaganda",
+            "wordUk": "Пропаганда",
+            "phrasesDe": [
+                "Gefährliche Propaganda.",
+                "Propaganda verbreiten.",
+                "Mittel der Propaganda."
+            ],
+            "phrasesUk": [
+                "Небезпечна пропаганда.",
+                "Поширювати пропаганду.",
+                "Засоби пропаганди."
+            ]
+        },
+        {
+            "wordDe": "Desinformation",
+            "wordUk": "Дезінформація",
+            "phrasesDe": [
+                "Kampf gegen Desinformation.",
+                "Gezielte Desinformation.",
+                "Opfer von Desinformation."
+            ],
+            "phrasesUk": [
+                "Боротьба з дезінформацією.",
+                "Цілеспрямована дезінформація.",
+                "Жертва дезінформації."
+            ]
+        },
+        {
+            "wordDe": "Glaubwürdigkeit",
+            "wordUk": "Достовірність / Кредібіліті",
+            "phrasesDe": [
+                "Verlust der Glaubwürdigkeit.",
+                "An der Glaubwürdigkeit zweifeln.",
+                "Hohe Glaubwürdigkeit besitzen."
+            ],
+            "phrasesUk": [
+                "Втрата достовірності.",
+                "Сумніватися в достовірності.",
+                "Мати високу довіру (достовірність)."
+            ]
+        },
+        {
+            "wordDe": "Manipulation",
+            "wordUk": "Маніпуляція",
+            "phrasesDe": [
+                "Versuch der Manipulation.",
+                "Manipulation der Massen.",
+                "Gegen Manipulation schützen."
+            ],
+            "phrasesUk": [
+                "Спроба маніпуляції.",
+                "Маніпуляція масами.",
+                "Захиститися від маніпуляції."
+            ]
+        },
+        {
+            "wordDe": "Digitalisierung",
+            "wordUk": "Цифровізація",
+            "phrasesDe": [
+                "Voranschreitende Digitalisierung.",
+                "Vorteile der Digitalisierung.",
+                "Herausforderungen der Digitalisierung."
+            ],
+            "phrasesUk": [
+                "Прогресуюча цифровізація.",
+                "Переваги цифровізації.",
+                "Виклики цифровізації."
+            ]
+        },
+        {
+            "wordDe": "Vernetzung",
+            "wordUk": "Об'єднання в мережу / Комунікація",
+            "phrasesDe": [
+                "Globale Vernetzung.",
+                "Soziale Vernetzung.",
+                "Effektive Vernetzung."
+            ],
+            "phrasesUk": [
+                "Глобальна мережа.",
+                "Соціальна комунікація (мережування).",
+                "Ефективне об'єднання в мережу."
+            ]
+        },
+        {
+            "wordDe": "Datenschutz",
+            "wordUk": "Захист даних",
+            "phrasesDe": [
+                "Bedeutung des Datenschutzes.",
+                "Verletzung des Datenschutzes.",
+                "Datenschutzregeln beachten."
+            ],
+            "phrasesUk": [
+                "Значення захисту даних.",
+                "Порушення захисту даних.",
+                "Дотримуватися правил захисту даних."
+            ]
+        },
+        {
+            "wordDe": "Privatsphäre",
+            "wordUk": "Приватність / Приватна сфера",
+            "phrasesDe": [
+                "Schutz der Privatsphäre.",
+                "Eingriff in die Privatsphäre.",
+                "Wahrung der Privatsphäre."
+            ],
+            "phrasesUk": [
+                "Захист приватності.",
+                "Втручання в особисте життя.",
+                "Збереження приватної сфери."
+            ]
+        },
+        {
+            "wordDe": "Überwachung",
+            "wordUk": "Нагляд / Стеження",
+            "phrasesDe": [
+                "Staatliche Überwachung.",
+                "Videoüberwachung.",
+                "Gegen Überwachung protestieren."
+            ],
+            "phrasesUk": [
+                "Державний нагляд (стеження).",
+                "Відеоспостереження.",
+                "Протестувати проти стеження."
+            ]
+        },
+        {
+            "wordDe": "Algorithmus",
+            "wordUk": "Алгоритм",
+            "phrasesDe": [
+                "Ein komplexer Algorithmus.",
+                "Einfluss von Algorithmen.",
+                "Funktion des Algorithmus."
+            ],
+            "phrasesUk": [
+                "Складний алгоритм.",
+                "Вплив алгоритмів.",
+                "Функція алгоритму."
+            ]
+        },
+        {
+            "wordDe": "Künstliche Intelligenz",
+            "wordUk": "Штучний інтелект",
+            "phrasesDe": [
+                "Fortschritte in der Künstlichen Intelligenz.",
+                "Anwendung von Künstlicher Intelligenz.",
+                "Ethik und Künstliche Intelligenz."
+            ],
+            "phrasesUk": [
+                "Прогрес у сфері ШІ.",
+                "Застосування штучного інтелекту.",
+                "Етика та штучний інтелект."
+            ]
+        },
+        {
+            "wordDe": "Influencer",
+            "wordUk": "Інфлюенсер / Лідер думок",
+            "phrasesDe": [
+                "Ein bekannter Influencer.",
+                "Marketing durch Influencer.",
+                "Botschaft eines Influencers."
+            ],
+            "phrasesUk": [
+                "Відомий інфлюенсер.",
+                "Маркетинг через лідерів думок.",
+                "Повідомлення інфлюенсера."
+            ]
+        },
+        {
+            "wordDe": "Follower",
+            "wordUk": "Підписник (фоловер)",
+            "phrasesDe": [
+                "Zahl der Follower.",
+                "Interaktion mit Followern.",
+                "Echte Follower gewinnen."
+            ],
+            "phrasesUk": [
+                "Кількість підписників.",
+                "Взаємодія з фоловерами.",
+                "Залучити справжніх підписників."
+            ]
+        },
+        {
+            "wordDe": "Reichweite",
+            "wordUk": "Охоплення (аудиторія)",
+            "phrasesDe": [
+                "Große Reichweite erzielen.",
+                "Verkürzte Reichweite.",
+                "Analyse der Reichweite."
+            ],
+            "phrasesUk": [
+                "Досягти великого охоплення.",
+                "Зменшене охоплення.",
+                "Аналіз охоплення."
+            ]
+        },
+        {
+            "wordDe": "Shitstorm",
+            "wordUk": "Хвиля обурення в мережі (Shitstorm)",
+            "phrasesDe": [
+                "Einen Shitstorm erleben.",
+                "Ursache für den Shitstorm.",
+                "Umgang mit einem Shitstorm."
+            ],
+            "phrasesUk": [
+                "Пережити хвилю хейту.",
+                "Причина обурення в мережі.",
+                "Поводження під час шторму хейту."
+            ]
+        },
+        {
+            "wordDe": "Filterblase",
+            "wordUk": "Інформаційна бульбашка / Фільтр-бабл",
+            "phrasesDe": [
+                "Gefangen in der Filterblase.",
+                "Aus der Filterblase ausbrechen.",
+                "Einfluss der Filterblase."
+            ],
+            "phrasesUk": [
+                "Спійманий в інформаційній бульбашці.",
+                "Вирватися з фільтр-бабла.",
+                "Вплив інформаційної бульбашки."
+            ]
+        },
+        {
+            "wordDe": "Cybermobbing",
+            "wordUk": "Кібербулінг / Цькування в мережі",
+            "phrasesDe": [
+                "Schutz vor Cybermobbing.",
+                "Opfer von Cybermobbing.",
+                "Folgen von Cybermobbing."
+            ],
+            "phrasesUk": [
+                "Захист від кібербулінгу.",
+                "Жертва цькування в мережі.",
+                "Наслідки кібербулінгу."
+            ]
+        },
+        {
+            "wordDe": "Urheberrecht",
+            "wordUk": "Авторське право",
+            "phrasesDe": [
+                "Verletzung des Urheberrechts.",
+                "Schutz durch Urheberrecht.",
+                "Urheberrecht im Internet."
+            ],
+            "phrasesUk": [
+                "Порушення авторського права.",
+                "Захист авторським правом.",
+                "Авторське право в інтернеті."
+            ]
+        },
+        {
+            "wordDe": "Plagiat",
+            "wordUk": "Плагіат",
+            "phrasesDe": [
+                "Ein offensichtliches Plagiat.",
+                "Vorwurf des Plagiats.",
+                "Plagiat vermeiden."
+            ],
+            "phrasesUk": [
+                "Очевидний плагіат.",
+                "Звинувачення в плагіаті.",
+                "Уникати плагіату."
+            ]
+        },
+        {
+            "wordDe": "Abonnement",
+            "wordUk": "Абонемент / Підписка",
+            "phrasesDe": [
+                "Ein Abonnement kündigen.",
+                "Jährliches Abonnement.",
+                "Vorteile des Abonnements."
+            ],
+            "phrasesUk": [
+                "Скасувати підписку.",
+                "Річний абонемент.",
+                "Переваги підписки."
+            ]
+        },
+        {
+            "wordDe": "Werbung",
+            "wordUk": "Реклама",
+            "phrasesDe": [
+                "Gezielte Werbung.",
+                "Werbung schalten.",
+                "Einfluss von Werbung."
+            ],
+            "phrasesUk": [
+                "Цільова реклама.",
+                "Розміщувати рекламу.",
+                "Вплив реклами."
+            ]
+        },
+        {
+            "wordDe": "Zielgruppe",
+            "wordUk": "Цільова аудиторія",
+            "phrasesDe": [
+                "Die richtige Zielgruppe erreichen.",
+                "Analyse der Zielgruppe.",
+                "Wünsche der Zielgruppe."
+            ],
+            "phrasesUk": [
+                "Охопити правильну цільову аудиторію.",
+                "Аналіз цільової групи.",
+                "Бажання цільової аудиторії."
+            ]
+        },
+        {
+            "wordDe": "Marke",
+            "wordUk": "Бренд / Торгова марка",
+            "phrasesDe": [
+                "Eine starke Marke.",
+                "Markenbewusstsein.",
+                "Aufbau einer Marke."
+            ],
+            "phrasesUk": [
+                "Сильний бренд.",
+                "Впізнаваність бренду.",
+                "Будівництво торгової марки."
+            ]
+        },
+        {
+            "wordDe": "Image",
+            "wordUk": "Імідж",
+            "phrasesDe": [
+                "Ein positives Image.",
+                "Imagepflege.",
+                "Verlust des Images."
+            ],
+            "phrasesUk": [
+                "Позитивний імідж.",
+                "Підтримання іміджу.",
+                "Втрата іміджу."
+            ]
+        },
+        {
+            "wordDe": "Kommunikation",
+            "wordUk": "Комунікація / Спілкування",
+            "phrasesDe": [
+                "Offene Kommunikation.",
+                "Mittel der Kommunikation.",
+                "Kommunikationsstörung."
+            ],
+            "phrasesUk": [
+                "Відкрите спілкування.",
+                "Засоби комунікації.",
+                "Порушення комунікації."
+            ]
+        },
+        {
+            "wordDe": "Diskurs",
+            "wordUk": "Дискурс / Дискусія",
+            "phrasesDe": [
+                "Gesellschaftlicher Diskurs.",
+                "Teilnahme am Diskurs.",
+                "Kultur des Diskurses."
+            ],
+            "phrasesUk": [
+                "Суспільний дискурс.",
+                "Участь у дискусії.",
+                "Культура дискурсу."
+            ]
+        },
+        {
+            "wordDe": "Polemik",
+            "wordUk": "Полеміка",
+            "phrasesDe": [
+                "Scharfe Polemik.",
+                "Polemik vermeiden.",
+                "In Polemik verfallen."
+            ],
+            "phrasesUk": [
+                "Гостра полеміка.",
+                "Уникати полеміки.",
+                "Вдатися до полеміки."
+            ]
+        },
+        {
+            "wordDe": "Debatte",
+            "wordUk": "Дебати / Суперечка",
+            "phrasesDe": [
+                "Eine hitzige Debatte.",
+                "Debatte über das Gesetz.",
+                "Debatte abschließen."
+            ],
+            "phrasesUk": [
+                "Палкі дебати.",
+                "Дебати щодо закону.",
+                "Завершити суперечку."
+            ]
+        },
+        {
+            "wordDe": "Moderation",
+            "wordUk": "Модерація / Ведення",
+            "phrasesDe": [
+                "Gute Moderation.",
+                "Moderation der Sendung.",
+                "Aufgabe der Moderation."
+            ],
+            "phrasesUk": [
+                "Гарна модерація.",
+                "Ведення передачі.",
+                "Завдання модератора."
+            ]
+        },
+        {
+            "wordDe": "Medienkompetenz",
+            "wordUk": "Медіаграмотність",
+            "phrasesDe": [
+                "Förderung der Medienkompetenz.",
+                "Wichtige Medienkompetenz.",
+                "Mangel an Medienkompetenz."
+            ],
+            "phrasesUk": [
+                "Сприяння медіаграмотності.",
+                "Важлива медіаграмотність.",
+                "Брак медіаграмотності."
+            ]
+        },
+        {
+            "wordDe": "Informationsflut",
+            "wordUk": "Інформаційне перевантаження / Потік інформації",
+            "phrasesDe": [
+                "Gegen die Informationsflut.",
+                "Folgen der Informationsflut.",
+                "Umgang mit der Informationsflut."
+            ],
+            "phrasesUk": [
+                "Проти потоку інформації.",
+                "Наслідки інформаційного перевантаження.",
+                "Поводження з надлишком інформації."
+            ]
+        },
+        {
+            "wordDe": "Quellenschutz",
+            "wordUk": "Захист джерел (журналістський)",
+            "phrasesDe": [
+                "Recht auf Quellenschutz.",
+                "Bedeutung des Quellenschutzes.",
+                "Quellenschutz wahren."
+            ],
+            "phrasesUk": [
+                "Право на захист джерел.",
+                "Значення захисту джерел.",
+                "Зберігати таємницю джерел."
+            ]
+        },
+        {
+            "wordDe": "Transparenz",
+            "wordUk": "Прозорість",
+            "phrasesDe": [
+                "Forderung nach Transparenz.",
+                "Mangel an Transparenz.",
+                "Volle Transparenz."
+            ],
+            "phrasesUk": [
+                "Вимога прозорості.",
+                "Брак прозорості.",
+                "Повна прозорість."
+            ]
+        },
+        {
+            "wordDe": "Authentizität",
+            "wordUk": "Автентичність / Справжність",
+            "phrasesDe": [
+                "Wert der Authentizität.",
+                "Wahrung der Authentizität.",
+                "Mangel an Authentizität."
+            ],
+            "phrasesUk": [
+                "Цінність автентичності.",
+                "Збереження справжності.",
+                "Брак автентичності."
+            ]
+        },
+        {
+            "wordDe": "Echtzeit",
+            "wordUk": "Реальний час",
+            "phrasesDe": [
+                "Information in Echtzeit.",
+                "Echtzeit-Übertragung.",
+                "Reaktion in Echtzeit."
+            ],
+            "phrasesUk": [
+                "Інформація в реальному часі.",
+                "Трансляція в реальному часі.",
+                "Реакція в реальному часі."
+            ]
+        },
+        {
+            "wordDe": "Vernetzung",
+            "wordUk": "Мережева взаємодія",
+            "phrasesDe": [
+                "Optimale Vernetzung.",
+                "Digitale Vernetzung.",
+                "Vorteile der Vernetzung."
+            ],
+            "phrasesUk": [
+                "Оптимальна взаємодія в мережі.",
+                "Цифрові мережі.",
+                "Переваги мережевої взаємодії."
+            ]
+        },
+        {
+            "wordDe": "Schnittstelle",
+            "wordUk": "Інтерфейс / Точка дотику (Шнітштеллє)",
+            "phrasesDe": [
+                "Benutzerfreundliche Schnittstelle.",
+                "Schnittstelle zwischen Mensch und Maschine.",
+                "Neue Schnittstelle."
+            ],
+            "phrasesUk": [
+                "Зручний інтерфейс.",
+                "Точка дотику між людиною та машиною.",
+                "Новий інтерфейс."
+            ]
+        },
+        {
+            "wordDe": "Content",
+            "wordUk": "Контент / Вміст",
+            "phrasesDe": [
+                "Qualitativ hochwertiger Content.",
+                "Content-Erstellung.",
+                "Content-Strategie."
+            ],
+            "phrasesUk": [
+                "Якісний контент.",
+                "Створення контенту.",
+                "Контент-стратегія."
+            ]
+        },
+        {
+            "wordDe": "Interaktion",
+            "wordUk": "Взаємодія (інтеракція)",
+            "phrasesDe": [
+                "Hohe Interaktion.",
+                "Interaktion mit den Usern.",
+                "Förderung der Interaktion."
+            ],
+            "phrasesUk": [
+                "Висока активність (взаємодія).",
+                "Взаємодія з користувачами.",
+                "Стимулювання взаємодії."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Хобі та DIY (Просунутий)": [
+        {
+            "wordDe": "Handwerkskunst",
+            "wordUk": "Реміснича майстерність / Мистецтво ремесла",
+            "phrasesDe": [
+                "Traditionelle Handwerkskunst.",
+                "Stolz auf Handwerkskunst.",
+                "Meister der Handwerkskunst."
+            ],
+            "phrasesUk": [
+                "Традиційна реміснича майстерність.",
+                "Пишатися своєю майстерністю.",
+                "Майстер своєї справи (ремесла)."
+            ]
+        },
+        {
+            "wordDe": "Heimwerken",
+            "wordUk": "Домашнє майстрування / DIY (Хайм-веркен)",
+            "phrasesDe": [
+                "Spaß am Heimwerken.",
+                "Projekt im Heimwerken.",
+                "Tipps für Heimwerken."
+            ],
+            "phrasesUk": [
+                "Задоволення від майстрування вдома.",
+                "Домашній проєкт.",
+                "Поради для DIY."
+            ]
+        },
+        {
+            "wordDe": "Werkzeugkasten",
+            "wordUk": "Ящик для інструментів",
+            "phrasesDe": [
+                "Inhalt des Werkzeugkastens.",
+                "Ordnung im Werkzeugkasten.",
+                "Kauf eines Werkzeugkastens."
+            ],
+            "phrasesUk": [
+                "Вміст ящика для інструментів.",
+                "Порядок в інструментальному ящику.",
+                "Купівля ящика для інструментів."
+            ]
+        },
+        {
+            "wordDe": "Akkuschrauber",
+            "wordUk": "Акумуляторний шуруповерт",
+            "phrasesDe": [
+                "Nutzung des Akkuschraubers.",
+                "Leistung des Akkuschraubers.",
+                "Akku für den Schrauber."
+            ],
+            "phrasesUk": [
+                "Використання шуруповерта.",
+                "Потужність шуруповерта.",
+                "Акумулятор для пристрою."
+            ]
+        },
+        {
+            "wordDe": "Bohrmaschine",
+            "wordUk": "Дриль / Свердлильний верстат",
+            "phrasesDe": [
+                "Loch mit der Bohrmaschine.",
+                "Satz für Bohrmaschine.",
+                "Kauf einer Bohrmaschine."
+            ],
+            "phrasesUk": [
+                "Отвір дрилем.",
+                "Набір для дриля.",
+                "Купівля дриля."
+            ]
+        },
+        {
+            "wordDe": "Schleifmaschine",
+            "wordUk": "Шліфувальна машина",
+            "phrasesDe": [
+                "Nutzung der Schleifmaschine.",
+                "Blatt für Schleifmaschine.",
+                "Staub bei Schleifmaschine."
+            ],
+            "phrasesUk": [
+                "Використання шліфувальної машини.",
+                "Диск (лист) для шліфування.",
+                "Пил при шліфуванні."
+            ]
+        },
+        {
+            "wordDe": "Säge",
+            "wordUk": "Пила",
+            "phrasesDe": [
+                "Holz mit der Säge.",
+                "Blatt der Säge.",
+                "Arten von Sägen."
+            ],
+            "phrasesUk": [
+                "Дерево під пилу.",
+                "Полотно пили.",
+                "Види пил."
+            ]
+        },
+        {
+            "wordDe": "Hobel",
+            "wordUk": "Рубанок",
+            "phrasesDe": [
+                "Arbeit mit dem Hobel.",
+                "Schärfen des Hobels.",
+                "Späne vom Hobel."
+            ],
+            "phrasesUk": [
+                "Робота рубанком.",
+                "Загострення рубанка.",
+                "Стружка від рубанка."
+            ]
+        },
+        {
+            "wordDe": "Wasserwaage",
+            "wordUk": "Рівень / Ватерпас",
+            "phrasesDe": [
+                "Nutzung der Wasserwaage.",
+                "Blase in der Wasserwaage.",
+                "Prüfung mit Wasserwaage."
+            ],
+            "phrasesUk": [
+                "Використання рівня.",
+                "Бульбашка у ватерпасі.",
+                "Перевірка рівнем."
+            ]
+        },
+        {
+            "wordDe": "Zollstock",
+            "wordUk": "Складаний метр (Цоль-шток)",
+            "phrasesDe": [
+                "Messen mit dem Zollstock.",
+                "Länge des Zollstocks.",
+                "Bruch des Zollstocks."
+            ],
+            "phrasesUk": [
+                "Вимірювання складаним метром.",
+                "Довжина метра.",
+                "Поломка складаного метра."
+            ]
+        },
+        {
+            "wordDe": "Schraubenzieher",
+            "wordUk": "Викрутка (Шраубен-цієр)",
+            "phrasesDe": [
+                "Satz Schraubenzieher.",
+                "Spitze des Schraubenziehers.",
+                "Griff des Schraubenziehers."
+            ],
+            "phrasesUk": [
+                "Набір викруток.",
+                "Наконечник викрутки.",
+                "Руків'я викрутки."
+            ]
+        },
+        {
+            "wordDe": "Zange",
+            "wordUk": "Плоскогубці / Обценьки / Кліщі (Цанге)",
+            "phrasesDe": [
+                "Halten mit der Zange.",
+                "Griff der Zange.",
+                "Arten von Zangen."
+            ],
+            "phrasesUk": [
+                "Тримати плоскогубцями.",
+                "Ручка кліщів.",
+                "Види плоскогубців."
+            ]
+        },
+        {
+            "wordDe": "Hammer",
+            "wordUk": "Молоток",
+            "phrasesDe": [
+                "Nagel und Hammer.",
+                "Schlag mit dem Hammer.",
+                "Stiel des Hammers."
+            ],
+            "phrasesUk": [
+                "Цвях і молоток.",
+                "Удар молотком.",
+                "Ручка (рукоятка) молотка."
+            ]
+        },
+        {
+            "wordDe": "Dübel",
+            "wordUk": "Дюбель",
+            "phrasesDe": [
+                "Loch für einen Dübel.",
+                "Satz von Dübeln.",
+                "Größe des Dübels."
+            ],
+            "phrasesUk": [
+                "Отвір для дюбеля.",
+                "Набір дюбелів.",
+                "Розмір дюбеля."
+            ]
+        },
+        {
+            "wordDe": "Schraube",
+            "wordUk": "Гвинт / Шуруп (Шраубе)",
+            "phrasesDe": [
+                "Eine lange Schraube.",
+                "Kopf der Schraube.",
+                "Gewinde der Schraube."
+            ],
+            "phrasesUk": [
+                "Довгий гвинт.",
+                "Головка шурупа.",
+                "Різьблення гвинта."
+            ]
+        },
+        {
+            "wordDe": "Mutter",
+            "wordUk": "Гайка (Муттер)",
+            "phrasesDe": [
+                "Schraube und Mutter.",
+                "Größe der Mutter.",
+                "Festziehen der Mutter."
+            ],
+            "phrasesUk": [
+                "Гвинт і гайка.",
+                "Розмір гайки.",
+                "Затягування гайки."
+            ]
+        },
+        {
+            "wordDe": "Nagel",
+            "wordUk": "Цвях (Нагель)",
+            "phrasesDe": [
+                "Einschlagen eines Nagels.",
+                "Kopf des Nagels.",
+                "Länge des Nagels."
+            ],
+            "phrasesUk": [
+                "Забивання цвяха.",
+                "Головка цвяха.",
+                "Довжина цвяха."
+            ]
+        },
+        {
+            "wordDe": "Leim",
+            "wordUk": "Клей (для дерева тощо) / Лайм",
+            "phrasesDe": [
+                "Kleben mit Leim.",
+                "Trocknung des Leims.",
+                "Rest vom Leim."
+            ],
+            "phrasesUk": [
+                "Клеїти клеєм.",
+                "Висихання клею.",
+                "Залишок клею."
+            ]
+        },
+        {
+            "wordDe": "Lack",
+            "wordUk": "Лак",
+            "phrasesDe": [
+                "Schutz durch Lack.",
+                "Farbe des Lacks.",
+                "Schicht vom Lack."
+            ],
+            "phrasesUk": [
+                "Захист лаком.",
+                "Колір лаку.",
+                "Шар лаку."
+            ]
+        },
+        {
+            "wordDe": "Lasur",
+            "wordUk": "Лазур / Морилка (для дерева)",
+            "phrasesDe": [
+                "Anstrich mit Lasur.",
+                "Schutz durch Lasur.",
+                "Farbe der Lasur."
+            ],
+            "phrasesUk": [
+                "Фарбування лазур'ю.",
+                "Захист морилкою.",
+                "Колір лазурі."
+            ]
+        },
+        {
+            "wordDe": "Schleifpapier",
+            "wordUk": "Шліфувальний папір / Наждачка",
+            "phrasesDe": [
+                "Körnung des Schleifpapiers.",
+                "Nutzung von Schleifpapier.",
+                "Satz Schleifpapier."
+            ],
+            "phrasesUk": [
+                "Зернистість наждачки.",
+                "Використання шліфувального паперу.",
+                "Набір наждачного паперу."
+            ]
+        },
+        {
+            "wordDe": "Spachtelmasse",
+            "wordUk": "Шпаклівка",
+            "phrasesDe": [
+                "Auftragen von Spachtelmasse.",
+                "Trocknung der Spachtelmasse.",
+                "Glätten der Spachtelmasse."
+            ],
+            "phrasesUk": [
+                "Нанесення шпаклівки.",
+                "Висихання шпаклівки.",
+                "Вирівнювання шпаклівки."
+            ]
+        },
+        {
+            "wordDe": "Grundierung",
+            "wordUk": "Ґрунтовка",
+            "phrasesDe": [
+                "Wichtigkeit der Grundierung.",
+                "Schicht der Grundierung.",
+                "Trocknung der Grundierung."
+            ],
+            "phrasesUk": [
+                "Важливість ґрунтування.",
+                "Шар ґрунтовки.",
+                "Висихання ґрунтовки."
+            ]
+        },
+        {
+            "wordDe": "Tapezieren",
+            "wordUk": "Поклейка шпалер (Тапе-цірен)",
+            "phrasesDe": [
+                "Hilfe beim Tapezieren.",
+                "Kleister zum Tapezieren.",
+                "Wand zum Tapezieren."
+            ],
+            "phrasesUk": [
+                "Допомога з поклейкою шпалер.",
+                "Клей для шпалер.",
+                "Стіна під поклейку."
+            ]
+        },
+        {
+            "wordDe": "Fliesen legen",
+            "wordUk": "Класти плитку (Флізен легген)",
+            "phrasesDe": [
+                "Bad neu fliesen legen.",
+                "Schnitt beim Fliesen legen.",
+                "Kleber zum Fliesen legen."
+            ],
+            "phrasesUk": [
+                "Заново класти плитку у ванній.",
+                "Різка при укладанні плитки.",
+                "Клей для плитки."
+            ]
+        },
+        {
+            "wordDe": "Verlegen",
+            "wordUk": "Прокладати / Укладати (підлогу, кабелі)",
+            "phrasesDe": [
+                "Boden verlegen.",
+                "Kabel verlegen.",
+                "Rohre verlegen."
+            ],
+            "phrasesUk": [
+                "Укладати підлогу.",
+                "Прокладати кабель.",
+                "Прокладати труби."
+            ]
+        },
+        {
+            "wordDe": "Dämmung",
+            "wordUk": "Ізоляція / Утеплення (Деммунг)",
+            "phrasesDe": [
+                "Schutz durch Dämmung.",
+                "Material zur Dämmung.",
+                "Kosten der Dämmung."
+            ],
+            "phrasesUk": [
+                "Захист ізоляцією.",
+                "Матеріал для утеплення.",
+                "Вартість ізоляції."
+            ]
+        },
+        {
+            "wordDe": "Abdichtung",
+            "wordUk": "Герметизація / Гідроізоляція (Аб-діхтунг)",
+            "phrasesDe": [
+                "Sicherung der Abdichtung.",
+                "Mittel zur Abdichtung.",
+                "Prüfung der Abdichtung."
+            ],
+            "phrasesUk": [
+                "Забезпечення герметичності.",
+                "Засіб для гідроізоляції.",
+                "Перевірка герметизації."
+            ]
+        },
+        {
+            "wordDe": "Modellbau",
+            "wordUk": "Моделізм / Створення моделей",
+            "phrasesDe": [
+                "Hobby Modellbau.",
+                "Satz für Modellbau.",
+                "Teile im Modellbau."
+            ],
+            "phrasesUk": [
+                "Хобі - моделізм.",
+                "Набір для моделювання.",
+                "Деталі в моделізмі."
+            ]
+        },
+        {
+            "wordDe": "Fotografie",
+            "wordUk": "Фотографія",
+            "phrasesDe": [
+                "Leidenschaft Fotografie.",
+                "Kamera für Fotografie.",
+                "Kurs in Fotografie."
+            ],
+            "phrasesUk": [
+                "Пристрасть до фотографії.",
+                "Камера для фото.",
+                "Курс із фотографії."
+            ]
+        },
+        {
+            "wordDe": "Belichtung",
+            "wordUk": "Експозиція / Освітлення (Бе-ліхтунг)",
+            "phrasesDe": [
+                "Dauer der Belichtung.",
+                "Messung der Belichtung.",
+                "Einfluss der Belichtung."
+            ],
+            "phrasesUk": [
+                "Тривалість експозиції.",
+                "Вимірювання освітлення.",
+                "Вплив експозиції."
+            ]
+        },
+        {
+            "wordDe": "Blende",
+            "wordUk": "Діафрагма (Бленде)",
+            "phrasesDe": [
+                "Wahl der Blende.",
+                "Wirkung der Blende.",
+                "Öffnung der Blende."
+            ],
+            "phrasesUk": [
+                "Вибір діафрагми.",
+                "Ефект діафрагми.",
+                "Відкриття діафрагми."
+            ]
+        },
+        {
+            "wordDe": "Objektiv",
+            "wordUk": "Об'єктив",
+            "phrasesDe": [
+                "Wechsel des Objektivs.",
+                "Typen von Objektiven.",
+                "Glas im Objektiv."
+            ],
+            "phrasesUk": [
+                "Зміна об'єктива.",
+                "Типи об'єктивів.",
+                "Скло в об'єктиві."
+            ]
+        },
+        {
+            "wordDe": "Stativ",
+            "wordUk": "Штатив",
+            "phrasesDe": [
+                "Nutzung eines Stativs.",
+                "Höhe des Stativs.",
+                "Gewicht des Stativs."
+            ],
+            "phrasesUk": [
+                "Використання штатива.",
+                "Висота штатива.",
+                "Вага штатива."
+            ]
+        },
+        {
+            "wordDe": "Bildbearbeitung",
+            "wordUk": "Обробка зображень / Редагування фото",
+            "phrasesDe": [
+                "Software zur Bildbearbeitung.",
+                "Schritte der Bildbearbeitung.",
+                "Kreative Bildbearbeitung."
+            ],
+            "phrasesUk": [
+                "ПЗ для обробки зображень.",
+                "Етапи редагування фото.",
+                "Креативна обробка фото."
+            ]
+        },
+        {
+            "wordDe": "Töpfern",
+            "wordUk": "Гончарство / Ліплення з глини (Тьопферн)",
+            "phrasesDe": [
+                "Hobby Töpfern.",
+                "Scheibe zum Töpfern.",
+                "Ton zum Töpfern."
+            ],
+            "phrasesUk": [
+                "Хобі - гончарство.",
+                "Гончарне коло.",
+                "Глина для ліплення."
+            ]
+        },
+        {
+            "wordDe": "Schnitzen",
+            "wordUk": "Різьблення (по дереву) / Шнітцен",
+            "phrasesDe": [
+                "Holz zum Schnitzen.",
+                "Messer zum Schnitzen.",
+                "Kunst des Schnitzens."
+            ],
+            "phrasesUk": [
+                "Дерево для різьблення.",
+                "Ніж для різьблення.",
+                "Мистецтво різьблення по дереву."
+            ]
+        },
+        {
+            "wordDe": "Weben",
+            "wordUk": "Ткацтво / Плетіння (Вебен)",
+            "phrasesDe": [
+                "Tradition des Webens.",
+                "Rahmen zum Weben.",
+                "Garn zum Weben."
+            ],
+            "phrasesUk": [
+                "Традиція ткацтва.",
+                "Рамка (верстат) для ткання.",
+                "Пряжа для плетіння."
+            ]
+        },
+        {
+            "wordDe": "Stricken",
+            "wordUk": "В'язання (на спицях) / Штріккен",
+            "phrasesDe": [
+                "Nadeln zum Stricken.",
+                "Wolle zum Stricken.",
+                "Muster zum Stricken."
+            ],
+            "phrasesUk": [
+                "Спиці для в'язання.",
+                "Вовна для в'язання.",
+                "Візерунок для в'язання."
+            ]
+        },
+        {
+            "wordDe": "Häkeln",
+            "wordUk": "В'язання гачком (Хекельн)",
+            "phrasesDe": [
+                "Haken zum Häkeln.",
+                "Garn zum Häkeln.",
+                "Technik beim Häkeln."
+            ],
+            "phrasesUk": [
+                "Гачок для в'язання.",
+                "Пряжа для гачка.",
+                "Техніка в'язання гачком."
+            ]
+        },
+        {
+            "wordDe": "Gärtnern",
+            "wordUk": "Садівництво",
+            "phrasesDe": [
+                "Leidenschaft Gärtnern.",
+                "Tipps zum Gärtnern.",
+                "Freude am Gärtnern."
+            ],
+            "phrasesUk": [
+                "Пристрасть до садівництва.",
+                "Поради щодо саду.",
+                "Радість від садівництва."
+            ]
+        },
+        {
+            "wordDe": "Aussaat",
+            "wordUk": "Посів (Аус-зат)",
+            "phrasesDe": [
+                "Zeit der Aussaat.",
+                "Erfolg der Aussaat.",
+                "Boden für die Aussaat."
+            ],
+            "phrasesUk": [
+                "Час посіву.",
+                "Успіх посіву.",
+                "Ґрунт для висіву."
+            ]
+        },
+        {
+            "wordDe": "Bewässerung",
+            "wordUk": "Зрошення / Полив",
+            "phrasesDe": [
+                "System zur Bewässerung.",
+                "Dauer der Bewässerung.",
+                "Art der Bewässerung."
+            ],
+            "phrasesUk": [
+                "Система зрошення.",
+                "Тривалість поливу.",
+                "Спосіб поливу."
+            ]
+        },
+        {
+            "wordDe": "Düngung",
+            "wordUk": "Удобрення / Підживлення",
+            "phrasesDe": [
+                "Mittel zur Düngung.",
+                "Zeit der Düngung.",
+                "Wirkung der Düngung."
+            ],
+            "phrasesUk": [
+                "Засіб для удобрення.",
+                "Час підживлення.",
+                "Дія добрива."
+            ]
+        },
+        {
+            "wordDe": "Schnitt (Garten)",
+            "wordUk": "Обрізка (в саду)",
+            "phrasesDe": [
+                "Schnitt der Rosen.",
+                "Zeit für den Schnitt.",
+                "Vorteile vom Schnitt."
+            ],
+            "phrasesUk": [
+                "Обрізка троянд.",
+                "Час для обрізки.",
+                "Переваги обрізання гілок."
+            ]
+        },
+        {
+            "wordDe": "Heimkino",
+            "wordUk": "Домашній кінотеатр",
+            "phrasesDe": [
+                "Aufbau eines Heimkinos.",
+                "Sound im Heimkino.",
+                "Bild im Heimkino."
+            ],
+            "phrasesUk": [
+                "Облаштування домашнього кінотеатру.",
+                "Звук у домашньому кіно.",
+                "Зображення в домашньому кінотеатрі."
+            ]
+        },
+        {
+            "wordDe": "Gaming",
+            "wordUk": "Геймінг / Відеоігри",
+            "phrasesDe": [
+                "Welt des Gaming.",
+                "PC für Gaming.",
+                "Zubehör für Gaming."
+            ],
+            "phrasesUk": [
+                "Світ геймінгу.",
+                "ПК для ігор.",
+                "Аксесуари для геймінгу."
+            ]
+        },
+        {
+            "wordDe": "Camping",
+            "wordUk": "Кемпінг / Відпочинок з наметом",
+            "phrasesDe": [
+                "Ausrüstung für Camping.",
+                "Platz für Camping.",
+                "Freude am Camping."
+            ],
+            "phrasesUk": [
+                "Спорядження для кемпінгу.",
+                "Місце для кемпінгу.",
+                "Задоволення від відпочинку на природі."
+            ]
+        },
+        {
+            "wordDe": "Wandern",
+            "wordUk": "Хайкінг / Піші прогулянки / Вандерн",
+            "phrasesDe": [
+                "Weg zum Wandern.",
+                "Schuhe zum Wandern.",
+                "Spaß beim Wandern."
+            ],
+            "phrasesUk": [
+                "Маршрут для хайкінгу.",
+                "Взуття для піших прогулянок.",
+                "Задоволення від ходьби."
+            ]
+        },
+        {
+            "wordDe": "Pilzsammeln",
+            "wordUk": "Збирання грибів",
+            "phrasesDe": [
+                "Erfolg beim Pilzsammeln.",
+                "Kenntnisse beim Pilzsammeln.",
+                "Zeit zum Pilzsammeln."
+            ],
+            "phrasesUk": [
+                "Успіх у збиранні грибів.",
+                "Знання для грибника.",
+                "Час для збирання грибів."
+            ]
+        }
+    ]
+}

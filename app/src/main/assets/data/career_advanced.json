@@ -1,0 +1,704 @@
+{
+    "Кар'єра та Професійне Життя (Просунутий)": [
+        {
+            "wordDe": "Beförderung",
+            "wordUk": "Підвищення (по службі)",
+            "phrasesDe": [
+                "Eine Beförderung erhalten.",
+                "Aussichten auf Beförderung.",
+                "Über die Beförderung sprechen."
+            ],
+            "phrasesUk": [
+                "Отримати підвищення.",
+                "Перспективи підвищення.",
+                "Розмовляти про підвищення."
+            ]
+        },
+        {
+            "wordDe": "Verantwortung",
+            "wordUk": "Відповідальність",
+            "phrasesDe": [
+                "Verantwortung tragen.",
+                "Genaue Verantwortung.",
+                "Hohe Verantwortung."
+            ],
+            "phrasesUk": [
+                "Нести відповідальність.",
+                "Чітка відповідальність.",
+                "Велика відповідальність."
+            ]
+        },
+        {
+            "wordDe": "Kompetenz",
+            "wordUk": "Компетентність / Повноваження",
+            "phrasesDe": [
+                "Fachliche Kompetenz.",
+                "Soziale Kompetenz.",
+                "Kompetenzen erweitern."
+            ],
+            "phrasesUk": [
+                "Фахова компетентність.",
+                "Соціальна компетентність.",
+                "Розширювати компетенції."
+            ]
+        },
+        {
+            "wordDe": "Führungskraft",
+            "wordUk": "Керівник / Керівна кадрова одиниця",
+            "phrasesDe": [
+                "Eine erfahrene Führungskraft.",
+                "Führungskräfte entwickeln.",
+                "Treffen der Führungskräfte."
+            ],
+            "phrasesUk": [
+                "Досвідчений керівник.",
+                "Розвивати керівні кадри.",
+                "Зустріч керівників."
+            ]
+        },
+        {
+            "wordDe": "Personalabteilung",
+            "wordUk": "Відділ кадрів (HR)",
+            "phrasesDe": [
+                "Kontakt mit der Personalabteilung.",
+                "Aufgaben der Personalabteilung.",
+                "In der Personalabteilung arbeiten."
+            ],
+            "phrasesUk": [
+                "Контакт із відділом кадрів.",
+                "Завдання відділу кадрів.",
+                "Працювати у відділі кадрів."
+            ]
+        },
+        {
+            "wordDe": "Vorstellungsgespräch",
+            "wordUk": "Співбесіда (при прийомі на роботу)",
+            "phrasesDe": [
+                "Ein Vorstellungsgespräch führen.",
+                "Vorbereitung auf das Vorstellungsgespräch.",
+                "Nach dem Vorstellungsgespräch."
+            ],
+            "phrasesUk": [
+                "Проводити співбесіду.",
+                "Підготовка до співбесіди.",
+                "Після співбесіди."
+            ]
+        },
+        {
+            "wordDe": "Lebenslauf",
+            "wordUk": "Резюме / Біографія (CV)",
+            "phrasesDe": [
+                "Einen Lebenslauf schreiben.",
+                "Aktueller Lebenslauf.",
+                "Lücken im Lebenslauf."
+            ],
+            "phrasesUk": [
+                "Писати резюме.",
+                "Актуальне резюме.",
+                "Прогалини в резюме."
+            ]
+        },
+        {
+            "wordDe": "Arbeitsverhältnis",
+            "wordUk": "Трудові відносини",
+            "phrasesDe": [
+                "Ein unbefristetes Arbeitsverhältnis.",
+                "Beendigung des Arbeitsverhältnisses.",
+                "Störung im Arbeitsverhältnis."
+            ],
+            "phrasesUk": [
+                "Безстрокові трудові відносини.",
+                "Припинення трудових відносин.",
+                "Порушення трудових відносин."
+            ]
+        },
+        {
+            "wordDe": "Kündigung",
+            "wordUk": "Звільнення / Розірвання договору",
+            "phrasesDe": [
+                "Die Kündigung einreichen.",
+                "Fristlose Kündigung.",
+                "Kündigungsschutz."
+            ],
+            "phrasesUk": [
+                "Подати заяву на звільнення.",
+                "Звільнення без попередження (негайне).",
+                "Захист від звільнення."
+            ]
+        },
+        {
+            "wordDe": "Gehaltsverhandlung",
+            "wordUk": "Переговори про зарплату",
+            "phrasesDe": [
+                "Tipps für die Gehaltsverhandlung.",
+                "Erfolgreiche Gehaltsverhandlung.",
+                "Zeitpunkt für die Gehaltsverhandlung."
+            ],
+            "phrasesUk": [
+                "Поради для переговорів про зарплату.",
+                "Успішні переговори про зарплату.",
+                "Час для переговорів про зарплату."
+            ]
+        },
+        {
+            "wordDe": "Weiterbildung",
+            "wordUk": "Підвищення кваліфікації / Подальша освіта",
+            "phrasesDe": [
+                "Berufliche Weiterbildung.",
+                "An einer Weiterbildung teilnehmen.",
+                "Kosten für die Weiterbildung."
+            ],
+            "phrasesUk": [
+                "Професійне підвищення кваліфікації.",
+                "Брати участь у підвищенні кваліфікації.",
+                "Витрати на підвищення кваліфікації."
+            ]
+        },
+        {
+            "wordDe": "Dienstreise",
+            "wordUk": "Відрядження",
+            "phrasesDe": [
+                "Auf Dienstreise sein.",
+                "Dienstreise planen.",
+                "Kosten der Dienstreise."
+            ],
+            "phrasesUk": [
+                "Бути у відрядженні.",
+                "Планувати відрядження.",
+                "Кошти (витрати) на відрядження."
+            ]
+        },
+        {
+            "wordDe": "Überstunden",
+            "wordUk": "Понаднормові години",
+            "phrasesDe": [
+                "Überstunden machen.",
+                "Überstunden abbauen.",
+                "Bezahlung von Überstunden."
+            ],
+            "phrasesUk": [
+                "Працювати понаднормово.",
+                "Відпрацьовувати (зменшувати) понаднормові.",
+                "Оплата понаднормових."
+            ]
+        },
+        {
+            "wordDe": "Gleitzeit",
+            "wordUk": "Гнучкий графік роботи",
+            "phrasesDe": [
+                "Arbeiten mit Gleitzeit.",
+                "Vorteile der Gleitzeit.",
+                "Gleitzeitregelung."
+            ],
+            "phrasesUk": [
+                "Працювати за гнучким графіком.",
+                "Переваги гнучкого графіка.",
+                "Правила гнучкого графіка."
+            ]
+        },
+        {
+            "wordDe": "Homeoffice",
+            "wordUk": "Робота з дому (дистанційна)",
+            "phrasesDe": [
+                "Im Homeoffice arbeiten.",
+                "Möglichkeiten für Homeoffice.",
+                "Homeoffice-Pauschale."
+            ],
+            "phrasesUk": [
+                "Працювати з дому.",
+                "Можливості для дистанційної роботи.",
+                "Компенсація за роботу з дому."
+            ]
+        },
+        {
+            "wordDe": "Betriebsklima",
+            "wordUk": "Атмосфера в колективі",
+            "phrasesDe": [
+                "Ein gutes Betriebsklima.",
+                "Schlechtes Betriebsklima.",
+                "Das Betriebsklima verbessern."
+            ],
+            "phrasesUk": [
+                "Гарна атмосфера в колективі.",
+                "Погана атмосфера в колективі.",
+                "Покращити атмосферу на підприємстві."
+            ]
+        },
+        {
+            "wordDe": "Teamgeist",
+            "wordUk": "Командний дух",
+            "phrasesDe": [
+                "Wichtig für den Teamgeist.",
+                "Teamgeist fördern.",
+                "Mangel an Teamgeist."
+            ],
+            "phrasesUk": [
+                "Важливо для командного духу.",
+                "Сприяти командному духу.",
+                "Брак командного духу."
+            ]
+        },
+        {
+            "wordDe": "Konkurrenz",
+            "wordUk": "Конкуренція",
+            "phrasesDe": [
+                "Große Konkurrenz.",
+                "Sich gegen die Konkurrenz durchsetzen.",
+                "Konkurrenzdruck."
+            ],
+            "phrasesUk": [
+                "Велика конкуренція.",
+                "Перемогти (пробитися крізь) конкуренцію.",
+                "Тиск конкуренції."
+            ]
+        },
+        {
+            "wordDe": "Marktführerschaft",
+            "wordUk": "Лідерство на ринку",
+            "phrasesDe": [
+                "Die Marktführerschaft erreichen.",
+                "Verlust der Marktführerschaft.",
+                "Strategie zur Marktführerschaft."
+            ],
+            "phrasesUk": [
+                "Досягти лідерства на ринку.",
+                "Втрата лідерства на ринку.",
+                "Стратегія завоювання ринку."
+            ]
+        },
+        {
+            "wordDe": "Innovation",
+            "wordUk": "Інновація",
+            "phrasesDe": [
+                "Bereit für Innovation.",
+                "Technische Innovationen.",
+                "Förderung von Innovation."
+            ],
+            "phrasesUk": [
+                "Готовність до інновацій.",
+                "Технічні інновації.",
+                "Сприяння інноваціям."
+            ]
+        },
+        {
+            "wordDe": "Produktivität",
+            "wordUk": "Продуктивність",
+            "phrasesDe": [
+                "Die Produktivität steigern.",
+                "Messung der Produktivität.",
+                "Höchste Produktivität."
+            ],
+            "phrasesUk": [
+                "Підвищувати продуктивність.",
+                "Вимірювання продуктивності.",
+                "Найвища продуктивність."
+            ]
+        },
+        {
+            "wordDe": "Effizienz",
+            "wordUk": "Ефективність",
+            "phrasesDe": [
+                "Mehr Effizienz bei der Arbeit.",
+                "Effizienz verbessern.",
+                "Effiziente Prozesse."
+            ],
+            "phrasesUk": [
+                "Більша ефективність у роботі.",
+                "Покращити ефективність.",
+                "Ефективні процеси."
+            ]
+        },
+        {
+            "wordDe": "Deadline",
+            "wordUk": "Крайній термін (Дедлайн)",
+            "phrasesDe": [
+                "Die Deadline einhalten.",
+                "Eine knappe Deadline.",
+                "Die Deadline verschieben."
+            ],
+            "phrasesUk": [
+                "Вкластися в дедлайн.",
+                "Стислий дедлайн.",
+                "Перенести крайній термін."
+            ]
+        },
+        {
+            "wordDe": "Projektmanagement",
+            "wordUk": "Управління проєктами",
+            "phrasesDe": [
+                "Erfolgreiches Projektmanagement.",
+                "Tools für Projektmanagement.",
+                "Projektmanagement studieren."
+            ],
+            "phrasesUk": [
+                "Успішне управління проєктами.",
+                "Інструменти для управління проєктами.",
+                "Вивчати проєктний менеджмент."
+            ]
+        },
+        {
+            "wordDe": "Meeting",
+            "wordUk": "Зустріч / Нарада",
+            "phrasesDe": [
+                "Ein wichtiges Meeting.",
+                "Kaffee beim Meeting.",
+                "Das Meeting absagen."
+            ],
+            "phrasesUk": [
+                "Важлива нарада.",
+                "Кава під час зустрічі.",
+                "Скасувати зустріч."
+            ]
+        },
+        {
+            "wordDe": "Konferenz",
+            "wordUk": "Конференція",
+            "phrasesDe": [
+                "An einer Konferenz teilnehmen.",
+                "Inernationale Konferenz.",
+                "Videokonferenz starten."
+            ],
+            "phrasesUk": [
+                "Брати участь у конференції.",
+                "Міжнародна конференція.",
+                "Запустити відеоконференцію."
+            ]
+        },
+        {
+            "wordDe": "Präsentation",
+            "wordUk": "Презентація",
+            "phrasesDe": [
+                "Eine Präsentation halten.",
+                "Gute Präsentation.",
+                "Präsentation vorbereiten."
+            ],
+            "phrasesUk": [
+                "Проводити презентацію.",
+                "Гарна презентація.",
+                "Підготувати презентацію."
+            ]
+        },
+        {
+            "wordDe": "Akquise",
+            "wordUk": "Залучення (клієнтів/замовлень)",
+            "phrasesDe": [
+                "Kundenakquise.",
+                "Erfolgreiche Akquise.",
+                "Telefonakquise."
+            ],
+            "phrasesUk": [
+                "Залучення клієнтів.",
+                "Успішне залучення.",
+                "Залучення клієнтів телефоном."
+            ]
+        },
+        {
+            "wordDe": "Kundenservice",
+            "wordUk": "Сервіс для клієнтів",
+            "phrasesDe": [
+                "Exzellenter Kundenservice.",
+                "Mitarbeiter im Kundenservice.",
+                "Beschwerde beim Kundenservice."
+            ],
+            "phrasesUk": [
+                "Відмінний сервіс клієнтів.",
+                "Співробітник служби підтримки.",
+                "Скарга у відділ обслуговування."
+            ]
+        },
+        {
+            "wordDe": "Mandat",
+            "wordUk": "Мандат / Доручення",
+            "phrasesDe": [
+                "Ein neues Mandat.",
+                "Politisches Mandat.",
+                "Das Mandat zurückgeben."
+            ],
+            "phrasesUk": [
+                "Нове доручення (повноваження).",
+                "Політичний мандат.",
+                "Повернути мандат."
+            ]
+        },
+        {
+            "wordDe": "Networking",
+            "wordUk": "Нетворкінг (налагодження зв'язків)",
+            "phrasesDe": [
+                "Wichtiges Networking.",
+                "Networking-Event besuchen.",
+                "Vorteile durch Networking."
+            ],
+            "phrasesUk": [
+                "Важливий нетворкінг.",
+                "Відвідати захід для нетворкінгу.",
+                "Переваги від зв'язків."
+            ]
+        },
+        {
+            "wordDe": "Stakeholder",
+            "wordUk": "Зацікавлена сторона (Стейкхолдер)",
+            "phrasesDe": [
+                "Interessen der Stakeholder.",
+                "Treffen mit Stakeholdern.",
+                "Wichtige Stakeholder."
+            ],
+            "phrasesUk": [
+                "Інтереси стейкхолдерів.",
+                "Зустріч із зацікавленими сторонами.",
+                "Важливі стейкхолдери."
+            ]
+        },
+        {
+            "wordDe": "Zertifikat",
+            "wordUk": "Сертифікат",
+            "phrasesDe": [
+                "Ein offizielles Zertifikat.",
+                "Zertifikat erhalten.",
+                "Nachweis durch Zertifikat."
+            ],
+            "phrasesUk": [
+                "Офіційний сертифікат.",
+                "Отримати сертифікат.",
+                "Підтвердження сертифікатом."
+            ]
+        },
+        {
+            "wordDe": "Qualifikation",
+            "wordUk": "Кваліфікація",
+            "phrasesDe": [
+                "Erforderliche Qualifikation.",
+                "Qualifikationen vorweisen.",
+                "Höhere Qualifikation."
+            ],
+            "phrasesUk": [
+                "Необхідна кваліфікація.",
+                "Пред'явити кваліфікації.",
+                "Вища кваліфікація."
+            ]
+        },
+        {
+            "wordDe": "Fachkraft",
+            "wordUk": "Спеціаліст (Кваліфікований фахівець)",
+            "phrasesDe": [
+                "Mangel an Fachkräften.",
+                "Qualifizierte Fachkraft.",
+                "Ausländische Fachkräfte."
+            ],
+            "phrasesUk": [
+                "Дефіцит фахівців.",
+                "Кваліфікований спеціаліст.",
+                "Іноземні фахівці."
+            ]
+        },
+        {
+            "wordDe": "Praktikum",
+            "wordUk": "Практика / Стажування",
+            "phrasesDe": [
+                "Ein Praktikum machen.",
+                "Bezahltes Praktikum.",
+                "Praktikumszeugnis."
+            ],
+            "phrasesUk": [
+                "Проходити практику.",
+                "Оплачуване стажування.",
+                "Свідоцтво про практику."
+            ]
+        },
+        {
+            "wordDe": "Ausbildung",
+            "wordUk": "Навчання / Професійна підготовка",
+            "phrasesDe": [
+                "Eine Ausbildung beginnen.",
+                "Duale Ausbildung.",
+                "Abschluss der Ausbildung."
+            ],
+            "phrasesUk": [
+                "Почати навчання за професією.",
+                "Дуальна освіта.",
+                "Закінчення навчання."
+            ]
+        },
+        {
+            "wordDe": "Studium",
+            "wordUk": "Навчання (у ВНЗ)",
+            "phrasesDe": [
+                "Das Studium beenden.",
+                "Fach für das Studium.",
+                "Kosten des Studiums."
+            ],
+            "phrasesUk": [
+                "Закінчити навчання (ВНЗ).",
+                "Спеціальність для навчання.",
+                "Вартість навчання."
+            ]
+        },
+        {
+            "wordDe": "Promotion",
+            "wordUk": "Захист дисертації / Здобуття ступеня доктора",
+            "phrasesDe": [
+                "Erfolgreiche Promotion.",
+                "Promotion in Physik.",
+                "Thema der Promotion."
+            ],
+            "phrasesUk": [
+                "Успішний захист дисертації.",
+                "Захист у галузі фізики.",
+                "Тема дисертації."
+            ]
+        },
+        {
+            "wordDe": "Habilitation",
+            "wordUk": "Габілітація (найвищий вчений ступінь)",
+            "phrasesDe": [
+                "Arbeit an der Habilitation.",
+                "Habilitationsschrift.",
+                "Nach der Habilitation."
+            ],
+            "phrasesUk": [
+                "Робота над габілітацією.",
+                "Габілітаційна робота.",
+                "Після здобуття ступеня."
+            ]
+        },
+        {
+            "wordDe": "Wissenschaft",
+            "wordUk": "Наука",
+            "phrasesDe": [
+                "Wissenschaft und Technik.",
+                "Glaube an die Wissenschaft.",
+                "Wissenschaftliche Erkenntnis."
+            ],
+            "phrasesUk": [
+                "Наука і техніка.",
+                "Віра в науку.",
+                "Наукове пізнання."
+            ]
+        },
+        {
+            "wordDe": "Forschung",
+            "wordUk": "Дослідження",
+            "phrasesDe": [
+                "In der Forschung arbeiten.",
+                "Medizinische Forschung.",
+                "Forschungsergebnisse."
+            ],
+            "phrasesUk": [
+                "Працювати у сфері досліджень.",
+                "Медичне дослідження.",
+                "Результати досліджень."
+            ]
+        },
+        {
+            "wordDe": "Entwicklung",
+            "wordUk": "Розробка / Розвиток",
+            "phrasesDe": [
+                "Forschung und Entwicklung (F&E).",
+                "Eine neue Entwicklung.",
+                "Persönliche Entwicklung."
+            ],
+            "phrasesUk": [
+                "Дослідження та розроби (R&D).",
+                "Нова розробка.",
+                "Особистий розвиток."
+            ]
+        },
+        {
+            "wordDe": "Technologie",
+            "wordUk": "Технологія",
+            "phrasesDe": [
+                "Moderne Technologie.",
+                "Einsatz von Technologien.",
+                "Hochtechnologie."
+            ],
+            "phrasesUk": [
+                "Сучасна технологія.",
+                "Застосування технологій.",
+                "Високі технології."
+            ]
+        },
+        {
+            "wordDe": "Analytik",
+            "wordUk": "Аналітика",
+            "phrasesDe": [
+                "Daten-Analytik.",
+                "Chemische Analytik.",
+                "Fokus auf Analytik."
+            ],
+            "phrasesUk": [
+                "Аналітика даних.",
+                "Хімічний аналіз.",
+                "Фокус на аналітиці."
+            ]
+        },
+        {
+            "wordDe": "Strategie",
+            "wordUk": "Стратегія",
+            "phrasesDe": [
+                "Eine klare Strategie.",
+                "Unternehmensstrategie.",
+                "Strategie ändern."
+            ],
+            "phrasesUk": [
+                "Чітка стратегія.",
+                "Стратегія підприємства.",
+                "Змінити стратегію."
+            ]
+        },
+        {
+            "wordDe": "Umsetzung",
+            "wordUk": "Реалізація / Впровадження",
+            "phrasesDe": [
+                "Planung und Umsetzung.",
+                "Schnelle Umsetzung.",
+                "Umsetzung der Reform."
+            ],
+            "phrasesUk": [
+                "Планування та реалізація.",
+                "Швидке впровадження.",
+                "Реалізація реформи."
+            ]
+        },
+        {
+            "wordDe": "Optimierung",
+            "wordUk": "Оптимізація",
+            "phrasesDe": [
+                "Prozess-Optimierung.",
+                "Suchmaschinenoptimierung (SEO).",
+                "Möglichkeiten zur Optimierung."
+            ],
+            "phrasesUk": [
+                "Оптимізація процесів.",
+                "Пошукова оптимізація (SEO).",
+                "Можливості для оптимізації."
+            ]
+        },
+        {
+            "wordDe": "Digitalisierung",
+            "wordUk": "Цифровізація",
+            "phrasesDe": [
+                "Die Digitalisierung vorantreiben.",
+                "Vorteile der Digitalisierung.",
+                "Herausforderung Digitalisierung."
+            ],
+            "phrasesUk": [
+                "Просувати цифровізацію.",
+                "Переваги цифровізації.",
+                "Виклик цифровізації."
+            ]
+        },
+        {
+            "wordDe": "Transformation",
+            "wordUk": "Трансформація / Перетворення",
+            "phrasesDe": [
+                "Digitale Transformation.",
+                "Wirtschaftliche Transformation.",
+                "Transformation vollziehen."
+            ],
+            "phrasesUk": [
+                "Цифрова трансформація.",
+                "Економічна трансформація.",
+                "Здійснити трансформацію."
+            ]
+        }
+    ]
+}

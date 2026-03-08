@@ -1,0 +1,704 @@
+{
+    "Природа та Екологія": [
+        {
+            "wordDe": "Umwelt",
+            "wordUk": "Довкілля",
+            "phrasesDe": [
+                "Die Umwelt schützen.",
+                "Umweltverschmutzung vermeiden.",
+                "Bewusstsein für die Umwelt."
+            ],
+            "phrasesUk": [
+                "Захищати довкілля.",
+                "Уникати забруднення довкілля.",
+                "Усвідомлення важливості довкілля."
+            ]
+        },
+        {
+            "wordDe": "Nachhaltigkeit",
+            "wordUk": "Сталий розвиток / Екологічність",
+            "phrasesDe": [
+                "Fokus auf Nachhaltigkeit.",
+                "Nachhaltig leben.",
+                "Nachhaltige Energie."
+            ],
+            "phrasesUk": [
+                "Фокус на сталому розвитку.",
+                "Жити екологічно.",
+                "Екологічна енергія."
+            ]
+        },
+        {
+            "wordDe": "Klimawandel",
+            "wordUk": "Зміна клімату",
+            "phrasesDe": [
+                "Der Klimawandel ist real.",
+                "Folgen des Klimawandels.",
+                "Kampf gegen den Klimawandel."
+            ],
+            "phrasesUk": [
+                "Зміна клімату — це реальність.",
+                "Наслідки зміни клімату.",
+                "Боротьба зі зміною клімату."
+            ]
+        },
+        {
+            "wordDe": "Wald",
+            "wordUk": "Ліс",
+            "phrasesDe": [
+                "Im Wald spazieren.",
+                "Der Wald ist grün.",
+                "Waldbrand verhindern."
+            ],
+            "phrasesUk": [
+                "Гуляти в лісі.",
+                "Ліс зелений.",
+                "Запобігти лісовій пожежі."
+            ]
+        },
+        {
+            "wordDe": "Baum",
+            "wordUk": "Дерево",
+            "phrasesDe": [
+                "Ein alter Baum.",
+                "Bäume pflanzen.",
+                "Blätter am Baum."
+            ],
+            "phrasesUk": [
+                "Старе дерево.",
+                "Садити дерева.",
+                "Листя на дереві."
+            ]
+        },
+        {
+            "wordDe": "Pflanze",
+            "wordUk": "Рослина",
+            "phrasesDe": [
+                "Die Pflanze gießen.",
+                "Seltene Pflanzen.",
+                "Zimmerpflanzen kaufen."
+            ],
+            "phrasesUk": [
+                "Поливати рослину.",
+                "Рідкісні рослини.",
+                "Купувати кімнатні рослини."
+            ]
+        },
+        {
+            "wordDe": "Tier",
+            "wordUk": "Тварина",
+            "phrasesDe": [
+                "Wilde Tiere.",
+                "Haustiere halten.",
+                "Tiere füttern."
+            ],
+            "phrasesUk": [
+                "Дикі тварини.",
+                "Тримати домашніх тварин.",
+                "Годувати тварин."
+            ]
+        },
+        {
+            "wordDe": "Artenschutz",
+            "wordUk": "Захист видів",
+            "phrasesDe": [
+                "Wichtig für den Artenschutz.",
+                "Bedrohte Arten.",
+                "Programm zum Artenschutz."
+            ],
+            "phrasesUk": [
+                "Важливо для захисту видів.",
+                "Види під загрозою.",
+                "Програма з захисту видів."
+            ]
+        },
+        {
+            "wordDe": "Ozean",
+            "wordUk": "Океан",
+            "phrasesDe": [
+                "Der tiefe Ozean.",
+                "Plastik im Ozean.",
+                "Ozeane erforschen."
+            ],
+            "phrasesUk": [
+                "Глибокий океан.",
+                "Пластик в океані.",
+                "Досліджувати океани."
+            ]
+        },
+        {
+            "wordDe": "Fluss",
+            "wordUk": "Річка",
+            "phrasesDe": [
+                "Ein breiter Fluss.",
+                "Am Fluss sitzen.",
+                "Der Fluss fließt."
+            ],
+            "phrasesUk": [
+                "Широка річка.",
+                "Сидіти біля річки.",
+                "Річка тече."
+            ]
+        },
+        {
+            "wordDe": "Berg",
+            "wordUk": "Гора",
+            "phrasesDe": [
+                "In die Berge gehen.",
+                "Der Berg ist hoch.",
+                "Bergsteigen macht Spaß."
+            ],
+            "phrasesUk": [
+                "Йти в гори.",
+                "Гора висока.",
+                "Альпінізм — це весело."
+            ]
+        },
+        {
+            "wordDe": "Wüste",
+            "wordUk": "Пустеля",
+            "phrasesDe": [
+                "In der Wüste ist es heiß.",
+                "Trockene Wüste.",
+                "Wüstensand."
+            ],
+            "phrasesUk": [
+                "У пустелі спекотно.",
+                "Суха пустеля.",
+                "Пустельний пісок."
+            ]
+        },
+        {
+            "wordDe": "Sonne",
+            "wordUk": "Сонце",
+            "phrasesDe": [
+                "Die Sonne scheint.",
+                "Sonnenenergie nutzen.",
+                "Sonnenuntergang sehen."
+            ],
+            "phrasesUk": [
+                "Сонце світить.",
+                "Використовувати сонячну енергію.",
+                "Бачити захід сонця."
+            ]
+        },
+        {
+            "wordDe": "Regen",
+            "wordUk": "Дощ",
+            "phrasesDe": [
+                "Es regnet heute.",
+                "Regenwald schützen.",
+                "Viel Regen."
+            ],
+            "phrasesUk": [
+                "Сьогодні йде дощ.",
+                "Захищати тропічний ліс.",
+                "Багато дощу."
+            ]
+        },
+        {
+            "wordDe": "Wind",
+            "wordUk": "Вітер",
+            "phrasesDe": [
+                "Starker Wind.",
+                "Windenergie gewinnen.",
+                "Der Wind weht."
+            ],
+            "phrasesUk": [
+                "Сильний вітер.",
+                "Отримувати вітрову енергію.",
+                "Вітер дме."
+            ]
+        },
+        {
+            "wordDe": "Eis",
+            "wordUk": "Лід",
+            "phrasesDe": [
+                "Schmelzendes Eis.",
+                "Eis an den Polen.",
+                "Das Eis bricht."
+            ],
+            "phrasesUk": [
+                "Лід, що тане.",
+                "Лід на полюсах.",
+                "Лід ламається."
+            ]
+        },
+        {
+            "wordDe": "Schnee",
+            "wordUk": "Сніг",
+            "phrasesDe": [
+                "Weißer Schnee.",
+                "Es schneit im Winter.",
+                "Schneemann bauen."
+            ],
+            "phrasesUk": [
+                "Білий сніг.",
+                "Взимку йде сніг.",
+                "Ліпити сніговика."
+            ]
+        },
+        {
+            "wordDe": "Luft",
+            "wordUk": "Повітря",
+            "phrasesDe": [
+                "Frische Luft.",
+                "Luftverschmutzung messen.",
+                "Atmen Sie die Luft."
+            ],
+            "phrasesUk": [
+                "Свіже повітря.",
+                "Вимірювати забруднення повітря.",
+                "Дихайте повітрям."
+            ]
+        },
+        {
+            "wordDe": "Erde",
+            "wordUk": "Земля",
+            "phrasesDe": [
+                "Die Erde retten.",
+                "Gute Erde im Garten.",
+                "Rund um die Erde."
+            ],
+            "phrasesUk": [
+                "Врятувати Землю.",
+                "Гарна земля в саду.",
+                "Навколо Землі."
+            ]
+        },
+        {
+            "wordDe": "Himmel",
+            "wordUk": "Небо",
+            "phrasesDe": [
+                "Blauer Himmel.",
+                "Sterne am Himmel.",
+                "Wolken am Himmel."
+            ],
+            "phrasesUk": [
+                "Блакитне небо.",
+                "Зірки на небі.",
+                "Хмари на небі."
+            ]
+        },
+        {
+            "wordDe": "Insel",
+            "wordUk": "Острів",
+            "phrasesDe": [
+                "Auf einer Insel leben.",
+                "Einsame Insel.",
+                "Urlaub auf der Insel."
+            ],
+            "phrasesUk": [
+                "Жити на острові.",
+                "Безлюдний острів.",
+                "Відпустка на острові."
+            ]
+        },
+        {
+            "wordDe": "Strand",
+            "wordUk": "Пляж",
+            "phrasesDe": [
+                "Am Strand liegen.",
+                "Schöner Sandstrand.",
+                "Zum Strand gehen."
+            ],
+            "phrasesUk": [
+                "Лежати на пляжі.",
+                "Гарний піщаний пляж.",
+                "Йти на пляж."
+            ]
+        },
+        {
+            "wordDe": "Vogel",
+            "wordUk": "Птах",
+            "phrasesDe": [
+                "Vögel singen.",
+                "Fliegender Vogel.",
+                "Seltene Vögel."
+            ],
+            "phrasesUk": [
+                "Птахи співають.",
+                "Птах, що летить.",
+                "Рідкісні птахи."
+            ]
+        },
+        {
+            "wordDe": "Fisch",
+            "wordUk": "Риба",
+            "phrasesDe": [
+                "Fische schwimmen.",
+                "Frischer Fisch.",
+                "Fische im Aquarium."
+            ],
+            "phrasesUk": [
+                "Риби плавають.",
+                "Свіжа риба.",
+                "Риби в акваріумі."
+            ]
+        },
+        {
+            "wordDe": "Insekt",
+            "wordUk": "Комаха",
+            "phrasesDe": [
+                "Nützliche Insekten.",
+                "Bienen sind Insekten.",
+                "Insekten beobachten."
+            ],
+            "phrasesUk": [
+                "Корисні комахи.",
+                "Бджоли — це комахи.",
+                "Спостерігати за комахами."
+            ]
+        },
+        {
+            "wordDe": "Biene",
+            "wordUk": "Бджола",
+            "phrasesDe": [
+                "Bienen machen Honig.",
+                "Bienensterben verhindern.",
+                "Die Biene summt."
+            ],
+            "phrasesUk": [
+                "Бджоли роблять мед.",
+                "Запобігти загибелі бджіл.",
+                "Бджола дзижчить."
+            ]
+        },
+        {
+            "wordDe": "Welle",
+            "wordUk": "Хвиля",
+            "phrasesDe": [
+                "Hohe Wellen.",
+                "Auf den Wellen reiten.",
+                "Hitzewelle im Sommer."
+            ],
+            "phrasesUk": [
+                "Високі хвилі.",
+                "Кататися на хвилях.",
+                "Хвиля спеки влітку."
+            ]
+        },
+        {
+            "wordDe": "Blume",
+            "wordUk": "Квітка",
+            "phrasesDe": [
+                "Blumen pflücken.",
+                "Schöne Blumen.",
+                "Der Garten voller Blumen."
+            ],
+            "phrasesUk": [
+                "Зривати квіти.",
+                "Гарні квіти.",
+                "Сад, повний квітів."
+            ]
+        },
+        {
+            "wordDe": "Garten",
+            "wordUk": "Сад",
+            "phrasesDe": [
+                "Im Garten arbeiten.",
+                "Ein großer Garten.",
+                "Gemüse im Garten."
+            ],
+            "phrasesUk": [
+                "Працювати в саду.",
+                "Великий сад.",
+                "Овочі в саду."
+            ]
+        },
+        {
+            "wordDe": "Weg",
+            "wordUk": "Шлях / Дорога",
+            "phrasesDe": [
+                "Ein schmaler Weg.",
+                "Den Weg finden.",
+                "Auf dem richtigen Weg."
+            ],
+            "phrasesUk": [
+                "Вузький шлях.",
+                "Знайти дорогу.",
+                "На вірному шляху."
+            ]
+        },
+        {
+            "wordDe": "Natur",
+            "wordUk": "Природа",
+            "phrasesDe": [
+                "Die Natur genießen.",
+                "In der freien Natur.",
+                "Naturwunder sehen."
+            ],
+            "phrasesUk": [
+                "Насолоджуватися природою.",
+                "На лоні природи.",
+                "Бачити дива природи."
+            ]
+        },
+        {
+            "wordDe": "Landschaft",
+            "wordUk": "Ландшафт / Краєвид",
+            "phrasesDe": [
+                "Wunderschöne Landschaft.",
+                "Die Landschaft malen.",
+                "Vielfältige Landschaft."
+            ],
+            "phrasesUk": [
+                "Чудовий ландшафт.",
+                "Малювати краєвид.",
+                "Різноманітний ландшафт."
+            ]
+        },
+        {
+            "wordDe": "Ressource",
+            "wordUk": "Ресурс",
+            "phrasesDe": [
+                "Natürliche Ressourcen.",
+                "Ressourcen schonen.",
+                "Begrenzte Ressourcen."
+            ],
+            "phrasesUk": [
+                "Природні ресурси.",
+                "Берегти ресурси.",
+                "Обмежені ресурси."
+            ]
+        },
+        {
+            "wordDe": "Energie",
+            "wordUk": "Енергія",
+            "phrasesDe": [
+                "Saubere Energie.",
+                "Energie sparen.",
+                "Erneuerbare Energien."
+            ],
+            "phrasesUk": [
+                "Чиста енергія.",
+                "Заощаджувати енергію.",
+                "Відновлювані джерела енергії."
+            ]
+        },
+        {
+            "wordDe": "Recycling",
+            "wordUk": "Переробка",
+            "phrasesDe": [
+                "Papier zum Recycling.",
+                "Recycling ist wichtig.",
+                "Abfall für Recycling."
+            ],
+            "phrasesUk": [
+                "Папір на переробку.",
+                "Переробка — це важливо.",
+                "Відходи для переробки."
+            ]
+        },
+        {
+            "wordDe": "Müll",
+            "wordUk": "Сміття",
+            "phrasesDe": [
+                "Müll trennen.",
+                "Keinen Müll werfen.",
+                "Viel Müll produzieren."
+            ],
+            "phrasesUk": [
+                "Сортувати сміття.",
+                "Не кидати сміття.",
+                "Виробляти багато сміття."
+            ]
+        },
+        {
+            "wordDe": "Schutz",
+            "wordUk": "Захист",
+            "phrasesDe": [
+                "Umweltschutz.",
+                "Platz zum Schutz.",
+                "Unter Schutz stehen."
+            ],
+            "phrasesUk": [
+                "Захист довкілля.",
+                "Місце для захисту.",
+                "Перебувати під захистом."
+            ]
+        },
+        {
+            "wordDe": "Gefahr",
+            "wordUk": "Небезпека",
+            "phrasesDe": [
+                "Gefahr für die Tiere.",
+                "In Gefahr sein.",
+                "Warnung vor Gefahr."
+            ],
+            "phrasesUk": [
+                "Небезпека для тварин.",
+                "Бути в небезпеці.",
+                "Попередження про небезпеку."
+            ]
+        },
+        {
+            "wordDe": "Dürre",
+            "wordUk": "Посуха",
+            "phrasesDe": [
+                "Eine lange Dürre.",
+                "Folgen der Dürre.",
+                "Kampf gegen Dürre."
+            ],
+            "phrasesUk": [
+                "Тривала посуха.",
+                "Наслідки посухи.",
+                "Боротьба з посухою."
+            ]
+        },
+        {
+            "wordDe": "Überschwemmung",
+            "wordUk": "Повінь",
+            "phrasesDe": [
+                "Gefahr von Überschwemmung.",
+                "Nach der Überschwemmung.",
+                "Schutz vor Überschwemmung."
+            ],
+            "phrasesUk": [
+                "Загроза повені.",
+                "Після повені.",
+                "Захист від повені."
+            ]
+        },
+        {
+            "wordDe": "Sturm",
+            "wordUk": "Шторм / Буря",
+            "phrasesDe": [
+                "Ein heftiger Sturm.",
+                "Nach dem Sturm.",
+                "Sturmwarnung geben."
+            ],
+            "phrasesUk": [
+                "Сильна буря.",
+                "Після шторму.",
+                "Оголосити штормове попередження."
+            ]
+        },
+        {
+            "wordDe": "Blitz",
+            "wordUk": "Блискавка",
+            "phrasesDe": [
+                "Blitz und Donner.",
+                "Vom Blitz getroffen.",
+                "Heller Blitz."
+            ],
+            "phrasesUk": [
+                "Блискавка і грім.",
+                "Уражений блискавкою.",
+                "Яскрава блискавка."
+            ]
+        },
+        {
+            "wordDe": "Donner",
+            "wordUk": "Грім",
+            "phrasesDe": [
+                "Lauter Donner.",
+                "Donner hören.",
+                "Nach dem Blitz kommt Donner."
+            ],
+            "phrasesUk": [
+                "Гучний грім.",
+                "Чути грім.",
+                "Після блискавки йде грім."
+            ]
+        },
+        {
+            "wordDe": "Vulkan",
+            "wordUk": "Вулкан",
+            "phrasesDe": [
+                "Ein aktiver Vulkan.",
+                "Vulkanausbruch.",
+                "Asche vom Vulkan."
+            ],
+            "phrasesUk": [
+                "Активний вулкан.",
+                "Виверження вулкана.",
+                "Попіл від вулкана."
+            ]
+        },
+        {
+            "wordDe": "Erdbeben",
+            "wordUk": "Землетрус",
+            "phrasesDe": [
+                "Schweres Erdbeben.",
+                "Angst vor Erdbeben.",
+                "Erdbebengebiete."
+            ],
+            "phrasesUk": [
+                "Сильний землетрус.",
+                "Страх перед землетрусом.",
+                "Зони землетрусів."
+            ]
+        },
+        {
+            "wordDe": "Atmosphäre",
+            "wordUk": "Атмосфера",
+            "phrasesDe": [
+                "Schutzschicht der Atmosphäre.",
+                "Die Erdatmosphäre.",
+                "Gase in der Atmosphäre."
+            ],
+            "phrasesUk": [
+                "Захисний шар атмосфери.",
+                "Земна атмосфера.",
+                "Гази в атмосфері."
+            ]
+        },
+        {
+            "wordDe": "Sauerstoff",
+            "wordUk": "Кисень",
+            "phrasesDe": [
+                "Bäume geben Sauerstoff.",
+                "Sauerstoff zum Atmen.",
+                "Sauerstoffgehalt messen."
+            ],
+            "phrasesUk": [
+                "Дерева дають кисень.",
+                "Кисень для дихання.",
+                "Вимірювати вміст кисню."
+            ]
+        },
+        {
+            "wordDe": "Trinkwasser",
+            "wordUk": "Питна вода",
+            "phrasesDe": [
+                "Sauberes Trinkwasser.",
+                "Trinkwasser sparen.",
+                "Mangel an Trinkwasser."
+            ],
+            "phrasesUk": [
+                "Чиста питна вода.",
+                "Заощаджувати питну воду.",
+                "Нестача питної води."
+            ]
+        },
+        {
+            "wordDe": "Ökosystem",
+            "wordUk": "Екосистема",
+            "phrasesDe": [
+                "Gleichgewicht im Ökosystem.",
+                "Das marine Ökosystem.",
+                "Ökosysteme zerstören."
+            ],
+            "phrasesUk": [
+                "Рівновага в екосистемі.",
+                "Морська екосистема.",
+                "Руйнувати екосистеми."
+            ]
+        },
+        {
+            "wordDe": "Schutzgebiet",
+            "wordUk": "Заповідник",
+            "phrasesDe": [
+                "Ein staatliches Schutzgebiet.",
+                "Tiere im Schutzgebiet.",
+                "Natur im Schutzgebiet."
+            ],
+            "phrasesUk": [
+                "Державний заповідник.",
+                "Тварини в заповіднику.",
+                "Природа в заповіднику."
+            ]
+        }
+    ]
+}

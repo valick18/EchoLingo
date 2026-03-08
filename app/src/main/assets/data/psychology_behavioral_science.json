@@ -1,0 +1,704 @@
+{
+    "Психологія та Поведінкові Науки": [
+        {
+            "wordDe": "Unterbewusstsein",
+            "wordUk": "Підсвідомість",
+            "phrasesDe": [
+                "Macht des Unterbewusstseins.",
+                "Einfluss des Unterbewusstseins.",
+                "Zugang zum Unterbewusstsein."
+            ],
+            "phrasesUk": [
+                "Сила підсвідомості.",
+                "Вплив підсвідомості.",
+                "Доступ до підсвідомого."
+            ]
+        },
+        {
+            "wordDe": "Verhaltenstherapie",
+            "wordUk": "Поведінкова терапія / Біхевіоральна терапія",
+            "phrasesDe": [
+                "Kognitive Verhaltenstherapie.",
+                "Erfolg der Verhaltenstherapie.",
+                "Methoden der Verhaltenstherapie."
+            ],
+            "phrasesUk": [
+                "Когнітивно-поведінкова терапія.",
+                "Успіх поведінкової терапії.",
+                "Методи біхевіоральної терапії."
+            ]
+        },
+        {
+            "wordDe": "Konditionierung",
+            "wordUk": "Обумовлення / Кондиціонування (Класичне/Оперантне)",
+            "phrasesDe": [
+                "Klassische Konditionierung.",
+                "Operante Konditionierung.",
+                "Prozess der Konditionierung."
+            ],
+            "phrasesUk": [
+                "Класичне обумовлення.",
+                "Оперантне обумовлення.",
+                "Процес кондиціонування."
+            ]
+        },
+        {
+            "wordDe": "Resilienz",
+            "wordUk": "Резильєнтність / Психологічна стійкість",
+            "phrasesDe": [
+                "Stärkung der Resilienz.",
+                "Bedeutung der Resilienz.",
+                "Faktoren für Resilienz."
+            ],
+            "phrasesUk": [
+                "Зміцнення психологічної стійкості.",
+                "Значення резильєнтності.",
+                "Фактори стійкості."
+            ]
+        },
+        {
+            "wordDe": "Trauma",
+            "wordUk": "Травма (психологічна)",
+            "phrasesDe": [
+                "Bewältigung eines Traumas.",
+                "Folgen des Traumas.",
+                "Heilung vom Trauma."
+            ],
+            "phrasesUk": [
+                "Подолання травми.",
+                "Наслідки травми.",
+                "Зцілення від травми."
+            ]
+        },
+        {
+            "wordDe": "Depression",
+            "wordUk": "Депресія",
+            "phrasesDe": [
+                "Anzeichen einer Depression.",
+                "Behandlung der Depression.",
+                "Umgang mit Depression."
+            ],
+            "phrasesUk": [
+                "Ознаки депресії.",
+                "Лікування депресії.",
+                "Поводження при депресії."
+            ]
+        },
+        {
+            "wordDe": "Angststörung",
+            "wordUk": "Тривожний розлад",
+            "phrasesDe": [
+                "Symptome einer Angststörung.",
+                "Hilfe bei Angststörungen.",
+                "Formen der Angststörung."
+            ],
+            "phrasesUk": [
+                "Симптоми тривожного розладу.",
+                "Допомога при тривожних розладах.",
+                "Форми тривожного розладу."
+            ]
+        },
+        {
+            "wordDe": "Narzissmus",
+            "wordUk": "Нарцисизм",
+            "phrasesDe": [
+                "Merkmale von Narzissmus.",
+                "Umgang mit Narzissmus.",
+                "Kritik am Narzissmus."
+            ],
+            "phrasesUk": [
+                "Ознаки нарцисизму.",
+                "Поводження з нарцисизмом.",
+                "Критика нарцисизму."
+            ]
+        },
+        {
+            "wordDe": "Empathie",
+            "wordUk": "Емпатія / Співпереживання",
+            "phrasesDe": [
+                "Mangel an Empathie.",
+                "Bedeutung der Empathie.",
+                "Förderung der Empathie."
+            ],
+            "phrasesUk": [
+                "Брак емпатії.",
+                "Значення емпатії.",
+                "Стимулювання співпереживання."
+            ]
+        },
+        {
+            "wordDe": "Introversion",
+            "wordUk": "Інтроверсія",
+            "phrasesDe": [
+                "Stärken der Introversion.",
+                "Merkmale der Introversion.",
+                "Herausforderungen der Introversion."
+            ],
+            "phrasesUk": [
+                "Сильні сторони інтроверсії.",
+                "Ознаки інтроверсії.",
+                "Виклики інтроверсії."
+            ]
+        },
+        {
+            "wordDe": "Extraversion",
+            "wordUk": "Екстраверсія",
+            "phrasesDe": [
+                "Vorteile der Extraversion.",
+                "Merkmale der Extraversion.",
+                "Gegenteil von Introversion."
+            ],
+            "phrasesUk": [
+                "Переваги екстраверсії.",
+                "Ознаки екстраверсії.",
+                "Протилежність інтроверсії."
+            ]
+        },
+        {
+            "wordDe": "Kognition",
+            "wordUk": "Когніція / Пізнання",
+            "phrasesDe": [
+                "Prozesse der Kognition.",
+                "Einfluss auf die Kognition.",
+                "Bereich der Kognition."
+            ],
+            "phrasesUk": [
+                "Процеси пізнання.",
+                "Вплив на когнітивні функції.",
+                "Сфера когніції."
+            ]
+        },
+        {
+            "wordDe": "Wahrnehmung",
+            "wordUk": "Сприйняття (Варнемунг)",
+            "phrasesDe": [
+                "Subjektive Wahrnehmung.",
+                "Störung der Wahrnehmung.",
+                "Sinne und Wahrnehmung."
+            ],
+            "phrasesUk": [
+                "Суб'єктивне сприйняття.",
+                "Порушення сприйняття.",
+                "Чуття та сприйняття."
+            ]
+        },
+        {
+            "wordDe": "Gedächtnis",
+            "wordUk": "Пам'ять",
+            "phrasesDe": [
+                "Kurzzeit- und Langzeitgedächtnis.",
+                "Verlust des Gedächtnisses.",
+                "Training des Gedächtnisses."
+            ],
+            "phrasesUk": [
+                "Короткострокова та довгострокова пам'ять.",
+                "Втрата пам'яті.",
+                "Тренування пам'яті."
+            ]
+        },
+        {
+            "wordDe": "Intelligenzquotient (IQ)",
+            "wordUk": "Коефіцієнт інтелекту (IQ)",
+            "phrasesDe": [
+                "Messung des Intelligenzquotienten.",
+                "Durchschnittlicher Intelligenzquotient.",
+                "Bedeutung des IQ."
+            ],
+            "phrasesUk": [
+                "Вимірювання IQ.",
+                "Середній коефіцієнт інтелекту.",
+                "Значення IQ."
+            ]
+        },
+        {
+            "wordDe": "Motivation",
+            "wordUk": "Мотивація",
+            "phrasesDe": [
+                "Innere Motivation.",
+                "Mangel an Motivation.",
+                "Steigerung der Motivation."
+            ],
+            "phrasesUk": [
+                "Внутрішня мотивація.",
+                "Брак мотивації.",
+                "Підвищення мотивації."
+            ]
+        },
+        {
+            "wordDe": "Selbstwertgefühl",
+            "wordUk": "Самооцінка / Почуття власної гідності",
+            "phrasesDe": [
+                "Stärkung des Selbstwertgefühls.",
+                "Geringes Selbstwertgefühl.",
+                "Aufbau von Selbstwertgefühl."
+            ],
+            "phrasesUk": [
+                "Зміцнення самооцінки.",
+                "Низька самооцінка.",
+                "Формування почуття власної гідності."
+            ]
+        },
+        {
+            "wordDe": "Sozialpsychologie",
+            "wordUk": "Соціальна психологія",
+            "phrasesDe": [
+                "Themen der Sozialpsychologie.",
+                "Experimente in der Sozialpsychologie.",
+                "Ergebnisse der Sozialpsychologie."
+            ],
+            "phrasesUk": [
+                "Теми соціальної психології.",
+                "Експерименти в соцпсихології.",
+                "Результати соціальної психології."
+            ]
+        },
+        {
+            "wordDe": "Gruppendynamik",
+            "wordUk": "Групова динаміка",
+            "phrasesDe": [
+                "Prozesse der Gruppendynamik.",
+                "Einfluss der Gruppendynamik.",
+                "Steuerung der Gruppendynamik."
+            ],
+            "phrasesUk": [
+                "Процеси групової динаміки.",
+                "Вплив групової динаміки.",
+                "Керування груповою динамікою."
+            ]
+        },
+        {
+            "wordDe": "Konformität",
+            "wordUk": "Конформізм / Конформність",
+            "phrasesDe": [
+                "Druck zur Konformität.",
+                "Gefahr der Konformität.",
+                "Experiment zur Konformität."
+            ],
+            "phrasesUk": [
+                "Тиск конформізму.",
+                "Небезпека конформності.",
+                "Експеримент на конформність."
+            ]
+        },
+        {
+            "wordDe": "Vorurteil",
+            "wordUk": "Упередження",
+            "phrasesDe": [
+                "Abbau von Vorurteilen.",
+                "Entstehung von Vorurteilen.",
+                "Opfer von Vorurteilen."
+            ],
+            "phrasesUk": [
+                "Подолання упереджень.",
+                "Виникнення упереджень.",
+                "Жертва упереджень."
+            ]
+        },
+        {
+            "wordDe": "Stereotyp",
+            "wordUk": "Стереотип",
+            "phrasesDe": [
+                "Gängige Stereotype.",
+                "Bruch mit Stereotypen.",
+                "Gefahr durch Stereotype."
+            ],
+            "phrasesUk": [
+                "Поширені стереотипи.",
+                "Відмова від стереотипів.",
+                "Небезпека через стереотипи."
+            ]
+        },
+        {
+            "wordDe": "Projektion",
+            "wordUk": "Проєкція (психологічний захист)",
+            "phrasesDe": [
+                "Mechanismus der Projektion.",
+                "Erkennen von Projektion.",
+                "Umgang mit Projektion."
+            ],
+            "phrasesUk": [
+                "Механізм проєкції.",
+                "Розпізнавання проєкції.",
+                "Поводження з проєкцією."
+            ]
+        },
+        {
+            "wordDe": "Verdrängung",
+            "wordUk": "Витіснення (у підсвідомість)",
+            "phrasesDe": [
+                "Prozess der Verdrängung.",
+                "Folgen der Verdrängung.",
+                "Aufhebung der Verdrängung."
+            ],
+            "phrasesUk": [
+                "Процес витіснення.",
+                "Наслідки витіснення.",
+                "Усунення витіснення (усвідомлення)."
+            ]
+        },
+        {
+            "wordDe": "Abwehrmechanismus",
+            "wordUk": "Захисний механізм",
+            "phrasesDe": [
+                "Verschiedene Abwehrmechanismen.",
+                "Zweck des Abwehrmechanismus.",
+                "Einsatz von Abwehrmechanismen."
+            ],
+            "phrasesUk": [
+                "Різні захисні механізми.",
+                "Мета захисного механізму.",
+                "Використання механізмів захисту."
+            ]
+        },
+        {
+            "wordDe": "Burnout-Syndrom",
+            "wordUk": "Синдром вигорання (Бернаут)",
+            "phrasesDe": [
+                "Prävention von Burnout.",
+                "Anzeichen für Burnout.",
+                "Heilung von Burnout."
+            ],
+            "phrasesUk": [
+                "Профілактика вигорання.",
+                "Ознаки бернауту.",
+                "Зцілення від вигорання."
+            ]
+        },
+        {
+            "wordDe": "Achtsamkeit",
+            "wordUk": "Усвідомленість / Майндфулнес (Ахтзамкейт)",
+            "phrasesDe": [
+                "Übung der Achtsamkeit.",
+                "Vorteile der Achtsamkeit.",
+                "Prinzip der Achtsamkeit."
+            ],
+            "phrasesUk": [
+                "Практика усвідомленості.",
+                "Переваги майндфулнес.",
+                "Принцип усвідомленості."
+            ]
+        },
+        {
+            "wordDe": "Selbstreflexion",
+            "wordUk": "Саморефлексія",
+            "phrasesDe": [
+                "Fähigkeit zur Selbstreflexion.",
+                "Bedeutung der Selbstreflexion.",
+                "Übung der Selbstreflexion."
+            ],
+            "phrasesUk": [
+                "Здатність до саморефлексії.",
+                "Значення саморефлексії.",
+                "Практика самоаналізу."
+            ]
+        },
+        {
+            "wordDe": "Emotionsregulation",
+            "wordUk": "Регуляція емоцій",
+            "phrasesDe": [
+                "Strategien zur Emotionsregulation.",
+                "Schwierigkeit der Emotionsregulation.",
+                "Bedeutung der Emotionsregulation."
+            ],
+            "phrasesUk": [
+                "Стратегії регуляції емоцій.",
+                "Складність контролю емоцій.",
+                "Значення емоційної регуляції."
+            ]
+        },
+        {
+            "wordDe": "Affekt",
+            "wordUk": "Афект",
+            "phrasesDe": [
+                "Handeln im Affekt.",
+                "Störung der Affekte.",
+                "Dauer eines Affekts."
+            ],
+            "phrasesUk": [
+                "Дія в стані афекту.",
+                "Порушення афектів.",
+                "Тривалість афекту."
+            ]
+        },
+        {
+            "wordDe": "Ambivalenz",
+            "wordUk": "Амбівалентність / Подвійність почуттів",
+            "phrasesDe": [
+                "Gefühl von Ambivalenz.",
+                "Umgang mit Ambivalenz.",
+                "Ursache für Ambivalenz."
+            ],
+            "phrasesUk": [
+                "Відчуття амбівалентності.",
+                "Поводження з подвійністю почуттів.",
+                "Причина амбівалентності."
+            ]
+        },
+        {
+            "wordDe": "Dissoziation",
+            "wordUk": "Дисоціація",
+            "phrasesDe": [
+                "Symptom der Dissoziation.",
+                "Erfahrung von Dissoziation.",
+                "Behandlung von Dissoziation."
+            ],
+            "phrasesUk": [
+                "Симптом дисоціації.",
+                "Досвід дисоціації.",
+                "Лікування дисоціації."
+            ]
+        },
+        {
+            "wordDe": "Psychosomatik",
+            "wordUk": "Психосоматика",
+            "phrasesDe": [
+                "Bereich der Psychosomatik.",
+                "Erkrankung der Psychosomatik.",
+                "Verbindung in der Psychosomatik."
+            ],
+            "phrasesUk": [
+                "Галузь психосоматики.",
+                "Психосоматичне захворювання.",
+                "Зв'язок у психосоматиці."
+            ]
+        },
+        {
+            "wordDe": "Placebo-Effekt",
+            "wordUk": "Ефект плацебо",
+            "phrasesDe": [
+                "Phänomen des Placebo-Effekts.",
+                "Nutzung des Placebo-Effekts.",
+                "Bedeutung des Placebo-Effekts."
+            ],
+            "phrasesUk": [
+                "Феномен ефекту плацебо.",
+                "Використання плацебо-ефекту.",
+                "Значення ефекту плацебо."
+            ]
+        },
+        {
+            "wordDe": "Nocebo-Effekt",
+            "wordUk": "Ефект ноцебо",
+            "phrasesDe": [
+                "Gegenteil vom Placebo: Nocebo.",
+                "Gefahr des Nocebo-Effekts.",
+                "Erklärung für Nocebo."
+            ],
+            "phrasesUk": [
+                "Протилежність плацебо - ноцебо.",
+                "Небезпека ефекту ноцебо.",
+                "Пояснення ноцебо-ефекту."
+            ]
+        },
+        {
+            "wordDe": "Archetyp",
+            "wordUk": "Архетип",
+            "phrasesDe": [
+                "Jungs Theorie der Archetypen.",
+                "Bedeutung von Archetypen.",
+                "Beispiele für Archetypen."
+            ],
+            "phrasesUk": [
+                "Теорія архетипів Юнга.",
+                "Значення архетипів.",
+                "Приклади архетипів."
+            ]
+        },
+        {
+            "wordDe": "Kollektives Unbewusstes",
+            "wordUk": "Колективне несвідоме",
+            "phrasesDe": [
+                "Inhalt des kollektiven Unbewussten.",
+                "Theorie vom kollektiven Unbewussten.",
+                "Einfluss des kollektiven Unbewussten."
+            ],
+            "phrasesUk": [
+                "Зміст колективного несвідомого.",
+                "Теорія колективного несвідомого.",
+                "Вплив колективного несвідомого."
+            ]
+        },
+        {
+            "wordDe": "Selbstverwirklichung",
+            "wordUk": "Самореалізація",
+            "phrasesDe": [
+                "Streben nach Selbstverwirklichung.",
+                "Bedarf an Selbstverwirklichung.",
+                "Weg zur Selbstverwirklichung."
+            ],
+            "phrasesUk": [
+                "Прагнення до самореалізації.",
+                "Потреба в самореалізації.",
+                "Шлях до самореалізації."
+            ]
+        },
+        {
+            "wordDe": "Hierarchie der Bedürfnisse",
+            "wordUk": "Ієрархія потреб (Маслоу)",
+            "phrasesDe": [
+                "Stufen der Hierarchie.",
+                "Kritik an der Hierarchie.",
+                "Bedeutung der Hierarchie."
+            ],
+            "phrasesUk": [
+                "Ступені ієрархії.",
+                "Критика ієрархії потреб.",
+                "Значення ієрархії."
+            ]
+        },
+        {
+            "wordDe": "Interaktion",
+            "wordUk": "Взаємодія / Інтеракція",
+            "phrasesDe": [
+                "Soziale Interaktion.",
+                "Qualität der Interaktion.",
+                "Muster der Interaktion."
+            ],
+            "phrasesUk": [
+                "Соціальна взаємодія.",
+                "Якість інтеракції.",
+                "Паттерни взаємодії."
+            ]
+        },
+        {
+            "wordDe": "Nonverbale Kommunikation",
+            "wordUk": "Невербальна комунікація",
+            "phrasesDe": [
+                "Bedeutung nonverbaler Kommunikation.",
+                "Signale nonverbaler Kommunikation.",
+                "Analyse nonverbaler Kommunikation."
+            ],
+            "phrasesUk": [
+                "Значення невербального спілкування.",
+                "Сигнали невербальної комунікації.",
+                "Аналіз невербального спілкування."
+            ]
+        },
+        {
+            "wordDe": "Körperbetonung",
+            "wordUk": "Мова тіла / Акцент на тілі",
+            "phrasesDe": [
+                "Einsatz der Körperbetonung.",
+                "Verständnis von Körperbetonung.",
+                "Signale der Körperbetonung."
+            ],
+            "phrasesUk": [
+                "Використання мови тіла.",
+                "Розуміння акцентів тіла.",
+                "Сигнали мови тіла."
+            ]
+        },
+        {
+            "wordDe": "Feedback",
+            "wordUk": "Зворотний зв'язок / Фідбек",
+            "phrasesDe": [
+                "Geben von Feedback.",
+                "Erhalt von Feedback.",
+                "Regeln für Feedback."
+            ],
+            "phrasesUk": [
+                "Надання фідбеку.",
+                "Отримання зворотного зв'язку.",
+                "Правила надання фідбеку."
+            ]
+        },
+        {
+            "wordDe": "Transaktionsanalyse",
+            "wordUk": "Транзакційний аналіз",
+            "phrasesDe": [
+                "Grundlagen der Transaktionsanalyse.",
+                "Einsatz der Transaktionsanalyse.",
+                "Modelle in der Transaktionsanalyse."
+            ],
+            "phrasesUk": [
+                "Основи транзакційного аналізу.",
+                "Використання транзакційного аналізу.",
+                "Моделі в транзакційному аналізі."
+            ]
+        },
+        {
+            "wordDe": "Resonanz",
+            "wordUk": "Резонанс / Відгук",
+            "phrasesDe": [
+                "Positive Resonanz erfahren.",
+                "Mangel an Resonanz.",
+                "Gefühl von Resonanz."
+            ],
+            "phrasesUk": [
+                "Отримати позитивний відгук.",
+                "Брак резонансу.",
+                "Відчуття резонансу."
+            ]
+        },
+        {
+            "wordDe": "Dissonanz",
+            "wordUk": "Дисонанс (когнітивний)",
+            "phrasesDe": [
+                "Kognitive Dissonanz.",
+                "Abbau von Dissonanz.",
+                "Gefühl der Dissonanz."
+            ],
+            "phrasesUk": [
+                "Когнітивний дисонанс.",
+                "Усунення дисонансу.",
+                "Відчуття дисонансу."
+            ]
+        },
+        {
+            "wordDe": "Habitus",
+            "wordUk": "Габітус / Манера поведінки",
+            "phrasesDe": [
+                "Der soziale Habitus.",
+                "Prägung des Habitus.",
+                "Wandel des Habitus."
+            ],
+            "phrasesUk": [
+                "Соціальний габітус.",
+                "Формування манер поведінки.",
+                "Зміна габітусу."
+            ]
+        },
+        {
+            "wordDe": "Mentalität",
+            "wordUk": "Менталітет",
+            "phrasesDe": [
+                "Eine andere Mentalität.",
+                "Unterschiede in der Mentalität.",
+                "Prägung der Mentalität."
+            ],
+            "phrasesUk": [
+                "Інший менталітет.",
+                "Відмінності в менталітеті.",
+                "Формування менталітету."
+            ]
+        },
+        {
+            "wordDe": "Ethnozentrismus",
+            "wordUk": "Етноцентризм",
+            "phrasesDe": [
+                "Gefahr des Ethnozentrismus.",
+                "Überwindung von Ethnozentrismus.",
+                "Kritik am Ethnozentrismus."
+            ],
+            "phrasesUk": [
+                "Небезпека етноцентризму.",
+                "Подолання етноцентризму.",
+                "Критика етноцентризму."
+            ]
+        },
+        {
+            "wordDe": "Xenophobie",
+            "wordUk": "Ксенофобія",
+            "phrasesDe": [
+                "Anzeichen von Xenophobie.",
+                "Bekämpfung von Xenophobie.",
+                "Ursache für Xenophobie."
+            ],
+            "phrasesUk": [
+                "Ознаки ксенофобії.",
+                "Боротьба з ксенофобією.",
+                "Причина ксенофобії."
+            ]
+        }
+    ]
+}

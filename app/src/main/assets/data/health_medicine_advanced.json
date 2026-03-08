@@ -1,0 +1,704 @@
+{
+    "Здоров'я та Медицина (Просунутий)": [
+        {
+            "wordDe": "Vorsorgeuntersuchung",
+            "wordUk": "Профілактичний огляд (Чек-ап)",
+            "phrasesDe": [
+                "Regelmäßige Vorsorgeuntersuchung.",
+                "Termin zur Vorsorgeuntersuchung.",
+                "Wichtigkeit der Vorsorgeuntersuchung."
+            ],
+            "phrasesUk": [
+                "Регулярний профілактичний огляд.",
+                "Запис на чек-ап.",
+                "Важливість профілактичного огляду."
+            ]
+        },
+        {
+            "wordDe": "Diagnose",
+            "wordUk": "Діагноз",
+            "phrasesDe": [
+                "Eine sichere Diagnose.",
+                "Diagnose stellen.",
+                "Warten auf die Diagnose."
+            ],
+            "phrasesUk": [
+                "Надійний діагноз.",
+                "Поставити діагноз.",
+                "Чекати на діагноз."
+            ]
+        },
+        {
+            "wordDe": "Therapieplan",
+            "wordUk": "План лікування (Терапії)",
+            "phrasesDe": [
+                "Einen Therapieplan erstellen.",
+                "Inhalt des Therapieplans.",
+                "Änderung im Therapieplan."
+            ],
+            "phrasesUk": [
+                "Скласти план лікування.",
+                "Зміст плану терапії.",
+                "Зміна в плані лікування."
+            ]
+        },
+        {
+            "wordDe": "Krankschreibung",
+            "wordUk": "Листок непрацездатності (Лікарняний)",
+            "phrasesDe": [
+                "Eine Krankschreibung vom Arzt.",
+                "Dauer der Krankschreibung.",
+                "Krankschreibung einreichen."
+            ],
+            "phrasesUk": [
+                "Лікарняний від лікаря.",
+                "Тривалість лікарняного.",
+                "Подати листок непрацездатності."
+            ]
+        },
+        {
+            "wordDe": "Überweisung",
+            "wordUk": "Направлення (до спеціаліста)",
+            "phrasesDe": [
+                "Überweisung zum Facharzt.",
+                "Eine Überweisung brauchen.",
+                "Gültigkeit der Überweisung."
+            ],
+            "phrasesUk": [
+                "Направлення до профільного лікаря.",
+                "Потребувати направлення.",
+                "Термін дії направлення."
+            ]
+        },
+        {
+            "wordDe": "Facharzt",
+            "wordUk": "Профільний лікар (Спеціаліст)",
+            "phrasesDe": [
+                "Termin beim Facharzt.",
+                "Kompetenter Facharzt.",
+                "Suche nach einem Facharzt."
+            ],
+            "phrasesUk": [
+                "Запис до профільного лікаря.",
+                "Компетентний спеціаліст.",
+                "Пошук профільного лікаря."
+            ]
+        },
+        {
+            "wordDe": "Hausarzt",
+            "wordUk": "Сімейний лікар",
+            "phrasesDe": [
+                "Mein Hausarzt.",
+                "Zuerst zum Hausarzt gehen.",
+                "Praxis des Hausarztes."
+            ],
+            "phrasesUk": [
+                "Мій сімейний лікар.",
+                "Спочатку піти до сімейного лікаря.",
+                "Практика (кабінет) сімейного лікаря."
+            ]
+        },
+        {
+            "wordDe": "Medikament",
+            "wordUk": "Медикамент / Ліки",
+            "phrasesDe": [
+                "Ein wirksames Medikament.",
+                "Medikamente einnehmen.",
+                "Nebenwirkungen des Medikaments."
+            ],
+            "phrasesUk": [
+                "Дієвий медикамент.",
+                "Приймати ліки.",
+                "Побічні ефекти ліків."
+            ]
+        },
+        {
+            "wordDe": "Nebenwirkung",
+            "wordUk": "Побічний ефект",
+            "phrasesDe": [
+                "Gefährliche Nebenwirkungen.",
+                "Risiko von Nebenwirkungen.",
+                "Nebenwirkungen beachten."
+            ],
+            "phrasesUk": [
+                "Небезпечні побічні ефекти.",
+                "Ризик побічних ефектів.",
+                "Зважати на побічні ефекти."
+            ]
+        },
+        {
+            "wordDe": "Rezeptpflichtig",
+            "wordUk": "Тільки за рецептом",
+            "phrasesDe": [
+                "Das Medikament ist rezeptpflichtig.",
+                "Rezeptpflichtige Arznei.",
+                "Nur gegen Rezept."
+            ],
+            "phrasesUk": [
+                "Цей препарат відпускається за рецептом.",
+                "Ліки за рецептом.",
+                "Тільки за пред’явленням рецепта."
+            ]
+        },
+        {
+            "wordDe": "Apotheke",
+            "wordUk": "Аптека",
+            "phrasesDe": [
+                "In der Apotheke kaufen.",
+                "Notdienst der Apotheke.",
+                "Brief an die Apotheke."
+            ],
+            "phrasesUk": [
+                "Купити в аптеці.",
+                "Чергова аптека.",
+                "Лист до аптеки."
+            ]
+        },
+        {
+            "wordDe": "Impfung",
+            "wordUk": "Щеплення / Вакцинація",
+            "phrasesDe": [
+                "Eine notwendige Impfung.",
+                "Impfpass zeigen.",
+                "Impftermin vereinbaren."
+            ],
+            "phrasesUk": [
+                "Необхідне щеплення.",
+                "Показати паспорт щеплень.",
+                "Домовитися про час вакцинації."
+            ]
+        },
+        {
+            "wordDe": "Immunsystem",
+            "wordUk": "Імунна система",
+            "phrasesDe": [
+                "Das Immunsystem stärken.",
+                "Schwaches Immunsystem.",
+                "Funktion des Immunsystems."
+            ],
+            "phrasesUk": [
+                "Зміцнювати імунну систему.",
+                "Слабкий імунітет.",
+                "Функція імунної системи."
+            ]
+        },
+        {
+            "wordDe": "Infektion",
+            "wordUk": "Інфекція",
+            "phrasesDe": [
+                "Eine bakterielle Infektion.",
+                "Gefahr der Infektion.",
+                "Infektion behandeln."
+            ],
+            "phrasesUk": [
+                "Бактеріальна інфекція.",
+                "Небезпека інфекції.",
+                "Лікувати інфекцію."
+            ]
+        },
+        {
+            "wordDe": "Vorsorge",
+            "wordUk": "Профілактика / Попередження",
+            "phrasesDe": [
+                "Vorsorge ist wichtig.",
+                "Medizinische Vorsorge.",
+                "Maßnahmen zur Vorsorge."
+            ],
+            "phrasesUk": [
+                "Профілактика важлива.",
+                "Медичне попередження захворювань.",
+                "Заходи з профілактики."
+            ]
+        },
+        {
+            "wordDe": "Untersuchung",
+            "wordUk": "Обстеження / Дослідження",
+            "phrasesDe": [
+                "Gründliche Untersuchung.",
+                "Körperliche Untersuchung.",
+                "Ergebnis der Untersuchung."
+            ],
+            "phrasesUk": [
+                "Ретельне обстеження.",
+                "Фізичне обстеження.",
+                "Результат дослідження."
+            ]
+        },
+        {
+            "wordDe": "Behandlung",
+            "wordUk": "Лікування / Обробка",
+            "phrasesDe": [
+                "Ärztliche Behandlung.",
+                "Erfolgreiche Behandlung.",
+                "Hautbehandlung."
+            ],
+            "phrasesUk": [
+                "Лікарська допомога (лікування).",
+                "Успішне лікування.",
+                "Лікування (обробка) шкіри."
+            ]
+        },
+        {
+            "wordDe": "Operation",
+            "wordUk": "Операція",
+            "phrasesDe": [
+                "Eine komplizierte Operation.",
+                "Operation am Knie.",
+                "Nach der Operation."
+            ],
+            "phrasesUk": [
+                "Складна операція.",
+                "Операція на коліні.",
+                "Після операції."
+            ]
+        },
+        {
+            "wordDe": "Narkose",
+            "wordUk": "Наркоз / Анестезія",
+            "phrasesDe": [
+                "Vollnarkose.",
+                "Unter Narkose stehen.",
+                "Risiken der Narkose."
+            ],
+            "phrasesUk": [
+                "Повний наркоз.",
+                "Перебувати під наркозом.",
+                "Ризики наркозу."
+            ]
+        },
+        {
+            "wordDe": "Rehabilitation",
+            "wordUk": "Реабілітація",
+            "phrasesDe": [
+                "Weg zur Rehabilitation.",
+                "Reha-Klinik.",
+                "Dauer der Rehabilitation."
+            ],
+            "phrasesUk": [
+                "Шлях до реабілітації.",
+                "Реабілітаційна клініка.",
+                "Тривалість реабілітації."
+            ]
+        },
+        {
+            "wordDe": "Blutuntersuchung",
+            "wordUk": "Аналіз крові",
+            "phrasesDe": [
+                "Eine aktuelle Blutuntersuchung.",
+                "Ergebnisse der Blutuntersuchung.",
+                "Regelmäßige Blutuntersuchung."
+            ],
+            "phrasesUk": [
+                "Актуальний аналіз крові.",
+                "Результати аналізу крові.",
+                "Регулярний аналіз крові."
+            ]
+        },
+        {
+            "wordDe": "Röntgen",
+            "wordUk": "Рентген",
+            "phrasesDe": [
+                "Zum Röntgen gehen.",
+                "Röntgenbild betrachten.",
+                "Röntgenabteilung."
+            ],
+            "phrasesUk": [
+                "Йти на рентген.",
+                "Розглядати рентгенівський знімок.",
+                "Відділення рентгенології."
+            ]
+        },
+        {
+            "wordDe": "Ultraschall",
+            "wordUk": "УЗД (Ультразвук)",
+            "phrasesDe": [
+                "Untersuchung per Ultraschall.",
+                "Ultraschallgel.",
+                "Ultraschallgerät."
+            ],
+            "phrasesUk": [
+                "Обстеження за допомогою ультразвуку.",
+                "Гель для УЗД.",
+                "Апарат УЗД."
+            ]
+        },
+        {
+            "wordDe": "Erschöpfung",
+            "wordUk": "Винаснаження / Втома",
+            "phrasesDe": [
+                "Tiefe Erschöpfung.",
+                "Anzeichen von Erschöpfung.",
+                "Erschöpfungssyndrom."
+            ],
+            "phrasesUk": [
+                "Глибоке виснаження.",
+                "Ознаки втоми.",
+                "Синдром виснаження."
+            ]
+        },
+        {
+            "wordDe": "Burnout",
+            "wordUk": "Емоційне вигорання (Бернаут)",
+            "phrasesDe": [
+                "Gefahr von Burnout.",
+                "Burnout-Prävention.",
+                "Symptome eines Burnouts."
+            ],
+            "phrasesUk": [
+                "Загроза вигорання.",
+                "Профілактика бернауту.",
+                "Симптоми емоційного вигорання."
+            ]
+        },
+        {
+            "wordDe": "Schlafstörung",
+            "wordUk": "Порушення сну",
+            "phrasesDe": [
+                "Häufige Schlafstörungen.",
+                "Hilfe bei Schlafstörungen.",
+                "Ursachen für Schlafstörungen."
+            ],
+            "phrasesUk": [
+                "Часте безсоння (порушення сну).",
+                "Допомога при порушеннях сну.",
+                "Причини порушень сну."
+            ]
+        },
+        {
+            "wordDe": "Blutdruck",
+            "wordUk": "Артеріальний тиск",
+            "phrasesDe": [
+                "Hoher Blutdruck.",
+                "Blutdruck messen.",
+                "Blutdruck senken."
+            ],
+            "phrasesUk": [
+                "Високий тиск.",
+                "Міряти тиск.",
+                "Знижувати тиск."
+            ]
+        },
+        {
+            "wordDe": "Herz-Kreislauf-System",
+            "wordUk": "Серцево-судинна система",
+            "phrasesDe": [
+                "Schutz des Herz-Kreislauf-Systems.",
+                "Herz-Kreislauf-Erkrankung.",
+                "Stärkung des Herz-Kreislauf-Systems."
+            ],
+            "phrasesUk": [
+                "Захист серцево-судинної системи.",
+                "Серцево-судинне захворювання.",
+                "Зміцнення серцево-судинної системи."
+            ]
+        },
+        {
+            "wordDe": "Stoffwechsel",
+            "wordUk": "Обмін речовин",
+            "phrasesDe": [
+                "Den Stoffwechsel anregen.",
+                "Gesunder Stoffwechsel.",
+                "Stoffwechselstörung."
+            ],
+            "phrasesUk": [
+                "Стимулювати метаболізм.",
+                "Здоровий обмін речовин.",
+                "Порушення обміну речовин."
+            ]
+        },
+        {
+            "wordDe": "Blutzucker",
+            "wordUk": "Рівень цукру в крові",
+            "phrasesDe": [
+                "Blutzucker messen.",
+                "Hoher Blutzucker.",
+                "Blutzuckerspiegel kontrollieren."
+            ],
+            "phrasesUk": [
+                "Міряти цукор у крові.",
+                "Високий цукор.",
+                "Контролювати рівень цукру."
+            ]
+        },
+        {
+            "wordDe": "Cholesterin",
+            "wordUk": "Холестерин",
+            "phrasesDe": [
+                "Zu viel Cholesterin.",
+                "Cholesterinwerte prüfen.",
+                "Cholesterin senken."
+            ],
+            "phrasesUk": [
+                "Забагато холестерину.",
+                "Перевірити рівень холестерину.",
+                "Знижувати холестерин."
+            ]
+        },
+        {
+            "wordDe": "Entzündung",
+            "wordUk": "Запалення",
+            "phrasesDe": [
+                "Eine chronische Entzündung.",
+                "Entzündung im Körper.",
+                "Anzeichen für eine Entzündung."
+            ],
+            "phrasesUk": [
+                "Хронічне запалення.",
+                "Запалення в організмі.",
+                "Ознаки запалення."
+            ]
+        },
+        {
+            "wordDe": "Symptom",
+            "wordUk": "Симптом",
+            "phrasesDe": [
+                "Erste Symptome.",
+                "Symptome lindern.",
+                "Typische Symptome."
+            ],
+            "phrasesUk": [
+                "Перші симптоми.",
+                "Полегшити симптоми.",
+                "Типові симптоми."
+            ]
+        },
+        {
+            "wordDe": "Heilung",
+            "wordUk": "Зцілення / Лікування",
+            "phrasesDe": [
+                "Prozess der Heilung.",
+                "Hoffnung auf Heilung.",
+                "Heilungschancen."
+            ],
+            "phrasesUk": [
+                "Процес одужання.",
+                "Надія на зцілення.",
+                "Шанси на одужання."
+            ]
+        },
+        {
+            "wordDe": "Klinik",
+            "wordUk": "Клініка / Лікарня",
+            "phrasesDe": [
+                "Aufenthalt in der Klinik.",
+                "Spezialisierte Klinik.",
+                "Privatklinik."
+            ],
+            "phrasesUk": [
+                "Перебування в клініці.",
+                "Спеціалізована клініка.",
+                "Приватна клініка."
+            ]
+        },
+        {
+            "wordDe": "Stationär",
+            "wordUk": "Стаціонарний (у лікарні)",
+            "phrasesDe": [
+                "Stationäre Aufnahme.",
+                "Stationäre Behandlung.",
+                "Dauer des stationären Aufenthalts."
+            ],
+            "phrasesUk": [
+                "Стаціонарне оформлення.",
+                "Стаціонарне лікування.",
+                "Тривалість стаціонарного перебування."
+            ]
+        },
+        {
+            "wordDe": "Ambulant",
+            "wordUk": "Амбулаторний (без госпіталізації)",
+            "phrasesDe": [
+                "Ambulante Behandlung.",
+                "Ambulante Chirurgie.",
+                "Ambulanter Pflegedienst."
+            ],
+            "phrasesUk": [
+                "Амбулаторне лікування.",
+                "Амбулаторна хірургія.",
+                "Амбулаторна служба догляду."
+            ]
+        },
+        {
+            "wordDe": "Notaufnahme",
+            "wordUk": "Відділення невідкладної допомоги",
+            "phrasesDe": [
+                "In der Notaufnahme warten.",
+                "Besuch der Notaufnahme.",
+                "Arbeit in der Notaufnahme."
+            ],
+            "phrasesUk": [
+                "Чекати у приймальному відділенні (невідкладці).",
+                "Візит до невідкладної допомоги.",
+                "Робота у відділенні невідкладної допомоги."
+            ]
+        },
+        {
+            "wordDe": "Rettungsdienst",
+            "wordUk": "Служба порятунку / Швидка допомога",
+            "phrasesDe": [
+                "Den Rettungsdienst rufen.",
+                "Einsatz des Rettungsdienstes.",
+                "Sanitäter beim Rettungsdienst."
+            ],
+            "phrasesUk": [
+                "Викликати службу порятунку.",
+                "Виїзд швидкої допомоги.",
+                "Санітар у службі порятунку."
+            ]
+        },
+        {
+            "wordDe": "Krankenhaus",
+            "wordUk": "Лікарня",
+            "phrasesDe": [
+                "Im Krankenhaus sein.",
+                "Besuch im Krankenhaus.",
+                "Ausstattung des Krankenhauses."
+            ],
+            "phrasesUk": [
+                "Бути в лікарні.",
+                "Візит до лікарні.",
+                "Оснащення лікарні."
+            ]
+        },
+        {
+            "wordDe": "Pflegekraft",
+            "wordUk": "Медичний працівник (доглядальник) / Медсестра",
+            "phrasesDe": [
+                "Eine engagierte Pflegekraft.",
+                "Mangel an Pflegekräften.",
+                "Ausbildung zur Pflegekraft."
+            ],
+            "phrasesUk": [
+                "Відданий медпрацівник.",
+                "Дефіцит кадрів у догляді.",
+                "Навчання на медпрацівника (догляд)."
+            ]
+        },
+        {
+            "wordDe": "Patient",
+            "wordUk": "Пацієнт",
+            "phrasesDe": [
+                "Ein geduldiger Patient.",
+                "Patientenakten.",
+                "Rechte der Patienten."
+            ],
+            "phrasesUk": [
+                "Терплячий пацієнт.",
+                "Карти пацієнтів.",
+                "Права пацієнтів."
+            ]
+        },
+        {
+            "wordDe": "Attest",
+            "wordUk": "Довідка / Медичне свідоцтво",
+            "phrasesDe": [
+                "Ein ärztliches Attest.",
+                "Attest vorlegen.",
+                "Gültigkeit des Attests."
+            ],
+            "phrasesUk": [
+                "Медична довідка.",
+                "Пред'явити довідку.",
+                "Термін дії довідки."
+            ]
+        },
+        {
+            "wordDe": "Versicherung",
+            "wordUk": "Страхування",
+            "phrasesDe": [
+                "Krankenversicherung.",
+                "Gesetzliche Versicherung.",
+                "Private Versicherung."
+            ],
+            "phrasesUk": [
+                "Медичне страхування.",
+                "Обов'язкове страхування.",
+                "Приватне страхування."
+            ]
+        },
+        {
+            "wordDe": "Beitrag",
+            "wordUk": "Внесок (страховий)",
+            "phrasesDe": [
+                "Höhe des Beitrags.",
+                "Monatlicher Beitrag.",
+                "Arbeitgeberanteil am Beitrag."
+            ],
+            "phrasesUk": [
+                "Розмір внеску.",
+                "Щомісячний внесок.",
+                "Частка роботодавця у внеску."
+            ]
+        },
+        {
+            "wordDe": "Leistung",
+            "wordUk": "Послуга / Виплата (страхова)",
+            "phrasesDe": [
+                "Kostenübernahme der Leistung.",
+                "Umfang der Leistungen.",
+                "Leistung der Krankenkasse."
+            ],
+            "phrasesUk": [
+                "Покриття витрат на послугу.",
+                "Обсяг послуг.",
+                "Виплата від лікарняної каси."
+            ]
+        },
+        {
+            "wordDe": "Prämie",
+            "wordUk": "Премія / Страховий платіж",
+            "phrasesDe": [
+                "Zusatzprämie.",
+                "Rückerstattung der Prämie.",
+                "Höhe der Jahresprämie."
+            ],
+            "phrasesUk": [
+                "Додаткова премія.",
+                "Повернення страхового платежу.",
+                "Розмір річного платежу."
+            ]
+        },
+        {
+            "wordDe": "Zuzahlung",
+            "wordUk": "Доплата",
+            "phrasesDe": [
+                "Befreiung von der Zuzahlung.",
+                "Zuzahlung bei Medikamenten.",
+                "Genaue Zuzahlung."
+            ],
+            "phrasesUk": [
+                "Звільнення від доплати.",
+                "Доплата за ліки.",
+                "Точна сума доплати."
+            ]
+        },
+        {
+            "wordDe": "Hygiene",
+            "wordUk": "Гігієна",
+            "phrasesDe": [
+                "Strenge Hygiene.",
+                "Hygienevorschriften.",
+                "Handhygiene."
+            ],
+            "phrasesUk": [
+                "Сувора гігієна.",
+                "Правила гігієни.",
+                "Гігієна рук."
+            ]
+        },
+        {
+            "wordDe": "Desinfektion",
+            "wordUk": "Дезінфекція",
+            "phrasesDe": [
+                "Mittel zur Desinfektion.",
+                "Regelmäßige Desinfektion.",
+                "Händedesinfektion."
+            ],
+            "phrasesUk": [
+                "Засіб для дезінфекції.",
+                "Регулярна дезінфекція.",
+                "Дезінфекція рук."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "Повсякденне життя та Дім": [
+        {
+            "wordDe": "Wohnung",
+            "wordUk": "Квартира",
+            "phrasesDe": [
+                "Meine Wohnung ist gemütlich.",
+                "Ich suche eine Wohnung.",
+                "Wo ist deine Wohnung?"
+            ],
+            "phrasesUk": [
+                "Моя квартира затишна.",
+                "Я шукаю квартиру.",
+                "Де твоя квартира?"
+            ]
+        },
+        {
+            "wordDe": "Zimmer",
+            "wordUk": "Кімната",
+            "phrasesDe": [
+                "Ein großes Zimmer.",
+                "Wo ist dein Zimmer?",
+                "Das Zimmer ist hell."
+            ],
+            "phrasesUk": [
+                "Велика кімната.",
+                "Де твоя кімната?",
+                "Кімната світла."
+            ]
+        },
+        {
+            "wordDe": "Küche",
+            "wordUk": "Кухня",
+            "phrasesDe": [
+                "Ich koche in der Küche.",
+                "Die Küche ist modern.",
+                "Wo ist die Küche?"
+            ],
+            "phrasesUk": [
+                "Я готую на кухні.",
+                "Кухня сучасна.",
+                "Де кухня?"
+            ]
+        },
+        {
+            "wordDe": "Bad / Badezimmer",
+            "wordUk": "Ванна кімната",
+            "phrasesDe": [
+                "Wo ist das Bad?",
+                "Ich gehe ins Badezimmer.",
+                "Ein schönes Bad."
+            ],
+            "phrasesUk": [
+                "Де ванна?",
+                "Я йду до ванної кімнати.",
+                "Гарна ванна."
+            ]
+        },
+        {
+            "wordDe": "Bett",
+            "wordUk": "Ліжко",
+            "phrasesDe": [
+                "Das Bett ist bequem.",
+                "Ich gehe ins Bett.",
+                "Wo steht das Bett?"
+            ],
+            "phrasesUk": [
+                "Ліжко зручне.",
+                "Я йду в ліжко.",
+                "Де стоїть ліжко?"
+            ]
+        },
+        {
+            "wordDe": "Schrank",
+            "wordUk": "Шафа",
+            "phrasesDe": [
+                "Der Schrank ist voll.",
+                "Wo ist mein Schrank?",
+                "Ein neuer Schrank."
+            ],
+            "phrasesUk": [
+                "Шафа повна.",
+                "Де моя шафа?",
+                "Нова шафа."
+            ]
+        },
+        {
+            "wordDe": "Lampe",
+            "wordUk": "Лампа",
+            "phrasesDe": [
+                "Mach die Lampe an.",
+                "Die Lampe ist hell.",
+                "Wo ist die Lampe?"
+            ],
+            "phrasesUk": [
+                "Увімкни лампу.",
+                "Лампа яскрава.",
+                "Де лампа?"
+            ]
+        },
+        {
+            "wordDe": "Spiegel",
+            "wordUk": "Дзеркало",
+            "phrasesDe": [
+                "Ich schaue in den Spiegel.",
+                "Ein großer Spiegel.",
+                "Wo hängt der Spiegel?"
+            ],
+            "phrasesUk": [
+                "Я дивлюся в дзеркало.",
+                "Велике дзеркало.",
+                "Де висить дзеркало?"
+            ]
+        },
+        {
+            "wordDe": "Einkaufen",
+            "wordUk": "Покупки",
+            "phrasesDe": [
+                "Ich gehe einkaufen.",
+                "Viel einkaufen.",
+                "Wann gehst du einkaufen?"
+            ],
+            "phrasesUk": [
+                "Я йду за покупками.",
+                "Багато купувати.",
+                "Коли ти йдеш за покупками?"
+            ]
+        },
+        {
+            "wordDe": "Supermarkt",
+            "wordUk": "Супермаркет",
+            "phrasesDe": [
+                "Wo ist der Supermarkt?",
+                "Der Supermarkt ist nah.",
+                "Ich gehe zum Supermarkt."
+            ],
+            "phrasesUk": [
+                "Де супермаркет?",
+                "Супермаркет поруч.",
+                "Я йду в супермаркет."
+            ]
+        },
+        {
+            "wordDe": "Kleidung",
+            "wordUk": "Одяг",
+            "phrasesDe": [
+                "Ich kaufe Kleidung.",
+                "Schöne Kleidung.",
+                "Wo ist meine Kleidung?"
+            ],
+            "phrasesUk": [
+                "Я купую одяг.",
+                "Гарний одяг.",
+                "Де мій одяг?"
+            ]
+        },
+        {
+            "wordDe": "Hose",
+            "wordUk": "Штани",
+            "phrasesDe": [
+                "Die Hose passt gut.",
+                "Eine neue Hose.",
+                "Wo ist meine Hose?"
+            ],
+            "phrasesUk": [
+                "Штани сидять добре.",
+                "Нові штани.",
+                "Де мої штани?"
+            ]
+        },
+        {
+            "wordDe": "Hemd",
+            "wordUk": "Сорочка",
+            "phrasesDe": [
+                "Ein weißes Hemd.",
+                "Zieh das Hemd an.",
+                "Das Hemd ist sauber."
+            ],
+            "phrasesUk": [
+                "Біла сорочка.",
+                "Одягни сорочку.",
+                "Сорочка чиста."
+            ]
+        },
+        {
+            "wordDe": "Schuhe",
+            "wordUk": "Взуття",
+            "phrasesDe": [
+                "Bequeme Schuhe.",
+                "Ich brauche neue Schuhe.",
+                "Putz deine Schuhe."
+            ],
+            "phrasesUk": [
+                "Зручне взуття.",
+                "Мені потрібне нове взуття.",
+                "Почисть взуття."
+            ]
+        },
+        {
+            "wordDe": "Frühstück",
+            "wordUk": "Сніданок",
+            "phrasesDe": [
+                "Was gibt es zum Frühstück?",
+                "Ich esse Frühstück.",
+                "Frühstück ist fertig."
+            ],
+            "phrasesUk": [
+                "Що на сніданок?",
+                "Я снідаю.",
+                "Сніданок готовий."
+            ]
+        },
+        {
+            "wordDe": "Mittagessen",
+            "wordUk": "Обід",
+            "phrasesDe": [
+                "Wann ist Mittagessen?",
+                "Viel Spaß beim Mittagessen!",
+                "Leckeres Mittagessen."
+            ],
+            "phrasesUk": [
+                "Коли обід?",
+                "Смачного обіду!",
+                "Смачний обід."
+            ]
+        },
+        {
+            "wordDe": "Abendessen",
+            "wordUk": "Вечеря",
+            "phrasesDe": [
+                "Wir kochen Abendessen.",
+                "Was gibt es zum Abendessen?",
+                "Ein leichtes Abendessen."
+            ],
+            "phrasesUk": [
+                "Ми готуємо вечерю.",
+                "Що на вечерю?",
+                "Легка вечеря."
+            ]
+        },
+        {
+            "wordDe": "Putzen",
+            "wordUk": "Прибирати",
+            "phrasesDe": [
+                "Ich putze die Wohnung.",
+                "Fenster putzen.",
+                "Wann putzt du?"
+            ],
+            "phrasesUk": [
+                "Я прибираю квартиру.",
+                "Мити вікна.",
+                "Коли ти прибираєш?"
+            ]
+        },
+        {
+            "wordDe": "Waschen",
+            "wordUk": "Прати / Мити",
+            "phrasesDe": [
+                "Hände waschen.",
+                "Wäsche waschen.",
+                "Ich wasche das Auto."
+            ],
+            "phrasesUk": [
+                "Мити руки.",
+                "Прати одяг.",
+                "Я мию машину."
+            ]
+        },
+        {
+            "wordDe": "Garten",
+            "wordUk": "Сад",
+            "phrasesDe": [
+                "Im Garten spielen.",
+                "Ein schöner Garten.",
+                "Arbeiten im Garten."
+            ],
+            "phrasesUk": [
+                "Гратися в саду.",
+                "Гарний сад.",
+                "Працювати в саду."
+            ]
+        }
+    ]
+}

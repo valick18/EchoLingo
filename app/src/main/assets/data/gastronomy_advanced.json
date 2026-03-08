@@ -1,0 +1,704 @@
+{
+    "Гастрономія (Просунутий)": [
+        {
+            "wordDe": "Zutat",
+            "wordUk": "Інгредієнт / Складник",
+            "phrasesDe": [
+                "Alle Zutaten mischen.",
+                "Frische Zutaten.",
+                "Liste der Zutaten."
+            ],
+            "phrasesUk": [
+                "Змішати всі інгредієнти.",
+                "Свіжі складники.",
+                "Список інгредієнтів."
+            ]
+        },
+        {
+            "wordDe": "Rezept",
+            "wordUk": "Рецепт",
+            "phrasesDe": [
+                "Ein neues Rezept ausprobieren.",
+                "Geheimes Rezept.",
+                "Rezept für den Kuchen."
+            ],
+            "phrasesUk": [
+                "Спробувати новий рецепт.",
+                "Секретний рецепт.",
+                "Рецепт пирога."
+            ]
+        },
+        {
+            "wordDe": "Zubereitung",
+            "wordUk": "Приготування",
+            "phrasesDe": [
+                "Schnelle Zubereitung.",
+                "Zubereitungszeit.",
+                "Art der Zubereitung."
+            ],
+            "phrasesUk": [
+                "Швидке приготування.",
+                "Час приготування.",
+                "Спосіб приготування."
+            ]
+        },
+        {
+            "wordDe": "Gewürz",
+            "wordUk": "Приправа / Спеція",
+            "phrasesDe": [
+                "Scharfe Gewürze.",
+                "Gewürze aus Indien.",
+                "Mit Gewürzen verfeinern."
+            ],
+            "phrasesUk": [
+                "Гострі приправи.",
+                "Спеції з Індії.",
+                "Удосконалити спеціями."
+            ]
+        },
+        {
+            "wordDe": "Beilage",
+            "wordUk": "Гарнір / Додаток до страви",
+            "phrasesDe": [
+                "Kartoffeln als Beilage.",
+                "Passende Beilage.",
+                "Beilage wählen."
+            ],
+            "phrasesUk": [
+                "Картопля як гарнір.",
+                "Відповідна добавка.",
+                "Вибрати гарнір."
+            ]
+        },
+        {
+            "wordDe": "Vorspeise",
+            "wordUk": "Закуска / Перша страва (аперитив)",
+            "phrasesDe": [
+                "Eine leichte Vorspeise.",
+                "Vorspeisenplatte.",
+                "Vorspeise servieren."
+            ],
+            "phrasesUk": [
+                "Легка закуска.",
+                "Тарілка із закусками.",
+                "Подавати закуску."
+            ]
+        },
+        {
+            "wordDe": "Hauptgericht",
+            "wordUk": "Основна страва",
+            "phrasesDe": [
+                "Das Hauptgericht bestellen.",
+                "Deftiges Hauptgericht.",
+                "Preis für das Hauptgericht."
+            ],
+            "phrasesUk": [
+                "Замовити основну страву.",
+                "Ситна основна страва.",
+                "Ціна за основну страву."
+            ]
+        },
+        {
+            "wordDe": "Nachtisch",
+            "wordUk": "Десерт",
+            "phrasesDe": [
+                "Eis als Nachtisch.",
+                "Süßer Nachtisch.",
+                "Nachtisch genießen."
+            ],
+            "phrasesUk": [
+                "Морозиво на десерт.",
+                "Солодкий десерт.",
+                "Насолоджуватися десертом."
+            ]
+        },
+        {
+            "wordDe": "Getränkekarte",
+            "wordUk": "Карта напоїв",
+            "phrasesDe": [
+                "Blick in die Getränkekarte.",
+                "Getränkekarte studieren.",
+                "Auswahl auf der Getränkekarte."
+            ],
+            "phrasesUk": [
+                "Поглянути в карту напоїв.",
+                "Вивчати карту напоїв.",
+                "Вибір у карті напоїв."
+            ]
+        },
+        {
+            "wordDe": "Weinkarte",
+            "wordUk": "Винна карта",
+            "phrasesDe": [
+                "Umfangreiche Weinkarte.",
+                "Weinkarte im Restaurant.",
+                "Empfehlung aus der Weinkarte."
+            ],
+            "phrasesUk": [
+                "Велика винна карта.",
+                "Винна карта в ресторані.",
+                "Рекомендація з винної карти."
+            ]
+        },
+        {
+            "wordDe": "Feinschmecker",
+            "wordUk": "Гурман",
+            "phrasesDe": [
+                "Ein echter Feinschmecker.",
+                "Angebot für Feinschmecker.",
+                "Feinschmecker-Restaurant."
+            ],
+            "phrasesUk": [
+                "Справжній гурман.",
+                "Пропозиція для гурманів.",
+                "Ресторан для гурманів."
+            ]
+        },
+        {
+            "wordDe": "Geschmack",
+            "wordUk": "Смак",
+            "phrasesDe": [
+                "Ein feiner Geschmack.",
+                "Nach meinem Geschmack.",
+                "Geschmackssache."
+            ],
+            "phrasesUk": [
+                "Витончений смак.",
+                "На мій смак.",
+                "Справа смаку."
+            ]
+        },
+        {
+            "wordDe": "Aroma",
+            "wordUk": "Аромат",
+            "phrasesDe": [
+                "Intensives Aroma.",
+                "Aroma von Kaffee.",
+                "Aroma entfalten."
+            ],
+            "phrasesUk": [
+                "Інтенсивний аромат.",
+                "Аромат кави.",
+                "Розкрити аромат."
+            ]
+        },
+        {
+            "wordDe": "Konsistenz",
+            "wordUk": "Консистенція",
+            "phrasesDe": [
+                "Die richtige Konsistenz.",
+                "Cremige Konsistenz.",
+                "Konsistenz der Sauce."
+            ],
+            "phrasesUk": [
+                "Правильна консистенція.",
+                "Кремова консистенція.",
+                "Консистенція соусу."
+            ]
+        },
+        {
+            "wordDe": "Garen",
+            "wordUk": "Термічна обробка (готувати до готовності)",
+            "phrasesDe": [
+                "Schonendes Garen.",
+                "Garen im Ofen.",
+                "Dauer des Garens."
+            ],
+            "phrasesUk": [
+                "Щадне приготування.",
+                "Запікати в духовці.",
+                "Тривалість термічної обробки."
+            ]
+        },
+        {
+            "wordDe": "Dünsten",
+            "wordUk": "Тушкувати / Припускати (на парі/у власному соку)",
+            "phrasesDe": [
+                "Gemüse dünsten.",
+                "Leich gedünstet.",
+                "Vorteile beim Dünsten."
+            ],
+            "phrasesUk": [
+                "Тушкувати овочі.",
+                "Злегка припущений.",
+                "Переваги тушкування."
+            ]
+        },
+        {
+            "wordDe": "Braten",
+            "wordUk": "Смажити",
+            "phrasesDe": [
+                "Fleisch scharf braten.",
+                "In der Pfanne braten.",
+                "Braten ohne Fett."
+            ],
+            "phrasesUk": [
+                "Сильно обсмажити м'ясо.",
+                "Смажити на сковороді.",
+                "Смажити без жиру."
+            ]
+        },
+        {
+            "wordDe": "Backen",
+            "wordUk": "Пекти / Випікати",
+            "phrasesDe": [
+                "Kuchen backen.",
+                "Brot frisch backen.",
+                "Backen macht Freude."
+            ],
+            "phrasesUk": [
+                "Пекти пиріг.",
+                "Пекти свіжий хліб.",
+                "Випікання приносить радість."
+            ]
+        },
+        {
+            "wordDe": "Grillen",
+            "wordUk": "Грилювати / Смажити на грилі",
+            "phrasesDe": [
+                "Im Garten grillen.",
+                "Grillen im Sommer.",
+                "Fleisch zum Grillen."
+            ],
+            "phrasesUk": [
+                "Смажити гриль у саду.",
+                "Грилювати влітку.",
+                "М'ясо для гриля."
+            ]
+        },
+        {
+            "wordDe": "Sieden",
+            "wordUk": "Кип'ятити / Варити на повільному вогні",
+            "phrasesDe": [
+                "Wasser zum Sieden bringen.",
+                "Siedepunkt.",
+                "Geduldig sieden."
+            ],
+            "phrasesUk": [
+                "Довести воду до кипіння.",
+                "Точка кипіння.",
+                "Терпляче варити."
+            ]
+        },
+        {
+            "wordDe": "Marinade",
+            "wordUk": "Маринад",
+            "phrasesDe": [
+                "Fleisch in die Marinade legen.",
+                "Würzige Marinade.",
+                "Marinade selber machen."
+            ],
+            "phrasesUk": [
+                "Покласти м'ясо в маринад.",
+                "Пряний маринад.",
+                "Зробити маринад самостійно."
+            ]
+        },
+        {
+            "wordDe": "Vollkorn",
+            "wordUk": "Цільне зерно",
+            "phrasesDe": [
+                "Brot aus Vollkorn.",
+                "Vollkornprodukte.",
+                "Gesundes Vollkorn."
+            ],
+            "phrasesUk": [
+                "Хліб із цільного зерна.",
+                "Цільнозернові продукти.",
+                "Корисне цільне зерно."
+            ]
+        },
+        {
+            "wordDe": "Ballaststoffe",
+            "wordUk": "Клітковина (баластні речовини)",
+            "phrasesDe": [
+                "Reich an Ballaststoffen.",
+                "Wichtige Ballaststoffe.",
+                "Tägliche Ballaststoffe."
+            ],
+            "phrasesUk": [
+                "Багатий на клітковину.",
+                "Важлива клітковина.",
+                "Щоденна норма клітковини."
+            ]
+        },
+        {
+            "wordDe": "Kohlenhydrate",
+            "wordUk": "Вуглеводи",
+            "phrasesDe": [
+                "Wenig Kohlenhydrate.",
+                "Komplexe Kohlenhydrate.",
+                "Energie durch Kohlenhydrate."
+            ],
+            "phrasesUk": [
+                "Мало вуглеводів.",
+                "Складні вуглеводи.",
+                "Енергія завдяки вуглеводам."
+            ]
+        },
+        {
+            "wordDe": "Eiweiß",
+            "wordUk": "Білок (протеїн)",
+            "phrasesDe": [
+                "Viel Eiweiß essen.",
+                "Pflanzliches Eiweiß.",
+                "Eiweißquelle."
+            ],
+            "phrasesUk": [
+                "Їсти багато білка.",
+                "Рослинний білок.",
+                "Джерело білка."
+            ]
+        },
+        {
+            "wordDe": "Fett",
+            "wordUk": "Жир",
+            "phrasesDe": [
+                "Ungesättigte Fette.",
+                "Tierisches Fett.",
+                "Fett reduzieren."
+            ],
+            "phrasesUk": [
+                "Ненасичені жири.",
+                "Тваринний жир.",
+                "Зменшити кількість жиру."
+            ]
+        },
+        {
+            "wordDe": "Kalorien",
+            "wordUk": "Калорії",
+            "phrasesDe": [
+                "Kalorien zählen.",
+                "Viel Kalorien.",
+                "Kalorienverbrauch."
+            ],
+            "phrasesUk": [
+                "Рахувати калорії.",
+                "Багато калорій.",
+                "Витрата калорій."
+            ]
+        },
+        {
+            "wordDe": "Stoffwechsel",
+            "wordUk": "Обмін речовин (метаболізм)",
+            "phrasesDe": [
+                "Den Stoffwechsel anregen.",
+                "Langsamer Stoffwechsel.",
+                "Stoffwechselstörung."
+            ],
+            "phrasesUk": [
+                "Стимулювати обмін речовин.",
+                "Повільний метаболізм.",
+                "Порушення обміну речовин."
+            ]
+        },
+        {
+            "wordDe": "Verdauung",
+            "wordUk": "Травлення",
+            "phrasesDe": [
+                "Gute Verdauung.",
+                "Probleme mit der Verdauung.",
+                "Die Verdauung fördern."
+            ],
+            "phrasesUk": [
+                "Гарне травлення.",
+                "Проблеми з травленням.",
+                "Сприяти травленню."
+            ]
+        },
+        {
+            "wordDe": "Heißhunger",
+            "wordUk": "Сильний (вовчий) апетит / Тяга до їжі",
+            "phrasesDe": [
+                "Heißhunger auf Süßes.",
+                "Attacke von Heißhunger.",
+                "Gegen Heißhunger kämpfen."
+            ],
+            "phrasesUk": [
+                "Сильна тяга до солодкого.",
+                "Напад вовчого апетиту.",
+                "Боротися з раптовим голодом."
+            ]
+        },
+        {
+            "wordDe": "Appetit",
+            "wordUk": "Апетит",
+            "phrasesDe": [
+                "Guten Appetit!",
+                "Wenig Appetit haben.",
+                "Den Appetit verderben."
+            ],
+            "phrasesUk": [
+                "Смачного (Гарного апетиту)!.",
+                "Мати поганий апетит.",
+                "Зіпсувати апетит."
+            ]
+        },
+        {
+            "wordDe": "Gastlichkeit",
+            "wordUk": "Гостинність",
+            "phrasesDe": [
+                "Bekannt für Gastlichkeit.",
+                "Deutsche Gastlichkeit.",
+                "Tradition der Gastlichkeit."
+            ],
+            "phrasesUk": [
+                "Відомий своєю гостинністю.",
+                "Німецька гостинність.",
+                "Традиція гостинності."
+            ]
+        },
+        {
+            "wordDe": "Bewirtung",
+            "wordUk": "Частування / Обслуговування (гостей)",
+            "phrasesDe": [
+                "Kosten für die Bewirtung.",
+                "Hervorragende Bewirtung.",
+                "Bewirtung der Gäste."
+            ],
+            "phrasesUk": [
+                "Витрати на частування.",
+                "Чудове обслуговування.",
+                "Частування гостей."
+            ]
+        },
+        {
+            "wordDe": "Bedienung",
+            "wordUk": "Обслуговування / Офіціант",
+            "phrasesDe": [
+                "Die Bedienung ist freundlich.",
+                "Bedienung inklusive.",
+                "Auf die Bedienung warten."
+            ],
+            "phrasesUk": [
+                "Офіціант (обслуговування) привітний.",
+                "Обслуговування включено.",
+                "Чекати на офіціанта."
+            ]
+        },
+        {
+            "wordDe": "Trinkgeld",
+            "wordUk": "Чайові",
+            "phrasesDe": [
+                "Trinkgeld geben.",
+                "Höhe des Trinkgeldes.",
+                "Trinkgeld für den Service."
+            ],
+            "phrasesUk": [
+                "Давати чайові.",
+                "Розмір чайових.",
+                "Чайові за сервіс."
+            ]
+        },
+        {
+            "wordDe": "Stammkunde",
+            "wordUk": "Постійний клієнт",
+            "phrasesDe": [
+                "Vorteile für Stammkunden.",
+                "Als Stammkunde bekannt sein.",
+                "Stammkundenrabatt."
+            ],
+            "phrasesUk": [
+                "Переваги для постійних клієнтів.",
+                "Бути відомим як постійний клієнт.",
+                "Знижка постійного клієнта."
+            ]
+        },
+        {
+            "wordDe": "Lokal",
+            "wordUk": "Заклад (кафе/ресторан)",
+            "phrasesDe": [
+                "Ein gemütliches Lokal.",
+                "In ein Lokal gehen.",
+                "Beliebtes Lokal."
+            ],
+            "phrasesUk": [
+                "Затишний заклад.",
+                "Піти в заклад.",
+                "Популярне кафе/ресторан."
+            ]
+        },
+        {
+            "wordDe": "Imbiss",
+            "wordUk": "Закусочна / Перекус",
+            "phrasesDe": [
+                "Ein schneller Imbiss.",
+                "Imbissbude.",
+                "Einen Imbiss nehmen."
+            ],
+            "phrasesUk": [
+                "Швидкий перекус.",
+                "Закусочна (яток).",
+                "Перекусити."
+            ]
+        },
+        {
+            "wordDe": "Theke",
+            "wordUk": "Прилавок / Барна стійка",
+            "phrasesDe": [
+                "An der Theke bestellen.",
+                "Hinter der Theke.",
+                "Thekengespräch."
+            ],
+            "phrasesUk": [
+                "Замовляти біля стійки.",
+                "За прилавком.",
+                "Розмова біля барної стійки."
+            ]
+        },
+        {
+            "wordDe": "Kneipe",
+            "wordUk": "Паб / Пивниця (Кнайпа)",
+            "phrasesDe": [
+                "In die Kneipe gehen.",
+                "Urgemütliche Kneipe.",
+                "Stammkneipe."
+            ],
+            "phrasesUk": [
+                "Йти в паб.",
+                "Дуже затишна пивниця.",
+                "Улюблена кнайпа."
+            ]
+        },
+        {
+            "wordDe": "Allergie",
+            "wordUk": "Алергія",
+            "phrasesDe": [
+                "Allergie gegen Berren.",
+                "Lebensmittelallergie.",
+                "Allergietest."
+            ],
+            "phrasesUk": [
+                "Алергія на ягоди.",
+                "Харчова алергія.",
+                "Тест на алергію."
+            ]
+        },
+        {
+            "wordDe": "Unverträglichkeit",
+            "wordUk": "Непереносимість (харчова)",
+            "phrasesDe": [
+                "Laktose-Unverträglichkeit.",
+                "Gluten-Unverträglichkeit.",
+                "Symptome der Unverträglichkeit."
+            ],
+            "phrasesUk": [
+                "Непереносимість лактози.",
+                "Непереносимість глютену.",
+                "Симптоми непереносимості."
+            ]
+        },
+        {
+            "wordDe": "Bio-Produkte",
+            "wordUk": "Біо-продукти (органічні)",
+            "phrasesDe": [
+                "Kauf von Bio-Produkten.",
+                "Vorteile der Bio-Produkte.",
+                "Preis von Bio-Produkten."
+            ],
+            "phrasesUk": [
+                "Купівля органічних продуктів.",
+                "Переваги біо-продуктів.",
+                "Ціна на біо-продукти."
+            ]
+        },
+        {
+            "wordDe": "Regionalität",
+            "wordUk": "Регіональність (місцеве походження)",
+            "phrasesDe": [
+                "Fokus auf Regionalität.",
+                "Regionalität der Zutaten.",
+                "Stärkung der Regionalität."
+            ],
+            "phrasesUk": [
+                "Фокус на місцевому походженні.",
+                "Регіональність інгредієнтів.",
+                "Зміцнення місцевого виробництва."
+            ]
+        },
+        {
+            "wordDe": "Saisonalität",
+            "wordUk": "Сезонність",
+            "phrasesDe": [
+                "Saisonalität beachten.",
+                "Vorteile der Saisonalität.",
+                "Saisonales Gemüse."
+            ],
+            "phrasesUk": [
+                "Зважати на сезонність.",
+                "Переваги сезонності.",
+                "Сезонні овочі."
+            ]
+        },
+        {
+            "wordDe": "Spezialität",
+            "wordUk": "Спеціалітет / Фірмова страва",
+            "phrasesDe": [
+                "Regionale Spezialität.",
+                "Das ist unsere Spezialität.",
+                "Spezialitäten des Hauses."
+            ],
+            "phrasesUk": [
+                "Регіональний спеціалітет.",
+                "Це наша фірмова страва.",
+                "Фірмові страви закладу."
+            ]
+        },
+        {
+            "wordDe": "Menü",
+            "wordUk": "Меню / Комплексний обід",
+            "phrasesDe": [
+                "Ein Drei-Gänge-Menü.",
+                "Tagesmenü.",
+                "Menü zusammenstellen."
+            ],
+            "phrasesUk": [
+                "Обід із трьох страв.",
+                "Меню дня.",
+                "Скласти меню."
+            ]
+        },
+        {
+            "wordDe": "Buffet",
+            "wordUk": "Буфет / Шведський стіл",
+            "phrasesDe": [
+                "Frühstücksbuffet.",
+                "Am Buffet bedienen.",
+                "Kaltes Buffet."
+            ],
+            "phrasesUk": [
+                "Сніданок «шведський стіл».",
+                "Набирати їжу з буфету.",
+                "Холодний шведський стіл."
+            ]
+        },
+        {
+            "wordDe": "Catering",
+            "wordUk": "Кейтеринг (виїзне обслуговування)",
+            "phrasesDe": [
+                "Catering für die Feier.",
+                "Service beim Catering.",
+                "Catering-Firma."
+            ],
+            "phrasesUk": [
+                "Кейтеринг для свята.",
+                "Сервіс під час кейтерингу.",
+                "Фірма з кейтерингу."
+            ]
+        },
+        {
+            "wordDe": "Genuss",
+            "wordUk": "Насолода",
+            "phrasesDe": [
+                "Ein wahrer Genuss.",
+                "Genuss ohne Reue.",
+                "Moment des Genusses."
+            ],
+            "phrasesUk": [
+                "Справжня насолода.",
+                "Насолода без каяття.",
+                "Момент насолоди."
+            ]
+        }
+    ]
+}

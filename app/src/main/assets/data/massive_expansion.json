@@ -1,0 +1,286 @@
+{
+    "Основи та Вітання": [
+        {
+            "wordDe": "Wie heißt du?",
+            "wordUk": "Як тебе звати?",
+            "phrasesDe": [
+                "Hallo, wie heißt du?",
+                "Ich heiße Mark, und du?",
+                "Sag mir, wie heißt du?"
+            ],
+            "phrasesUk": [
+                "Привіт, як тебе звати?",
+                "Мене звати Марк, а тебе?",
+                "Скажи мені, як тебе звати?"
+            ]
+        },
+        {
+            "wordDe": "Woher kommst du?",
+            "wordUk": "Звідки ти?",
+            "phrasesDe": [
+                "Ich komme aus der Ukraine.",
+                "Woher kommst du genau?",
+                "Kommst du aus Deutschland?"
+            ],
+            "phrasesUk": [
+                "Я з України.",
+                "Звідки ти саме?",
+                "Ти з Німеччини?"
+            ]
+        },
+        {
+            "wordDe": "Ich verstehe nicht",
+            "wordUk": "Я не розумію",
+            "phrasesDe": [
+                "Entschuldigung, ich verstehe nicht.",
+                "Können Sie das wiederholen?",
+                "Ich verstehe kein Deutsch."
+            ],
+            "phrasesUk": [
+                "Вибачте, я не розумію.",
+                "Чи можете Ви це повторити?",
+                "Я не розумію німецької."
+            ]
+        },
+        {
+            "wordDe": "Sprechen Sie Englisch?",
+            "wordUk": "Ви розмовляєте англійською?",
+            "phrasesDe": [
+                "Sprechen Sie Englisch?",
+                "Ich spreche nur ein wenig Deutsch.",
+                "Hilfe, sprechen Sie Englisch?"
+            ],
+            "phrasesUk": [
+                "Ви розмовляєте англійською?",
+                "Я розмовляю німецькою лише трохи.",
+                "Допоможіть, ви розмовляєте англійською?"
+            ]
+        },
+        {
+            "wordDe": "Wie viel kostet das?",
+            "wordUk": "Скільки це коштує?",
+            "phrasesDe": [
+                "Wie viel kostet das Brot?",
+                "Sagen Sie mir, wie viel kostet das?",
+                "Das ist teuer, wie viel kostet das?"
+            ],
+            "phrasesUk": [
+                "Скільки коштує цей хліб?",
+                "Скажіть мені, скільки це коштує?",
+                "Це дорого, скільки це коштує?"
+            ]
+        },
+        {
+            "wordDe": "Wo ist die Toilette?",
+            "wordUk": "Де туалет?",
+            "phrasesDe": [
+                "Entschuldigung, wo ist die Toilette?",
+                "Ich suche die Toilette.",
+                "Ist die Toilette dort?"
+            ],
+            "phrasesUk": [
+                "Вибачте, де туалет?",
+                "Я шукаю туалет.",
+                "Туалет там?"
+            ]
+        },
+        {
+            "wordDe": "Ich bin hungrig",
+            "wordUk": "Я голодний",
+            "phrasesDe": [
+                "Ich bin sehr hungrig.",
+                "Haben Sie etwas zu essen?",
+                "Wann essen wir? Ich bin hungrig."
+            ],
+            "phrasesUk": [
+                "Я дуже голодний.",
+                "У Вас є щось поїсти?",
+                "Коли ми будемо їсти? Я голодний."
+            ]
+        },
+        {
+            "wordDe": "Ich bin durstig",
+            "wordUk": "Я хочу пити",
+            "phrasesDe": [
+                "Ich bin durstig, ich brauche Wasser.",
+                "Hast du etwas zu trinken?",
+                "Ein Glas Wasser, bitte, ich bin durstig."
+            ],
+            "phrasesUk": [
+                "Я хочу пити, мені потрібна вода.",
+                "У тебе є щось випити?",
+                "Склянку води, будь ласка, я хочу пити."
+            ]
+        },
+        {
+            "wordDe": "Ich liebe dich",
+            "wordUk": "Я тебе кохаю",
+            "phrasesDe": [
+                "Schatz, ich liebe dich.",
+                "Ich liebe dich von ganzem Herzen.",
+                "Du weißt, dass ich dich liebe."
+            ],
+            "phrasesUk": [
+                "Любий/люба, я тебе кохаю.",
+                "Я кохаю тебе всім серцем.",
+                "Ти знаєш, що я тебе кохаю."
+            ]
+        },
+        {
+            "wordDe": "Herzlichen Glückwunsch",
+            "wordUk": "Вітаю",
+            "phrasesDe": [
+                "Herzlichen Glückwunsch zum Geburtstag!",
+                "Alles Gute!",
+                "Ich gratuliere dir herzlich."
+            ],
+            "phrasesUk": [
+                "З днем народження!",
+                "Всього найкращого!",
+                "Я щиро тебе вітаю."
+            ]
+        }
+    ],
+    "Загальні об'єкти": [
+        {
+            "wordDe": "Schlüssel",
+            "wordUk": "Ключ",
+            "phrasesDe": [
+                "Wo ist mein Schlüssel?",
+                "Ich habe den Schlüssel verloren.",
+                "Gib mir den Autoschlüssel."
+            ],
+            "phrasesUk": [
+                "Де мій ключ?",
+                "Я загубив ключ.",
+                "Дай мені ключ від авто."
+            ]
+        },
+        {
+            "wordDe": "Handy",
+            "wordUk": "Мобільний телефон",
+            "phrasesDe": [
+                "Mein Handy ist leer.",
+                "Wo ist dein Handy?",
+                "Ich brauche mein Handy."
+            ],
+            "phrasesUk": [
+                "Мій телефон розрядився.",
+                "Де твій телефон?",
+                "Мені потрібен мій телефон."
+            ]
+        },
+        {
+            "wordDe": "Geldbeutel / Portemonnaie",
+            "wordUk": "Гаманець",
+            "phrasesDe": [
+                "Ich habe meinen Geldbeutel vergessen.",
+                "Hier ist mein Portemonnaie.",
+                "Wo ist dein Geldbeutel?"
+            ],
+            "phrasesUk": [
+                "Я забув свій гаманець.",
+                "Ось мій гаманець.",
+                "Де твій гаманець?"
+            ]
+        },
+        {
+            "wordDe": "Brille",
+            "wordUk": "Окуляри",
+            "phrasesDe": [
+                "Ich suche meine Brille.",
+                "Wo ist die Brille?",
+                "Ich trage eine Brille."
+            ],
+            "phrasesUk": [
+                "Я шукаю свої окуляри.",
+                "Де окуляри?",
+                "Я ношу окуляри."
+            ]
+        },
+        {
+            "wordDe": "Uhr",
+            "wordUk": "Годинник",
+            "phrasesDe": [
+                "Wie viel Uhr ist es?",
+                "Meine Uhr ist kaputt.",
+                "Schau auf die Uhr."
+            ],
+            "phrasesUk": [
+                "Котра година?",
+                "Мій годинник зламався.",
+                "Подивись на годинник."
+            ]
+        },
+        {
+            "wordDe": "Stift",
+            "wordUk": "Ручка",
+            "phrasesDe": [
+                "Hast du einen Stift?",
+                "Ich schreibe mit dem Stift.",
+                "Wo ist mein Stift?"
+            ],
+            "phrasesUk": [
+                "У тебе є ручка?",
+                "Я пишу ручкою.",
+                "Де моя ручка?"
+            ]
+        },
+        {
+            "wordDe": "Zeitung",
+            "wordUk": "Газета",
+            "phrasesDe": [
+                "Ich lese die Zeitung.",
+                "Die Zeitung von heute.",
+                "Wo ist die Zeitung?"
+            ],
+            "phrasesUk": [
+                "Я читаю газету.",
+                "Сьогоднішня газета.",
+                "Де газета?"
+            ]
+        },
+        {
+            "wordDe": "Computer",
+            "wordUk": "Комп'ютер",
+            "phrasesDe": [
+                "Mein Computer ist schnell.",
+                "Ich arbeite am Computer.",
+                "Wo ist der Computer?"
+            ],
+            "phrasesUk": [
+                "Мій комп'ютер швидкий.",
+                "Я працюю за комп'ютером.",
+                "Де комп'ютер?"
+            ]
+        },
+        {
+            "wordDe": "Tasche",
+            "wordUk": "Сумка",
+            "phrasesDe": [
+                "Meine Tasche ist schwer.",
+                "Trage bitte meine Tasche.",
+                "Was ist in der Tasche?"
+            ],
+            "phrasesUk": [
+                "Моя сумка важка.",
+                "Пронеси, будь ласка, мою сумку.",
+                "Що в сумці?"
+            ]
+        },
+        {
+            "wordDe": "Regenschirm",
+            "wordUk": "Парасолька",
+            "phrasesDe": [
+                "Nimm den Regenschirm mit.",
+                "Wo ist mein Regenschirm?",
+                "Es regnet, nimm den Schirm."
+            ],
+            "phrasesUk": [
+                "Візьми з собою парасольку.",
+                "Де моя парасолька?",
+                "Йде дощ, візьми парасольку."
+            ]
+        }
+    ]
+}
