@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#6366f1</color>
-    <color name="bg_dark">#0f172a</color>
-    <color name="glass_bg">#331e293b</color>
-    <color name="text_main">#f8fafc</color>
-    <color name="text_muted">#94a3b8</color>
-    <color name="accent">#10b981</color>
+    <!-- Brand -->
+    <color name="primary">#7C6FFF</color>
+    <color name="primary_dark">#5B50D6</color>
+    <color name="accent">#4ECDC4</color>
+    <color name="accent_green">#4CAF82</color>
+    <color name="accent_red">#F44B6E</color>
 
-    <!-- Material Colors -->
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0D0D1A</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_card_front">#16213E</color>
+    <color name="bg_card_back">#0F3460</color>
+    <color name="glass_bg">#22FFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="overlay_right">#6644AA77</color>
+    <color name="overlay_left">#66F44B6E</color>
+
+    <!-- Text -->
+    <color name="text_main">#F0F4FF</color>
+    <color name="text_muted">#8892AA</color>
+    <color name="text_secondary">#B0BAD0</color>
+
+    <!-- Progress -->
+    <color name="progress_bg">#22FFFFFF</color>
+    <color name="progress_fill">#7C6FFF</color>
+
+    <!-- Material Legacy -->
     <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
+    <color name="teal_200">#FF03DAC5</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

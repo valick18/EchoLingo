@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_flashcard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+    <!-- Main flashcard content -->
+    <RelativeLayout
+        android:id="@+id/flashcard_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <!-- Top bar: back + progress -->
+        <LinearLayout
+            android:id="@+id/top_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp"
+            android:paddingTop="48dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="16dp">
+
+                <TextView
+                    android:id="@+id/btn_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="←"
+                    android:textColor="@color/text_main"
+                    android:textSize="24sp"
+                    android:padding="8dp"/>
+
+                <TextView
+                    android:id="@+id/tv_topic_title"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="@color/text_main"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:ellipsize="end"/>
+
+                <TextView
+                    android:id="@+id/tv_card_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_muted"
+                    android:textSize="14sp"
+                    android:padding="8dp"/>
+            </LinearLayout>
+
+            <!-- Progress Bar -->
+            <ProgressBar
+                android:id="@+id/pb_flashcard"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:max="100"
+                android:progressBackgroundTint="@color/progress_bg"
+                android:progressTint="@color/primary"/>
+        </LinearLayout>
+
+        <!-- Swipe hint overlays -->
+        <TextView
+            android:id="@+id/overlay_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:text="✗"
+            android:textColor="@color/accent_red"
+            android:textSize="52sp"
+            android:padding="20dp"
+            android:alpha="0"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/overlay_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:text="✓"
+            android:textColor="@color/accent_green"
+            android:textSize="52sp"
+            android:padding="20dp"
+            android:alpha="0"
+            android:textStyle="bold"/>
+
+        <!-- Card Container -->
+        <FrameLayout
+            android:id="@+id/card_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/top_bar"
+            android:layout_above="@id/bottom_hints"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp">
+
+            <!-- FRONT of card (German word) -->
+            <LinearLayout
+                android:id="@+id/card_front"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/card_front_bg"
+                android:gravity="center"
+                android:padding="32dp">
+
+                <TextView
+                    android:id="@+id/tv_sound_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="🔊"
+                    android:textSize="32sp"
+                    android:layout_marginBottom="24dp"
+                    android:padding="12dp"
+                    android:background="@drawable/btn_glass"/>
+
+                <TextView
+                    android:id="@+id/tv_word_de"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_main"
+                    android:textSize="42sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginBottom="16dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Натисніть, щоб побачити переклад"
+                    android:textColor="@color/text_muted"
+                    android:textSize="14sp"
+                    android:gravity="center"/>
+            </LinearLayout>
+
+            <!-- BACK of card (Translation) -->
+            <LinearLayout
+                android:id="@+id/card_back"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="@drawable/card_back_bg"
+                android:gravity="center"
+                android:padding="32dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/tv_word_de_back"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_muted"
+                    android:textSize="24sp"
+                    android:gravity="center"
+                    android:layout_marginBottom="24dp"/>
+
+                <View
+                    android:layout_width="60dp"
+                    android:layout_height="2dp"
+                    android:background="@color/primary"
+                    android:layout_marginBottom="24dp"/>
+
+                <TextView
+                    android:id="@+id/tv_word_uk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/text_main"
+                    android:textSize="38sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginBottom="20dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Свайп → знаю  |  Свайп ← не знаю"
+                    android:textColor="@color/text_muted"
+                    android:textSize="13sp"
+                    android:gravity="center"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <!-- Bottom hints -->
+        <LinearLayout
+            android:id="@+id/bottom_hints"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:padding="24dp"
+            android:paddingBottom="32dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="👈 Не знаю"
+                android:textColor="@color/accent_red"
+                android:textSize="15sp"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Знаю 👉"
+                android:textColor="@color/accent_green"
+                android:textSize="15sp"
+                android:gravity="center"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <!-- Completion Screen (shown when all cards done) -->
+    <RelativeLayout
+        android:id="@+id/completion_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🎉"
+                android:textSize="72sp"
+                android:layout_marginBottom="16dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Тему завершено!"
+                android:textColor="@color/text_main"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/tv_completion_topic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_muted"
+                android:textSize="16sp"
+                android:layout_marginBottom="32dp"/>
+
+            <TextView
+                android:id="@+id/tv_completion_pct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/primary"
+                android:textSize="64sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/tv_completion_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/text_secondary"
+                android:textSize="16sp"
+                android:layout_marginBottom="48dp"/>
+
+            <TextView
+                android:id="@+id/btn_back_topics"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="← До тем"
+                android:textColor="@color/text_main"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:padding="16dp"
+                android:background="@drawable/btn_glass"
+                android:layout_marginBottom="12dp"/>
+
+            <TextView
+                android:id="@+id/btn_repeat_unknown"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="🔁 Повторити незнайомі"
+                android:textColor="@color/text_main"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:padding="16dp"
+                android:background="@drawable/btn_primary"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

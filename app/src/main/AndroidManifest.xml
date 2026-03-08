@@ -9,7 +9,7 @@
         android:roundIcon="@drawable/ic_main_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
-        
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -18,6 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".FlashcardActivity" android:exported="false"/>
+        <activity android:name=".LearnedActivity" android:exported="false"/>
+        <activity android:name=".StudyActivity" android:exported="false"/>
+
     </application>
 
 </manifest>

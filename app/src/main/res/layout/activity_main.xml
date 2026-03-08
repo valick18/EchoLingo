@@ -2,308 +2,112 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bg_dark"
-    android:padding="24dp">
+    android:background="@drawable/bg_gradient">
 
+    <!-- Header -->
     <LinearLayout
-        android:id="@+id/topic_view"
+        android:id="@+id/header"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:orientation="vertical">
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:paddingTop="48dp">
 
         <TextView
-            android:id="@+id/tv_total_learned"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/label_total_learned"
-            android:textAlignment="center"
-            android:textColor="@color/primary"
+            android:text="EchoLingo"
+            android:textColor="@color/text_main"
+            android:textSize="32sp"
             android:textStyle="bold"
-            android:textSize="16sp"
-            android:layout_marginBottom="8dp"/>
+            android:letterSpacing="0.05"
+            android:layout_marginBottom="2dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Вивчення німецької"
+            android:textColor="@color/text_muted"
+            android:textSize="14sp"
+            android:layout_marginBottom="20dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:layout_marginBottom="8dp">
-            <Button
-                android:id="@+id/btn_view_learned"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_view_learned"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:textSize="12sp"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_select_words"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_select_words"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:textSize="12sp"/>
-        </LinearLayout>
+            android:gravity="center_vertical">
 
-        <CheckBox
-            android:id="@+id/cb_show_quiz"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/cb_show_quiz"
-            android:textColor="@color/text_muted"
-            android:buttonTint="@color/primary"
-            android:checked="true"
-            android:layout_marginBottom="16dp"/>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Wähle ein Thema"
-            android:textAlignment="center"
-            android:textColor="@color/text_muted"
-            android:layout_marginBottom="16dp"/>
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1">
-            <LinearLayout
-                android:id="@+id/topics_list"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical" />
-        </ScrollView>
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/learning_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:orientation="vertical"
-        android:visibility="gone">
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
-            android:background="@color/glass_bg"
-            android:padding="20dp">
             <TextView
-                android:id="@+id/mode_label"
+                android:id="@+id/tv_total_learned"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/primary"
+                android:textSize="14sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/btn_view_learned"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/label_learn_word"
-                android:textColor="@color/primary"
-                android:textStyle="bold"
-                android:textSize="12sp"
-                android:textAllCaps="true"/>
-            <TextView
-                android:id="@+id/text_de"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:text="@string/text_loading_de"
-                android:textAlignment="center"
-                android:textColor="@color/text_main"
-                android:textSize="32sp"
-                android:textStyle="bold"/>
-            <TextView
-                android:id="@+id/text_uk"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/text_de"
-                android:text="@string/text_loading_uk"
-                android:textAlignment="center"
-                android:textColor="@color/text_muted"
-                android:textSize="18sp"
-                android:layout_marginTop="8dp"/>
-            <TextView
-                android:id="@+id/sub_phrase"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:text=""
-                android:textAlignment="center"
-                android:textColor="@color/text_main"
-                android:textSize="20sp"
-                android:visibility="gone"/>
-        </RelativeLayout>
+                android:text="Вивчені →"
+                android:textColor="@color/accent"
+                android:textSize="14sp"
+                android:padding="8dp"
+                android:background="@drawable/btn_glass"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Topics List -->
+    <ScrollView
+        android:id="@+id/scroll_topics"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/header"
+        android:layout_above="@id/bottom_bar"
+        android:scrollbars="none">
 
         <LinearLayout
-            android:id="@+id/quiz_section"
+            android:id="@+id/topics_list"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
-            android:visibility="gone"
-            android:layout_marginTop="20dp">
-            <EditText
-                android:id="@+id/quiz_input"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="Переклад..."
-                android:textColor="@color/text_main"
-                android:textColorHint="@color/text_muted"
-                android:backgroundTint="@color/primary"/>
-            <TextView
-                android:id="@+id/quiz_feedback"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textAlignment="center"
-                android:layout_marginTop="10dp"/>
-        </LinearLayout>
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:paddingBottom="8dp"/>
+    </ScrollView>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="24dp">
-            <Button
-                android:id="@+id/btn_back"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_back"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_action"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_pause"
-                android:backgroundTint="@color/primary"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_learned"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_learned"
-                android:backgroundTint="@color/accent"/>
-        </LinearLayout>
-    </LinearLayout>
-
+    <!-- Bottom Bar -->
     <LinearLayout
-        android:id="@+id/learned_dashboard_view"
+        android:id="@+id/bottom_bar"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:orientation="vertical"
-        android:visibility="gone">
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="@color/bg_card"
+        android:padding="16dp"
+        android:paddingBottom="24dp">
 
         <TextView
-            android:layout_width="match_parent"
+            android:id="@+id/btn_nav_study"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/label_learned_list"
-            android:textAlignment="center"
-            android:textColor="@color/primary"
-            android:textStyle="bold"
-            android:textSize="18sp"
-            android:layout_marginBottom="16dp"/>
-
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
             android:layout_weight="1"
-            android:layout_marginBottom="16dp">
-            <LinearLayout
-                android:id="@+id/learned_words_container"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:padding="8dp" />
-        </ScrollView>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-            <Button
-                android:id="@+id/btn_dashboard_back"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_back"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_dashboard_repeat"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_repeat_learned"
-                android:backgroundTint="@color/primary"/>
-        </LinearLayout>
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/selection_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentTop="true"
-        android:orientation="vertical"
-        android:visibility="gone">
+            android:text="🔁 Повторення"
+            android:textColor="@color/text_muted"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:padding="8dp"/>
 
         <TextView
-            android:layout_width="match_parent"
+            android:id="@+id/btn_nav_learned"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="@string/label_selection_mode"
-            android:textAlignment="center"
-            android:textColor="@color/primary"
-            android:textStyle="bold"
-            android:textSize="18sp"
-            android:layout_marginBottom="16dp"/>
-
-        <ScrollView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
             android:layout_weight="1"
-            android:layout_marginBottom="16dp">
-            <LinearLayout
-                android:id="@+id/selection_container"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:padding="8dp" />
-        </ScrollView>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal">
-            <Button
-                android:id="@+id/btn_selection_back"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_back"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_reset_selection"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_reset_selection"
-                android:backgroundTint="@color/glass_bg"
-                android:textColor="@color/text_main"
-                android:layout_marginEnd="8dp"/>
-            <Button
-                android:id="@+id/btn_play_selected"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/btn_play_selected"
-                android:backgroundTint="@color/primary"/>
-        </LinearLayout>
+            android:text="📖 Вивчені"
+            android:textColor="@color/text_muted"
+            android:textSize="13sp"
+            android:gravity="center"
+            android:padding="8dp"/>
     </LinearLayout>
-
 </RelativeLayout>

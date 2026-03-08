@@ -1,32 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EchoLingo</string>
-    <string name="btn_back">Назад</string>
-    <string name="btn_pause">Пауза</string>
-    <string name="btn_resume">Продовжити</string>
-    <string name="btn_check">Перевірити</string>
-    <string name="label_choose_topic">Виберіть тему</string>
-    <string name="label_learn_word">Вивчення слова</string>
-    <string name="label_repeat_phrase">Повторення фрази</string>
-    <string name="label_translation">Переклад</string>
-    <string name="label_oral_quiz">Усне опитування (4с)</string>
-    <string name="msg_well_done">Чудово спрацьовано! 🎉</string>
-    <string name="msg_correct">Правильно! 🎉</string>
-    <string name="msg_wrong">Неправильно. Правильно: %1$s</string>
-    <string name="quiz_question">Як буде: \"%1$s\"?</string>
-    <string name="text_loading_de">Завантаження...</string>
-    <string name="text_loading_uk">Завантаження...</string>
-    <string name="btn_learned">Я це знаю</string>
-    <string name="btn_view_learned">Вивчені слова</string>
+
+    <!-- Navigation -->
+    <string name="btn_back">← Назад</string>
+    <string name="nav_topics">Теми</string>
+    <string name="nav_learned">Вивчені</string>
+    <string name="nav_study">Повторення</string>
+
+    <!-- Topic Screen -->
+    <string name="label_choose_topic">Оберіть тему</string>
+    <string name="label_total_learned">Вивчено слів: %1$d</string>
+    <string name="words_count">%1$d слів</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="all_learned_badge">✓ Вивчено</string>
+
+    <!-- Flashcard Screen -->
+    <string name="hint_tap_to_flip">Натисніть, щоб побачити переклад</string>
+    <string name="hint_swipe">← не знаю  •  знаю →</string>
+    <string name="label_card_count">%1$d / %2$d</string>
+    <string name="btn_sound">🔊</string>
+    <string name="label_dont_know">Не знаю</string>
+    <string name="label_know">Знаю</string>
+    <string name="label_swipe_left">👈</string>
+    <string name="label_swipe_right">👉</string>
+
+    <!-- Completion Screen -->
+    <string name="completion_title">Тему завершено!</string>
+    <string name="completion_progress">Вивчено %1$d%%</string>
+    <string name="completion_learned_count">%1$d з %2$d слів вивчено</string>
+    <string name="btn_back_to_topics">До тем</string>
+    <string name="btn_repeat_unknown">Повторити незнайомі</string>
+    <string name="no_unknown">Усі слова вивчено! 🎉</string>
+
+    <!-- Learned Screen -->
+    <string name="label_learned_list">Вивчені слова</string>
+    <string name="btn_listen_all">🎧 Прослухати всі</string>
+    <string name="btn_listen_topic">▶ Прослухати</string>
+    <string name="btn_stop">⏹ Стоп</string>
+    <string name="msg_no_learned">Ще немає вивчених слів</string>
     <string name="btn_repeat_learned">Повторити вивчене</string>
-    <string name="label_total_learned">Вивчено всього: %1$d</string>
-    <string name="label_learned_list">Ваші вивчені слова</string>
-    <string name="msg_learned_success">Відмічено як вивчене</string>
-    <string name="msg_all_learned">Ви вивчили всі слова в цій темі! 🎉</string>
-    <string name="msg_no_learned">Ви ще не позначили жодного слова як вивчене.</string>
-    <string name="cb_show_quiz">Включати опитування</string>
-    <string name="btn_select_words">Вибрати слова</string>
-    <string name="btn_play_selected">Слухати вибране</string>
-    <string name="label_selection_mode">Вибір слів</string>
-    <string name="btn_reset_selection">Скинути всі</string>
-    <string name="msg_no_selected">Ви ще не вибрали жодного слова.</string>
+
+    <!-- Study Queue Screen -->
+    <string name="label_study_queue">Слова для вивчення</string>
+    <string name="btn_listen_study">🎧 Слухати</string>
+    <string name="msg_no_study">Немає слів для повторення</string>
+    <string name="msg_all_learned">Всі слова в цій темі вже вивчeno! 🎉</string>
+    <string name="msg_well_done">Чудово! 🎉</string>
 </resources>
